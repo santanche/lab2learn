@@ -4,3 +4,9 @@ channels:
 dependencies:
   - ipywidgets
   - beakerx
+  - traitlets
+  - jupyterlab==0.33.11
+  - pip:
+    - jupyterlab_launcher
+    - ipywidgets
+    - jupyter_contrib_nbextensions
