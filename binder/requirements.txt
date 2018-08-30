@@ -1,2 +1,0 @@
-jupyterlab_launcher
-ipywidgets
