@@ -3,5 +3,7 @@ texlive-latex-recommended
 texlive-science
 texlive-latex-extra
 texlive-fonts-recommended
+texlive-bibtex-extra
+texlive-xetex
 dvipng
 ghostscript
