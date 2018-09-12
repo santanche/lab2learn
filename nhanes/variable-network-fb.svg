@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="636.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-318.000000 -341.000000 636.000000 659.000000" height="659.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="8.0"
+              d="M -217.949524,-139.716858 C -130.769714,-83.830109 -83.830124,130.769714 -139.716873,217.949524"
+              class="id_LBXPLTSI id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="66.0"
+              d="M 217.949524,139.716858 C 125.777679,79.745758 77.476578,-148.468628 137.447678,-240.640472"
+              class="id_LBXHCT id_LBXHGB" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="20.0"
+              d="M 137.447678,-240.640472 C 86.552956,-149.376312 -126.685364,-88.822136 -217.949524,-139.716858"
+              class="id_LBXHGB id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 137.447678,-240.640472 C 173.732773,-93.489563 7.434036,181.664429 -139.716873,217.949524"
+              class="id_LBXHGB id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="19.0"
+              d="M 217.949524,139.716858 C 74.882965,171.009918 -186.656464,3.349709 -217.949524,-139.716858"
+              class="id_LBXHCT id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 217.949524,139.716858 C 162.062775,226.896667 -52.537060,273.836273 -139.716873,217.949524"
+              class="id_LBXHCT id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="100.0" cx="-217.94952"
+                class="id_LBXPLTSI" cy="-139.71686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="100.0" cx="-139.71687"
+                class="id_LBXWBCSI" cy="217.94952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="100.0" cx="217.94952"
+                class="id_LBXHCT" cy="139.71686" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="100.0" cx="137.44768"
+                class="id_LBXHGB" cy="-240.64047" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="36" x="-217.94952" y="-132.88483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXPLTSI">
+            LBXPLTSI
+        </text>
+        <text font-size="36" x="-139.71687" y="224.78156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXWBCSI">
+            LBXWBCSI
+        </text>
+        <text font-size="36" x="217.94952" y="146.54889" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXHCT">
+            LBXHCT
+        </text>
+        <text font-size="36" x="137.44768" y="-233.80844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXHGB">
+            LBXHGB
+        </text>
+    </g>
+</svg>

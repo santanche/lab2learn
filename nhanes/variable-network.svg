@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1321.144"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1042.000000 -1591.244629 1321.144043 1591.244629"
+     height="1591.2446" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="7.8"
+              d="M -39.249470,-677.542480 C -111.741577,-592.607910 -347.881561,-573.944214 -432.816162,-646.436279"
+              class="id_LBXPLTSI id_LBXTIB" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="20.1"
+              d="M -211.259079,-911.167847 C -191.977554,-841.240662 -267.946045,-707.427612 -337.873230,-688.146057"
+              class="id_LBXHGB id_LBXIRN" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="9.6"
+              d="M -391.741699,-346.593323 C -459.925201,-398.347015 -484.569855,-578.252808 -432.816162,-646.436279"
+              class="id_LBXNEPCT id_LBXTIB" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="11.1"
+              d="M -337.873230,-688.146057 C -404.755005,-633.229431 -587.452576,-651.177185 -642.369202,-718.058899"
+              class="id_LBXIRN id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="11.700001"
+              d="M -337.873230,-688.146057 C -280.336365,-609.061829 -312.657471,-404.130188 -391.741699,-346.593323"
+              class="id_LBXIRN id_LBXNEPCT" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="8.1"
+              d="M -475.345245,-478.532990 C -550.489075,-531.952515 -583.075500,-724.797485 -529.656006,-799.941345"
+              class="id_LBXLYPCT id_LBXMC" stroke-opacity="1.0" stroke="#95bdba"/>
+        <path fill="none" stroke-width="10.5"
+              d="M -208.420868,-780.216492 C -179.683136,-726.863892 -216.605438,-603.728394 -269.958038,-574.990662"
+              class="id_LBXHCT id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="31.800001"
+              d="M -208.420868,-780.216492 C -235.178787,-805.839111 -236.881714,-884.409973 -211.259079,-911.167847"
+              class="id_LBXHCT id_LBXHGB" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="8.700001"
+              d="M -398.530457,-1007.556030 C -286.302917,-946.757446 -209.159439,-687.218201 -269.958038,-574.990662"
+              class="id_LBXMCVSI id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="30.6"
+              d="M -496.524231,-918.798096 C -494.677063,-956.148438 -435.880798,-1009.403198 -398.530457,-1007.556030"
+              class="id_LBXMCHSI id_LBXMCVSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="11.700001"
+              d="M -208.420868,-780.216492 C -282.779022,-680.995300 -543.148010,-643.700745 -642.369202,-718.058899"
+              class="id_LBXHCT id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="5.1000004"
+              d="M 54.752670,-411.242279 C -17.307804,-445.701904 -73.709084,-605.481995 -39.249470,-677.542480"
+              class="id_LBXMPSI id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="4.2000003"
+              d="M -208.420868,-780.216492 C -158.360397,-656.827637 -268.352905,-396.653809 -391.741699,-346.593323"
+              class="id_LBXHCT id_LBXNEPCT" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="11.1"
+              d="M -211.259079,-911.167847 C -267.990997,-892.991211 -380.353821,-950.824097 -398.530457,-1007.556030"
+              class="id_LBXHGB id_LBXMCVSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 54.752670,-411.242279 C -59.412060,-260.536560 -456.717651,-205.725082 -607.423401,-319.889801"
+              class="id_LBXMPSI id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -398.530457,-1007.556030 C -264.980164,-876.721252 -260.906921,-480.143616 -391.741699,-346.593323"
+              class="id_LBXMCVSI id_LBXNEPCT" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="10.200001"
+              d="M -398.530457,-1007.556030 C -389.398804,-900.888855 -535.702026,-727.190552 -642.369202,-718.058899"
+              class="id_LBXMCVSI id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -496.524231,-918.798096 C -262.961395,-812.130432 -72.618668,-301.784607 -179.286362,-68.221779"
+              class="id_LBXMCHSI id_LBXMOPCT" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="16.2"
+              d="M -475.345245,-478.532990 C -470.032227,-420.388733 -549.279114,-325.202820 -607.423401,-319.889801"
+              class="id_LBXLYPCT id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#ffffbf"/>
+        <path fill="none" stroke-width="4.8"
+              d="M -475.345245,-478.532990 C -427.928009,-605.554077 -166.270523,-724.959778 -39.249470,-677.542480"
+              class="id_LBXLYPCT id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="0.90000004"
+              d="M -211.259079,-911.167847 C -36.275330,-748.973145 -17.091705,-243.205521 -179.286362,-68.221779"
+              class="id_LBXHGB id_LBXMOPCT" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="15.000001"
+              d="M -496.524231,-918.798096 C -451.498383,-936.526978 -357.366302,-895.581482 -339.637451,-850.555603"
+              class="id_LBXMCHSI id_LBXRDW" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="15.3"
+              d="M -211.259079,-911.167847 C -224.812302,-873.369751 -301.839355,-837.002380 -339.637451,-850.555603"
+              class="id_LBXHGB id_LBXRDW" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="4.8"
+              d="M -179.286362,-68.221779 C -298.774475,-151.441223 -353.177490,-455.502533 -269.958038,-574.990662"
+              class="id_LBXMOPCT id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="11.400001"
+              d="M -496.524231,-918.798096 C -429.310272,-877.067383 -391.085419,-713.650269 -432.816162,-646.436279"
+              class="id_LBXMCHSI id_LBXTIB" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="3.3000002"
+              d="M -642.369202,-718.058899 C -555.746216,-645.414185 -534.778687,-406.512787 -607.423401,-319.889801"
+              class="id_LBXRBCSI id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="16.2"
+              d="M -339.637451,-850.555603 C -317.449341,-791.096008 -373.356567,-668.624390 -432.816162,-646.436279"
+              class="id_LBXRDW id_LBXTIB" stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -475.345245,-478.532990 C -355.867523,-571.094421 -37.808769,-530.719971 54.752670,-411.242279"
+              class="id_LBXLYPCT id_LBXMPSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="13.200001"
+              d="M -211.259079,-911.167847 C -202.624176,-813.910156 -335.558441,-655.071167 -432.816162,-646.436279"
+              class="id_LBXHGB id_LBXTIB" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="3.9"
+              d="M -179.286362,-68.221779 C -277.451752,-81.405014 -404.924957,-248.427933 -391.741699,-346.593323"
+              class="id_LBXMOPCT id_LBXNEPCT" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="21.300001"
+              d="M -208.420868,-780.216492 C -215.897247,-735.911987 -293.568665,-680.669678 -337.873230,-688.146057"
+              class="id_LBXHCT id_LBXIRN" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="5.1000004"
+              d="M -269.958038,-574.990662 C -286.430939,-456.477386 -488.910126,-303.416901 -607.423401,-319.889801"
+              class="id_LBXSLDSI id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="0.6"
+              d="M 31.084013,-1518.892822 C 104.160393,-1348.879150 -41.245468,-984.244263 -211.259079,-911.167847"
+              class="id_LBXEOPCT id_LBXHGB" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="1.2"
+              d="M 31.084013,-1518.892822 C 159.656036,-1269.904053 -20.969193,-703.562683 -269.958038,-574.990662"
+              class="id_LBXEOPCT id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="19.2"
+              d="M -337.873230,-688.146057 C -413.886658,-739.896606 -450.281006,-931.542542 -398.530457,-1007.556030"
+              class="id_LBXIRN id_LBXMCVSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="0.90000004"
+              d="M 31.084013,-1518.892822 C 56.560150,-1224.035400 -347.511780,-743.535034 -642.369202,-718.058899"
+              class="id_LBXEOPCT id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="1.5"
+              d="M 31.084013,-1518.892822 C 180.978790,-1199.867676 -72.716629,-496.488068 -391.741699,-346.593323"
+              class="id_LBXEOPCT id_LBXNEPCT" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -475.345245,-478.532990 C -567.634094,-562.350220 -580.341431,-826.509277 -496.524231,-918.798096"
+              class="id_LBXLYPCT id_LBXMCHSI" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="0.3"
+              d="M -179.286362,-68.221779 C -401.870361,-105.572639 -679.720093,-495.474854 -642.369202,-718.058899"
+              class="id_LBXMOPCT id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="10.5"
+              d="M -337.873230,-688.146057 C -182.171005,-595.878540 -87.018890,-223.924011 -179.286362,-68.221779"
+              class="id_LBXIRN id_LBXMOPCT" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="10.8"
+              d="M -208.420868,-780.216492 C -291.910675,-787.662476 -405.976440,-924.066223 -398.530457,-1007.556030"
+              class="id_LBXHCT id_LBXMCVSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="4.5"
+              d="M -991.292236,-858.275940 C -790.368347,-945.885742 -357.567810,-775.914551 -269.958038,-574.990662"
+              class="id_LBXBAPCT id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="3.3000002"
+              d="M -39.249470,-677.542480 C -81.353722,-492.377167 -422.258057,-277.785553 -607.423401,-319.889801"
+              class="id_LBXPLTSI id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="27.000002"
+              d="M -337.873230,-688.146057 C -370.707977,-720.275146 -371.766510,-817.720825 -339.637451,-850.555603"
+              class="id_LBXIRN id_LBXRDW" stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -991.292236,-858.275940 C -845.864014,-1024.860962 -377.844055,-1056.596069 -211.259079,-911.167847"
+              class="id_LBXBAPCT id_LBXHGB" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="4.5"
+              d="M -391.741699,-346.593323 C -387.433105,-483.281586 -175.937744,-681.851074 -39.249470,-677.542480"
+              class="id_LBXNEPCT id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="11.400001"
+              d="M -391.741699,-346.593323 C -429.537354,-298.116272 -558.946350,-282.094147 -607.423401,-319.889801"
+              class="id_LBXNEPCT id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#ffffbf"/>
+        <path fill="none" stroke-width="1.2"
+              d="M -208.420868,-780.216492 C -60.195023,-643.644470 -42.714325,-216.447632 -179.286362,-68.221779"
+              class="id_LBXHCT id_LBXMOPCT" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="10.5"
+              d="M -529.656006,-799.941345 C -432.726288,-806.890808 -276.907501,-671.920349 -269.958038,-574.990662"
+              class="id_LBXMC id_LBXSLDSI" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="41.7"
+              d="M -337.873230,-688.146057 C -348.519867,-660.815491 -405.485626,-635.789673 -432.816162,-646.436279"
+              class="id_LBXIRN id_LBXTIB" stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -398.530457,-1007.556030 C -166.814789,-863.538025 -35.268341,-299.937439 -179.286362,-68.221779"
+              class="id_LBXMCVSI id_LBXMOPCT" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="1.2"
+              d="M -991.292236,-858.275940 C -893.464233,-900.017151 -684.110413,-815.886902 -642.369202,-718.058899"
+              class="id_LBXBAPCT id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="2.1000001"
+              d="M -991.292236,-858.275940 C -769.045654,-875.849548 -409.315277,-568.839966 -391.741699,-346.593323"
+              class="id_LBXBAPCT id_LBXNEPCT" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="14.1"
+              d="M -208.420868,-780.216492 C -248.732010,-768.041016 -327.461945,-810.244507 -339.637451,-850.555603"
+              class="id_LBXHCT id_LBXRDW" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="2.4"
+              d="M 31.084013,-1518.892822 C 123.441933,-1278.951904 -97.932419,-780.503967 -337.873230,-688.146057"
+              class="id_LBXEOPCT id_LBXIRN" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="10.5"
+              d="M -529.656006,-799.941345 C -535.822205,-761.022217 -603.450073,-711.892700 -642.369202,-718.058899"
+              class="id_LBXMC id_LBXRBCSI" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="13.500001"
+              d="M -398.530457,-1007.556030 C -355.351776,-987.934570 -320.015961,-893.734314 -339.637451,-850.555603"
+              class="id_LBXMCVSI id_LBXRDW" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="4.5"
+              d="M -529.656006,-799.941345 C -411.403564,-736.854614 -328.654968,-464.845795 -391.741699,-346.593323"
+              class="id_LBXMC id_LBXNEPCT" stroke-opacity="1.0" stroke="#95bdba"/>
+        <path fill="none" stroke-width="6.9"
+              d="M -211.259079,-911.167847 C -177.549347,-771.823608 -336.001038,-512.242676 -475.345245,-478.532990"
+              class="id_LBXHGB id_LBXLYPCT" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="17.400002"
+              d="M -208.420868,-780.216492 C -226.543884,-708.581421 -361.181061,-628.313232 -432.816162,-646.436279"
+              class="id_LBXHCT id_LBXTIB" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="9.6"
+              d="M -398.530457,-1007.556030 C -333.163635,-928.474976 -353.735046,-711.803101 -432.816162,-646.436279"
+              class="id_LBXMCVSI id_LBXTIB" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="9.3"
+              d="M -211.259079,-911.167847 C -252.693176,-825.243164 -443.731323,-758.507263 -529.656006,-799.941345"
+              class="id_LBXHGB id_LBXMC" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.90000004"
+              d="M 31.084013,-1518.892822 C 47.428474,-1330.702637 -210.340179,-1023.900452 -398.530457,-1007.556030"
+              class="id_LBXEOPCT id_LBXMCVSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="6.9"
+              d="M -432.816162,-646.436279 C -402.428314,-546.205505 -507.192657,-350.277649 -607.423401,-319.889801"
+              class="id_LBXTIB id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="5.4"
+              d="M -991.292236,-858.275940 C -826.582458,-954.933716 -434.531036,-852.855835 -337.873230,-688.146057"
+              class="id_LBXBAPCT id_LBXIRN" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="5.7000003"
+              d="M -496.524231,-918.798096 C -356.818146,-962.001953 -82.453293,-817.248535 -39.249470,-677.542480"
+              class="id_LBXMCHSI id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="1.2"
+              d="M -179.286362,-68.221779 C -367.823334,-192.618317 -464.033997,-662.018677 -339.637451,-850.555603"
+              class="id_LBXMOPCT id_LBXRDW" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="0.3"
+              d="M 31.084013,-1518.892822 C 279.144135,-1186.684570 152.921906,-316.281891 -179.286362,-68.221779"
+              class="id_LBXEOPCT id_LBXMOPCT" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -339.637451,-850.555603 C -287.061493,-690.865234 -447.733063,-372.465759 -607.423401,-319.889801"
+              class="id_LBXRDW id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="6.6000004"
+              d="M -211.259079,-911.167847 C -130.132080,-898.844666 -26.926327,-758.669495 -39.249470,-677.542480"
+              class="id_LBXHGB id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="2.1000001"
+              d="M -211.259079,-911.167847 C -172.236328,-713.679382 -409.934937,-358.912537 -607.423401,-319.889801"
+              class="id_LBXHGB id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="2.1000001"
+              d="M -179.286362,-68.221779 C -345.635223,-133.158707 -497.753082,-480.087433 -432.816162,-646.436279"
+              class="id_LBXMOPCT id_LBXTIB" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="16.800001"
+              d="M -337.873230,-688.146057 C -323.445038,-618.729065 -405.928223,-492.961212 -475.345245,-478.532990"
+              class="id_LBXIRN id_LBXLYPCT" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -496.524231,-918.798096 C -398.922363,-776.836609 -465.461914,-417.491608 -607.423401,-319.889801"
+              class="id_LBXMCHSI id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="2.1000001"
+              d="M 31.084013,-1518.892822 C 90.607155,-1311.081055 -131.825729,-910.078735 -339.637451,-850.555603"
+              class="id_LBXEOPCT id_LBXRDW" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="2.4"
+              d="M -991.292236,-858.275940 C -902.595886,-1006.684326 -546.938843,-1096.252319 -398.530457,-1007.556030"
+              class="id_LBXBAPCT id_LBXMCVSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="14.400001"
+              d="M -337.873230,-688.146057 C -398.588867,-672.148560 -513.658508,-739.225708 -529.656006,-799.941345"
+              class="id_LBXIRN id_LBXMC" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="1.8000001"
+              d="M 31.084013,-1518.892822 C 112.795296,-1251.621460 -165.544815,-728.147583 -432.816162,-646.436279"
+              class="id_LBXEOPCT id_LBXTIB" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="0.6"
+              d="M -991.292236,-858.275940 C -918.940369,-1194.874512 -305.514587,-1591.244629 31.084013,-1518.892822"
+              class="id_LBXBAPCT id_LBXEOPCT" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="2.4"
+              d="M -211.259079,-911.167847 C -58.071617,-864.385071 101.535431,-564.429749 54.752670,-411.242279"
+              class="id_LBXHGB id_LBXMPSI" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="7.2000003"
+              d="M -208.420868,-780.216492 C -201.469055,-666.494934 -361.623657,-485.484802 -475.345245,-478.532990"
+              class="id_LBXHCT id_LBXLYPCT" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="11.1"
+              d="M -529.656006,-799.941345 C -544.953857,-867.689392 -466.278503,-992.258179 -398.530457,-1007.556030"
+              class="id_LBXMC id_LBXMCVSI" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="0.6"
+              d="M -991.292236,-858.275940 C -670.880249,-862.666321 -183.676697,-388.633789 -179.286362,-68.221779"
+              class="id_LBXBAPCT id_LBXMOPCT" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -496.524231,-918.798096 C -284.757660,-927.542297 46.008438,-623.008789 54.752670,-411.242279"
+              class="id_LBXMCHSI id_LBXMPSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="6.6000004"
+              d="M -208.420868,-780.216492 C -276.612885,-719.914429 -469.353943,-731.749390 -529.656006,-799.941345"
+              class="id_LBXHCT id_LBXMC" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.4"
+              d="M -991.292236,-858.275940 C -859.417236,-987.062866 -468.424347,-982.430664 -339.637451,-850.555603"
+              class="id_LBXBAPCT id_LBXRDW" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="4.8"
+              d="M 54.752670,-411.242279 C -42.939144,-379.049805 -237.765579,-477.298828 -269.958038,-574.990662"
+              class="id_LBXMPSI id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="11.400001"
+              d="M -211.259079,-911.167847 C -269.838165,-855.640869 -440.997253,-860.218994 -496.524231,-918.798096"
+              class="id_LBXHGB id_LBXMCHSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.2"
+              d="M -529.656006,-799.941345 C -313.238159,-723.671326 -103.016373,-284.639648 -179.286362,-68.221779"
+              class="id_LBXMC id_LBXMOPCT" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="9.6"
+              d="M -337.873230,-688.146057 C -318.132019,-560.584778 -479.862122,-339.631012 -607.423401,-319.889801"
+              class="id_LBXIRN id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="12.900001"
+              d="M -337.873230,-688.146057 C -276.027740,-745.750061 -96.853508,-739.387939 -39.249470,-677.542480"
+              class="id_LBXIRN id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="12.900001"
+              d="M -529.656006,-799.941345 C -501.775146,-848.067932 -387.764038,-878.436462 -339.637451,-850.555603"
+              class="id_LBXMC id_LBXRDW" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="2.4"
+              d="M 54.752670,-411.242279 C -146.035034,-333.181213 -564.308167,-517.271179 -642.369202,-718.058899"
+              class="id_LBXMPSI id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="10.5"
+              d="M -475.345245,-478.532990 C -453.559326,-538.901978 -330.327026,-596.776550 -269.958038,-574.990662"
+              class="id_LBXLYPCT id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 54.752670,-411.242279 C -21.616419,-309.013611 -289.513031,-270.224213 -391.741699,-346.593323"
+              class="id_LBXMPSI id_LBXNEPCT" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="3.6000001"
+              d="M -991.292236,-858.275940 C -837.229126,-927.603210 -502.143433,-800.499390 -432.816162,-646.436279"
+              class="id_LBXBAPCT id_LBXTIB" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="12.3"
+              d="M -529.656006,-799.941345 C -479.587006,-788.608337 -421.483124,-696.505249 -432.816162,-646.436279"
+              class="id_LBXMC id_LBXTIB" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="8.400001"
+              d="M -475.345245,-478.532990 C -556.655212,-493.033386 -656.869629,-636.748901 -642.369202,-718.058899"
+              class="id_LBXLYPCT id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="34.2"
+              d="M -475.345245,-478.532990 C -432.236603,-468.865753 -382.074463,-389.701965 -391.741699,-346.593323"
+              class="id_LBXLYPCT id_LBXNEPCT" stroke-opacity="1.0"
+              stroke="#ffffbf"/>
+        <path fill="none" stroke-width="7.2000003"
+              d="M -337.873230,-688.146057 C -203.967285,-711.290527 31.608246,-545.148254 54.752670,-411.242279"
+              class="id_LBXIRN id_LBXMPSI" stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -642.369202,-718.058899 C -539.273315,-763.927490 -315.826630,-678.086548 -269.958038,-574.990662"
+              class="id_LBXRBCSI id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="6.3"
+              d="M -208.420868,-780.216492 C -154.051773,-793.515991 -52.548950,-731.911560 -39.249470,-677.542480"
+              class="id_LBXHCT id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="0.6"
+              d="M 31.084013,-1518.892822 C 137.870117,-1209.534912 -165.987427,-585.319153 -475.345245,-478.532990"
+              class="id_LBXEOPCT id_LBXLYPCT" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="4.5"
+              d="M -398.530457,-1007.556030 C -260.671539,-1013.409546 -45.102951,-815.401367 -39.249470,-677.542480"
+              class="id_LBXMCVSI id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="2.1000001"
+              d="M -208.420868,-780.216492 C -196.156036,-608.350586 -435.557587,-332.154633 -607.423401,-319.889801"
+              class="id_LBXHCT id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="2.1000001"
+              d="M -398.530457,-1007.556030 C -302.775787,-828.244202 -428.111572,-415.644470 -607.423401,-319.889801"
+              class="id_LBXMCVSI id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="18.6"
+              d="M -337.873230,-688.146057 C -415.733826,-702.546265 -510.924438,-840.937439 -496.524231,-918.798096"
+              class="id_LBXIRN id_LBXMCHSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="2.4"
+              d="M -208.420868,-780.216492 C -81.991318,-759.056335 75.912811,-537.671814 54.752670,-411.242279"
+              class="id_LBXHCT id_LBXMPSI" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="1.8000001"
+              d="M 31.084013,-1518.892822 C 62.726318,-1262.954590 -273.717712,-831.583618 -529.656006,-799.941345"
+              class="id_LBXEOPCT id_LBXMC" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="2.1000001"
+              d="M -398.530457,-1007.556030 C -188.611099,-978.949890 83.358788,-621.161621 54.752670,-411.242279"
+              class="id_LBXMCVSI id_LBXMPSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="9.6"
+              d="M -208.420868,-780.216492 C -293.757843,-750.312134 -466.619873,-833.461121 -496.524231,-918.798096"
+              class="id_LBXHCT id_LBXMCHSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -179.286362,-68.221779 C -273.143127,-218.093292 -189.120987,-583.685730 -39.249470,-677.542480"
+              class="id_LBXMOPCT id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="2.7"
+              d="M -179.286362,-68.221779 C -315.247375,-32.927979 -572.129639,-183.928802 -607.423401,-319.889801"
+              class="id_LBXMOPCT id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -39.249470,-677.542480 C -64.880829,-610.890381 -203.305954,-549.359314 -269.958038,-574.990662"
+              class="id_LBXPLTSI id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="1.2"
+              d="M -991.292236,-858.275940 C -812.154236,-885.516724 -502.586060,-657.670959 -475.345245,-478.532990"
+              class="id_LBXBAPCT id_LBXLYPCT" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="5.4"
+              d="M -391.741699,-346.593323 C -413.064453,-416.629517 -339.994232,-553.667969 -269.958038,-574.990662"
+              class="id_LBXNEPCT id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="2.7"
+              d="M -991.292236,-858.275940 C -887.298035,-938.936279 -610.316345,-903.935547 -529.656006,-799.941345"
+              class="id_LBXBAPCT id_LBXMC" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="0.90000004"
+              d="M 31.084013,-1518.892822 C 185.287384,-1336.556152 143.087296,-831.745850 -39.249470,-677.542480"
+              class="id_LBXEOPCT id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -39.249470,-677.542480 C -167.976715,-565.021790 -529.848511,-589.331665 -642.369202,-718.058899"
+              class="id_LBXPLTSI id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="2.1000001"
+              d="M -179.286362,-68.221779 C -201.082642,-183.633698 -60.659241,-389.445984 54.752670,-411.242279"
+              class="id_LBXMOPCT id_LBXMPSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="4.8"
+              d="M -391.741699,-346.593323 C -516.160278,-370.760956 -666.536804,-593.640320 -642.369202,-718.058899"
+              class="id_LBXNEPCT id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="3.3000002"
+              d="M -475.345245,-478.532990 C -565.786926,-599.700562 -519.697998,-917.114380 -398.530457,-1007.556030"
+              class="id_LBXLYPCT id_LBXMCVSI" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="0.6"
+              d="M 31.084013,-1518.892822 C 130.918320,-1323.256592 -12.784622,-880.050781 -208.420868,-780.216492"
+              class="id_LBXEOPCT id_LBXHCT" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="0.6"
+              d="M 31.084013,-1518.892822 C 257.347870,-1302.096436 271.549072,-637.506104 54.752670,-411.242279"
+              class="id_LBXEOPCT id_LBXMPSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="2.7"
+              d="M 54.752670,-411.242279 C -111.988029,-420.226929 -348.622070,-683.814880 -339.637451,-850.555603"
+              class="id_LBXMPSI id_LBXRDW" stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="2.7"
+              d="M -475.345245,-478.532990 C -334.071228,-455.682556 -156.435898,-209.495819 -179.286362,-68.221779"
+              class="id_LBXLYPCT id_LBXMOPCT" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="1.2"
+              d="M -991.292236,-858.275940 C -764.737000,-1012.537842 -193.511337,-904.097717 -39.249470,-677.542480"
+              class="id_LBXBAPCT id_LBXPLTSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -991.292236,-858.275940 C -806.841248,-827.372437 -576.519897,-504.340790 -607.423401,-319.889801"
+              class="id_LBXBAPCT id_LBXWBCSI" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="5.4"
+              d="M 54.752670,-411.242279 C -89.799896,-360.767303 -382.341187,-501.883698 -432.816162,-646.436279"
+              class="id_LBXMPSI id_LBXTIB" stroke-opacity="1.0" stroke="#d7191c"/>
+        <path fill="none" stroke-width="4.8"
+              d="M -475.345245,-478.532990 C -522.608215,-580.079041 -441.183533,-803.292603 -339.637451,-850.555603"
+              class="id_LBXLYPCT id_LBXRDW" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="0.6"
+              d="M 31.084013,-1518.892822 C 45.581322,-1293.352295 -270.983643,-933.295349 -496.524231,-918.798096"
+              class="id_LBXEOPCT id_LBXMCHSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="2.7"
+              d="M -529.656006,-799.941345 C -449.199158,-688.377563 -495.859619,-400.346649 -607.423401,-319.889801"
+              class="id_LBXMC id_LBXWBCSI" stroke-opacity="1.0" stroke="#95bdba"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -529.656006,-799.941345 C -407.094940,-873.542847 -112.851006,-800.103577 -39.249470,-677.542480"
+              class="id_LBXMC id_LBXPLTSI" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="1.5"
+              d="M -991.292236,-858.275940 C -819.106079,-999.238342 -349.383240,-952.402649 -208.420868,-780.216492"
+              class="id_LBXBAPCT id_LBXHCT" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="22.5"
+              d="M -475.345245,-478.532990 C -500.420074,-520.619446 -474.902649,-621.361389 -432.816162,-646.436279"
+              class="id_LBXLYPCT id_LBXTIB" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="9.3"
+              d="M -496.524231,-918.798096 C -382.449524,-895.349854 -246.509796,-689.065369 -269.958038,-574.990662"
+              class="id_LBXMCHSI id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="0.3"
+              d="M -991.292236,-858.275940 C -692.676514,-978.078186 -65.049591,-709.858032 54.752670,-411.242279"
+              class="id_LBXBAPCT id_LBXMPSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="12.6"
+              d="M -339.637451,-850.555603 C -270.588593,-809.378540 -228.780930,-644.039551 -269.958038,-574.990662"
+              class="id_LBXRDW id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="5.1000004"
+              d="M -642.369202,-718.058899 C -608.322205,-805.104614 -426.683167,-884.602661 -339.637451,-850.555603"
+              class="id_LBXRBCSI id_LBXRDW" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="7.2000003"
+              d="M -211.259079,-911.167847 C -155.763428,-832.192627 -190.982819,-630.486267 -269.958038,-574.990662"
+              class="id_LBXHGB id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="13.500001"
+              d="M -496.524231,-918.798096 C -485.545410,-849.481262 -573.052368,-729.037720 -642.369202,-718.058899"
+              class="id_LBXMCHSI id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="2.4"
+              d="M -496.524231,-918.798096 C -361.126770,-825.313599 -298.257263,-481.990784 -391.741699,-346.593323"
+              class="id_LBXMCHSI id_LBXNEPCT" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="2.7"
+              d="M -529.656006,-799.941345 C -335.034454,-839.083252 15.610748,-605.863831 54.752670,-411.242279"
+              class="id_LBXMC id_LBXMPSI" stroke-opacity="1.0" stroke="#814a69"/>
+        <path fill="none" stroke-width="13.500001"
+              d="M -642.369202,-718.058899 C -586.134094,-745.644958 -460.402252,-702.671387 -432.816162,-646.436279"
+              class="id_LBXRBCSI id_LBXTIB" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="8.700001"
+              d="M -211.259079,-911.167847 C -258.859314,-786.324036 -517.525391,-670.458618 -642.369202,-718.058899"
+              class="id_LBXHGB id_LBXRBCSI" stroke-opacity="1.0"
+              stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="3.6000001"
+              d="M -211.259079,-911.167847 C -134.440704,-762.156372 -242.730255,-423.411713 -391.741699,-346.593323"
+              class="id_LBXHGB id_LBXNEPCT" stroke-opacity="1.0"
+              stroke="#95bdba"/>
+        <path fill="none" stroke-width="2.4"
+              d="M -991.292236,-858.275940 C -904.443054,-969.333984 -607.582275,-1005.647278 -496.524231,-918.798096"
+              class="id_LBXBAPCT id_LBXMCHSI" stroke-opacity="1.0"
+              stroke="#814a69"/>
+        <path fill="none" stroke-width="19.2"
+              d="M -269.958038,-574.990662 C -316.818787,-556.708130 -414.533661,-599.575562 -432.816162,-646.436279"
+              class="id_LBXSLDSI id_LBXTIB" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="18.6"
+              d="M -529.656006,-799.941345 C -546.801025,-830.339050 -526.921936,-901.653076 -496.524231,-918.798096"
+              class="id_LBXMC id_LBXMCHSI" stroke-opacity="1.0" stroke="#2c7bb6"/>
+        <path fill="none" stroke-width="8.1"
+              d="M -39.249470,-677.542480 C -133.929688,-652.067505 -314.162476,-755.875427 -339.637451,-850.555603"
+              class="id_LBXPLTSI id_LBXRDW" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -391.741699,-346.593323 C -482.113312,-457.806610 -450.850739,-760.183960 -339.637451,-850.555603"
+              class="id_LBXNEPCT id_LBXRDW" stroke-opacity="1.0"
+              stroke="#eb8c6d"/>
+        <path fill="none" stroke-width="25.800001"
+              d="M -337.873230,-688.146057 C -301.659119,-679.098022 -260.910004,-611.204834 -269.958038,-574.990662"
+              class="id_LBXIRN id_LBXSLDSI" stroke-opacity="1.0"
+              stroke="#d7191c"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#d7191c" r="50.0" cx="-39.24947"
+                class="id_LBXPLTSI" cy="-677.5425" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="50.0" cx="-432.81616"
+                class="id_LBXTIB" cy="-646.4363" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="50.0" cx="-211.25908"
+                class="id_LBXHGB" cy="-911.16785" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="50.0" cx="-337.87323"
+                class="id_LBXIRN" cy="-688.14606" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffbf" r="50.0" cx="-391.7417"
+                class="id_LBXNEPCT" cy="-346.59332" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="50.0" cx="-642.3692"
+                class="id_LBXRBCSI" cy="-718.0589" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffbf" r="50.0" cx="-475.34525"
+                class="id_LBXLYPCT" cy="-478.533" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="50.0" cx="-529.656"
+                class="id_LBXMC" cy="-799.94135" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="50.0" cx="-208.42087"
+                class="id_LBXHCT" cy="-780.2165" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="50.0" cx="-269.95804"
+                class="id_LBXSLDSI" cy="-574.99066" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="50.0" cx="-398.53046"
+                class="id_LBXMCVSI" cy="-1007.556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#2c7bb6" r="50.0" cx="-496.52423"
+                class="id_LBXMCHSI" cy="-918.7981" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="50.0" cx="54.75267"
+                class="id_LBXMPSI" cy="-411.24228" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ffffbf" r="1.0" cx="-607.4234"
+                class="id_LBXWBCSI" cy="-319.8898" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="50.0" cx="-179.28636"
+                class="id_LBXMOPCT" cy="-68.22178" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="50.0" cx="-339.63745"
+                class="id_LBXRDW" cy="-850.5556" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="1.0" cx="31.084013"
+                class="id_LBXEOPCT" cy="-1518.8928" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d7191c" r="50.0" cx="-991.29224"
+                class="id_LBXBAPCT" cy="-858.27594" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="18" x="-39.24947" y="-674.12646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXPLTSI">
+            LBXPLTSI
+        </text>
+        <text font-size="18" x="-432.81616" y="-643.1843" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXTIB">
+            LBXTIB
+        </text>
+        <text font-size="18" x="-211.25908" y="-907.75183" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXHGB">
+            LBXHGB
+        </text>
+        <text font-size="18" x="-337.87323" y="-684.8941" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXIRN">
+            LBXIRN
+        </text>
+        <text font-size="18" x="-391.7417" y="-343.1773" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXNEPCT">
+            LBXNEPCT
+        </text>
+        <text font-size="18" x="-642.3692" y="-714.6429" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXRBCSI">
+            LBXRBCSI
+        </text>
+        <text font-size="18" x="-475.34525" y="-475.11697" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXLYPCT">
+            LBXLYPCT
+        </text>
+        <text font-size="18" x="-529.656" y="-796.5253" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXMC">
+            LBXMC
+        </text>
+        <text font-size="18" x="-208.42087" y="-776.8005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXHCT">
+            LBXHCT
+        </text>
+        <text font-size="18" x="-269.95804" y="-571.57465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXSLDSI">
+            LBXSLDSI
+        </text>
+        <text font-size="18" x="-398.53046" y="-1004.14" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXMCVSI">
+            LBXMCVSI
+        </text>
+        <text font-size="18" x="-496.52423" y="-915.3821" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXMCHSI">
+            LBXMCHSI
+        </text>
+        <text font-size="18" x="54.75267" y="-407.82626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXMPSI">
+            LBXMPSI
+        </text>
+        <text font-size="18" x="-607.4234" y="-316.4738" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXWBCSI">
+            LBXWBCSI
+        </text>
+        <text font-size="18" x="-179.28636" y="-64.80576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXMOPCT">
+            LBXMOPCT
+        </text>
+        <text font-size="18" x="-339.63745" y="-847.30365" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXRDW">
+            LBXRDW
+        </text>
+        <text font-size="18" x="31.084013" y="-1515.4768" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXEOPCT">
+            LBXEOPCT
+        </text>
+        <text font-size="18" x="-991.29224" y="-854.8599" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_LBXBAPCT">
+            LBXBAPCT
+        </text>
+    </g>
+</svg>
