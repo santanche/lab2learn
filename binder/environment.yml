@@ -7,7 +7,9 @@ dependencies:
   - beakerx
   - ipywidgets
   - traitlets
+  - matplotlib
   - pip:
     - jupyterlab_launcher
     - ipywidgets
     - jupyter_contrib_nbextensions
+    - jupyterlab_latex
