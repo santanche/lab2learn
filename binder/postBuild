@@ -35,10 +35,14 @@ jupyter labextension install @jupyterlab/plotly-extension
 # Table of contents Jupyter Lab Extension
 jupyter labextension install @jupyterlab/toc
 
+# Latex Jupyter Lab extension
+jupyter labextension install @jupyterlab/latex
+
+
+
+
 # Building everything
 jupyter lab build
-
-jupyter labextension install @jupyterlab/latex
 
 
 rm conda-bld -R
