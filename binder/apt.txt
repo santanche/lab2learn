@@ -9,4 +9,3 @@ texlive-xetex
 dvipng
 ghostscript
 nodejs
-npm
