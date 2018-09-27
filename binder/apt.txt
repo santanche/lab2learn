@@ -8,3 +8,5 @@ texlive-bibtex-extra
 texlive-xetex
 dvipng
 ghostscript
+nodejs
+npm
