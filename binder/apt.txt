@@ -9,3 +9,4 @@ texlive-xetex
 dvipng
 ghostscript
 nodejs
+openjdk-8-jdk
