@@ -1,0 +1,33 @@
+jupyterlab==0.34.10
+
+jupyter_contrib_nbextensions
+jupyterlab_launcher
+jupyterlab-git
+beakerx
+
+# data structures and data analysis 
+pandas
+numpy
+
+# data management/versioning
+quilt
+
+# http tools
+requests
+
+ipywidgets
+RISE
+
+# data viz
+matplotlib
+plotly
+seaborn
+
+# machine learning
+#scikit-learn
+#scipy
+
+nodejs
+traitlets
+matplotlib
+jupyterlab_latex
