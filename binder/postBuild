@@ -41,3 +41,7 @@ jupyter labextension install @jupyterlab/latex
 
 # Building everything
 jupyter lab build
+
+
+# final touches
+rm conda-bld -R
