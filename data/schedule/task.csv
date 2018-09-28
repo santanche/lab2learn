@@ -1,12 +1,12 @@
-id,name,time
-"Começo","Começo do Processo",0
-"Compra","Compra de Matéria Prima",5
-"Preparação","Preparação de Equipamento",3
-"Produção","Produção",8
-"Pedido","Pedido de Produto",1
-"Venda","Venda de Produto",1
-"Despacho","Despacho de Produto Vendido",1
-"Entrega","Entrega de Produto",3
-"Fatura","Emissão da Fatura",2
-"Cobrança","Cobrança do Produto",2
-"Fim","Fim do Processo",0
+id,name
+"Começo","Começo do Processo"
+"Compra","Compra de Matéria Prima"
+"Preparação","Preparação de Equipamento"
+"Produção","Produção"
+"Pedido","Pedido de Produto"
+"Venda","Venda de Produto"
+"Despacho","Despacho de Produto Vendido"
+"Entrega","Entrega de Produto"
+"Fatura","Emissão da Fatura"
+"Cobrança","Cobrança do Produto"
+"Fim","Fim do Processo"
