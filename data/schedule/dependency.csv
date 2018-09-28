@@ -1,4 +1,7 @@
 before,after
+"Começo","Compra"
+"Começo","Preparação"
+"Começo","Pedido"
 "Compra","Produção"
 "Preparação","Produção"
 "Pedido","Venda"
@@ -8,3 +11,4 @@ before,after
 "Despacho","Fatura"
 "Entrega","Cobrança"
 "Fatura","Cobrança"
+"Cobrança","Fim"

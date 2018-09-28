@@ -1,4 +1,5 @@
 id,name,time
+"Começo","Começo do Processo",0
 "Compra","Compra de Matéria Prima",5
 "Preparação","Preparação de Equipamento",3
 "Produção","Produção",8
@@ -8,3 +9,4 @@ id,name,time
 "Entrega","Entrega de Produto",3
 "Fatura","Emissão da Fatura",2
 "Cobrança","Cobrança do Produto",2
+"Fim","Fim do Processo",0
