@@ -6,4 +6,5 @@ id,name,time
 "Venda","Venda de Produto",1
 "Despacho","Despacho de Produto Vendido",1
 "Entrega","Entrega de Produto",3
+"Fatura","Emissão da Fatura",2
 "Cobrança","Cobrança do Produto",2
