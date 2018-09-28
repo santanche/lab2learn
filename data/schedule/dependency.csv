@@ -1,0 +1,8 @@
+before, after
+"Compra", "Produção"
+"Preparação", "Produção"
+"Pedido", "Venda"
+"Produção", "Despacho"
+"Venda", "Despacho"
+"Despacho", "Entrega"
+"Entrega", "Cobrança"

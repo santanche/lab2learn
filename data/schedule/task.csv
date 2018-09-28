@@ -1,0 +1,9 @@
+id, name, time
+"Compra", "Compra de Matéria Prima", 5
+"Preparação", "Preparação de Equipamento", 3
+"Produção", "Produção", 8
+"Pedido", "Pedido de Produto", 1
+"Venda", "Venda de Produto", 1
+"Despacho", "Despacho de Produto Vendido", 1
+"Entrega", "Entrega de Produto", 3
+"Cobrança", "Cobrança do Produto", 2
