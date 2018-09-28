@@ -1,4 +1,6 @@
-# Estradas e Trajetos
+# Percorrendo Caminhos
+
+## Estradas e Trajetos
 
 Considere o diagrama abaixo representa graficamente um modelo relacional de tabelas que controlam cidades, estradas e trajetos entre cidades. A seguir a descrição o papel de cada tabela:
 * _Cidades_: mantém um cadastro de cidades.
