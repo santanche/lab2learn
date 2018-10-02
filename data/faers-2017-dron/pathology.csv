@@ -1,0 +1,2161 @@
+code,name
+0,Cardiovascular event prophylaxis
+1,Atrial fibrillation
+2,Diabetes mellitus
+3,Prophylaxis
+4,Cardiac failure
+5,Hypertension
+6,Multiple sclerosis
+7,Product used for unknown indication
+8,Myelofibrosis
+11,Alopecia
+12,HIV infection
+13,Prostate cancer
+14,Osteoporosis
+15,Low density lipoprotein increased
+16,Blood cholesterol increased
+18,Chronic myeloid leukaemia
+19,Asthma
+20,Respiratory rate decreased
+21,Neuropathy peripheral
+23,Pain
+24,Type 2 diabetes mellitus
+25,Schizophrenia
+26,Enterobacter infection
+27,Gastric ulcer
+28,Ventricular extrasystoles
+29,Intervertebral disc protrusion
+32,Eyelid ptosis
+33,Diarrhoea
+35,Suicide attempt
+36,Depression
+37,Psoriasis
+38,Hypothyroidism
+39,Dyspepsia
+40,Antidepressant therapy
+46,Urinary incontinence
+47,Routine health maintenance
+48,B-cell lymphoma
+49,Cardiac disorder
+50,Hypercholesterolaemia
+51,Analgesic therapy
+52,Breast cancer
+54,Multiple allergies
+55,Gastrooesophageal reflux disease
+56,Dyspnoea
+57,Neuralgia
+58,Insomnia
+60,Dysphagia
+61,Flatulence
+62,Blood pressure abnormal
+63,Joint arthroplasty
+64,Knee arthroplasty
+65,Knee operation
+66,Metastatic malignant melanoma
+67,Premedication
+68,Hip arthroplasty
+69,Hypereosinophilic syndrome
+70,Relapsing-remitting multiple sclerosis
+71,Rheumatoid arthritis
+72,Renal disorder
+74,Malignant melanoma
+75,Anxiety
+76,Herpes zoster
+77,Psoriatic arthropathy
+80,Pulmonary arterial hypertension
+82,Prophylaxis against gastrointestinal ulcer
+83,Arthralgia
+84,Autoimmune disorder
+85,Interstitial lung disease
+86,Dermatomyositis
+87,Cardiac failure congestive
+88,Constipation
+90,Skin ulcer
+91,Lung infection
+93,Systemic lupus erythematosus
+94,Schizoaffective disorder
+95,Bipolar disorder
+96,Post-traumatic stress disorder
+99,Anaphylactic reaction
+100,Seizure
+101,Hypovitaminosis
+102,Epilepsy
+103,Gastric disorder
+104,Bone density decreased
+105,Bone disorder
+106,Blood cholesterol
+107,Cystic fibrosis
+109,Pneumonia
+111,Pneumonia viral
+114,Psychotic disorder
+118,Carpal tunnel syndrome
+121,Dyslipidaemia
+123,Sinus disorder
+124,Deep vein thrombosis
+125,Thrombosis
+126,Myelodysplastic syndrome
+127,Rhinovirus infection
+129,Renal transplant
+130,Chronic obstructive pulmonary disease
+131,Inflammation
+132,Plasma cell myeloma
+134,Arrhythmia
+135,Back pain
+136,Dry eye
+137,Glaucoma
+138,Infection prophylaxis
+139,Metastases to bone
+140,Mineral supplementation
+141,Thrombosis prophylaxis
+142,Cerebrovascular accident prophylaxis
+143,Muscle spasms
+144,Sleep disorder
+146,Red blood cell count decreased
+147,Blood iron decreased
+148,Pyrexia
+149,Acute lymphocytic leukaemia
+151,Hyperglycaemia
+152,Brain oedema
+153,Neutropenia
+155,Thrombocytopenia
+156,Antiviral prophylaxis
+158,Lung neoplasm malignant
+159,Blood pressure measurement
+160,Transplant rejection
+162,Diverticulitis
+163,Hyperlipidaemia
+164,Myopathy
+166,Off label use
+167,Eye disorder
+169,Parkinson's disease
+172,Osteopenia
+173,Osteoporosis postmenopausal
+176,Erectile dysfunction
+178,Cerebrovascular accident
+181,Attention deficit/hyperactivity disorder
+182,Abnormal behaviour
+185,Infection
+186,Multiple organ dysfunction syndrome
+187,Metastatic renal cell carcinoma
+188,Intestinal mass
+189,Ovarian cancer
+190,Abdominal pain
+192,Hot flush
+193,Night sweats
+194,Pancreatic neuroendocrine tumour
+197,Body height below normal
+198,Immune thrombocytopenic purpura
+202,Basal cell carcinoma
+203,Nutritional supplementation
+204,Anaemia
+206,Pulmonary hypertension
+208,Generalised tonic-clonic seizure
+209,Blood glucose abnormal
+210,Hypersensitivity
+212,Liver disorder
+213,Gastritis
+215,Pyelonephritis
+217,Affective disorder
+218,Arthritis
+219,Colorectal cancer metastatic
+220,Colorectal cancer
+221,Nausea
+222,Cough
+223,Fibromyalgia
+224,Vertigo
+225,Fluid retention
+227,Migraine
+229,Anticoagulant therapy
+230,Lung disorder
+231,Dizziness
+233,Memory impairment
+234,Hypocalcaemia
+235,Hepatic function abnormal
+236,Graft versus host disease
+237,Renal impairment
+238,Asthenia
+240,Vein disorder
+241,Thyroid disorder
+242,Headache
+244,Raynaud's phenomenon
+246,Osteoarthritis
+247,Non-Hodgkin's lymphoma
+248,Leukopenia
+249,Vomiting
+250,Prophylaxis of nausea and vomiting
+252,Poor quality sleep
+253,Neoplasm
+255,Myalgia
+257,Crohn's disease
+258,Sedative therapy
+260,Abdominal discomfort
+261,Major depression
+264,Intestinal obstruction
+265,Bronchitis
+266,Type 1 diabetes mellitus
+270,Infarction
+271,Iron overload
+272,Gout
+273,Blood potassium increased
+274,Cystitis
+275,Cerebral infarction
+276,Sleep apnoea syndrome
+279,Chronic lymphocytic leukaemia
+280,Influenza
+281,Sedation
+282,Lymphoma
+284,Blood pressure increased
+286,Prostate cancer metastatic
+287,Hormone-refractory prostate cancer
+288,Oedema
+289,Prostate cancer stage IV
+291,Abdominal distension
+292,Decreased appetite
+293,Upper gastrointestinal haemorrhage
+294,Delusion
+296,Gait disturbance
+297,Malaise
+298,Tachycardia
+300,Pulmonary tuberculosis
+304,Spinal pain
+307,Aggression
+308,Coronary artery disease
+309,End stage renal disease
+311,Vitamin D deficiency
+313,Urinary tract infection
+317,Chondropathy
+323,Complex regional pain syndrome
+324,Angina pectoris
+325,Gastroenteritis
+326,Chills
+329,Hypokalaemia
+331,Renal cell carcinoma
+332,Anxiety disorder
+333,Eating disorder
+334,Pain in extremity
+335,Hypoaesthesia
+337,Procedural pain
+338,Prostatic disorder
+339,Skin cancer
+340,Chest pain
+341,Sinus congestion
+342,Mantle cell lymphoma
+343,Supplementation therapy
+344,Swelling
+345,Wheezing
+346,Angiomyolipoma
+347,Partial seizures
+349,Spinal disorder
+350,Colitis
+352,Restless legs syndrome
+353,Gastrointestinal stromal tumour
+354,Musculoskeletal pain
+355,Stomatitis
+357,Device related infection
+358,Hypoglycaemia
+359,Respiratory disorder
+361,Rhinitis allergic
+362,Hepatocellular carcinoma
+365,Temporomandibular joint syndrome
+366,Bipolar I disorder
+367,Prostatomegaly
+368,Trigeminal neuralgia
+370,Non-small cell lung cancer
+371,Fungal infection
+372,Sepsis
+373,Ischaemic stroke
+374,Urticaria
+378,Visual impairment
+380,Stress
+382,Neoplasm progression
+385,Gastrointestinal haemorrhage
+387,Blood calcium decreased
+388,Bladder disorder
+389,Blood magnesium decreased
+390,Blood cholesterol abnormal
+392,Haemorrhage
+393,Drug abuse
+395,Blood triglycerides increased
+397,Nephrogenic anaemia
+399,Blood pressure decreased
+401,Mood swings
+402,Agitation
+405,Myocardial ischaemia
+406,Myocardial infarction
+408,Bile duct cancer
+409,Gallbladder cancer
+410,Pneumocystis jirovecii pneumonia
+411,Immune reconstitution inflammatory syndrome
+412,Cytomegalovirus infection
+417,Bone marrow failure
+419,Joint injection
+420,Vitamin supplementation
+422,Cerebral haemorrhage
+423,Pneumonia aspiration
+425,Polymyositis
+426,Acute coronary syndrome
+427,Stem cell transplant
+431,Adrenal insufficiency
+434,Abdominal pain upper
+435,Candida infection
+437,Rash
+438,Mouth ulceration
+440,Skin papilloma
+441,Acute myeloid leukaemia
+442,Polyuria
+443,Blood potassium decreased
+444,Metastases to pancreas
+445,Metastases to kidney
+446,Metastases to lung
+447,Renal cancer
+448,Speech disorder
+450,Peripheral vascular disorder
+453,Varicose vein
+454,Balance disorder
+457,Productive cough
+458,Contusion
+459,Pemphigus
+460,Iron deficiency anaemia
+462,Respiratory distress
+463,Extrapyramidal disorder
+464,Movement disorder
+465,Tardive dyskinesia
+466,Hair disorder
+467,Nail disorder
+468,Skin disorder
+469,Sciatica
+471,B-cell lymphoma recurrent
+475,Pulmonary embolism
+476,Sinusitis
+478,Tourette's disorder
+479,Barrett's oesophagus
+481,Viral upper respiratory tract infection
+485,Intraocular pressure increased
+486,Gastrointestinal motility disorder
+488,Vitamin D decreased
+490,Arteriosclerosis
+492,Stent placement
+493,Peripheral arterial occlusive disease
+495,Dementia Alzheimer's type
+496,Hepatic cirrhosis
+497,Vertigo positional
+498,Orthostatic hypotension
+499,Weight decreased
+502,Myasthenia gravis
+503,Drug tolerance
+505,Colitis ulcerative
+506,Pulmonary fibrosis
+509,Transfusion
+512,Hypertonic bladder
+515,Heart rate irregular
+516,Mental disorder
+518,Nerve injury
+519,Irritable bowel syndrome
+521,Thyroid mass
+522,Hallucination
+523,Limb discomfort
+524,Emphysema
+525,Respiratory tract congestion
+528,Fluid overload
+533,Intervertebral disc degeneration
+535,Chronic hepatitis C
+536,Chronic hepatitis B
+537,Emotional disorder
+538,Parkinsonism
+539,Panic disorder
+540,Generalised anxiety disorder
+541,Multiple sclerosis relapse
+543,Cardiovascular disorder
+545,Nasal congestion
+546,Clostridium difficile colitis
+547,Antiplatelet therapy
+550,Obsessive-compulsive disorder
+551,Sjogren's syndrome
+552,Hepatitis C
+553,Pelvic pain
+555,Burning sensation
+556,Folliculitis
+557,Pancreatitis chronic
+558,Arthropathy
+560,Weight control
+561,Benign prostatic hyperplasia
+562,Colon cancer metastatic
+563,Bone pain
+567,Hypertrophic cardiomyopathy
+568,Ventricular tachycardia
+569,Somnolence
+571,Oedema peripheral
+572,Musculoskeletal stiffness
+574,Prostatic specific antigen increased
+575,Sexual dysfunction
+577,Bone marrow conditioning regimen
+578,Prophylaxis against graft versus host disease
+579,Bicytopenia
+580,Persistent depressive disorder
+584,Anger
+586,Blood pressure management
+587,Breast cancer stage II
+590,Bronchiectasis
+592,Pruritus
+593,Renal cancer metastatic
+596,Immunodeficiency
+598,Electrolyte substitution therapy
+599,Personality disorder
+600,"Hallucination, auditory"
+601,Mental impairment
+602,Mood altered
+603,Scoliosis
+604,Spinal column stenosis
+606,Developmental delay
+607,Brain injury
+609,Sleep disorder therapy
+610,Acne
+612,Paranoia
+613,Bursitis
+615,Cardiomyopathy
+618,Immunosuppressant drug therapy
+620,Fatigue
+623,Dyskinesia
+625,Bacterial infection
+627,Gastric cancer
+628,Brain abscess
+629,Autism spectrum disorder
+630,Tremor
+631,Menstrual cycle management
+637,Coagulopathy
+640,Drug use disorder
+642,Borderline personality disorder
+645,Mania
+646,Ulcer
+647,Tachypnoea
+651,Myelopathy
+653,Nervousness
+655,Addison's disease
+656,Labyrinthitis
+659,Dysuria
+660,Nocturia
+661,Staphylococcal bacteraemia
+662,Atrial flutter
+664,Cardiac failure chronic
+667,Depressed level of consciousness
+668,Gastrointestinal disorder
+671,Urosepsis
+672,Lower respiratory tract infection
+675,Waldenstrom's macroglobulinaemia
+677,Soft tissue infection
+679,Ocular hyperaemia
+681,Social anxiety disorder
+682,Blood glucose increased
+683,Joint dislocation
+684,Antiretroviral therapy
+685,Gestational diabetes
+687,Cellulitis
+690,Drug withdrawal syndrome
+691,Cognitive disorder
+694,Immunosuppression
+695,Panic attack
+700,Drug administered to patient of inappropriate age
+705,Diffuse large B-cell lymphoma
+710,Hyperprolactinaemia
+713,Pancreatic carcinoma
+715,Rhinorrhoea
+716,Mucosal inflammation
+717,Aspartate aminotransferase increased
+724,Focal dyscognitive seizures
+725,Status epilepticus
+729,White blood cell count decreased
+731,Dermatitis
+732,Dry skin
+733,Gastritis erosive
+735,Type IIa hyperlipidaemia
+736,Crying
+737,Hypomagnesaemia
+740,Peripheral swelling
+741,Immune system disorder
+742,Vulvovaginal pain
+745,Herpes virus infection
+746,Portal hypertension
+747,Vitamin C deficiency
+753,Obsessive-compulsive personality disorder
+754,Embolism
+756,Platelet count increased
+758,Alveolitis allergic
+759,Colon cancer
+765,Vasodilatation
+766,Gangrene
+769,Lung adenocarcinoma
+771,Hormone level abnormal
+773,Delirium
+774,Hypertonia
+776,Incision site erythema
+778,Cholecystitis
+779,Acute sinusitis
+784,Unevaluable event
+786,Paraneoplastic pemphigus
+787,Bronchopulmonary aspergillosis
+789,Osteomyelitis
+794,Ear infection
+795,Obstructive airways disorder
+796,Iron deficiency
+797,Haemorrhoids
+800,Chest discomfort
+803,Small cell lung cancer
+805,Muscle contracture
+807,Disturbance in attention
+809,Encephalitis
+811,Completed suicide
+814,Back disorder
+815,Essential hypertension
+818,Tooth infection
+819,Ear discomfort
+820,Colitis microscopic
+821,Keratitis
+824,Nervous system disorder
+825,C-reactive protein increased
+829,Pregnancy
+830,Latent tuberculosis
+832,Eye infection
+836,Arrhythmia prophylaxis
+837,Surgery
+838,Dry mouth
+839,Chemotherapy
+842,Neck pain
+843,Congenital cystic kidney disease
+845,Foetal exposure during pregnancy
+846,Neoplasm malignant
+848,Tumour pain
+850,Skin infection
+851,Abscess
+854,Restlessness
+855,Irritability
+856,Skin wrinkling
+857,Heart rate increased
+862,Lung carcinoma cell type unspecified recurrent
+863,Hyperphosphataemia
+865,Cataract
+871,Hypersomnia
+873,Vitamin B12 decreased
+874,Hyperthyroidism
+878,Nightmare
+881,Wound
+883,Transient ischaemic attack
+884,Cholangitis sclerosing
+887,Schizotypal personality disorder
+890,Scleroderma
+893,Meningitis
+895,Metastases to lymph nodes
+897,Blood potassium abnormal
+898,Graft versus host disease in gastrointestinal tract
+899,Abnormal faeces
+900,Anaesthesia procedure
+902,Proctalgia
+906,Enterocolitis
+907,Upper respiratory tract inflammation
+908,Acute myocardial infarction
+909,Hyperkalaemia
+910,Hypotonia
+915,Open angle glaucoma
+916,Febrile convulsion
+917,Retinopathy
+919,Hodgkin's disease
+920,Adenocarcinoma of colon
+921,Petit mal epilepsy
+922,Metastases to liver
+923,Pharyngitis
+926,Spinal operation
+928,Temporal lobe epilepsy
+929,Nasopharyngitis
+931,Toothache
+935,Ganglioglioma
+938,Uterine leiomyoma
+940,Eczema
+941,Pancreatic carcinoma metastatic
+943,Parathyroid disorder
+948,Pruritus generalised
+950,Psychomotor hyperactivity
+951,Bronchospasm
+952,Catatonia
+953,Muscle disorder
+957,Viral infection
+960,Urinary tract disorder
+961,Rhodococcus infection
+966,Arthropod sting
+967,Paranasal sinus hypersecretion
+969,Metastasis
+971,Oropharyngeal pain
+972,Delivery
+980,IgA nephropathy
+981,Bundle branch block right
+987,Osteonecrosis
+988,Splenomegaly
+989,Hepatitis viral
+990,Lung transplant
+996,Incontinence
+997,General anaesthesia
+1001,Ill-defined disorder
+1002,Intentional self-injury
+1004,Blood thyroid stimulating hormone increased
+1005,Acute psychosis
+1006,Malabsorption
+1007,Confusional state
+1009,Febrile neutropenia
+1010,Onychomycosis
+1013,Blood pressure fluctuation
+1014,B precursor type acute leukaemia
+1015,Klebsiella infection
+1017,Osteosarcoma
+1018,Graft versus host disease in skin
+1019,Blood glucose decreased
+1020,Proteinuria
+1025,Influenza like illness
+1028,Reading disorder
+1029,Upper respiratory tract infection
+1033,Hyperparathyroidism
+1037,Ear disorder
+1038,Pancreatitis
+1039,Dermatitis acneiform
+1042,Paraesthesia
+1043,Increased appetite
+1047,Subarachnoid haemorrhage
+1049,Menorrhagia
+1050,Purpura
+1051,Haematemesis
+1053,Clostridium difficile infection
+1056,Systemic mycosis
+1058,Initial insomnia
+1059,Haematuria
+1062,Thinking abnormal
+1064,Adverse drug reaction
+1065,Blister
+1069,Blood uric acid increased
+1082,Diffuse large B-cell lymphoma stage IV
+1085,Dyspnoea exertional
+1090,Lip dry
+1093,Cholelithiasis
+1094,Nodule
+1095,Electrolyte imbalance
+1097,Fear
+1101,Tension headache
+1102,Cervicobrachial syndrome
+1105,Non-small cell lung cancer stage IV
+1106,Anal abscess
+1107,Alanine aminotransferase increased
+1110,Renal failure
+1112,Acquired immunodeficiency syndrome
+1113,Breakthrough pain
+1120,Blood disorder
+1121,Hypotension
+1127,Blood sodium decreased
+1128,Gingivitis
+1131,Eye pruritus
+1137,Aspergillus infection
+1142,Neutrophil count decreased
+1145,Hypoalbuminaemia
+1146,Septic shock
+1147,Hyponatraemia
+1148,Mobility decreased
+1149,Joint stiffness
+1153,Supportive care
+1160,Hair growth abnormal
+1161,Depressive symptom
+1162,Intraocular pressure test abnormal
+1164,Peripheral coldness
+1166,Conjunctivitis
+1169,Malignant melanoma stage IV
+1170,Exposure during pregnancy
+1171,Gastrointestinal bacterial overgrowth
+1172,Lumbar radiculopathy
+1175,Bladder cancer
+1177,Antiallergic therapy
+1179,Duodenal ulcer
+1180,Acute kidney injury
+1181,Lipids increased
+1184,Rhabdomyosarcoma
+1185,Poor peripheral circulation
+1187,Calcinosis
+1188,Invasive ductal breast carcinoma
+1189,Cystitis interstitial
+1192,Parosmia
+1194,Cardiac valve disease
+1196,Loss of consciousness
+1197,Type V hyperlipidaemia
+1198,Ewing's sarcoma
+1199,Wound infection
+1201,Neuroblastoma
+1203,Granulomatosis with polyangiitis
+1204,Chronic kidney disease
+1208,Lacrimation increased
+1210,Adenocarcinoma pancreas
+1212,Dehydration
+1216,Musculoskeletal chest pain
+1219,Pharyngeal oedema
+1220,Left ventricular hypertrophy
+1224,Non-small cell lung cancer metastatic
+1225,BRAF V600E mutation positive
+1228,Kaposi's sarcoma
+1229,Tuberculosis
+1237,Sinus pain
+1238,Staphylococcal infection
+1241,Traumatic haemorrhage
+1242,Drug dependence
+1243,Polyneuropathy
+1244,Lyme disease
+1248,Tinnitus
+1252,Adverse event
+1257,Hepatic cancer
+1260,Oral pain
+1264,Cubital tunnel syndrome
+1265,Bone density abnormal
+1266,Adenocarcinoma
+1269,Acute graft versus host disease in skin
+1271,Endometriosis
+1272,Post transplant lymphoproliferative disorder
+1273,Peritonitis
+1280,Haemodialysis
+1281,Ascites
+1282,Penile oedema
+1283,Scrotal oedema
+1285,Electroencephalogram abnormal
+1289,Spinal compression fracture
+1290,Medication error
+1291,Breast cancer stage IV
+1296,Triple negative breast cancer
+1298,Localised infection
+1300,Drug reaction with eosinophilia and systemic symptoms
+1307,Kidney infection
+1309,Hypercalcaemia
+1310,Tumour lysis syndrome
+1311,Pemphigoid
+1314,Suicidal ideation
+1317,Dysgeusia
+1319,Diabetic ketoacidosis
+1323,Bone cancer
+1325,Oesophageal ulcer
+1329,Malnutrition
+1330,Myocarditis
+1335,Disease progression
+1338,Osteonecrosis of jaw
+1340,Cancer pain
+1341,Joint swelling
+1350,Progressive multifocal leukoencephalopathy
+1354,Intervertebral disc injury
+1360,Sinus node dysfunction
+1366,Rash pustular
+1367,Musculoskeletal disorder
+1376,Persecutory delusion
+1377,Mutism
+1380,Erythema
+1381,Platelet count decreased
+1385,Rash macular
+1392,Prophylactic chemotherapy
+1396,Hypophysitis
+1397,Hydrocephalus
+1401,Depressed mood
+1402,Obesity
+1403,Dysstasia
+1406,Joint injury
+1409,Blood count abnormal
+1411,Akathisia
+1412,Spinal fracture
+1413,Postural orthostatic tachycardia syndrome
+1414,Pollakiuria
+1415,Hidradenitis
+1419,Acute graft versus host disease
+1421,Angina unstable
+1422,Musculoskeletal discomfort
+1424,Rhinitis
+1425,Infusion related reaction
+1426,Serum ferritin increased
+1427,Leukaemia
+1428,Micturition urgency
+1429,Palpitations
+1430,Infective pulmonary exacerbation of cystic fibrosis
+1431,Condition aggravated
+1432,Peripheral sensory neuropathy
+1433,Vitamin B complex deficiency
+1435,Cataract operation
+1444,Burkitt's lymphoma
+1448,Spinal deformity
+1451,Gastrointestinal infection
+1452,Gastrointestinal pain
+1454,Nephropathy
+1455,General physical health deterioration
+1459,Intellectual disability
+1465,Laceration
+1471,Histiocytosis haematophagic
+1473,Urinary tract obstruction
+1475,Ear pain
+1476,Peripheral venous disease
+1479,Blood creatinine increased
+1480,Oral candidiasis
+1481,Aortic valve replacement
+1485,Appetite disorder
+1487,Sarcoidosis
+1490,Oral discomfort
+1491,Hair colour changes
+1492,Blood cholesterol decreased
+1500,Mitral valve incompetence
+1501,Hepatitis
+1503,Squamous cell carcinoma of skin
+1504,Eye haemorrhage
+1505,Cardiac arrest
+1510,Syncope
+1516,Desmoid tumour
+1517,Product use in unapproved indication
+1519,Activated partial thromboplastin time prolonged
+1521,Metabolic acidosis
+1529,Thrombotic thrombocytopenic purpura
+1530,Pulmonary congestion
+1531,Vasculitis
+1533,Decreased immune responsiveness
+1535,Metabolic syndrome
+1538,Toxicity to various agents
+1540,Haematopoietic stem cell mobilisation
+1541,Phlebitis
+1542,Squamous cell carcinoma
+1546,Haemoptysis
+1553,Enterococcal infection
+1554,Escherichia infection
+1561,Metastases to peritoneum
+1562,Dysaesthesia
+1570,Mitral valve replacement
+1572,Respiratory failure
+1575,Wrist fracture
+1576,Aortic aneurysm
+1577,Respiratory tract infection
+1579,Overdose
+1580,Complication associated with device
+1581,Muscle twitching
+1582,Tubulointerstitial nephritis
+1587,Gamma-glutamyltransferase increased
+1588,Paronychia
+1590,Pancytopenia
+1596,Leukaemia recurrent
+1598,Oral herpes
+1601,Acute lymphocytic leukaemia recurrent
+1603,Upper-airway cough syndrome
+1604,T-cell type acute leukaemia
+1609,Spinal osteoarthritis
+1611,Local anaesthesia
+1614,Weight increased
+1626,Quadriplegia
+1629,Clear cell renal cell carcinoma
+1632,Biliary dilatation
+1634,Pulmonary oedema
+1635,Lymphocyte count decreased
+1636,Tonsillitis
+1638,Pseudomonas infection
+1644,Dysphonia
+1646,Supraventricular tachycardia
+1647,Hypophosphataemia
+1648,Epistaxis
+1650,Lactose intolerance
+1651,Sinus tachycardia
+1654,Decubitus ulcer
+1655,Urinary retention
+1656,Rash maculo-papular
+1658,Bacterial sepsis
+1659,Dementia
+1663,Metastases to pelvis
+1667,Nephrolithiasis
+1669,Otitis media
+1671,Hepatotoxicity
+1672,Arthropod bite
+1673,Abnormal dreams
+1674,Somnambulism
+1676,Faeces soft
+1678,Axial spondyloarthritis
+1683,Acute pulmonary histoplasmosis
+1684,Cerebral disorder
+1685,Right ventricular failure
+1689,Arteriosclerosis coronary artery
+1693,Gastric pH decreased
+1699,Pneumonitis
+1704,Affect lability
+1708,Hepatic pain
+1711,Osteoporotic fracture
+1712,Femoral neck fracture
+1714,Pathological fracture
+1715,Body height decreased
+1717,Fracture
+1720,Ocular hypertension
+1721,Acute respiratory failure
+1722,Eosinophilia
+1725,Lumbar vertebral fracture
+1729,Bacteraemia
+1740,Acute generalised exanthematous pustulosis
+1741,Blood calcium increased
+1743,Discomfort
+1744,Overweight
+1752,Uterine contractions during pregnancy
+1757,Hyperparathyroidism secondary
+1758,Facial neuralgia
+1759,Pleural effusion
+1765,Migraine with aura
+1768,Skin lesion
+1771,Philadelphia chromosome positive
+1773,Bowel movement irregularity
+1779,Respiration abnormal
+1780,Alcohol abuse
+1786,Arterial disorder
+1787,Glycosylated haemoglobin increased
+1791,Vision blurred
+1794,Hyperthermia
+1797,Bradycardia
+1800,Penile cancer
+1803,Pneumocystis jirovecii infection
+1804,Biliary cirrhosis primary
+1805,Product use issue
+1812,Miosis
+1816,Sinus bradycardia
+1821,Flank pain
+1822,Organising pneumonia
+1823,Tachyarrhythmia
+1825,Substance abuse
+1837,Blood urine present
+1838,Spinal fusion surgery
+1841,Agranulocytosis
+1844,Parkinsonian gait
+1845,Fall
+1846,Intraocular pressure decreased
+1848,Blood albumin decreased
+1849,Peripheral ischaemia
+1851,Hypoxia
+1852,Tonic convulsion
+1853,Epicondylitis
+1854,Functional gastrointestinal disorder
+1856,Threatened labour
+1862,Accidental exposure to product by child
+1863,Angiocentric lymphoma
+1877,Disturbance in sexual arousal
+1881,Hyperammonaemia
+1885,Cardiovascular insufficiency
+1886,Drug level decreased
+1888,Premature baby
+1890,Mycobacterium avium complex infection
+1893,Acarodermatitis
+1897,Haemodynamic instability
+1914,Logorrhoea
+1916,Breast mass
+1918,Hip fracture
+1920,Salivary hypersecretion
+1922,Abdominal pain lower
+1925,Ejection fraction decreased
+1928,Cardiac flutter
+1931,Mental status changes
+1936,Skin exfoliation
+1941,Dystonia
+1942,Cytomegalovirus chorioretinitis
+1943,Cytomegalovirus colitis
+1949,Drug hypersensitivity
+1950,Seminoma
+1953,Metastases to central nervous system
+1957,Posterior reversible encephalopathy syndrome
+1960,Laryngeal oedema
+1961,Epstein-Barr virus infection
+1962,Metastases to meninges
+1963,Feeling abnormal
+1965,Thrombotic microangiopathy
+1966,Breast pain
+1970,Intentional overdose
+1974,Tenderness
+1975,Erysipelas
+1976,Hepatic encephalopathy
+1977,Post procedural complication
+1978,Tooth abscess
+1981,Dermatitis psoriasiform
+1983,Endocarditis
+1984,Extradural abscess
+1986,Intervertebral discitis
+1989,Endometrial adenocarcinoma
+1995,Serotonin syndrome
+1999,Hypothermia
+2010,Secretion discharge
+2013,Groin pain
+2016,Anal fistula
+2017,Escherichia urinary tract infection
+2018,White blood cell count increased
+2019,Head injury
+2021,Ear congestion
+2029,Herpes simplex
+2039,Muscle rigidity
+2042,Pancreatitis acute
+2047,Adjustment disorder with depressed mood
+2053,Eosinophilic granulomatosis with polyangiitis
+2056,Spinal cord compression
+2058,Anti-neutrophil cytoplasmic antibody positive vasculitis
+2060,Embolic stroke
+2061,Gastrointestinal toxicity
+2063,Vascular graft
+2066,Sputum discoloured
+2068,Eye pain
+2069,Vitiligo
+2072,Amnesia
+2076,Radiation skin injury
+2077,Polymyalgia rheumatica
+2078,Odynophagia
+2079,Oesophageal disorder
+2080,Neoplasm prostate
+2092,Hypertensive heart disease
+2096,Metabolic disorder
+2099,Lipids
+2100,Infection parasitic
+2101,Rib fracture
+2102,Flushing
+2111,Pathogen resistance
+2115,Status migrainosus
+2116,Blood folate decreased
+2119,Oedema due to renal disease
+2121,Gingival pain
+2125,Abdominal abscess
+2128,Duchenne muscular dystrophy
+2131,Renal cyst haemorrhage
+2133,Tooth disorder
+2138,Lymphocytosis
+2139,Liver injury
+2141,Angioedema
+2142,Pneumonia bacterial
+2148,Panniculitis
+2154,Breast neoplasm
+2157,Coordination abnormal
+2159,Thrombocytosis
+2162,Pubic pain
+2163,Lung neoplasm
+2164,Pulmonary alveolar haemorrhage
+2168,Palmar-plantar erythrodysaesthesia syndrome
+2169,Pulmonary thrombosis
+2171,Arterial thrombosis
+2172,Erythema nodosum
+2174,Cholestasis
+2175,Anaphylactic shock
+2177,Tibia fracture
+2179,Ataxia
+2180,Intentional product misuse
+2182,Plasma cell myeloma recurrent
+2184,Skin burning sensation
+2191,Trichorrhexis
+2195,Limb injury
+2198,Nipple pain
+2200,Pre-eclampsia
+2201,Injury
+2202,Cytopenia
+2203,Bone neoplasm
+2205,Disseminated tuberculosis
+2206,Histoplasmosis disseminated
+2214,Lymphadenopathy
+2216,Myoclonus
+2219,Colitis ischaemic
+2224,Gastric haemorrhage
+2232,Lupus cystitis
+2238,Chorioretinopathy
+2248,Nocardiosis
+2253,Lung squamous cell carcinoma stage IV
+2257,Rash pruritic
+2259,Sciatic nerve neuropathy
+2264,Tendonitis
+2265,Lipoma
+2267,Eosinophilic pneumonia
+2272,Uterine dilation and curettage
+2273,Metaplastic breast carcinoma
+2274,Coeliac disease
+2278,Postoperative wound infection
+2290,Negativism
+2291,Abnormal weight gain
+2297,Gene mutation
+2298,"Hallucination, visual"
+2307,Psychomotor retardation
+2310,"Hallucinations, mixed"
+2313,Frustration tolerance decreased
+2320,Neuroleptic malignant syndrome
+2329,Toe amputation
+2334,Withdrawal syndrome
+2337,Facial bones fracture
+2339,Emotional distress
+2340,Diabetes mellitus inadequate control
+2346,Ovarian cyst
+2348,Microangiopathic haemolytic anaemia
+2368,Tubo-ovarian abscess
+2381,Hepatic failure
+2384,Streptococcal infection
+2386,Diplegia
+2394,Post concussion syndrome
+2403,Dermatitis allergic
+2404,Vulvovaginal candidiasis
+2405,Skin reaction
+2415,Febrile infection
+2417,Cerebral aspergillosis
+2418,Myxoid liposarcoma
+2425,Fibrosis
+2426,Hepatocellular injury
+2428,Foot deformity
+2432,Rheumatoid nodule
+2441,Road traffic accident
+2445,Cardiac failure acute
+2449,Ammonia increased
+2460,Body temperature abnormal
+2461,Coronary artery stenosis
+2462,Invasive lobular breast carcinoma
+2465,Blood pressure systolic decreased
+2466,Shock
+2467,Diverticulum
+2471,Ocular discomfort
+2473,General physical condition
+2474,Extrasystoles
+2481,Mycobacterium abscessus infection
+2483,Atypical pneumonia
+2487,Non-Hodgkin's lymphoma unspecified histology indolent
+2491,Mantle cell lymphoma recurrent
+2501,Glomerulonephritis minimal lesion
+2503,Colon neoplasm
+2504,Blood phosphorus increased
+2513,Guillain-Barre syndrome
+2523,Breast cancer stage I
+2528,Cardiogenic shock
+2529,Vein collapse
+2530,Incision site pain
+2531,Cardio-respiratory arrest
+2539,Muscle tightness
+2540,Poisoning
+2543,Adrenocorticotropic hormone deficiency
+2545,Cervical radiculopathy
+2553,Sinus headache
+2560,Disseminated intravascular coagulation
+2561,Bone tuberculosis
+2565,Catheter placement
+2568,Dermatitis exfoliative
+2578,Wound complication
+2579,Idiopathic intracranial hypertension
+2583,Haemorrhage intracranial
+2590,Acute pulmonary oedema
+2594,Haemoglobin decreased
+2595,Antithrombin III decreased
+2600,Hepatic enzyme increased
+2605,Scar
+2629,Encephalopathy
+2630,Treatment failure
+2631,Metastases to bladder
+2632,Metastases to uterus
+2636,Carbohydrate intolerance
+2639,Plasmacytoma
+2640,Gait inability
+2641,Liver function test increased
+2644,Type 2 lepra reaction
+2646,JC virus test positive
+2650,Hepatoblastoma
+2654,Blood creatine phosphokinase increased
+2655,Blood glucose fluctuation
+2660,Abortion
+2662,Disease risk factor
+2670,Drug dispensing error
+2671,Paracentesis
+2674,Drug eruption
+2676,Asthmatic crisis
+2680,Pulmonary mass
+2688,Pain of skin
+2689,Mass
+2690,Pulmonary mycosis
+2694,Recurrent cancer
+2696,Orthostatic intolerance
+2702,General physical condition abnormal
+2730,Dental caries
+2735,Localised oedema
+2736,Haematoma
+2739,Anal incontinence
+2740,Lepromatous leprosy
+2744,Haematochezia
+2752,Peripheral motor neuropathy
+2755,Urine flow decreased
+2757,Inappropriate antidiuretic hormone secretion
+2767,Lung squamous cell carcinoma stage III
+2771,Staphylococcal sepsis
+2774,Phantom pain
+2778,Bladder pain
+2780,Exposure to toxic agent
+2781,Neoplasm skin
+2783,Pericarditis
+2785,Leukocytosis
+2790,Drug abuser
+2794,Skin plaque
+2797,Renal and pancreas transplant
+2799,Liver function test abnormal
+2802,Heart rate decreased
+2803,Blood bilirubin increased
+2804,Hyperhidrosis
+2809,Formication
+2812,Malignant neoplasm of ampulla of Vater
+2815,Strongyloidiasis
+2821,Intestinal haemorrhage
+2824,Febrile bone marrow aplasia
+2826,Implantable defibrillator insertion
+2829,C-reactive protein abnormal
+2832,Muscular weakness
+2840,Internal haemorrhage
+2847,Claustrophobia
+2849,Blindness
+2853,Subdural haematoma
+2859,Blastic plasmacytoid dendritic cell neoplasia
+2862,Bronchopneumopathy
+2868,Abulia
+2880,Eye irritation
+2883,Accidental overdose
+2884,Allergic respiratory disease
+2889,Arthritis infective
+2891,Dyschezia
+2894,Adverse reaction
+2895,Pain in jaw
+2901,Haemorrhagic anaemia
+2903,Paralysis
+2905,Pneumonia cytomegaloviral
+2916,Atrial thrombosis
+2922,Thyroid function test abnormal
+2925,Clavicle fracture
+2928,Pneumonia staphylococcal
+2930,Systemic candida
+2939,Sneezing
+2940,Neurotoxicity
+2954,Portal vein thrombosis
+2965,Neonatal respiratory distress syndrome
+2973,Premature labour
+2979,Panic reaction
+2981,Small intestinal obstruction
+2982,Hydronephrosis
+2985,Portal hypertensive gastropathy
+2986,Retinoblastoma
+3000,Cerebral ischaemia
+3012,Hernia
+3018,Ureterolithiasis
+3019,Systemic inflammatory response syndrome
+3020,Chest injury
+3024,Blood parathyroid hormone decreased
+3025,Adrenocortical insufficiency acute
+3035,Nasal discomfort
+3045,Aspiration joint
+3047,Fibrin D dimer increased
+3051,Adenoid cystic carcinoma
+3055,Drug intolerance
+3057,Infusion
+3060,Hodgkin's disease recurrent
+3062,Microcytic anaemia
+3066,Ovarian granulosa cell tumour
+3071,Exostosis
+3075,Acute febrile neutrophilic dermatosis
+3088,Retinal detachment
+3089,Femur fracture
+3091,Central nervous system lesion
+3108,Rotator cuff syndrome
+3109,Angioimmunoblastic T-cell lymphoma
+3117,Ileus
+3123,Intraocular melanoma
+3130,Acute lymphocytic leukaemia refractory
+3134,Tuberculosis of genitourinary system
+3135,Pyuria
+3137,Jaundice cholestatic
+3152,Diabetic foot infection
+3155,Urinary tract infection pseudomonal
+3156,Hospitalisation
+3158,Mechanical urticaria
+3162,Cholangitis
+3163,Bronchopulmonary dysplasia
+3164,Acute respiratory distress syndrome
+3186,Anaplastic lymphoma kinase gene mutation
+3190,Drooling
+3197,Lactic acidosis
+3204,Orthopaedic procedure
+3209,Blood pressure systolic increased
+3211,Meningoencephalitis herpetic
+3215,Necrotising myositis
+3222,Traumatic lung injury
+3233,Urine output increased
+3236,N-terminal prohormone brain natriuretic peptide increased
+3238,Death
+3242,Cardiac ventricular thrombosis
+3243,HELLP syndrome
+3251,Hypernatraemia
+3257,Anuria
+3266,Procedural haemorrhage
+3267,Periodontitis
+3268,Skin fissures
+3269,Heparin-induced thrombocytopenia
+3272,Drug interaction
+3275,Bradyphrenia
+3283,Hypochloraemia
+3286,Empyema
+3288,Frequent bowel movements
+3289,Treatment noncompliance
+3292,Parvovirus B19 infection
+3293,Intentional product use issue
+3295,White blood cell count abnormal
+3303,Hip surgery
+3317,Malignant neoplasm progression
+3319,Failure to thrive
+3325,Throat tightness
+3328,Substance use
+3329,Hemiplegia
+3333,Hemiparesis
+3335,Vulvovaginal pruritus
+3337,Ventricular fibrillation
+3343,Premature delivery
+3361,Abdominal rigidity
+3370,Melaena
+3371,Rectal haemorrhage
+3377,Swelling face
+3378,Dialysis
+3380,Vulvovaginal erythema
+3384,Neurological decompensation
+3395,Shoulder operation
+3403,Libido decreased
+3404,Nicotine dependence
+3406,Non-small cell lung cancer stage IIIA
+3408,Congenital central hypoventilation syndrome
+3411,Cyst
+3412,Chondrocalcinosis pyrophosphate
+3414,Escherichia bacteraemia
+3423,Malignant ascites
+3426,Facial paralysis
+3431,Cerebral artery occlusion
+3440,Prurigo
+3443,Muscle strain
+3457,Vestibular migraine
+3462,Adrenal haemorrhage
+3465,Mucormycosis
+3473,Oxygen saturation decreased
+3477,Azotaemia
+3508,Synovitis
+3510,Lymphatic disorder
+3512,Langerhans' cell histiocytosis
+3518,Macular hole
+3519,Skin discolouration
+3521,Testicular embryonal carcinoma stage I
+3522,Breast abscess
+3524,Blepharospasm
+3527,Middle insomnia
+3537,Head discomfort
+3541,Refractory cytopenia with multilineage dysplasia
+3543,Ligament rupture
+3548,Pelvic fracture
+3549,Premature menopause
+3555,Bone cyst
+3556,Lower limb fracture
+3557,Ankle fracture
+3563,Radius fracture
+3573,Duodenal ulcer perforation
+3576,Oral surgery
+3584,Gastric ulcer haemorrhage
+3588,Pneumonia klebsiella
+3591,Q fever
+3592,Renal pain
+3596,Anhedonia
+3598,Cutaneous vasculitis
+3599,Hypersensitivity vasculitis
+3606,Chromaturia
+3607,Metastases to penis
+3610,Coagulation factor V level abnormal
+3613,Kyphosis
+3617,Concussion
+3622,Biliary tract disorder
+3625,Circulatory collapse
+3628,Osteomalacia
+3629,Fibula fracture
+3632,Ulna fracture
+3641,Mid-life crisis
+3655,Mycobacterium chelonae infection
+3656,Disease recurrence
+3657,Laryngitis
+3663,Mucous membrane disorder
+3665,Cerebral venous thrombosis
+3667,Loss of personal independence in daily activities
+3668,Peroneal nerve palsy
+3670,Throat irritation
+3671,Renal cyst
+3673,Blood zinc abnormal
+3680,Coronary artery occlusion
+3682,Escherichia sepsis
+3683,Ocular myasthenia
+3685,Nail growth abnormal
+3697,Venous thrombosis limb
+3710,Apathy
+3719,Wound infection pseudomonas
+3722,Urinary tract infection bacterial
+3729,Atypical femur fracture
+3731,Upper limb fracture
+3745,Sciatic nerve injury
+3754,Lymphoproliferative disorder
+3755,Unresponsive to stimuli
+3760,Eye swelling
+3761,Drug effect delayed
+3764,Aphthous ulcer
+3767,Acinetobacter infection
+3768,Calciphylaxis
+3775,Tongue neoplasm malignant stage unspecified
+3778,Akinesia
+3782,Oral disorder
+3786,Synovial sarcoma metastatic
+3787,Acute hepatic failure
+3793,Abortion spontaneous
+3802,Aphasia
+3803,Post procedural swelling
+3807,Transverse sinus thrombosis
+3812,Alcohol use
+3837,Body temperature increased
+3846,Muscle necrosis
+3848,Menstrual disorder
+3852,Rash generalised
+3853,Gastroenteritis viral
+3854,Hangover
+3857,Swollen tongue
+3858,Thirst
+3859,Lymph node pain
+3861,Energy increased
+3863,Euphoric mood
+3865,Coma hepatic
+3878,Electrocardiogram QT prolonged
+3887,Meningitis bacterial
+3889,Staphylococcus test positive
+3895,Blood calcium abnormal
+3902,Thyrotoxic crisis
+3913,Prosthesis implantation
+3915,Hyperaesthesia
+3923,Immunisation reaction
+3930,Toxic skin eruption
+3933,Injection site discomfort
+3936,Urinary hesitation
+3941,Rash papular
+3942,Urine output decreased
+3944,Breast feeding
+3947,Generalised oedema
+3950,Eosinophil count increased
+3954,Endophthalmitis
+3963,Second primary malignancy
+3966,Drug ineffective
+3970,Respiratory tract infection fungal
+3976,Injection site erythema
+3977,Injection site pruritus
+4000,Intrusive thoughts
+4019,Peripheral nerve injury
+4037,Urinary tract infection enterococcal
+4042,Gallbladder disorder
+4043,Drug resistance
+4047,Tachycardia paroxysmal
+4065,Amnestic disorder
+4066,Obsessive thoughts
+4075,Paraplegia
+4076,Basal cell naevus syndrome
+4082,Hypertensive crisis
+4089,Nail discolouration
+4091,Drug administration error
+4092,Intestinal perforation
+4106,Penis disorder
+4108,Epidural analgesia
+4114,Cataract nuclear
+4121,Choking
+4127,Hepatic lesion
+4131,Back injury
+4134,Exophthalmos
+4146,Central venous catheterisation
+4150,Cerebral thrombosis
+4151,Respiratory acidosis
+4165,Blood fibrinogen decreased
+4167,Feeding disorder
+4171,Burkitt's leukaemia
+4174,Vaginal discharge
+4177,Polymenorrhoea
+4184,Drug withdrawal syndrome neonatal
+4203,Cor pulmonale
+4205,Mesothelioma malignant
+4210,Vascular operation
+4214,Stoma site inflammation
+4216,Drug withdrawal convulsions
+4242,Endocarditis candida
+4246,Renal tubular necrosis
+4250,Bundle branch block left
+4262,Metastases to eye
+4266,Haemorrhoidal haemorrhage
+4270,Infrequent bowel movements
+4271,Maternal exposure during pregnancy
+4272,Sensory disturbance
+4279,Nephrostomy
+4282,Sputum increased
+4298,Stevens-Johnson syndrome
+4300,Tendon disorder
+4302,Bone metabolism disorder
+4313,Chronic graft versus host disease in skin
+4320,Transaminases increased
+4323,Laryngospasm
+4331,Device related thrombosis
+4337,Brachytherapy to skin
+4340,Hepatomegaly
+4344,Deafness
+4346,Rhabdomyolysis
+4353,Petechiae
+4361,Polyp
+4365,Burkitt's lymphoma stage II
+4373,Blood magnesium abnormal
+4374,Hyperthermia malignant
+4384,Rash erythematous
+4388,Restrictive cardiomyopathy
+4392,Injection site swelling
+4399,Caesarean section
+4405,Hand fracture
+4416,Presyncope
+4431,Drug-induced liver injury
+4436,Dyssomnia
+4440,Ileostomy
+4448,Foetal death
+4452,Gingival bleeding
+4457,Elbow operation
+4459,Embryonal rhabdomyosarcoma
+4466,Paraproteinaemia
+4468,Abdominal adhesions
+4470,Product quality issue
+4473,Lethargy
+4477,Epstein-Barr virus associated lymphoproliferative disorder
+4479,Meconium aspiration syndrome
+4483,Body temperature decreased
+4488,Face injury
+4501,Gallbladder adenocarcinoma
+4507,Photosensitivity reaction
+4516,Venoocclusive liver disease
+4521,Parotitis
+4527,Hernia repair
+4530,T-cell lymphoma stage IV
+4532,Wrong patient received medication
+4536,Erythema multiforme
+4539,Maculopathy
+4558,Blindness unilateral
+4579,Erythema of eyelid
+4583,Full blood count decreased
+4590,International normalised ratio increased
+4597,Inflammatory marker increased
+4618,Hypoacusis
+4652,Accident
+4679,Gallbladder pain
+4697,Testicular germ cell cancer metastatic
+4708,Extra dose administered
+4714,Lung infiltration
+4788,Tracheobronchitis
+4796,Drug prescribing error
+4797,Fixed eruption
+4798,Superior sagittal sinus thrombosis
+4801,Jaundice
+4808,Prothrombin time prolonged
+4812,Biliary colic
+4819,Abnormal loss of weight
+4833,Hypochromic anaemia
+4835,Feeling cold
+4836,Faecaloma
+4844,Hypoxic-ischaemic encephalopathy
+4853,Budd-Chiari syndrome
+4854,Hepatic fibrosis
+4858,Vascular injury
+4860,Bile duct stone
+4868,Basal ganglia haemorrhage
+4892,Menometrorrhagia
+4899,Dysarthria
+4909,Peripheral T-cell lymphoma unspecified stage IV
+4913,Intracranial mass
+4919,Cerebral haematoma
+4923,Hodgkin's disease mixed cellularity stage IV
+4930,Post procedural haemorrhage
+4948,Lipohypertrophy
+4951,Renal mass
+4954,Punctate keratitis
+4961,Asphyxia
+4976,Skin mass
+4979,Hair texture abnormal
+4986,Laboratory test abnormal
+4989,Feeling hot
+5002,Chronic eosinophilic rhinosinusitis
+5003,Furuncle
+5004,Skin necrosis
+5012,Eyelid oedema
+5042,Pelvic inflammatory disease
+5049,Capnocytophaga infection
+5050,Peritonitis bacterial
+5060,Glycosylated haemoglobin decreased
+5069,Infective glossitis
+5071,Retroperitoneal abscess
+5075,B-cell lymphoma stage I
+5092,Pressure of speech
+5095,Burkitt's lymphoma stage III
+5100,Glossodynia
+5102,Exposure via transplant
+5108,Chorioretinitis
+5115,Encephalitis eastern equine
+5128,Atrioventricular block complete
+5141,Vasoplegia syndrome
+5144,Retching
+5153,Megacolon
+5155,Nodal marginal zone B-cell lymphoma
+5158,Osteotomy
+5161,Bundle branch block
+5165,Penile pain
+5171,Chronic lymphocytic leukaemia stage 1
+5174,Hunger
+5175,Motor dysfunction
+5183,High density lipoprotein decreased
+5197,Skin odour abnormal
+5198,Gastritis haemorrhagic
+5200,Type 1 lepra reaction
+5207,Allergic oedema
+5225,Feeling jittery
+5252,Balloon-occluded retrograde transvenous obliteration
+5265,Skin hyperpigmentation
+5271,Large intestine polyp
+5278,Injection site bruising
+5279,Injection site pain
+5282,Wound dehiscence
+5288,Feeling of despair
+5290,Derealisation
+5297,Device dislocation
+5298,Haemorrhagic diathesis
+5299,Disinhibition
+5306,Flat affect
+5307,Feelings of worthlessness
+5323,Neurodevelopmental disorder
+5338,Genito-pelvic pain/penetration disorder
+5340,Gun shot wound
+5344,Myocardial fibrosis
+5345,Disability
+5354,Tendon rupture
+5373,Freezing phenomenon
+5392,Suture insertion
+5395,Neck surgery
+5408,Breast cyst
+5439,Disorientation
+5442,Oculogyric crisis
+5445,Incoherent
+5448,Polydipsia
+5454,Blunted affect
+5455,Pulmonary arterial pressure increased
+5470,Vitamin D abnormal
+5491,Atrioventricular block second degree
+5504,Linear IgA disease
+5506,Blood alkaline phosphatase increased
+5523,Hypovolaemic shock
+5529,Gingival disorder
+5532,Cholangitis acute
+5536,Macule
+5545,Visual field defect
+5549,Intervertebral disc space narrowing
+5550,Injection site reaction
+5553,Anembryonic gestation
+5559,Torsade de pointes
+5563,Gastric mucosa erythema
+5569,Hyperbilirubinaemia
+5583,Haemorrhoid operation
+5589,Ligament operation
+5595,Hyperchloraemia
+5613,Haematotoxicity
+5615,Sensation of foreign body
+5617,Aneurysm
+5619,Skin toxicity
+5625,Drug dose omission
+5626,Increased tendency to bruise
+5631,Foetal anticonvulsant syndrome
+5636,Stridor
+5638,Nephropathy toxic
+5639,Virologic failure
+5649,Blood pressure diastolic decreased
+5651,Device failure
+5656,Sensory loss
+5660,Gynaecomastia
+5661,Loss of employment
+5663,Product substitution issue
+5666,Macrocytosis
+5667,Photophobia
+5668,Red blood cell sedimentation rate increased
+5671,Negative thoughts
+5675,Hypophagia
+5678,Device issue
+5679,Underdose
+5685,Inappropriate schedule of drug administration
+5686,Incorrect route of drug administration
+5687,Incorrect dose administered
+5688,Potentiating drug interaction
+5689,Prescribed overdose
+5690,Granuloma skin
+5693,Therapeutic response decreased
+5694,Faeces discoloured
+5699,Clumsiness
+5714,Haemorrhagic stroke
+5718,Wrong technique in product usage process
+5719,Volvulus
+5722,Hypoaesthesia oral
+5723,Paraesthesia oral
+5725,Economic problem
+5726,Electromyogram abnormal
+5727,Gallbladder non-functioning
+5728,Tongue discolouration
+5729,Vitamin B6 increased
+5730,Weight fluctuation
+5732,Incorrect drug administration duration
+5733,Ageusia
+5740,Pallor
+5742,Injection site rash
+5743,Tooth fracture
+5745,Sense of oppression
+5748,Heat stroke
+5750,Device breakage
+5756,Product adhesion issue
+5763,Therapeutic response shortened
+5764,Neutrophil count increased
+5765,Coma
+5766,Cyanosis
+5770,Blood creatinine decreased
+5773,Protein total increased
+5775,Diaphragmalgia
+5777,Injection site mass
+5788,Breath sounds abnormal
+5790,Drug administered at inappropriate site
+5792,Tympanic membrane perforation
+5793,Sudden death
+5794,Snoring
+5795,Pneumothorax
+5796,Drug diversion
+5797,Food poisoning
+5799,Vomiting projectile
+5803,Purulence
+5804,Hand deformity
+5805,Injection site haemorrhage
+5808,Metabolic encephalopathy
+5812,Pulseless electrical activity
+5814,Discoloured vomit
+5818,Menstruation delayed
+5821,Lymphopenia
+5826,Debridement
+5835,Impaired work ability
+5837,Drug ineffective for unapproved indication
+5841,Drug effect decreased
+5849,Catheter site haemorrhage
+5850,Fine motor skill dysfunction
+5851,Posture abnormal
+5857,Drug effect incomplete
+5858,Product storage error
+5860,Cell death
+5863,Impaired driving ability
+5866,Jaw disorder
+5867,Therapy cessation
+5869,Device use issue
+5883,Gastrointestinal perforation
+5894,Exposure to chemical pollution
+5895,Haemothorax
+5901,Intestinal ischaemia
+5908,Poor venous access
+5911,No adverse event
+5913,Gastrointestinal sounds abnormal
+5914,Grip strength decreased
+5916,Blood blister
+5920,JC virus infection
+5922,Blood urea increased
+5926,Periorbital oedema
+5929,Therapy non-responder
+5935,Wound haemorrhage
+5942,Prescribed underdose
+5944,Coma scale abnormal
+5950,Lip oedema
+5951,Type IV hypersensitivity reaction
+5960,Needle issue
+5967,Oxygen consumption increased
+5968,Hypokinesia
+5973,Ketoacidosis
+5975,Exposed bone in jaw
+5977,Scab
+5979,Physical assault
+5981,Bradykinesia
+5991,Intervertebral disc compression
+5992,Neck mass
+6005,Mastication disorder
+6008,Sleep talking
+6009,Respiratory arrest
+6016,Aphonia
+6018,Hepatic cyst
+6023,Blood lactate dehydrogenase increased
+6024,Incision site swelling
+6027,Acute prerenal failure
+6030,Ureteric stenosis
+6031,Visual acuity reduced
+6038,Painful respiration
+6045,Walking aid user
+6051,Contraindicated product administered
+6053,Polyomavirus test positive
+6054,Urethral discharge
+6056,Circumstance or information capable of leading to medication error
+6061,Device malfunction
+6063,Cold sweat
+6064,Electrocardiogram QRS complex prolonged
+6074,Victim of child abuse
+6078,Lymphocyte count increased
+6079,Monocyte count increased
+6083,Expired product administered
+6094,Haematocrit decreased
+6099,Skin haemorrhage
+6104,Paradoxical drug reaction
+6107,Electrocardiogram abnormal
+6111,Ureteric obstruction
+6112,Sluggishness
+6114,Epidermal necrosis
+6125,Drug specific antibody
+6136,Nuclear magnetic resonance imaging abnormal
+6142,Application site pain
+6144,Joint contracture
+6152,Gastrointestinal necrosis
+6153,Anosmia
+6154,Toxic encephalopathy
+6156,Stupor
+6163,Respiratory depression
+6165,Injection site warmth
+6170,Cartilage atrophy
+6176,Haptoglobin decreased
+6181,Device infusion issue
+6190,Large intestine perforation
+6191,Skeletal injury
+6203,Dermatitis bullous
+6204,Cholestatic liver injury
+6209,Nephrocalcinosis
+6212,Aortic dilatation
+6216,Brain natriuretic peptide increased
+6222,Skin induration
+6232,Feeling drunk
+6237,CD4 lymphocytes decreased
+6244,Compartment syndrome
+6246,Injection site urticaria
+6247,Intentional device misuse
+6251,Breast discharge
+6254,Hyperreflexia
+6258,Altered state of consciousness
+6261,Cardiotoxicity
+6269,Orthopnoea
+6272,Exercise tolerance decreased
+6314,Electrocardiogram ST segment abnormal
+6320,Cervical dysplasia
+6321,Vascular pseudoaneurysm
+6324,Application site vesicles
+6325,Sleep-related eating disorder
+6341,Fear of injection
+6351,Tracheo-oesophageal fistula
+6353,Pulse absent
+6362,Intentional dose omission
+6374,Medical device pain
+6375,Device connection issue
+6376,Stitch abscess
+6383,Water intoxication
+6385,Oligohydramnios
+6387,Ruptured cerebral aneurysm
+6390,Oliguria
+6393,Seizure like phenomena
+6399,Eosinophilic pneumonia acute
+6400,Renal injury
+6408,Primary sequestrum
+6416,Suspiciousness
+6419,Atrioventricular block first degree
+6423,Hepatic haemorrhage
+6427,Joint range of motion decreased
+6428,Renal function test abnormal
+6436,Product availability issue
+6439,Vitreous floaters
+6444,Tearfulness
+6449,Live birth
+6458,Pericardial haemorrhage
+6461,Ileus paralytic
+6468,Injection site discolouration
+6475,Intestinal polyp
+6476,Mouth swelling
+6479,Skin tightness
+6483,Delayed puberty
+6491,Normal newborn
+6493,Sopor
+6496,Premature rupture of membranes
+6500,Choroidal effusion
+6511,Lymphocyte percentage decreased
+6512,ECG signs of myocardial ischaemia
+6514,Pregnancy on contraceptive
+6520,Penile swelling
+6540,Weight bearing difficulty
+6545,Pneumatosis
+6552,Abnormal sleep-related event
+6554,Onychomadesis
+6558,Congenital cardiovascular anomaly
+6560,Deformity thorax
+6565,Drug monitoring procedure not performed
+6569,Blood creatinine abnormal
+6570,Blood urea abnormal
+6582,Mitochondrial DNA mutation
+6584,Post-tussive vomiting
+6586,Crepitations
+6587,Albumin urine present
+6600,Post procedural cellulitis
+6601,Gingival atrophy
+6620,Gallbladder enlargement
+6640,Monoplegia
+6664,Delayed recovery from anaesthesia
+6677,Laziness
+6684,Pulmonary toxicity
+6688,Anorectal discomfort
+6690,Diabetic coma
+6691,Rash vesicular
+6714,Libido increased
+6736,Body temperature fluctuation
+6737,Bone marrow toxicity
+6741,Haemorrhagic arteriovenous malformation
+6763,Large intestinal stenosis
+6777,Family stress
+6788,Mean cell volume increased
+6791,Monoparesis
+6800,Haemobilia
+6802,Gastrointestinal obstruction
+6807,Orgasm abnormal
+6811,Pregnancy on oral contraceptive
+6813,Uterine infection
+6814,Inadequate analgesia
+6830,Blood lactic acid increased
+6837,Choledochoenterostomy
+6878,Incorrect dosage administered
+6921,Astigmatism
+6923,Meningitis chemical
+6930,Hemianopia
+6935,Deformity
+6939,Renal haemorrhage
+6943,Entropion
+6948,Jaw fracture
+6949,Hepatitis fulminant
+6964,Wound secretion
+6967,Normochromic normocytic anaemia
+6974,Human herpes virus 8 test positive
+6979,Gastrointestinal injury
+6988,Respiratory tract irritation
+6992,Subretinal fluid
+6993,Wrong technique in device usage process
+6995,Dizziness exertional
+7001,Breast swelling
+7002,Hemianaesthesia
+7014,Therapy partial responder
+7018,Arterial haemorrhage
+7022,Arteriovenous fistula site complication
+7024,Facial paresis
+7025,Tunnel vision
+7032,Suicidal behaviour
+7042,Labelled drug-drug interaction medication error
+7049,Product colour issue
+7054,Reticulocyte count increased
+7055,Vaginal abscess
+7063,Haematocrit abnormal
+7064,Haemorrhagic disorder
+7066,Tumour haemorrhage
+7067,Retinal pigment epitheliopathy
+7078,Tetany
+7079,Packed red blood cell transfusion
+7103,Stillbirth
+7108,Respiratory tract haemorrhage
+7110,Cerebral artery thrombosis
+7127,Human chorionic gonadotropin increased
+7141,Cardiopulmonary failure
+7147,Vocal cord disorder
+7151,Drug tolerance decreased
+7158,Soft tissue mass
+7160,Brain death
+7161,Cerebral hypoperfusion
+7176,Chest X-ray abnormal
+7200,Hypoperfusion
+7203,Meningitis listeria
+7205,Anticholinergic syndrome
+7214,Product container issue
+7218,Vascular stent thrombosis
+7222,Serum sickness
+7249,Twin pregnancy
+7250,Myocardial stunning
+7254,Rash morbilliform
+7256,Papilloedema
+7262,Disorganised speech
+7278,Product physical issue
+7282,Cerebellar atrophy
+7288,Medial tibial stress syndrome
+7297,Tongue oedema
+7299,Pancreatic toxicity
+7306,Type I hypersensitivity
+7368,Prostate cancer stage II
+7372,Oesophageal mucosal tear
+7391,Intestinal scarring
+7412,Nipple exudate bloody
+7419,Penile haematoma
+7450,Genital burning sensation
+7457,Lichenoid keratosis
+7459,Abdominal compartment syndrome
+7473,Hypotonia neonatal
+7478,Aspirin-exacerbated respiratory disease
+7479,Defaecation urgency
+7493,Uterine pain
+7494,Medical device discomfort
+7522,Meningoencephalitis bacterial
+7547,Aerophagia
+7561,Product blister packaging issue
+7567,Tumour invasion
+7578,Candiduria
+7583,Change in seizure presentation
+7584,Cellulitis of male external genital organ
+7586,Therapeutic response delayed
+7588,Cystitis radiation
+7597,Parkinsonian rest tremor
+7604,Vulvovaginal rash
+7607,Waxy flexibility
+7626,Device damage
+7645,Moraxella infection
+7651,Echolalia
+7660,Genital blister
+7672,Product odour abnormal
+7683,Hypoglycaemic unconsciousness
+7717,Loose body in joint
+7727,Eye colour change
+7732,Platelet transfusion
+7742,Anticoagulation drug level below therapeutic
+7757,Retinal toxicity
+7760,Hypoglycaemic seizure
+7768,Lack of satiety
+7775,Drug dose titration not performed
+7787,Venous injury
+7793,Antipsychotic drug level increased
+7797,Dermatitis infected
+7808,Hyperammonaemic encephalopathy
+7814,Bezoar
+7816,Mitochondrial toxicity
+7822,Documented hypersensitivity to administered product
+7875,Blood gases abnormal
+7876,Therapeutic product cross-reactivity
+7882,Leukoencephalopathy
+7883,Injection site papule
+7887,Bone prosthesis insertion
+7911,Histology abnormal
+7920,Salivary gland enlargement
+7922,Blood pH decreased
+7941,Listeria sepsis
+7950,Medical device site joint effusion
+7984,Corneal operation
+7985,Genital ulceration
+7986,Ligneous conjunctivitis
+7994,Mean cell haemoglobin concentration increased
+8019,Molluscum contagiosum
+8028,Poor feeding infant
+8045,High frequency ablation
+8060,Malpositioned teeth
+8097,Creatinine renal clearance decreased
+8106,Gastroenteritis Escherichia coli
+8129,Steroid withdrawal syndrome
+8137,Graft thrombosis
+8177,Gastrointestinal polyp haemorrhage
+8180,Trichomegaly
+8184,Lid sulcus deepened
+8188,Epidural haemorrhage
+8200,Drug screen false positive
+8204,Deja vu
+8207,Viral mutation identified
+8220,Immune reconstitution inflammatory syndrome associated tuberculosis
+8224,Intestinal atresia
+8251,Klebsiella sepsis
+8255,Pharyngeal mass
+8299,Reticulocyte percentage increased
+8311,Failed induction of labour
+8313,Adrenal cyst
+8340,Deep brain stimulation
+8418,Hepatic necrosis
+8441,Gastrointestinal ulcer haemorrhage
+8483,Tongue erythema
+8494,Parathyroid tumour
+8509,Carbon dioxide decreased
+8541,Pancreatic duct dilatation
+8545,Acute right ventricular failure
+8547,Perirectal abscess
+8550,Medication monitoring error
+8572,Pseudolymphoma
+8587,Osteosynthesis
+8616,Neutrophil percentage increased
+8631,Sudden cardiac death
+8647,Spinal epidural haematoma
+8649,Hepatosplenic candidiasis
+8684,Alcohol test false positive
+8730,Breath holding
+8733,Administration site extravasation
+8771,Torulopsis infection
+8840,Low density lipoprotein decreased
+8851,Colon gangrene
+8864,Anorgasmia
+8870,Spinal cord haemorrhage
+8903,Segmented hyalinising vasculitis
+8904,Herpes zoster pharyngitis
+8906,Bone formation decreased
+8907,Resorption bone decreased
+8911,Aortic valve calcification
+8965,Spontaneous penile erection
+8982,Central nervous system necrosis
+8999,Infusion site thrombosis
+9026,Diabetic ketosis
+9060,Duodenal obstruction
+9090,Flight of ideas
+9093,Bronchial haemorrhage
+9117,Genital swelling
+9135,Cardiac steatosis
+9163,Portal vein cavernous transformation
+9164,Portal vein occlusion
+9214,Injection site macule
+9220,Limb immobilisation
+9258,Infusion site rash
+9271,Paranasal sinus haemorrhage
+9297,Spinal cord haematoma
+9307,Red man syndrome
+9343,Splenic injury
+9347,Scar excision
+9355,Vulvovaginitis
+9391,Dermatopathic lymphadenopathy
+9410,Cerebral ventricle collapse
+9418,Superior vena cava occlusion
+9419,Accidental death
+9420,Malignant sweat gland neoplasm
+9423,Nodular vasculitis
+9496,Dialysis device insertion
+9497,Engraft failure
+9522,Diabetic hyperglycaemic coma
+9548,Lymphocytic infiltration
+9560,Bradypnoea
+9635,Neurological examination abnormal
+9657,Sudden onset of sleep
+9681,Lens disorder
+9716,Large intestinal ulcer perforation
+9727,Clubbing
+9749,Normochromic anaemia
+9777,Clostridium bacteraemia
+9778,Mesenteric abscess
+9788,Skin oedema
+9823,Chemical burn of skin
+9875,Eclampsia
+9882,Female sexual dysfunction
+9888,Gardnerella test positive
+9921,Posturing
+9922,Injection site ischaemia
+9926,Mammary fistula
+9943,Drug dispensed to wrong patient
+9952,Sensorimotor disorder
+9964,Female orgasmic disorder
+10023,Laboratory test interference
+10097,Autophobia
+10122,Vulval abscess
+10152,Aeromonas infection
+10240,Orgasmic sensation decreased
+10262,Colour blindness
+10265,Copper deficiency
+10298,Sleep sex
+10405,Nocturnal emission
+10407,Anion gap
+10431,Trigemino-cardiac reflex
+10502,Cerebrospinal fluid circulation disorder
+10636,Intestinal varices haemorrhage
+10665,CD30 expression
+10682,Blood electrolytes increased
+10873,Foetal movement disorder
+11082,Seroconversion test positive
+11217,Internal injury
+11234,Adenoviral hepatitis
+11256,Infected varicose vein
+11365,Antipsychotic drug level above therapeutic
+11514,Propofol infusion syndrome
+11839,Enterocolitis helminthic
+11969,Echopraxia
+11980,Heparin-induced thrombocytopenia test
+11981,Heparin-induced thrombocytopenia test positive

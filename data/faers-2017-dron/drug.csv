@@ -1,0 +1,813 @@
+code,name
+http://purl.obolibrary.org/obo/CHEBI_6801,METFORMIN
+http://purl.obolibrary.org/obo/CHEBI_5118,FLUOXETINE
+http://purl.obolibrary.org/obo/DRON_00020192,VITAMIN D3
+http://purl.obolibrary.org/obo/CHEBI_3561,CETIRIZINE
+http://purl.obolibrary.org/obo/CHEBI_27300,VITAMIN D
+http://purl.obolibrary.org/obo/CHEBI_26216,POTASSIUM
+http://purl.obolibrary.org/obo/CHEBI_50730,MONTELUKAST
+http://purl.obolibrary.org/obo/CHEBI_37943,COLISTIN
+http://purl.obolibrary.org/obo/CHEBI_3723,CITALOPRAM
+http://purl.obolibrary.org/obo/CHEBI_46195,PARACETAMOL
+http://purl.obolibrary.org/obo/CHEBI_9943,VENLAFAXINE
+http://purl.obolibrary.org/obo/CHEBI_7915,PANTOPRAZOLE
+http://purl.obolibrary.org/obo/CHEBI_2668,AMLODIPINE
+http://purl.obolibrary.org/obo/CHEBI_28445,VINCRISTINE
+http://purl.obolibrary.org/obo/CHEBI_37941,CLOPIDOGREL
+http://purl.obolibrary.org/obo/CHEBI_39548,ATORVASTATIN
+http://purl.obolibrary.org/obo/CHEBI_3127,BISOPROLOL
+http://purl.obolibrary.org/obo/CHEBI_16709,PYRIDOXINE
+http://purl.obolibrary.org/obo/CHEBI_9654,TRAZODONE
+http://purl.obolibrary.org/obo/DRON_00020050,IPILIMUMAB
+http://purl.obolibrary.org/obo/DRON_00723857,APIXABAN
+http://purl.obolibrary.org/obo/CHEBI_48416,OLMESARTAN
+http://purl.obolibrary.org/obo/CHEBI_41774,TAMOXIFEN
+http://purl.obolibrary.org/obo/CHEBI_205919,CLOBETASOL
+http://purl.obolibrary.org/obo/CHEBI_5790,HYDROMORPHONE
+http://purl.obolibrary.org/obo/DRON_00018947,AMBRISENTAN
+http://purl.obolibrary.org/obo/CHEBI_47381,DICLOFENAC
+http://purl.obolibrary.org/obo/CHEBI_16714,CODEINE
+http://purl.obolibrary.org/obo/CHEBI_17303,MORPHINE
+http://purl.obolibrary.org/obo/CHEBI_5818,HYDROXYZINE
+http://purl.obolibrary.org/obo/CHEBI_50275,ESOMEPRAZOLE
+http://purl.obolibrary.org/obo/CHEBI_7852,OXYCODONE
+http://purl.obolibrary.org/obo/DRON_00012887,INFLIXIMAB
+http://purl.obolibrary.org/obo/DRON_00019465,USTEKINUMAB
+http://purl.obolibrary.org/obo/CHEBI_50694,MINOCYCLINE
+http://purl.obolibrary.org/obo/CHEBI_2663,AMIODARONE
+http://purl.obolibrary.org/obo/CHEBI_9667,TRIAMCINOLONE
+http://purl.obolibrary.org/obo/DRON_00011800,ZOPICLONE
+http://purl.obolibrary.org/obo/DRON_00010111,HYDROXYCHLOROQUINE
+http://purl.obolibrary.org/obo/CHEBI_10125,ZOLPIDEM
+http://purl.obolibrary.org/obo/DRON_00723200,IRON
+http://purl.obolibrary.org/obo/CHEBI_33234,VITAMIN E
+http://purl.obolibrary.org/obo/CHEBI_2379,ACEBUTOLOL
+http://purl.obolibrary.org/obo/CHEBI_9123,SERTRALINE
+http://purl.obolibrary.org/obo/CHEBI_28748,DOXORUBICIN
+http://purl.obolibrary.org/obo/CHEBI_10033,WARFARIN
+http://purl.obolibrary.org/obo/CHEBI_9925,SODIUM VALPROATE
+http://purl.obolibrary.org/obo/CHEBI_16962,CORTISONE
+http://purl.obolibrary.org/obo/DRON_00019123,ROMIPLOSTIM
+http://purl.obolibrary.org/obo/CHEBI_16796,MELATONIN
+http://purl.obolibrary.org/obo/DRON_00723183,CALCIUM
+http://purl.obolibrary.org/obo/DRON_00018175,CALCIUM CITRATE
+http://purl.obolibrary.org/obo/CHEBI_4708,DOXAZOSIN
+http://purl.obolibrary.org/obo/DRON_00018242,ONDANSETRON
+http://purl.obolibrary.org/obo/DRON_00018971,ADALIMUMAB
+http://purl.obolibrary.org/obo/CHEBI_28001,VANCOMYCIN
+http://purl.obolibrary.org/obo/DRON_00017834,MIDAZOLAM
+http://purl.obolibrary.org/obo/CHEBI_28304,HEPARIN
+http://purl.obolibrary.org/obo/CHEBI_5779,HYDROCODONE
+http://purl.obolibrary.org/obo/DRON_00017825,MECLIZINE
+http://purl.obolibrary.org/obo/DRON_00012992,IRINOTECAN
+http://purl.obolibrary.org/obo/CHEBI_46245,COENZYME Q10
+http://purl.obolibrary.org/obo/DRON_00012653,NICARDIPINE
+http://purl.obolibrary.org/obo/CHEBI_42068,IDARUBICIN
+http://purl.obolibrary.org/obo/CHEBI_2637,AMIKACIN
+http://purl.obolibrary.org/obo/CHEBI_478164,CEFEPIME
+http://purl.obolibrary.org/obo/DRON_00018916,POSACONAZOLE
+http://purl.obolibrary.org/obo/DRON_00020042,BELIMUMAB
+http://purl.obolibrary.org/obo/CHEBI_2666,AMITRIPTYLINE
+http://purl.obolibrary.org/obo/DRON_00017502,GRANISETRON
+http://purl.obolibrary.org/obo/DRON_00018241,DOCUSATE
+http://purl.obolibrary.org/obo/CHEBI_4784,ENALAPRIL
+http://purl.obolibrary.org/obo/CHEBI_15365,ACETYLSALICYLIC ACID
+http://purl.obolibrary.org/obo/DRON_00018918,PANITUMUMAB
+http://purl.obolibrary.org/obo/DRON_00730819,DABRAFENIB
+http://purl.obolibrary.org/obo/DRON_00016922,ETANERCEPT
+http://purl.obolibrary.org/obo/CHEBI_15854,QUININE
+http://purl.obolibrary.org/obo/DRON_00723186,MAGNESIUM
+http://purl.obolibrary.org/obo/DRON_00020281,EMTRICITABINE
+http://purl.obolibrary.org/obo/DRON_00018758,SOLIFENACIN
+http://purl.obolibrary.org/obo/CHEBI_35854,VALACYCLOVIR
+http://purl.obolibrary.org/obo/DRON_00016931,TINZAPARIN
+http://purl.obolibrary.org/obo/CHEBI_6532,LOPERAMIDE
+http://purl.obolibrary.org/obo/DRON_00012681,TEICOPLANIN
+http://purl.obolibrary.org/obo/DRON_00012972,CASPOFUNGIN
+http://purl.obolibrary.org/obo/CHEBI_28384,VITAMIN K
+http://purl.obolibrary.org/obo/CHEBI_28934,VITAMIN D2
+http://purl.obolibrary.org/obo/CHEBI_2567,ALENDRONIC ACID
+http://purl.obolibrary.org/obo/CHEBI_27786,HYDROXOCOBALAMIN
+http://purl.obolibrary.org/obo/CHEBI_18243,DOPAMINE
+http://purl.obolibrary.org/obo/CHEBI_6933,MIDODRINE
+http://purl.obolibrary.org/obo/DRON_00017860,DOMPERIDONE
+http://purl.obolibrary.org/obo/CHEBI_5775,HYDRALAZINE
+http://purl.obolibrary.org/obo/CHEBI_5050,FEXOFENADINE
+http://purl.obolibrary.org/obo/DRON_00730827,IBRUTINIB
+http://purl.obolibrary.org/obo/DRON_00015249,LOXOPROFEN
+http://purl.obolibrary.org/obo/CHEBI_35176,ZINC SULFATE
+http://purl.obolibrary.org/obo/DRON_00014158,GLICLAZIDE
+http://purl.obolibrary.org/obo/CHEBI_8768,RABEPRAZOLE
+http://purl.obolibrary.org/obo/DRON_00018683,BORTEZOMIB
+http://purl.obolibrary.org/obo/CHEBI_6343,LABETALOL
+http://purl.obolibrary.org/obo/DRON_00730805,ALENDRONATE
+http://purl.obolibrary.org/obo/DRON_00013640,ZOLEDRONIC ACID
+http://purl.obolibrary.org/obo/DRON_00018970,PEGFILGRASTIM
+http://purl.obolibrary.org/obo/CHEBI_4710,DOXEPIN
+http://purl.obolibrary.org/obo/CHEBI_8461,PROMETHAZINE
+http://purl.obolibrary.org/obo/CHEBI_33568,ADRENALINE
+http://purl.obolibrary.org/obo/DRON_00017872,RISEDRONATE
+http://purl.obolibrary.org/obo/CHEBI_5956,IPRATROPIUM
+http://purl.obolibrary.org/obo/DRON_00016597,VITAMIN B COMPLEX
+http://purl.obolibrary.org/obo/CHEBI_5417,GLUCOSAMINE
+http://purl.obolibrary.org/obo/CHEBI_7640,NORTRIPTYLINE
+http://purl.obolibrary.org/obo/CHEBI_47780,CLOMIPRAMINE
+http://purl.obolibrary.org/obo/CHEBI_4450,DESMOPRESSIN
+http://purl.obolibrary.org/obo/DRON_00016924,IBANDRONATE
+http://purl.obolibrary.org/obo/DRON_00016651,FERROUS GLUCONATE
+http://purl.obolibrary.org/obo/CHEBI_8499,PROPRANOLOL
+http://purl.obolibrary.org/obo/CHEBI_3223,BUSPIRONE
+http://purl.obolibrary.org/obo/DRON_00014319,AMISULPRIDE
+http://purl.obolibrary.org/obo/DRON_00017465,ACAMPROSATE
+http://purl.obolibrary.org/obo/CHEBI_6722,MEGESTROL
+http://purl.obolibrary.org/obo/DRON_00019228,CERTOLIZUMAB PEGOL
+http://purl.obolibrary.org/obo/CHEBI_3013,BENDROFLUMETHIAZIDE
+http://purl.obolibrary.org/obo/DRON_00014129,HEROIN
+http://purl.obolibrary.org/obo/DRON_00017210,BENDAMUSTINE
+http://purl.obolibrary.org/obo/DRON_00018756,ERLOTINIB
+http://purl.obolibrary.org/obo/CHEBI_9398,TAMSULOSIN
+http://purl.obolibrary.org/obo/DRON_00016913,FILGRASTIM
+http://purl.obolibrary.org/obo/DRON_00018586,ESCITALOPRAM
+http://purl.obolibrary.org/obo/DRON_00020188,AXITINIB
+http://purl.obolibrary.org/obo/DRON_00018685,TADALAFIL
+http://purl.obolibrary.org/obo/DRON_00020099,RIVAROXABAN
+http://purl.obolibrary.org/obo/CHEBI_4514,DICYCLOMINE
+http://purl.obolibrary.org/obo/CHEBI_41977,DAUNORUBICIN
+http://purl.obolibrary.org/obo/DRON_00018791,MICAFUNGIN
+http://purl.obolibrary.org/obo/CHEBI_8232,PIPERACILLIN
+http://purl.obolibrary.org/obo/DRON_00017686,SEVELAMER
+http://purl.obolibrary.org/obo/DRON_00018834,SORAFENIB
+http://purl.obolibrary.org/obo/DRON_00014515,BETAHISTINE
+http://purl.obolibrary.org/obo/DRON_00012838,PAMIDRONATE
+http://purl.obolibrary.org/obo/DRON_00017641,DIPYRONE
+http://purl.obolibrary.org/obo/DRON_00012179,PLACEBO
+http://purl.obolibrary.org/obo/DRON_00017749,DIHYDROCODEINE
+http://purl.obolibrary.org/obo/DRON_00010944,LACIDIPINE
+http://purl.obolibrary.org/obo/DRON_00014609,CARBAZOCHROME
+http://purl.obolibrary.org/obo/DRON_00011910,BIPERIDEN
+http://purl.obolibrary.org/obo/CHEBI_9948,VERAPAMIL
+http://purl.obolibrary.org/obo/CHEBI_27306,VITAMIN B6
+http://purl.obolibrary.org/obo/DRON_00019437,TREPROSTINIL
+http://purl.obolibrary.org/obo/CHEBI_6807,METHADONE
+http://purl.obolibrary.org/obo/DRON_00020286,LINACLOTIDE
+http://purl.obolibrary.org/obo/CHEBI_9332,SULFAMETHOXAZOLE
+http://purl.obolibrary.org/obo/DRON_00019004,LEVOCETIRIZINE
+http://purl.obolibrary.org/obo/CHEBI_3175,BRIMONIDINE
+http://purl.obolibrary.org/obo/CHEBI_28177,THEOPHYLLINE
+http://purl.obolibrary.org/obo/CHEBI_40237,SITAGLIPTIN
+http://purl.obolibrary.org/obo/CHEBI_6970,MOMETASONE
+http://purl.obolibrary.org/obo/DRON_00014175,TIOTROPIUM
+http://purl.obolibrary.org/obo/CHEBI_15765,LEVODOPA
+http://purl.obolibrary.org/obo/DRON_00723863,VEDOLIZUMAB
+http://purl.obolibrary.org/obo/CHEBI_3001,BECLOMETHASONE
+http://purl.obolibrary.org/obo/DRON_00020129,ABATACEPT
+http://purl.obolibrary.org/obo/DRON_00010804,FLURAZEPAM
+http://purl.obolibrary.org/obo/DRON_00015230,CARBOMER
+http://purl.obolibrary.org/obo/CHEBI_28077,RIFAMPICIN
+http://purl.obolibrary.org/obo/CHEBI_4877,ETHAMBUTOL
+http://purl.obolibrary.org/obo/DRON_00013305,ACECLOFENAC
+http://purl.obolibrary.org/obo/DRON_00016203,FLECAINIDE
+http://purl.obolibrary.org/obo/DRON_00020285,ENZALUTAMIDE
+http://purl.obolibrary.org/obo/DRON_00017811,KETOROLAC
+http://purl.obolibrary.org/obo/CHEBI_4702,DORZOLAMIDE
+http://purl.obolibrary.org/obo/CHEBI_3011,BENAZEPRIL
+http://purl.obolibrary.org/obo/DRON_00010507,CLOBAZAM
+http://purl.obolibrary.org/obo/DRON_00020166,AFLIBERCEPT
+http://purl.obolibrary.org/obo/CHEBI_27958,COCAINE
+http://purl.obolibrary.org/obo/CHEBI_8024,PERINDOPRIL
+http://purl.obolibrary.org/obo/CHEBI_3048,BENZTROPINE
+http://purl.obolibrary.org/obo/DRON_00018841,LENALIDOMIDE
+http://purl.obolibrary.org/obo/DRON_00017540,FLUDARABINE
+http://purl.obolibrary.org/obo/DRON_00019864,DENOSUMAB
+http://purl.obolibrary.org/obo/DRON_00019221,INSULIN GLARGINE
+http://purl.obolibrary.org/obo/DRON_00017005,PYRIDOSTIGMINE
+http://purl.obolibrary.org/obo/DRON_00020261,CARFILZOMIB
+http://purl.obolibrary.org/obo/DRON_00011110,MIANSERIN
+http://purl.obolibrary.org/obo/DRON_00018039,COLLAGEN
+http://purl.obolibrary.org/obo/CHEBI_7447,NAFCILLIN
+http://purl.obolibrary.org/obo/DRON_00013598,LERCANIDIPINE
+http://purl.obolibrary.org/obo/DRON_00011132,MOXONIDINE
+http://purl.obolibrary.org/obo/CHEBI_175901,GEMCITABINE
+http://purl.obolibrary.org/obo/DRON_00019170,DEGARELIX
+http://purl.obolibrary.org/obo/DRON_00010798,FLUNITRAZEPAM
+http://purl.obolibrary.org/obo/CHEBI_28971,AMPICILLIN
+http://purl.obolibrary.org/obo/DRON_00012997,BASILIXIMAB
+http://purl.obolibrary.org/obo/DRON_00015799,BROMAZEPAM
+http://purl.obolibrary.org/obo/DRON_00015735,NITRAZEPAM
+http://purl.obolibrary.org/obo/CHEBI_45652,SUCCINYLCHOLINE
+http://purl.obolibrary.org/obo/DRON_00018251,FERROUS FUMARATE
+http://purl.obolibrary.org/obo/DRON_00010354,BROTIZOLAM
+http://purl.obolibrary.org/obo/CHEBI_22907,BLEOMYCIN
+http://purl.obolibrary.org/obo/CHEBI_9445,TERAZOSIN
+http://purl.obolibrary.org/obo/DRON_00017098,CYCLIZINE
+http://purl.obolibrary.org/obo/DRON_00016886,POTASSIUM GLUCONATE
+http://purl.obolibrary.org/obo/DRON_00019163,ELTROMBOPAG
+http://purl.obolibrary.org/obo/DRON_00730826,MACITENTAN
+http://purl.obolibrary.org/obo/CHEBI_15891,TAURINE
+http://purl.obolibrary.org/obo/DRON_00010566,DEFLAZACORT
+http://purl.obolibrary.org/obo/CHEBI_27375,VINBLASTINE
+http://purl.obolibrary.org/obo/DRON_00010490,CIPROFIBRATE
+http://purl.obolibrary.org/obo/DRON_00020006,DABIGATRAN ETEXILATE
+http://purl.obolibrary.org/obo/DRON_00018671,ETORICOXIB
+http://purl.obolibrary.org/obo/CHEBI_102524,BUTALBITAL
+http://purl.obolibrary.org/obo/CHEBI_480999,VINORELBINE
+http://purl.obolibrary.org/obo/CHEBI_4470,DEXTROMETHORPHAN
+http://purl.obolibrary.org/obo/CHEBI_37445,FOLATE
+http://purl.obolibrary.org/obo/DRON_00019225,GOLIMUMAB
+http://purl.obolibrary.org/obo/DRON_00015867,SULPIRIDE
+http://purl.obolibrary.org/obo/CHEBI_474053,CEFAZOLIN
+http://purl.obolibrary.org/obo/CHEBI_51141,ALFUZOSIN
+http://purl.obolibrary.org/obo/DRON_00019230,TOLVAPTAN
+http://purl.obolibrary.org/obo/DRON_00016225,FOSPHENYTOIN
+http://purl.obolibrary.org/obo/DRON_00016920,ANAKINRA
+http://purl.obolibrary.org/obo/CHEBI_2679,AMPHETAMINE
+http://purl.obolibrary.org/obo/CHEBI_17334,PENICILLIN
+http://purl.obolibrary.org/obo/DRON_00016163,PENICILLIN
+http://purl.obolibrary.org/obo/DRON_00015650,MAGNESIUM GLUCONATE
+http://purl.obolibrary.org/obo/DRON_00020314,PERAMPANEL
+http://purl.obolibrary.org/obo/DRON_00019500,OFATUMUMAB
+http://purl.obolibrary.org/obo/DRON_00017626,INSULIN DETEMIR
+http://purl.obolibrary.org/obo/CHEBI_7809,OXACILLIN
+http://purl.obolibrary.org/obo/DRON_00020132,BRENTUXIMAB VEDOTIN
+http://purl.obolibrary.org/obo/DRON_00015585,PHTHALYLSULFATHIAZOLE
+http://purl.obolibrary.org/obo/DRON_00015922,THALIDOMIDE
+http://purl.obolibrary.org/obo/DRON_00012123,FLUVASTATIN
+http://purl.obolibrary.org/obo/DRON_00017779,UBIQUINOL
+http://purl.obolibrary.org/obo/DRON_00723861,SOFOSBUVIR
+http://purl.obolibrary.org/obo/DRON_00017616,EVENING PRIMROSE OIL
+http://purl.obolibrary.org/obo/CHEBI_9316,SUFENTANIL
+http://purl.obolibrary.org/obo/CHEBI_7459,NALOXONE
+http://purl.obolibrary.org/obo/DRON_00010143,ACENOCOUMAROL
+http://purl.obolibrary.org/obo/CHEBI_50885,FLUDROCORTISONE
+http://purl.obolibrary.org/obo/DRON_00011281,PEGASPARGASE
+http://purl.obolibrary.org/obo/CHEBI_8802,REMIFENTANIL
+http://purl.obolibrary.org/obo/CHEBI_5138,FLUVOXAMINE
+http://purl.obolibrary.org/obo/DRON_00014001,ALFACALCIDOL
+http://purl.obolibrary.org/obo/CHEBI_30660,THYROXINE
+http://purl.obolibrary.org/obo/CHEBI_209807,CEFOXITIN
+http://purl.obolibrary.org/obo/DRON_00017492,GLUTATHIONE
+http://purl.obolibrary.org/obo/CHEBI_45081,PENTAMIDINE
+http://purl.obolibrary.org/obo/DRON_00020015,SAXAGLIPTIN
+http://purl.obolibrary.org/obo/DRON_00730832,ALBIGLUTIDE
+http://purl.obolibrary.org/obo/DRON_00016421,LOPINAVIR
+http://purl.obolibrary.org/obo/CHEBI_60654,VALPROATE
+http://purl.obolibrary.org/obo/DRON_00020255,MIRABEGRON
+http://purl.obolibrary.org/obo/DRON_00730859,DARATUMUMAB
+http://purl.obolibrary.org/obo/DRON_00016911,DALTEPARIN
+http://purl.obolibrary.org/obo/DRON_00730857,MEPOLIZUMAB
+http://purl.obolibrary.org/obo/DRON_00020176,TOCOPHEROL
+http://purl.obolibrary.org/obo/CHEBI_27013,TOCOPHEROL
+http://purl.obolibrary.org/obo/CHEBI_204928,CEFOTAXIME
+http://purl.obolibrary.org/obo/DRON_00017037,AMBROXOL
+http://purl.obolibrary.org/obo/DRON_00018693,IMATINIB
+http://purl.obolibrary.org/obo/CHEBI_28838,LUTEIN
+http://purl.obolibrary.org/obo/DRON_00010351,BROMPERIDOL
+http://purl.obolibrary.org/obo/CHEBI_5108,FLUOCINOLONE
+http://purl.obolibrary.org/obo/DRON_00016928,EPOETIN ALFA
+http://purl.obolibrary.org/obo/DRON_00020088,TELAPREVIR
+http://purl.obolibrary.org/obo/DRON_00020100,INDACATEROL
+http://purl.obolibrary.org/obo/DRON_00014650,CHLORPROTHIXENE
+http://purl.obolibrary.org/obo/DRON_00020139,CRIZOTINIB
+http://purl.obolibrary.org/obo/DRON_00018976,DARBEPOETIN ALFA
+http://purl.obolibrary.org/obo/CHEBI_28300,GLUTAMINE
+http://purl.obolibrary.org/obo/DRON_00012892,VINDESINE
+http://purl.obolibrary.org/obo/CHEBI_100246,NORFLOXACIN
+http://purl.obolibrary.org/obo/DRON_00013638,CARMUSTINE
+http://purl.obolibrary.org/obo/DRON_00020018,ERIBULIN
+http://purl.obolibrary.org/obo/DRON_00013033,ASPARAGINASE
+http://purl.obolibrary.org/obo/DRON_00018678,EFALIZUMAB
+http://purl.obolibrary.org/obo/CHEBI_4670,DOBUTAMINE
+http://purl.obolibrary.org/obo/DRON_00730836,EMPAGLIFLOZIN
+http://purl.obolibrary.org/obo/DRON_00010699,EPOETIN BETA
+http://purl.obolibrary.org/obo/CHEBI_52993,LORMETAZEPAM
+http://purl.obolibrary.org/obo/DRON_00010986,LORMETAZEPAM
+http://purl.obolibrary.org/obo/DRON_00016025,TRIHEXYPHENIDYL
+http://purl.obolibrary.org/obo/DRON_00020315,TOFACITINIB
+http://purl.obolibrary.org/obo/DRON_00020282,TENOFOVIR DISOPROXIL
+http://purl.obolibrary.org/obo/DRON_00018383,OSELTAMIVIR
+http://purl.obolibrary.org/obo/DRON_00011422,PRAZEPAM
+http://purl.obolibrary.org/obo/CHEBI_6809,METHAMPHETAMINE
+http://purl.obolibrary.org/obo/CHEBI_50729,MITOXANTRONE
+http://purl.obolibrary.org/obo/CHEBI_9566,THIORIDAZINE
+http://purl.obolibrary.org/obo/CHEBI_51209,PSEUDOEPHEDRINE
+http://purl.obolibrary.org/obo/CHEBI_9449,TERBUTALINE
+http://purl.obolibrary.org/obo/DRON_00010513,CLOFAZIMINE
+http://purl.obolibrary.org/obo/DRON_00018709,CINACALCET
+http://purl.obolibrary.org/obo/DRON_00019616,DALFAMPRIDINE
+http://purl.obolibrary.org/obo/CHEBI_17698,CHLORAMPHENICOL
+http://purl.obolibrary.org/obo/CHEBI_8093,PHENYLEPHRINE
+http://purl.obolibrary.org/obo/DRON_00018591,RASBURICASE
+http://purl.obolibrary.org/obo/DRON_00730842,BLINATUMOMAB
+http://purl.obolibrary.org/obo/CHEBI_4657,DISOPYRAMIDE
+http://purl.obolibrary.org/obo/CHEBI_33709,AMINO ACID
+http://purl.obolibrary.org/obo/DRON_00012467,PHENPROCOUMON
+http://purl.obolibrary.org/obo/DRON_00020298,TAPENTADOL
+http://purl.obolibrary.org/obo/CHEBI_52010,CHLORPHENAMINE
+http://purl.obolibrary.org/obo/DRON_00016250,DIGITOXIN
+http://purl.obolibrary.org/obo/CHEBI_9588,TICLOPIDINE
+http://purl.obolibrary.org/obo/DRON_00017836,IMIPENEM
+http://purl.obolibrary.org/obo/CHEBI_47499,IMIPRAMINE
+http://purl.obolibrary.org/obo/CHEBI_25094,LYSINE
+http://purl.obolibrary.org/obo/DRON_00016067,URAPIDIL
+http://purl.obolibrary.org/obo/DRON_00018759,NATALIZUMAB
+http://purl.obolibrary.org/obo/DRON_00015388,NEFOPAM
+http://purl.obolibrary.org/obo/DRON_00020177,DARUNAVIR
+http://purl.obolibrary.org/obo/CHEBI_51380,DOXYLAMINE
+http://purl.obolibrary.org/obo/CHEBI_4885,ETHIONAMIDE
+http://purl.obolibrary.org/obo/DRON_00016919,TERIPARATIDE
+http://purl.obolibrary.org/obo/CHEBI_102166,THIOPENTAL
+http://purl.obolibrary.org/obo/DRON_00018948,ROTIGOTINE
+http://purl.obolibrary.org/obo/DRON_00016031,TRIMETAZIDINE
+http://purl.obolibrary.org/obo/CHEBI_6824,METHENAMINE
+http://purl.obolibrary.org/obo/DRON_00019154,SILODOSIN
+http://purl.obolibrary.org/obo/DRON_00019019,DEXMETHYLPHENIDATE
+http://purl.obolibrary.org/obo/DRON_00723864,FERRIC CITRATE
+http://purl.obolibrary.org/obo/DRON_00012101,CREATINE
+http://purl.obolibrary.org/obo/DRON_00013023,LENOGRASTIM
+http://purl.obolibrary.org/obo/DRON_00014712,CYAMEMAZINE
+http://purl.obolibrary.org/obo/DRON_00020081,ABIRATERONE
+http://purl.obolibrary.org/obo/DRON_00016693,ETOFENAMATE
+http://purl.obolibrary.org/obo/DRON_00014170,DESOGESTREL
+http://purl.obolibrary.org/obo/DRON_00012886,TIROFIBAN
+http://purl.obolibrary.org/obo/DRON_00020165,RUXOLITINIB
+http://purl.obolibrary.org/obo/DRON_00016223,OXYMETAZOLINE
+http://purl.obolibrary.org/obo/DRON_00730823,LIPEGFILGRASTIM
+http://purl.obolibrary.org/obo/DRON_00016879,CLAVULANIC ACID
+http://purl.obolibrary.org/obo/DRON_00730847,PANOBINOSTAT
+http://purl.obolibrary.org/obo/DRON_00019169,PLERIXAFOR
+http://purl.obolibrary.org/obo/DRON_00017763,METHSCOPOLAMINE
+http://purl.obolibrary.org/obo/DRON_00014412,POTASSIUM CHLORATE
+http://purl.obolibrary.org/obo/DRON_00016180,ZICONOTIDE
+http://purl.obolibrary.org/obo/CHEBI_127780,FOSCARNET
+http://purl.obolibrary.org/obo/CHEBI_63609,MEFLOQUINE
+http://purl.obolibrary.org/obo/DRON_00011047,MEPREDNISONE
+http://purl.obolibrary.org/obo/DRON_00020009,LURASIDONE
+http://purl.obolibrary.org/obo/DRON_00011638,TETRAZEPAM
+http://purl.obolibrary.org/obo/CHEBI_3437,CARTEOLOL
+http://purl.obolibrary.org/obo/CHEBI_7627,NORETHISTERONE
+http://purl.obolibrary.org/obo/DRON_00020128,RILPIVIRINE
+http://purl.obolibrary.org/obo/CHEBI_3181,BROMOCRIPTINE
+http://purl.obolibrary.org/obo/DRON_00011432,PROCARBAZINE
+http://purl.obolibrary.org/obo/DRON_00012655,NOMEGESTROL
+http://purl.obolibrary.org/obo/DRON_00017685,PHENYLPROPANOLAMINE
+http://purl.obolibrary.org/obo/DRON_00017004,PROCYCLIDINE
+http://purl.obolibrary.org/obo/DRON_00015627,PRISTINAMYCIN
+http://purl.obolibrary.org/obo/DRON_00011913,SODIUM TETRADECYL SULFATE
+http://purl.obolibrary.org/obo/CHEBI_4856,ESMOLOL
+http://purl.obolibrary.org/obo/CHEBI_32150,SODIUM THIOSULFATE
+http://purl.obolibrary.org/obo/DRON_00016915,INTERFERON ALFA-2A
+http://purl.obolibrary.org/obo/DRON_00015231,MAPROTILINE
+http://purl.obolibrary.org/obo/DRON_00018981,IXABEPILONE
+http://purl.obolibrary.org/obo/DRON_00015228,MANIDIPINE
+http://purl.obolibrary.org/obo/DRON_00016914,GLATIRAMER
+http://purl.obolibrary.org/obo/DRON_00020093,FIDAXOMICIN
+http://purl.obolibrary.org/obo/DRON_00723678,ETHYLENE GLYCOL
+http://purl.obolibrary.org/obo/DRON_00018283,BROMELAINS
+http://purl.obolibrary.org/obo/DRON_00015229,GLUCOMANNAN
+http://purl.obolibrary.org/obo/DRON_00013488,AMLEXANOX
+http://purl.obolibrary.org/obo/DRON_00012637,GLIQUIDONE
+http://purl.obolibrary.org/obo/DRON_00013576,DIHYDROERGOCORNINE
+http://purl.obolibrary.org/obo/DRON_00015692,DIHYDROERGOCRISTINE
+http://purl.obolibrary.org/obo/DRON_00015266,PERICIAZINE
+http://purl.obolibrary.org/obo/CHEBI_36588,CYCLIC PSEUDOKETONE
+http://purl.obolibrary.org/obo/CHEBI_35676,BENZAZEPINE
+http://purl.obolibrary.org/obo/CHEBI_35505,HYDRATE
+http://purl.obolibrary.org/obo/CHEBI_48630,PIPERIDINECARBOXYLATE ESTER
+http://purl.obolibrary.org/obo/CHEBI_38530,QUINAZOLINES
+http://purl.obolibrary.org/obo/CHEBI_26151,PIPERIDINES
+http://purl.obolibrary.org/obo/CHEBI_24864,IODOTHYRONINE
+http://purl.obolibrary.org/obo/CHEBI_46848,N-ARYLPIPERAZINE
+http://purl.obolibrary.org/obo/CHEBI_38418,"1,3-THIAZOLE"
+http://purl.obolibrary.org/obo/CHEBI_24505,HEPARINS
+http://purl.obolibrary.org/obo/CHEBI_25384,MONOCARBOXYLIC ACID
+http://purl.obolibrary.org/obo/CHEBI_36683,ORGANOCHLORINE COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_23424,CYANIDES
+http://purl.obolibrary.org/obo/CHEBI_33308,CARBOXYLIC ESTER
+http://purl.obolibrary.org/obo/CHEBI_25865,PENICILLANIC ACIDS
+http://purl.obolibrary.org/obo/CHEBI_23229,CHROMANOL
+http://purl.obolibrary.org/obo/OBI_0000047,PROCESSED MATERIAL
+http://purl.obolibrary.org/obo/CHEBI_64096,BENZODIOXINE
+http://purl.obolibrary.org/obo/CHEBI_32863,SECONDARY AMINE
+http://purl.obolibrary.org/obo/CHEBI_22702,BENZAMIDES
+http://purl.obolibrary.org/obo/CHEBI_18379,NITRILE
+http://purl.obolibrary.org/obo/CHEBI_33575,CARBOXYLIC ACID
+http://purl.obolibrary.org/obo/CHEBI_22160,ACETAMIDES
+http://purl.obolibrary.org/obo/CHEBI_22475,AMINO ACID AMIDE
+http://purl.obolibrary.org/obo/CHEBI_24129,FURANS
+http://purl.obolibrary.org/obo/CHEBI_46908,IMIDAZOPYRIDINE
+http://purl.obolibrary.org/obo/CHEBI_46920,N-METHYLPIPERAZINE
+http://purl.obolibrary.org/obo/CHEBI_22507,AMINOGLYCOSIDE ANTIBIOTIC
+http://purl.obolibrary.org/obo/CHEBI_36853,HYDROXY SECO-STEROID
+http://purl.obolibrary.org/obo/CHEBI_51336,METAL SULFATE
+http://purl.obolibrary.org/obo/CHEBI_51323,CINCHONA ALKALOID
+http://purl.obolibrary.org/obo/CHEBI_35855,L-VALINYL ESTER
+http://purl.obolibrary.org/obo/CHEBI_52362,ORTHO-FUSED HETEROARENE
+http://purl.obolibrary.org/obo/CHEBI_26421,PYRIDINES
+http://purl.obolibrary.org/obo/CHEBI_55429,CEPHAMYCIN
+http://purl.obolibrary.org/obo/CHEBI_26455,PYRROLES
+http://purl.obolibrary.org/obo/CHEBI_25340,METHYLPYRIDINES
+http://purl.obolibrary.org/obo/CHEBI_36819,SECO-ERGOSTANE
+http://purl.obolibrary.org/obo/CHEBI_53291,2-HALOPHENOL
+http://purl.obolibrary.org/obo/CHEBI_50265,BENZOTHIADIAZINE
+http://purl.obolibrary.org/obo/CHEBI_24271,GLUCOSAMINES
+http://purl.obolibrary.org/obo/CHEBI_48277,TRIAZOLOPYRAZINE
+http://purl.obolibrary.org/obo/CHEBI_35533,PROPANOLAMINE
+http://purl.obolibrary.org/obo/CHEBI_35346,11BETA-HYDROXY STEROID
+http://purl.obolibrary.org/obo/CHEBI_61313,C21-STEROID
+http://purl.obolibrary.org/obo/CHEBI_35972,DIHYDROXY MONOCARBOXYLIC ACID
+http://purl.obolibrary.org/obo/CHEBI_13248,ANILIDE
+http://purl.obolibrary.org/obo/CHEBI_46844,N-ACYLPIPERAZINE
+http://purl.obolibrary.org/obo/CHEBI_22693,BARBITURATES
+http://purl.obolibrary.org/obo/CHEBI_16389,UBIQUINONES
+http://purl.obolibrary.org/obo/CHEBI_35358,SULFONAMIDE
+http://purl.obolibrary.org/obo/CHEBI_47622,ACETATE ESTER
+http://purl.obolibrary.org/obo/CHEBI_36141,QUINONE
+http://purl.obolibrary.org/obo/CHEBI_24533,HETERODETIC CYCLIC PEPTIDE
+http://purl.obolibrary.org/obo/CHEBI_25903,PEPTIDE ANTIBIOTIC
+http://purl.obolibrary.org/obo/CHEBI_32876,TERTIARY AMINE
+http://purl.obolibrary.org/obo/CHEBI_37793,AMINO SULFONIC ACID
+http://purl.obolibrary.org/obo/CHEBI_39447,PYRIMIDINES
+http://purl.obolibrary.org/obo/CHEBI_47788,3-OXO STEROID
+http://purl.obolibrary.org/obo/CHEBI_46761,DIPEPTIDE
+http://purl.obolibrary.org/obo/CHEBI_29347,MONOCARBOXYLIC ACID AMIDE
+http://purl.obolibrary.org/obo/CHEBI_47787,11-OXO STEROID
+http://purl.obolibrary.org/obo/CHEBI_50996,TERTIARY AMINO COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_60911,RACEMATE
+http://purl.obolibrary.org/obo/CHEBI_24780,IMIDAZOLES
+http://purl.obolibrary.org/obo/CHEBI_38768,PHTHALAZINES
+http://purl.obolibrary.org/obo/CHEBI_50995,SECONDARY AMINO COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_22327,ALKYL SULFIDE
+http://purl.obolibrary.org/obo/CHEBI_22314,ALKALI METAL ATOM
+http://purl.obolibrary.org/obo/CHEBI_24261,GLUCOCORTICOID
+http://purl.obolibrary.org/obo/CHEBI_31577,ETHYLENEDIAMINE DERIVATIVES
+http://purl.obolibrary.org/obo/CHEBI_37942,THIENOPYRIDINE
+http://purl.obolibrary.org/obo/CHEBI_46845,N-ALKYLPIPERAZINE
+http://purl.obolibrary.org/obo/CHEBI_25481,NAPHTHOQUINONE
+http://purl.obolibrary.org/obo/CHEBI_23089,CHELATE-FORMING PEPTIDE
+http://purl.obolibrary.org/obo/CHEBI_36815,5-METHOXYVALEROPHENONE O-(2-AMINOETHYL)OXIME
+http://purl.obolibrary.org/obo/CHEBI_38830,1-BENZOFURANS
+http://purl.obolibrary.org/obo/CHEBI_33836,BENZENOID AROMATIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_46789,HYDROXYETHER
+http://purl.obolibrary.org/obo/CHEBI_24436,GUANIDINES
+http://purl.obolibrary.org/obo/CHEBI_35342,17ALPHA-HYDROXY STEROID
+http://purl.obolibrary.org/obo/CHEBI_38771,QUINOXALINES
+http://purl.obolibrary.org/obo/CHEBI_39437,TOCOL
+http://purl.obolibrary.org/obo/CHEBI_27162,TRYPTAMINES
+http://purl.obolibrary.org/obo/CHEBI_23045,CAROTENOL
+http://purl.obolibrary.org/obo/CHEBI_36181,SUCCINATE ESTER
+http://purl.obolibrary.org/obo/CHEBI_37485,HYDROXYANTHRAQUINONES
+http://purl.obolibrary.org/obo/CHEBI_25990,PHENYLETHANOLAMINES
+http://purl.obolibrary.org/obo/CHEBI_23066,CEPHALOSPORIN
+http://purl.obolibrary.org/obo/CHEBI_24863,IODOPHENOL
+http://purl.obolibrary.org/obo/CHEBI_38831,2-BENZOFURANS
+http://purl.obolibrary.org/obo/CHEBI_38196,HYDROXYMETHYLPYRIDINE
+http://purl.obolibrary.org/obo/CHEBI_49168,DOPA
+http://purl.obolibrary.org/obo/CHEBI_55373,ISOXAZOLES
+http://purl.obolibrary.org/obo/CHEBI_46746,TRIAZOLOPYRIDINE
+http://purl.obolibrary.org/obo/CHEBI_49322,ANTHRACYCLINE ANTIBIOTIC
+http://purl.obolibrary.org/obo/CHEBI_23818,DIMETHYLXANTHINE
+http://purl.obolibrary.org/obo/CHEBI_38093,PHENOTHIAZINES
+http://purl.obolibrary.org/obo/CHEBI_36816,OXIME O-ETHER
+http://purl.obolibrary.org/obo/CHEBI_35344,21-HYDROXY STEROID
+http://purl.obolibrary.org/obo/CHEBI_26069,PHOSPHONIC ACIDS
+http://purl.obolibrary.org/obo/CHEBI_35287,ACYLCHOLINE
+http://purl.obolibrary.org/obo/CHEBI_22390,ALPHA-D-GLUCOSIDE
+http://purl.obolibrary.org/obo/CHEBI_35343,17BETA-HYDROXY STEROID
+http://purl.obolibrary.org/obo/CHEBI_50830,FLUORINATED STEROID
+http://purl.obolibrary.org/obo/CHEBI_23334,COBALAMINS
+http://purl.obolibrary.org/obo/CHEBI_47909,3-OXO DELTA(4)-STEROID
+http://purl.obolibrary.org/obo/CHEBI_47956,THIOCARBOXAMIDE
+http://purl.obolibrary.org/obo/CHEBI_23981,ETHANOLAMINES
+http://purl.obolibrary.org/obo/CHEBI_36243,PROPANOATE ESTER
+http://purl.obolibrary.org/obo/CHEBI_50471,PRIMARY ARYLAMINE
+http://purl.obolibrary.org/obo/CHEBI_37622,CARBOXAMIDE
+http://purl.obolibrary.org/obo/CHEBI_47804,DIBENZOAZEPINE
+http://purl.obolibrary.org/obo/CHEBI_26580,RIFAMYCIN
+http://purl.obolibrary.org/obo/CHEBI_38958,INDOLE ALKALOID
+http://purl.obolibrary.org/obo/CHEBI_36809,TRICYCLIC ANTIDEPRESSANT
+http://purl.obolibrary.org/obo/CHEBI_26961,THIOPHENES
+http://purl.obolibrary.org/obo/CHEBI_38164,ORGANIC HETEROPENTACYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_26144,PIPERAZINES
+http://purl.obolibrary.org/obo/CHEBI_25418,MORPHINANE ALKALOID
+http://purl.obolibrary.org/obo/CHEBI_36786,TETRALINS
+http://purl.obolibrary.org/obo/CHEBI_46668,AMINO ACID ESTER
+http://purl.obolibrary.org/obo/CHEBI_26375,PTERINS
+http://purl.obolibrary.org/obo/CHEBI_22715,BENZIMIDAZOLES
+http://purl.obolibrary.org/obo/CHEBI_35681,SECONDARY ALCOHOL
+http://purl.obolibrary.org/obo/CHEBI_33567,CATECHOLAMINE
+http://purl.obolibrary.org/obo/CHEBI_35359,CARBOXAMIDINE
+http://purl.obolibrary.org/obo/CHEBI_50893,AZAARENE
+http://purl.obolibrary.org/obo/CHEBI_24395,GLYCOPEPTIDE ANTIBIOTIC
+http://purl.obolibrary.org/obo/CHEBI_58956,BRANCHED-CHAIN SATURATED FATTY ACID ANION
+http://purl.obolibrary.org/obo/CHEBI_50858,CORTICOSTEROID
+http://purl.obolibrary.org/obo/CHEBI_35267,QUATERNARY AMMONIUM ION
+http://purl.obolibrary.org/obo/CHEBI_37142,ORGANOIODINE COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_19255,PYRIMIDINE 2'-DEOXYRIBONUCLEOSIDE
+http://purl.obolibrary.org/obo/CHEBI_26512,QUINOLINEMONOCARBOXYLIC ACID
+http://purl.obolibrary.org/obo/CHEBI_50047,ORGANIC AMINO COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_26895,TETRACYCLINES
+http://purl.obolibrary.org/obo/CHEBI_36244,DICARBOXYLIC ACID MONOESTER
+http://purl.obolibrary.org/obo/CHEBI_33704,ALPHA-AMINO ACID
+http://purl.obolibrary.org/obo/CHEBI_33853,PHENOLS
+http://purl.obolibrary.org/obo/CHEBI_26513,QUINOLINES
+http://purl.obolibrary.org/obo/CHEBI_38700,ORGANIC SODIUM SALT
+http://purl.obolibrary.org/obo/CHEBI_46786,DIETHER
+http://purl.obolibrary.org/obo/CHEBI_48420,BIPHENYLYLTETRAZOLE
+http://purl.obolibrary.org/obo/CHEBI_38926,DIBENZOOXEPINE
+http://purl.obolibrary.org/obo/CHEBI_35315,DEOXY HEXOSIDE
+http://purl.obolibrary.org/obo/CHEBI_25354,MINERALOCORTICOID
+http://purl.obolibrary.org/obo/CHEBI_38445,CHROMENONE
+http://purl.obolibrary.org/obo/CHEBI_23765,QUINOLONE
+http://purl.obolibrary.org/obo/CHEBI_35624,AZASPIRO COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_35338,AMPHETAMINES
+http://purl.obolibrary.org/obo/CHEBI_50075,DIHYDROPYRIDINE
+http://purl.obolibrary.org/obo/CHEBI_27288,VINCA ALKALOID
+http://purl.obolibrary.org/obo/CHEBI_26878,TERTIARY ALCOHOL
+http://purl.obolibrary.org/obo/CHEBI_35987,DIAMINO ACID
+http://purl.obolibrary.org/obo/CHEBI_25698,ETHER
+http://purl.obolibrary.org/obo/CHEBI_48120,ANTHRACYCLINE
+http://purl.obolibrary.org/obo/CHEBI_36885,20-OXO STEROID
+http://purl.obolibrary.org/obo/CHEBI_27933,BETA-LACTAM ANTIBIOTIC
+http://purl.obolibrary.org/obo/CHEBI_47779,AMINOGLYCOSIDE
+http://purl.obolibrary.org/obo/CHEBI_32877,PRIMARY AMINE
+http://purl.obolibrary.org/obo/CHEBI_37143,ORGANOFLUORINE COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_35813,SULFOXIDE
+http://purl.obolibrary.org/obo/CHEBI_35500,"1,4-BENZODIAZEPINONE"
+http://purl.obolibrary.org/obo/CHEBI_48132,TETRACENOMYCIN
+http://purl.obolibrary.org/obo/CHEBI_38182,MONOHYDROXYPYRIDINE
+http://purl.obolibrary.org/obo/CHEBI_46847,N-IMINOPIPERAZINE
+http://purl.obolibrary.org/obo/CHEBI_23480,CYCLOHEXANOLS
+http://purl.obolibrary.org/obo/CHEBI_59062,POLYMYXIN
+http://purl.obolibrary.org/obo/CHEBI_22723,BENZOIC ACIDS
+http://purl.obolibrary.org/obo/CHEBI_47017,TETRAHYDROFURANOL
+http://purl.obolibrary.org/obo/CHEBI_51689,ENONE
+http://purl.obolibrary.org/obo/CHEBI_33640,POLYCYCLIC CAGE
+http://purl.obolibrary.org/obo/CHEBI_38482,INDOLE ALKALOID FUNDAMENTAL PARENT
+http://purl.obolibrary.org/obo/CHEBI_37332,TROPANE ALKALOID
+http://purl.obolibrary.org/obo/CHEBI_24631,HYDRAZINES
+http://purl.obolibrary.org/obo/CHEBI_35689,TETRAZOLES
+http://purl.obolibrary.org/obo/CHEBI_35352,ORGANONITROGEN COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_35504,ADDITION COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_38104,OXACYCLE
+http://purl.obolibrary.org/obo/CHEBI_23213,CHOLINE ESTER
+http://purl.obolibrary.org/obo/CHEBI_51721,"ALPHA,BETA-UNSATURATED KETONE"
+http://purl.obolibrary.org/obo/CHEBI_24921,ISOQUINOLINE ALKALOID
+http://purl.obolibrary.org/obo/CHEBI_50264,THIAZIDE
+http://purl.obolibrary.org/obo/CHEBI_36841,11-HYDROXY STEROID
+http://purl.obolibrary.org/obo/CHEBI_37395,MUCOPOLYSACCHARIDE
+http://purl.obolibrary.org/obo/CHEBI_26912,OXOLANES
+http://purl.obolibrary.org/obo/CHEBI_26373,PTERIDINES
+http://purl.obolibrary.org/obo/CHEBI_3992,CYCLIC KETONE
+http://purl.obolibrary.org/obo/CHEBI_64365,ARALKYLAMINO COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_51959,ORGANIC TRICYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_33261,ORGANOSULFUR COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_22645,ARENECARBOXAMIDE
+http://purl.obolibrary.org/obo/CHEBI_22712,BENZENES
+http://purl.obolibrary.org/obo/CHEBI_33318,MAIN GROUP ELEMENT ATOM
+http://purl.obolibrary.org/obo/CHEBI_25693,ORGANIC HETEROMONOCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_35274,AMMONIUM ION
+http://purl.obolibrary.org/obo/CHEBI_23230,CHROMANES
+http://purl.obolibrary.org/obo/CHEBI_38337,PYRIMIDONE
+http://purl.obolibrary.org/obo/CHEBI_33598,CARBOCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_58953,SATURATED FATTY ACID ANION
+http://purl.obolibrary.org/obo/CHEBI_38166,ORGANIC HETEROPOLYCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_32952,AMINE
+http://purl.obolibrary.org/obo/CHEBI_22565,ANSAMYCIN
+http://purl.obolibrary.org/obo/CHEBI_35506,ALKALOID FUNDAMENTAL PARENT
+http://purl.obolibrary.org/obo/CHEBI_60004,MIXTURE
+http://purl.obolibrary.org/obo/CHEBI_24396,GLYCOPEPTIDE
+http://purl.obolibrary.org/obo/CHEBI_24745,HYDROXYPYRIDINE
+http://purl.obolibrary.org/obo/CHEBI_35788,SECO-STEROID
+http://purl.obolibrary.org/obo/CHEBI_24833,OXOACID
+http://purl.obolibrary.org/obo/CHEBI_50994,PRIMARY AMINO COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_22729,BENZOQUINONES
+http://purl.obolibrary.org/obo/CHEBI_60979,ALPHA-GLUCOSIDE
+http://purl.obolibrary.org/obo/CHEBI_25375,MONOAMINE MOLECULAR MESSENGER
+http://purl.obolibrary.org/obo/CHEBI_38856,HALOPHENOL
+http://purl.obolibrary.org/obo/BFO_0000040,MATERIAL ENTITY
+http://purl.obolibrary.org/obo/CHEBI_36684,ORGANOHALOGEN COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_23232,CHROMENES
+http://purl.obolibrary.org/obo/CHEBI_33552,SULFONIC ACID DERIVATIVE
+http://purl.obolibrary.org/obo/CHEBI_35789,OXO STEROID
+http://purl.obolibrary.org/obo/CHEBI_35790,OXAZOLE
+http://purl.obolibrary.org/obo/CHEBI_25480,NAPHTHOHYDROQUINONE ANTIBIOTIC
+http://purl.obolibrary.org/obo/CHEBI_22720,BENZODIAZEPINE
+http://purl.obolibrary.org/obo/CHEBI_22315,ALKALOID
+http://purl.obolibrary.org/obo/CHEBI_36699,CORTICOSTEROID HORMONE
+http://purl.obolibrary.org/obo/CHEBI_38295,AZABICYCLOALKANE
+http://purl.obolibrary.org/obo/CHEBI_33637,ORTHO-FUSED COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_36585,PSEUDOKETONE
+http://purl.obolibrary.org/obo/CHEBI_24734,HYDROXYPHENYLALANINE
+http://purl.obolibrary.org/obo/CHEBI_33521,METAL ATOM
+http://purl.obolibrary.org/obo/CHEBI_51143,NITROGEN MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_24840,INORGANIC SULFATE SALT
+http://purl.obolibrary.org/obo/CHEBI_38101,ORGANONITROGEN HETEROCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_33659,ORGANIC AROMATIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_38180,POLYCYCLIC HETEROARENE
+http://purl.obolibrary.org/obo/CHEBI_48901,THIAZOLES
+http://purl.obolibrary.org/obo/CHEBI_26440,PYRIMIDINE NUCLEOSIDE
+http://purl.obolibrary.org/obo/CHEBI_35722,SULFATED GLYCOSAMINOGLYCAN
+http://purl.obolibrary.org/obo/CHEBI_24828,INDOLES
+http://purl.obolibrary.org/obo/CHEBI_24862,IODOAMINO ACID
+http://purl.obolibrary.org/obo/CHEBI_36838,17-HYDROXY STEROID
+http://purl.obolibrary.org/obo/CHEBI_35627,BETA-LACTAM
+http://purl.obolibrary.org/obo/CHEBI_35990,BRIDGED COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_32988,AMIDE
+http://purl.obolibrary.org/obo/CHEBI_33559,S-BLOCK ELEMENT ATOM
+http://purl.obolibrary.org/obo/CHEBI_36586,CARBONYL COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_24586,HEXOSAMINE
+http://purl.obolibrary.org/obo/CHEBI_2634,AMIDINE
+http://purl.obolibrary.org/obo/CHEBI_33256,PRIMARY AMIDE
+http://purl.obolibrary.org/obo/CHEBI_35259,BENZOFURANS
+http://purl.obolibrary.org/obo/CHEBI_46895,LIPOPEPTIDE
+http://purl.obolibrary.org/obo/CHEBI_36785,CARBOBICYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_23449,CYCLIC PEPTIDE
+http://purl.obolibrary.org/obo/CHEBI_35436,D-GLUCOSIDE
+http://purl.obolibrary.org/obo/CHEBI_35701,ESTER
+http://purl.obolibrary.org/obo/CHEBI_38311,CEPHEM
+http://purl.obolibrary.org/obo/CHEBI_16385,ORGANIC SULFIDE
+http://purl.obolibrary.org/obo/CHEBI_25348,METHYLXANTHINE
+http://purl.obolibrary.org/obo/CHEBI_25359,MODIFIED AMINO ACID
+http://purl.obolibrary.org/obo/CHEBI_26714,SODIUM SALT
+http://purl.obolibrary.org/obo/CHEBI_33599,SPIRO COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_38313,DIAZINES
+http://purl.obolibrary.org/obo/CHEBI_35992,PENAMS
+http://purl.obolibrary.org/obo/CHEBI_25558,ORGANONITROGEN HETEROCYCLIC ANTIBIOTIC
+http://purl.obolibrary.org/obo/CHEBI_18274,2'-DEOXYRIBONUCLEOSIDE
+http://purl.obolibrary.org/obo/CHEBI_22888,BIPHENYLS
+http://purl.obolibrary.org/obo/CHEBI_26509,QUINOLINE ALKALOID
+http://purl.obolibrary.org/obo/CHEBI_26188,POLYKETIDE
+http://purl.obolibrary.org/obo/CHEBI_38106,ORGANOSULFUR HETEROCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_46874,ALPHA-AMINO ACID ESTER
+http://purl.obolibrary.org/obo/CHEBI_24868,ORGANIC SALT
+http://purl.obolibrary.org/obo/CHEBI_24062,FLUORINE MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_35868,HYDROXY MONOCARBOXYLIC ACID
+http://purl.obolibrary.org/obo/CHEBI_36360,PHOSPHORUS OXOACIDS AND DERIVATIVES
+http://purl.obolibrary.org/obo/CHEBI_58955,BRANCHED-CHAIN FATTY ACID ANION
+http://purl.obolibrary.org/obo/CHEBI_27171,ORGANIC HETEROBICYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_33566,CATECHOLS
+http://purl.obolibrary.org/obo/CHEBI_26979,ORGANIC HETEROTRICYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_22478,AMINO ALCOHOL
+http://purl.obolibrary.org/obo/CHEBI_22580,ANTHRAQUINONE
+http://purl.obolibrary.org/obo/CHEBI_23117,CHLORINE MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_39270,NAPHTHOFURAN
+http://purl.obolibrary.org/obo/CHEBI_33551,ORGANOSULFONIC ACID
+http://purl.obolibrary.org/obo/CHEBI_33833,HETEROARENE
+http://purl.obolibrary.org/obo/CHEBI_23341,COBAMIDES
+http://purl.obolibrary.org/obo/CHEBI_35350,HYDROXY STEROID
+http://purl.obolibrary.org/obo/CHEBI_23677,DIAZOLE
+http://purl.obolibrary.org/obo/CHEBI_26469,QUATERNARY NITROGEN COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_25676,OLIGOPEPTIDE
+http://purl.obolibrary.org/obo/CHEBI_30879,ALCOHOL
+http://purl.obolibrary.org/obo/CHEBI_50860,ORGANIC MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_16670,PEPTIDE
+http://purl.obolibrary.org/obo/CHEBI_24860,IODINE MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_46754,HIDDEN AMIDE
+http://purl.obolibrary.org/obo/CHEBI_23007,CARBOHYDRATE-CONTAINING ANTIBIOTIC
+http://purl.obolibrary.org/obo/CHEBI_33822,ORGANIC HYDROXY COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_24400,GLYCOSIDE
+http://purl.obolibrary.org/obo/CHEBI_35341,STEROID
+http://purl.obolibrary.org/obo/CHEBI_27325,XANTHOPHYLL
+http://purl.obolibrary.org/obo/CHEBI_36587,ORGANIC OXO COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_33838,NUCLEOSIDE
+http://purl.obolibrary.org/obo/CHEBI_33570,BENZENEDIOLS
+http://purl.obolibrary.org/obo/CHEBI_23044,CAROTENOID
+http://purl.obolibrary.org/obo/CHEBI_64459,BIARYL
+http://purl.obolibrary.org/obo/CHEBI_17087,KETONE
+http://purl.obolibrary.org/obo/BFO_0000004,INDEPENDENT CONTINUANT
+http://purl.obolibrary.org/obo/CHEBI_51958,ORGANIC POLYCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_33597,HOMOCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_36589,ACYCLIC PSEUDOKETONE
+http://purl.obolibrary.org/obo/CHEBI_24866,SALT
+http://purl.obolibrary.org/obo/CHEBI_38443,1-BENZOPYRAN
+http://purl.obolibrary.org/obo/CHEBI_33702,POLYATOMIC CATION
+http://purl.obolibrary.org/obo/CHEBI_26835,SULFUR MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33635,POLYCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_22728,BENZOPYRROLE
+http://purl.obolibrary.org/obo/CHEBI_26764,STEROID HORMONE
+http://purl.obolibrary.org/obo/CHEBI_33250,ATOM
+http://purl.obolibrary.org/obo/CHEBI_24651,HYDROXIDES
+http://purl.obolibrary.org/obo/CHEBI_24662,HYDROXY-AMINO ACID
+http://purl.obolibrary.org/obo/CHEBI_33636,BICYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_33670,HETEROMONOCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_33424,SULFUR OXOACID DERIVATIVE
+http://purl.obolibrary.org/obo/CHEBI_35175,SULFATE SALT
+http://purl.obolibrary.org/obo/CHEBI_51475,NAPHTHOHYDROQUINONE
+http://purl.obolibrary.org/obo/CHEBI_18059,LIPID
+http://purl.obolibrary.org/obo/CHEBI_38179,MONOCYCLIC HETEROARENE
+http://purl.obolibrary.org/obo/CHEBI_35293,FUSED COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_36688,HETEROTRICYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_33671,HETEROPOLYCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_63534,MONOAMINE
+http://purl.obolibrary.org/obo/CHEBI_35294,CARBOPOLYCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_24471,HALOGEN MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_24470,HALOAMINO ACID
+http://purl.obolibrary.org/obo/CHEBI_28868,FATTY ACID ANION
+http://purl.obolibrary.org/obo/CHEBI_35479,ALKALI METAL SALT
+http://purl.obolibrary.org/obo/CHEBI_24278,GLUCOSIDE
+http://purl.obolibrary.org/obo/CHEBI_18085,GLYCOSAMINOGLYCAN
+http://purl.obolibrary.org/obo/CHEBI_59999,CHEMICAL SUBSTANCE
+http://purl.obolibrary.org/obo/CHEBI_33582,CARBON GROUP MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_37577,HETEROATOMIC MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_24922,ISOQUINOLINES
+http://purl.obolibrary.org/obo/CHEBI_63299,CARBOHYDRATE DERIVATIVE
+http://purl.obolibrary.org/obo/CHEBI_26822,SULFIDE
+http://purl.obolibrary.org/obo/CHEBI_26385,PURINE ALKALOID
+http://purl.obolibrary.org/obo/CHEBI_26082,PHOSPHORUS MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33285,HETEROORGANIC ENTITY
+http://purl.obolibrary.org/obo/CHEBI_23390,COBALT-CORRINOID HEXAAMIDE
+http://purl.obolibrary.org/obo/CHEBI_35724,CARBOHYDRATE SULFATE
+http://purl.obolibrary.org/obo/CHEBI_33655,AROMATIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_23636,DEOXYRIBONUCLEOSIDE
+http://purl.obolibrary.org/obo/CHEBI_24531,HETEROCYCLIC ANTIBIOTIC
+http://purl.obolibrary.org/obo/CHEBI_24995,LACTAM
+http://purl.obolibrary.org/obo/CHEBI_35507,NATURAL PRODUCT FUNDAMENTAL PARENT
+http://purl.obolibrary.org/obo/CHEBI_24669,HYDROXY CARBOXYLIC ACID
+http://purl.obolibrary.org/obo/CHEBI_46955,ANTHRACENES
+http://purl.obolibrary.org/obo/CHEBI_37578,HALIDE
+http://purl.obolibrary.org/obo/CHEBI_36963,ORGANOOXYGEN COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_36962,ORGANOCHALCOGEN COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_63161,GLYCOSYL COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_33832,ORGANIC CYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_24532,ORGANIC HETEROCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_25985,PHENYLALANINE DERIVATIVE
+http://purl.obolibrary.org/obo/CHEBI_51285,ACENOQUINONE
+http://purl.obolibrary.org/obo/CHEBI_24835,INORGANIC MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33302,PNICTOGEN MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33672,HETEROBICYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_47018,MONOHYDROXYTETRAHYDROFURAN
+http://purl.obolibrary.org/obo/CHEBI_60926,AMINO MONOSACCHARIDE
+http://purl.obolibrary.org/obo/CHEBI_49319,CARBOCYCLIC ANTIBIOTIC
+http://purl.obolibrary.org/obo/CHEBI_26712,SODIUM MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_61120,NUCLEOBASE-CONTAINING MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_26935,TETRATERPENOID
+http://purl.obolibrary.org/obo/CHEBI_26820,SULFATES
+http://purl.obolibrary.org/obo/CHEBI_25704,ORGANIC SULFATE
+http://purl.obolibrary.org/obo/CHEBI_22506,AMINOGLYCAN
+http://purl.obolibrary.org/obo/CHEBI_36820,RING ASSEMBLY
+http://purl.obolibrary.org/obo/CHEBI_51269,ACENES
+http://purl.obolibrary.org/obo/BFO_0000030,OBJECT
+http://purl.obolibrary.org/obo/CHEBI_35313,HEXOSIDE
+http://purl.obolibrary.org/obo/CHEBI_22625,AROMATIC DIOL
+http://purl.obolibrary.org/obo/CHEBI_23443,CYCLIC AMIDE
+http://purl.obolibrary.org/obo/CHEBI_24431,CHEMICAL ENTITY
+http://purl.obolibrary.org/obo/CHEBI_21731,N-GLYCOSYL COMPOUND
+http://purl.obolibrary.org/obo/BFO_0000002,CONTINUANT
+http://purl.obolibrary.org/obo/CHEBI_24646,HYDROQUINONES
+http://purl.obolibrary.org/obo/CHEBI_33304,CHALCOGEN MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33675,P-BLOCK MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_26401,PURINES
+http://purl.obolibrary.org/obo/CHEBI_33245,ORGANIC FUNDAMENTAL PARENT
+http://purl.obolibrary.org/obo/CHEBI_33906,COBALT CORRINOID
+http://purl.obolibrary.org/obo/CHEBI_33595,CYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_33296,ALKALI METAL MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_26819,SULFURIC ESTER
+http://purl.obolibrary.org/obo/CHEBI_35757,MONOCARBOXYLIC ACID ANION
+http://purl.obolibrary.org/obo/CHEBI_33608,HYDROGEN MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_23367,MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_28963,AMINO SUGAR
+http://purl.obolibrary.org/obo/CHEBI_36358,POLYATOMIC ION
+http://purl.obolibrary.org/obo/CHEBI_22727,BENZOPYRAN
+http://purl.obolibrary.org/obo/CHEBI_36357,POLYATOMIC ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33241,OXOACID DERIVATIVE
+http://purl.obolibrary.org/obo/CHEBI_36916,CATION
+http://purl.obolibrary.org/obo/CHEBI_33661,MONOCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_38032,CARBOTRICYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_25806,OXYGEN MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_5686,HETEROCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_35295,HOMOPOLYCYCLIC COMPOUND
+http://purl.obolibrary.org/obo/CHEBI_35875,IMIDAZOPYRIMIDINE
+http://purl.obolibrary.org/obo/CHEBI_33909,METALLOTETRAPYRROLE
+http://purl.obolibrary.org/obo/CHEBI_23824,DIOL
+http://purl.obolibrary.org/obo/CHEBI_33913,CORRINOID
+http://purl.obolibrary.org/obo/CHEBI_37826,SULFURIC ACID DERIVATIVE
+http://purl.obolibrary.org/obo/CHEBI_18154,POLYSACCHARIDE
+http://purl.obolibrary.org/obo/BFO_0000001,ENTITY
+http://purl.obolibrary.org/obo/CHEBI_29067,CARBOXYLIC ACID ANION
+http://purl.obolibrary.org/obo/CHEBI_33890,COBALT COORDINATION ENTITY
+http://purl.obolibrary.org/obo/CHEBI_24870,ION
+http://purl.obolibrary.org/obo/CHEBI_26873,TERPENOID
+http://purl.obolibrary.org/obo/CHEBI_37175,ORGANIC HYDRIDE
+http://purl.obolibrary.org/obo/CHEBI_33579,MAIN GROUP MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33674,S-BLOCK MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33861,TRANSITION ELEMENT COORDINATION ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33692,HYDRIDES
+http://purl.obolibrary.org/obo/CHEBI_35406,OXOANION
+http://purl.obolibrary.org/obo/CHEBI_33888,COBALT MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_24913,ISOPRENOID
+http://purl.obolibrary.org/obo/CHEBI_33694,BIOMACROMOLECULE
+http://purl.obolibrary.org/obo/CHEBI_25696,ORGANIC ANION
+http://purl.obolibrary.org/obo/CHEBI_36309,CYCLIC TETRAPYRROLE
+http://purl.obolibrary.org/obo/CHEBI_22563,ANION
+http://purl.obolibrary.org/obo/CHEBI_33839,MACROMOLECULE
+http://purl.obolibrary.org/obo/CHEBI_25699,ORGANIC ION
+http://purl.obolibrary.org/obo/CHEBI_26932,TETRAPYRROLE
+http://purl.obolibrary.org/obo/CHEBI_47882,CYCLIC POLYPYRROLE
+http://purl.obolibrary.org/obo/CHEBI_25741,OXIDE
+http://purl.obolibrary.org/obo/CHEBI_33273,POLYATOMIC ANION
+http://purl.obolibrary.org/obo/CHEBI_33240,COORDINATION ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33497,TRANSITION ELEMENT MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33767,COBALT GROUP MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_33676,D-BLOCK MOLECULAR ENTITY
+http://purl.obolibrary.org/obo/CHEBI_38077,POLYPYRROLE
+http://www.w3.org/2002/07/owl#Thing,THING
