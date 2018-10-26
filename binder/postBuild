@@ -36,7 +36,8 @@ jupyter labextension install @jupyterlab/toc
 # Latex Jupyter Lab extension
 jupyter labextension install @jupyterlab/latex
 
-
+# SPARQL kernel
+jupyter sparqlkernel install --user
 
 
 # Building everything
