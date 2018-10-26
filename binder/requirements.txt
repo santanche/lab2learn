@@ -31,3 +31,6 @@ nodejs
 traitlets
 matplotlib
 jupyterlab_latex
+
+# sparql
+sparqlkernel
