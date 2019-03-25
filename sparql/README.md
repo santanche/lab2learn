@@ -1,8 +1,15 @@
 # lab2learn SPARQL
 Lab environment for Jupyter applications with SPARQL.
 
-Jupyter Lab [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/santanche/lab2learn/master?urlpath=sparql)
+## (portuguese) Laboratório de SPARQL na DBPedia e MeSH
 
+Entre no Jupyter Lab [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/santanche/lab2learn/master?urlpath=sparql)
+
+Carregue o notebook que está neste diretório chamado `lab06-sparql.ipynb`.
+
+O vídeo a seguir apresenta o SPARQL e debate os exemplos e exercícios desse notebook.
+
+[![SPARQL na DBPedia](https://img.youtube.com/vi/brsupli-X28/0.jpg)](https://www.youtube.com/watch?v=brsupli-X28)
 
 # Extending Worms Life
 
