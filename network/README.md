@@ -12,6 +12,8 @@ The latest version used in this lab is: [Gephi for Linux 0.9.2](https://github.c
 
 ## PageRank
 
+### Simple Example
+
 The `pagerank` directory has examples of the centrality algorithm PageRank.
 
 In the first example, you are invited to produce a Comma Separated Value (CSV) departing from the following graph:
@@ -24,6 +26,14 @@ The file is imported in the `Data Laboratory` tab, then the `[PageRank]` module 
 The resulting graph can be seen in the illustration below. The resulting Gephi file can be downloaded at: [pagerank-simple.gephi](pagerank/pagerank-simple.gephi).
 
 ![Simple PageRank](pagerank/pagerank-simple.png)
+
+### Wikipedia Example
+
+Following the previous steps, you can depart from the file [pagerank-wikipedia.csv](pagerank/pagerank-wikipedia.csv) to create the example illustrated in Wikipedia: https://en.wikipedia.org/wiki/PageRank.
+
+The result is illustrated in the figure below and the Gephi file can be downloaded at [pagerank-wikipedia.gephi](pagerank/pagerank-wikipedia.gephi).
+
+![Wikipedia PageRank](pagerank/pagerank-wikipedia.png)
 
 ## Community
 
