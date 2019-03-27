@@ -51,11 +51,11 @@ The resulting graph can be seen in the illustration below. The resulting Gephi f
 
 In the directory `symptoms-disease` congregates a CSV file from the following paper adapted for Gephi: [ncomms5212-s5_gephi.tsv](symptoms–disease/ncomms5212-s5_gephi.tsv).
 
-Zhou, X., Menche, J., Barabási, A.-L., & Sharma, A. (2014). Human symptoms–disease network. Nature Communications, 5(1), 4212. https://doi.org/10.1038/ncomms5212
+> Zhou, X., Menche, J., Barabási, A.-L., & Sharma, A. (2014). Human symptoms–disease network. Nature Communications, 5(1), 4212. https://doi.org/10.1038/ncomms5212
 
 Departing from this file that has diseases in the nodes and their relations (according to common symptoms) in the edges, communities are computed using the `[Modularity]` module in the `Statistics` tab. The communities are then related to the colors of the nodes in the `[Appearance]` tab.
 
 A `Force Atlas` layout is applied to reorganize the nodes according to their communities. There are two files related to the experiment: [disease-disease-01.gephi](symptoms–disease/disease-disease-01.gephi) without labels and [disease-disease-02.gephi](symptoms–disease/disease-disease-02.gephi) with labels. In the directory it is possible to find PDF and SVG files of the results, presented in the figures below:
 
-![Disease Network 1](symptoms–disease/disease-disease-01.png)
-![Disease Network 2](symptoms–disease/disease-disease-02.png)
+![Disease Network 1](symptoms-disease/disease-disease-01.png)
+![Disease Network 2](symptoms-disease/disease-disease-02.png)
