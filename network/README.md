@@ -21,6 +21,10 @@ The produced file is like the following: [pagerank-simple.cvs](pagerank/pagerank
 
 The file is imported in the `Data Laboratory` tab, then the `[PageRank]` module in the `Statistics` tab computes the PageRank centrality. The centrality values are then related to the sizes of the nodes in the `[Appearance]` tab.
 
+The resulting graph can be seen in the illustration below. The resulting Gephi file can be downloaded at: [pagerank-simple.gephi](pagerank/pagerank-simple.gephi).
+
+![Simple PageRank](pagerank/pagerank-simple.png)
+
 ## Community
 
 The following example (inside the `community` directory) shows how Gephi can compute communities in a simples graph.
@@ -29,6 +33,6 @@ The graph is produced starting from the following CSV file: [community-simple.cs
 
 Using the `[Modularity]` module in the `Statistics` tab, the modules or communities are computed inside the graph. The communities are then related to the colors of the nodes in the `[Appearance]` tab.
 
-The resulting graph can be seen in the illustration below. The resulting Gephi file can be downloaded at: [community.gephi](community/community-simple.gephi).
+The resulting graph can be seen in the illustration below. The resulting Gephi file can be downloaded at: [community-simple.gephi](community/community-simple.gephi).
 
 ![Simple Community](community/community-simple.png)
