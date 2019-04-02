@@ -19,3 +19,23 @@ java -jar weka.jar
 Original [Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/heart+Disease) at UCI Machine Learning Repository.
 
 Adapted data set (from: `http://staffwww.itn.liu.se/~aidvi/courses/06/dm/labs/`) to run over Weka is in the folder: `uciml`, names `heart-c.arff` (Weka file) and `heart-c-comments.arff' (Weka descriptive file).
+
+## (Portuguese) Conhecendo o problema do Zombie Health
+
+### Jogando o jogo Zombie Health
+
+![Zombie Health](zombie-health/s00resources/zombie-health.png)
+
+No jogo a seguir você deve diagnosticar zumbis a partir de seus sintomas e tratá-los. Se você errar o zumbi morre. Tente esboçar um diagrama ligando sintomas a doenças, que permita você diagnosticar essas doenças de forma eficiente.
+
+Jogue o jogo: [Zombie Health](http://santanche.github.io/java2learn/notebooks/pt/c03oo-zombie/s02datasource/s01jogo/index.html)
+
+## Matriz de sintomas e doenças
+
+Veja como os sintomas e as doenças podem ser representados na forma de uma matriz (a associação entre sintomas e doenças é diferente daquela do jogo).
+
+* [Matriz de sintomas e doenças em português](zombie-health/s00resources/zombie-health-challenge-pt.pdf)
+
+Agora veja a mesma matriz em inglês que será usada no programa a ser feito. Você é capaz de adaptar o seu diagrama para lidar com essa matriz?
+
+* [Matriz de sintomas e doenças em inglês](zombie-health/s00resources/zombie-health-challenge-en.pdf)
