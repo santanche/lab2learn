@@ -18,4 +18,4 @@ java -jar weka.jar
 
 Original [Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/heart+Disease) at UCI Machine Learning Repository.
 
-Adapted data set to run over Weka is in the folder: `uciml`, names `heart-c.arff` (Weka file) and `heart-c-comments.arff' (Weka descriptive file).
+Adapted data set (from: `http://staffwww.itn.liu.se/~aidvi/courses/06/dm/labs/`) to run over Weka is in the folder: `uciml`, names `heart-c.arff` (Weka file) and `heart-c-comments.arff' (Weka descriptive file).
