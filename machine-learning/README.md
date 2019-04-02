@@ -39,3 +39,7 @@ Veja como os sintomas e as doenças podem ser representados na forma de uma matr
 Agora veja a mesma matriz em inglês que será usada no programa a ser feito. Você é capaz de adaptar o seu diagrama para lidar com essa matriz?
 
 * [Matriz de sintomas e doenças em inglês](zombie-health/s00resources/zombie-health-challenge-en.pdf)
+
+## Zombie Health no Weka
+
+Entre na pasta `zombie-health/s02weka` e, a partir do arquivo `zombie-health-spreadsheet-ml.arff` treine o Weka para classificar doenças a partir de sintomas.
