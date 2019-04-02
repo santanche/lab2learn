@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.panel_center {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    background-color: transparent;
+}
+
+.panel_inner_center {
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	margin-left: 10%;
+	margin-right: 10%;
+    background-color: #e0e9ce;
+}

@@ -1,0 +1,88 @@
+@CHARSET "UTF-8";
+
+body {
+    font-family: Raleway;
+    margin: 0px;
+    background-color: #383f4f;
+}
+
+/* panels */
+/* ------ */
+
+.panel_north {
+	position: relative;
+    width: 100%;
+    height: 100px;
+    overflow: auto;
+    font-color: #383f4f;
+    color: #383f4f;
+    background-color: #c4ad9d;
+}
+
+/* main menu */
+/* --------- */
+.main_menu
+{
+  	position: relative;
+	float: right;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    font-size: 16pt;
+    color: #383f4f;
+}
+
+.main_menu a:link {
+	color: #383f4f;
+    text-decoration: none;
+}
+
+.main_menu a:visited {
+	color: #383f4f;
+    text-decoration: none;
+}
+
+.main_menu a:hover {
+	color: #383f4f;
+    text-decoration: none;
+}
+
+.main_menu hr {
+  border: 1px solid;
+}
+
+/* home item */
+/* --------- */
+
+.home_item {
+    position: relative;
+	float: left;
+	height: 50px;
+	margin: 10px;
+    font-size: 24pt;
+}
+
+.home_item a:link {
+	color: #383f4f;
+    text-decoration: none;
+}
+
+.home_item a:visited {
+	color: #383f4f;
+    text-decoration: none;
+}
+
+.home_item a:hover {
+	color: #383f4f;
+    text-decoration: none;
+}
+
+/* iFrames */
+/* ------- */
+
+.iframe_render {
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+    padding: 0px;
+}
