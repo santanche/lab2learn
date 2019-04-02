@@ -14,6 +14,8 @@ Download the [Weka 3.8.3](http://prdownloads.sourceforge.net/weka/weka-3-8-3.zip
 java -jar weka.jar
 ~~~
 
+# Supervised Learning
+
 ## UCI Heart Disease Data Set
 
 Original [Heart Disease Data Set](https://archive.ics.uci.edu/ml/datasets/heart+Disease) at UCI Machine Learning Repository.
@@ -43,3 +45,13 @@ Agora veja a mesma matriz em inglês que será usada no programa a ser feito. Vo
 ## Zombie Health no Weka
 
 Entre na pasta `zombie-health/s02weka` e, a partir do arquivo `zombie-health-spreadsheet-ml.arff` treine o Weka para classificar doenças a partir de sintomas.
+
+# Unsupervised Learning
+
+[Iris Flower Data Set](https://archive.ics.uci.edu/ml/datasets/iris). It comes with Weka (see in Weka `data` directory, the file `iris.arff`).
+
+Challenge: How to classify three very similar species of plant according to four characteristics of their flowers:
+* Sepal Length
+* Sepal Width
+* Petal Length
+* Petal Width
