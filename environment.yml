@@ -3,4 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - ipywidgets
-- beakerx
+  - beakerx
