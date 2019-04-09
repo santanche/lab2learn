@@ -45,4 +45,5 @@ jupyter lab build
 
 
 # final touches
-rm conda-bld -R
+# (removed since it is producing some error)
+# rm conda-bld -R
