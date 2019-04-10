@@ -4,4 +4,3 @@ channels:
 dependencies:
   - ipywidgets
   - beakerx
-  - sparqlkernel
