@@ -3,7 +3,7 @@ Lab environment for Jupyter applications with SPARQL.
 
 ## (portuguese) Laboratório de SPARQL na DBPedia e MeSH
 
-Entre no Jupyter Lab [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/santanche/lab2learn/master?urlpath=sparql)
+Entre no Jupyter Lab [![Binder](https://mybinder.org/v2/gh/santanche/lab2learn/development)
 
 Carregue o notebook que está neste diretório chamado `lab06-sparql.ipynb`.
 
