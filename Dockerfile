@@ -1,9 +1,25 @@
 
-FROM openjdk:11-stretch
-
+FROM python:3.7-slim
 RUN apt-get update
 RUN apt-get install -y python3-pip
+RUN pip install --no-cache notebook
+ENV HOME=/tmp
+
+# create user with a home directory
+ARG NB_USER
+ARG NB_UID
+ENV USER ${NB_USER}
+ENV HOME /home/${NB_USER}
+
+RUN adduser --disabled-password \
+    --gecos "Default user" \
+    --uid ${NB_UID} \
+    ${NB_USER}
+WORKDIR ${HOME}
+
 RUN pip3 install pysolr
+
+FROM openjdk:11-stretch
 
 LABEL maintainer="Martijn Koster \"mak-docker@greenhills.co.uk\""
 LABEL repository="https://github.com/docker-solr/docker-solr"
