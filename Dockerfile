@@ -1,9 +1,7 @@
-
 FROM python:3.7-slim
-RUN apt-get update
-RUN apt-get install -y python3-pip
-RUN pip install --no-cache notebook
-ENV HOME=/tmp
+# install the notebook package
+RUN pip install --no-cache --upgrade pip && \
+    pip install --no-cache notebook
 
 # create user with a home directory
 ARG NB_USER
@@ -16,8 +14,9 @@ RUN adduser --disabled-password \
     --uid ${NB_UID} \
     ${NB_USER}
 WORKDIR ${HOME}
+USER ${USER}
 
-RUN pip3 install pysolr
+RUN pip install --no-cache pysolr
 
 FROM openjdk:11-stretch
 
