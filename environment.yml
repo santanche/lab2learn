@@ -4,3 +4,6 @@ channels:
 dependencies:
   - ipywidgets
   - beakerx
+  - pandas
+  - scikit-learn
+  - pysolr
