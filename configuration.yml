@@ -12,3 +12,7 @@ dependencies:
   - maven
   - py4j
   - requests
+  - curl
+  - zip
+  - lsof
+  - wget
