@@ -1,0 +1,9 @@
+htop
+vim
+curl
+wget
+zip
+lsof
+nodejs
+maven
+openjdk-8-jdk

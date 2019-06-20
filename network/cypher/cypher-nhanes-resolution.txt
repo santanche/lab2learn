@@ -1,0 +1,20 @@
+LOAD CSV WITH HEADERS FROM 'https://github.com/santanche/lab2learn/raw/master/data/nhanes2005-2006/combined-selected-variables.csv' AS line
+WITH line LIMIT 300
+CREATE (:Person {code:line.SEQN, gender:toInteger(line.RIAGENDR), age:toInteger(line.RIDAGEYR), whiteCell:toFloat(line.LBXWBCSI), hemoglobin:toFloat(line.LBXHGB), hematocrit:toFloat(line.LBXHCT), platelet:toFloat(line.LBXPLTSI)})
+
+MATCH (p:Person)
+RETURN p
+LIMIT 50
+
+MATCH (p1:Person)
+MATCH (p2:Person) WHERE p1.whiteCell - p2.whiteCell <= 2 AND p1.code < p2.code
+MERGE (p1)<-[:NearCount {weight:(2-(p1.whiteCell - p2.whiteCell))/2}]->(p2)
+
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/nhanes2005-2006/reference-ranges.csv' AS line
+CREATE (:Normal {variable:line.variable,gender:toInteger(line.gender),ageStart:toInteger(line.ageStart),ageEnd:toInteger(line.ageEnd),min:toFloat(line.min),max:toFloat(line.max)})
+
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/nhanes2005-2006/reference-ranges.csv' AS line
+CREATE (:Low {variable:line.variable,gender:toInteger(line.gender),ageStart:toInteger(line.ageStart),ageEnd:toInteger(line.ageEnd),min:0,max:toFloat(line.min)-0.1})
+
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/nhanes2005-2006/reference-ranges.csv' AS line
+CREATE (:High {variable:line.variable,gender:toInteger(line.gender),ageStart:toInteger(line.ageStart),ageEnd:toInteger(line.ageEnd),min:toFloat(line.max)+0.1,max:1000
