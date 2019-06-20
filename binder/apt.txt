@@ -1,0 +1,5 @@
+curl
+zip
+lsof
+wget
+openjdk-8-jdk
