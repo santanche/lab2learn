@@ -1,3 +1,39 @@
+# beakerx and deps
+beakerx
+py4j
+
+# jupyter/jupyterlab plugins/extensions
+jupyterlab
+jupyter_contrib_nbextensions
+jupyterlab_launcher
+jupyterlab-git
+ipywidgets
+
+# data structures and data analysis 
 pandas
+numpy
+
+# data management/versioning
+quilt
+
+# http tools
+requests
+
+ipywidgets
+RISE
+
+# data viz
+matplotlib
+plotly
+seaborn
+
+# machine learning
 scikit-learn
+scipy
+
+# information retrieval
 pysolr
+
+# misc
+tornado
+sparqlkernel
