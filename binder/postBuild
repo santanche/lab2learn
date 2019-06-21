@@ -1,12 +1,13 @@
 #!/bin/bash
 
+# sparql kernel
+jupyter sparqlkernel install --user
+
 # Beaker installation and extension
 beakerx install
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install beakerx-jupyterlab
 
-# sparql kernel
-jupyter sparqlkernel install
 
 # Git Jupyter/Lab extension 
 jupyter labextension install @jupyterlab/git
@@ -30,7 +31,3 @@ jupyter labextension install @jupyterlab/toc
 
 # Building everything
 jupyter lab build --dev
-
-
-
-
