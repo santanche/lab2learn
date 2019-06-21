@@ -25,7 +25,7 @@ Lab environment for Jupyter applications.
 
 ## Running this lab
 
-Examples and exercises in this labs are presented as [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). 
+Examples and exercises in this lab are presented as [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). 
 Get started with this lab simply by cloning this repository within your own Jupyter environment or by launching an environment in the cloud services listed below.
 
 ### Launching via Cloud Services
