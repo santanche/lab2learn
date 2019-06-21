@@ -14,12 +14,12 @@ Lab environment for Jupyter applications.
 <!-- MarkdownTOC autolink=true -->
 
 - [Running this lab](#running-this-lab)
-    - [Launching via Cloud Services](#launching-via-cloud-services)
-        - [Via MyBinder.org \(instance of the project jupyterhub/binderhub\)](#via-mybinderorg-instance-of-the-project-jupyterhubbinderhub)
-        - [Via Google Colaboratory](#via-google-colaboratory)
-    - [Launching Locally via Docker](#launching-locally-via-docker)
-        - [DockerHub Image](#dockerhub-image)
-        - [Using repo2docker](#using-repo2docker)
+  - [Launching via Cloud Services](#launching-via-cloud-services)
+    - [Via MyBinder.org \(instance of the project jupyterhub/binderhub\)](#via-mybinderorg-instance-of-the-project-jupyterhubbinderhub)
+    - [Via Google Colaboratory](#via-google-colaboratory)
+  - [Launching Locally via Docker](#launching-locally-via-docker)
+    - [DockerHub Image](#dockerhub-image)
+    - [Using repo2docker](#using-repo2docker)
 
 <!-- /MarkdownTOC -->
 
@@ -62,7 +62,7 @@ docker run -it -p 8888:8888 santanche/lab2learn
 Alternatively, you can map you local home folder into the container:
 
 ```bash
-docker run -it -v ~:/jupyter/data/ -p 8888:8888 santanche/lab2learn
+docker run -it -v ~:/home/jovyan -p 8888:8888 santanche/lab2learn
 ``` 
 
 Access the Jupyter/Jupyter Lab at [http://0.0.0.0:8888](http://0.0.0.0:8888). 
