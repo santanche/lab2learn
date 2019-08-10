@@ -9,4 +9,3 @@ maven
 openjdk-8-jdk
 mosquitto
 mosquitto-clients
-jupyter-server-proxy

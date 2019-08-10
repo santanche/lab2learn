@@ -8,6 +8,7 @@ jupyter_contrib_nbextensions
 jupyterlab_launcher
 jupyterlab-git
 ipywidgets
+jupyter-server-proxy
 
 # data structures and data analysis 
 pandas
