@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8"/>
+   <title>Input DCC</title>
+   
+   <link title="Standard Stylesheet" rel="stylesheet" type="text/css" href="css/tests.css">
+
+   <script type="text/javascript" src="../../infra/bus.js"></script>
+   <script type="text/javascript" src="../../infra/bus-server-address.js"></script>
+   <script type="text/javascript" src="../components/dcc-system.js"></script>
+   <script type="text/javascript" src="../components/dcc-base.js"></script>
+   <script type="text/javascript" src="../components/dcc-input.js"></script>
+   <script type="text/javascript" src="../components/dcc-trigger.js"></script>
+   
+   <script>
+      function start() {
+         MessageBus.ext.subscribe("var/diagnostics/changed", showResult);
+      }
+      function showResult(topic, message) {
+         document.querySelector("#result").innerHTML =
+            "Topic: " + topic + "<br>" +
+            "Value: " + message;
+      }
+   </script>
+</head>
+<body onload="start()">
+   <div class="scene-screen">
+      <dcc-input variable="diagnostics"></dcc-input>
+      
+      Type your diagnostics:
+      <div class="std-border" id="input-diagnostics"></div>
+      
+      <div id="result"></div>
+      
+   </div>
+</body>
+</html>

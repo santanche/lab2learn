@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8"/>
+   <title>Character DCC</title>
+   
+   <link title="Standard Stylesheet" rel="stylesheet" type="text/css" href="css/tests.css">
+
+   <script type="text/javascript" src="../components/dcc-system.js"></script>
+   <script type="text/javascript" src="../components/dcc-base.js"></script>
+   <script type="text/javascript" src="../components/dcc-character.js"></script>
+   <script type="text/javascript" src="../components/editable/dcc-character-editable.js"></script>
+   <script type="text/javascript" src="../components/dcc-resource-picker.js"></script>
+   <script type="text/javascript" src="js/edit-dcc.js"></script>
+</head>
+<body>
+   <div class="scene-screen">
+      <dcc-character character="Lucinda" role="nurse" 
+         image="images/nurse.png"
+         description="Head nurse of the hospital.">
+      </dcc-character>
+      <div class="edit-button" onclick="editAllDCCs()">Edit</div>
+   </div>
+</body>
+</html>

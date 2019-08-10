@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8"/>
+   <title>DCC Link Test</title>
+   <style>
+      body {
+         font-family: "Trebuchet MS", Helvetica, sans-serif;
+         color: black;
+      }
+   </style>
+   <script src="../../infra/bus.js"></script>
+   <script src="../../infra/dcc-common-server-proxy.js"></script>
+   <script src="../../infra/bus-server-address.js"></script>
+   
+   <script src="../components/dcc-base.js"></script>
+   <script src="../components/dcc-visual.js"></script>
+   <script src="../components/dcc-block.js"></script>
+   <script src="../components/dcc-trigger.js"></script>
+   <script>
+   function display(topic, message) {
+      document.querySelector("#message").innerHTML = message;
+   }
+   </script>
+</head>
+<body>
+   <script>
+      MessageBus.page = new MessageBus(false);
+      MessageBus.ext.externalized = false;
+      MessageBus.ext.subscribe("button/#", display);
+   </script>
+   <dcc-trigger action="button/on" label="On"></dcc-trigger>
+   <div style="width: 100px"><dcc-trigger link="#" label="Generate Hypothesis" image="images/icon-hypothesis.svg"></dcc-trigger></div>
+   <dcc-trigger action="button/off" label="Off" render="none"></dcc-trigger>
+   
+   <h1 id="message"></h1>
+</html>
