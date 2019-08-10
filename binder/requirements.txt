@@ -37,3 +37,8 @@ pysolr
 # misc
 tornado
 sparqlkernel
+paho-mqtt
+feedparser
+traitlets
+numpy
+matplotlib
