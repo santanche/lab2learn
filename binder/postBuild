@@ -8,7 +8,6 @@ beakerx install
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install beakerx-jupyterlab
 
-
 # Git Jupyter/Lab extension 
 jupyter labextension install @jupyterlab/git
 jupyter serverextension enable --py jupyterlab_git
