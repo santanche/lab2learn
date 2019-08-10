@@ -1,32 +1,41 @@
 #!/bin/bash
 
+###############################################################
+#          jupyter/jupyterlab extensions/kernels              #
+###############################################################
+
 # sparql kernel
 jupyter sparqlkernel install --user
 
-# Beaker installation and extension
+# Beaker installation and extension setup
 beakerx install
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
-jupyter labextension install beakerx-jupyterlab
+jupyter labextension install @jupyter-widgets/jupyterlab-manager --no-build 
+jupyter labextension install beakerx-jupyterlab --no-build 
+
+# Table of contents Jupyter Lab Extension
+jupyter labextension install @jupyterlab/toc --no-build 
+
+# Jupyter/Jupyterlab extension for proxying internal applications
+jupyter serverextension enable --sys-prefix jupyter_server_proxy
+jupyter labextension install jupyterlab-server-proxy --no-build 
 
 # Git Jupyter/Lab extension 
-jupyter labextension install @jupyterlab/git
+jupyter labextension install @jupyterlab/git --no-build 
 jupyter serverextension enable --py jupyterlab_git
 
 # Github Jupyter Lab extension
-jupyter labextension install @jupyterlab/github
+jupyter labextension install @jupyterlab/github --no-build 
 
 # Draw.io Jupyter Lab extension
-jupyter labextension install jupyterlab-drawio
+jupyter labextension install jupyterlab-drawio --no-build 
 
 # Rise Jupyter extension (presentation mode)
 jupyter-nbextension install rise --py --sys-prefix
 jupyter-nbextension enable  rise --py --sys-prefix
 
 # Plotly Jupyter Lab extension
-jupyter labextension install @jupyterlab/plotly-extension
+jupyter labextension install @jupyterlab/plotly-extension --no-build 
 
-# Table of contents Jupyter Lab Extension
-jupyter labextension install @jupyterlab/toc
 
-# Building everything
+# Building everything up for jupyterlab extensions
 jupyter lab build --dev
