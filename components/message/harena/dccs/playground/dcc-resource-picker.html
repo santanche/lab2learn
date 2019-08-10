@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8"/>
+   <title>Image Selector DCC</title>
+   
+   <link title="Standard Stylesheet" rel="stylesheet" type="text/css" href="css/tests.css">
+
+   <script type="text/javascript" src="../components/dcc-base.js"></script>
+   <script type="text/javascript" src="../components/dcc-system.js"></script>
+   <script type="text/javascript" src="../components/dcc-resource-picker.js"></script>
+   
+   <script>
+      function selectList() {
+         let selector = document.querySelector("#resource-selector");
+         selector.addSelectList([["doctor", "images/doctor.png"],
+                                 ["nurse", "images/nurse.png"],
+                                 ["patient", "images/patient.png"]]);
+      }
+   </script>
+</head>
+<body onload="selectList()">
+   <div class="scene-screen">
+      <dcc-resource-picker id="resource-selector" preview/>
+   </div>
+</body>
+</html>

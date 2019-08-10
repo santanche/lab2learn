@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>DCCs Playground</title>
+
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" name="viewport">
+
+  <link rel="stylesheet" href="../../lib/fontawesome-5-10-1/css/all.min.css">
+  <link rel="stylesheet" href="../../lib/bootstrap-4-3-1/css/bootstrap.min.css">
+  <link href="../../lib/quill-1-3-6/quill.snow.css" rel="stylesheet">
+  <script src="../../lib/quill-1-3-6/quill.min.js"></script>
+
+  <link rel="stylesheet" href="../../infra/css/common.css">
+
+  <script src="../../lib/jquery-3-4-1/jquery-3.4.1.slim.min.js"></script>
+  <script src="../../lib/popper-1-15-0/popper.min.js"></script>
+  <script src="../../lib/bootstrap-4-3-1/js/bootstrap.min.js"></script>
+
+  <script src="../../infra/bus.js"></script>
+  <script src="../../infra/dcc-common-server-proxy.js"></script>
+
+   <script src="../../dccs/subscribe-dcc.js"></script>
+   <script src="../../dccs/components/dcc-base.js"></script>
+   <script src="../../dccs/components/dcc-visual.js"></script>
+   <script src="../../dccs/components/dcc-markdown.js"></script>
+   <script src="../../dccs/components/editable/dcc-markdown-editable.js"></script>
+   <script src="../../dccs/components/dcc-image.js"></script>
+   <script src="../../dccs/components/editable/dcc-image-editable.js"></script>
+   <script src="../../dccs/components/dcc-expression.js"></script>
+   <script src="../../dccs/components/dcc-block.js"></script>
+   <script src="../../dccs/components/dcc-trigger.js"></script>
+   <script src="../../dccs/components/dcc-character.js"></script>
+   <script src="../../dccs/components/editable/dcc-character-editable.js"></script>
+   <script src="../../dccs/components/dcc-lively-dialog.js"></script>
+   <script src="../../dccs/components/editable/dcc-lively-dialog-editable.js"></script>
+   <script src="../../dccs/components/dcc-notice-input.js"></script>
+   <script src="../../dccs/components/dcc-state-selector.js"></script>
+   <script src="../../dccs/components/dcc-image-marker.js"></script>
+   <script src="../../dccs/components/dcc-styler.js"></script>
+   <script src="../../dccs/components/dcc-dialog.js"></script>
+   <script src="../../dccs/components/dcc-input.js"></script>
+   <script src="../../dccs/components/dcc-compute.js"></script>
+   <script src="../../dccs/components/dcc-report.js"></script>
+
+  <style>
+    main {
+      position: absolute;
+      bottom: 0px;
+      left: 0px;
+      right: 0px;
+      top: 0px;
+      bottom: 0px;
+    }
+  </style>
+
+  <script>
+      function start() {
+         document.querySelector("#json-message").value = "";
+         MessageBus.ext.subscribe("control/render/example", render);
+         MessageBus.ext.subscribe("#", showJson);
+      }
+      function render(topic, message) {
+         document.querySelector("#render-panel").innerHTML = document.querySelector("#editor").value;
+      }
+      function showJson(topic, message) {
+         if (topic != "control/render/example")
+           document.querySelector("#json-message").value =
+              document.querySelector("#json-message").value +
+              "topic: " + topic + "\n" +
+              "message: " + JSON.stringify(message) + "\n\n";
+      }
+  </script>
+
+</head>
+
+<body onload="start()">
+   <script>
+      MessageBus.page = new MessageBus(false);
+      // MessageBus.ext.externalized = false;
+   </script>
+
+  <main role="main">
+
+  <div class="container-fluid">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="#">Home</a></li>
+        <li class="breadcrumb-item"><a href="#">Developers</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Playground</li>
+      </ol>
+    </nav>
+  </div>
+
+  <div class="container-fluid">
+    <h1>DCC Playground</h1>
+    <p class="lead">Test your Digital Content Components (DCCs) here.</p>
+  </div>
+
+    <!-- Toolbar -->
+    <div class="container-fluid">
+      <nav class="navbar navbar-light d-flex">
+        <dcc-trigger action="control/render/example" label="Render"></dcc-trigger>
+      </nav>
+    </div>
+    <!-- End of toolbar -->
+
+    <div class="container-fluid h-75">
+      <div class="row h-100">
+        <div class="col-6 h-100">
+          <div class="row std-panel h-50">
+            <textarea id="editor" class="w-100 h-100"></textarea>
+          </div>
+          <div class="row std-panel h-50">
+            <textarea id="json-message" class="w-100 h-100"></textarea>
+          </div>
+        </div>
+
+        <div class="col-6 h-100">
+          <div class="std-panel h-100" id="render-panel">
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  </main>
+  <!-- end of div /.container -->
+
+  </body>
+</html>

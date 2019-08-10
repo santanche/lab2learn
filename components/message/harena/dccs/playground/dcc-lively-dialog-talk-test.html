@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8"/>
+   <title>DCC Lively Entrance</title>
+   <style>
+      body {
+          font-family: "Trebuchet MS", Helvetica, sans-serif;
+          font-size: 14pt;
+      }
+      @media screen and (min-width: 1024px) {
+        .scene-screen {
+          width: 1024px;
+          height: 768px;
+          margin: auto;
+        }
+      }
+      @media screen and (max-width: 600px) {
+        .scene-screen {
+          width: 100%;
+          height: 100%;
+          margin: auto;
+        }
+      }
+      
+      .edit_button {
+         background-color: #383f4f;
+         color: #e0e9ce;
+         padding: 14px 25px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+      }
+      
+      .edit_button:hover {
+         color: white;
+      }
+   </style>
+   <script type="text/javascript" src="../components/dcc-base.js"></script>
+   <script type="text/javascript" src="../components/dcc-lively-dialog.js"></script>
+   <script type="text/javascript" src="../components/editable/dcc-lively-dialog-editable.js"></script>
+   <script type="text/javascript" src="js/edit-dcc.js"></script>
+</head>
+<body>
+   <div class="scene-screen" style="background:url(images/patient-in-bed.svg); background-repeat: no-repeat">
+      <dcc-lively-talk duration="2s" 
+         character="nurse"
+         speech="Doctor, please you have to evaluate a man (51 years-old) who entered the emergency department reporting chest pain. His vital signs are ABP: 144x92mmHG; HR: 78bpm; RR: 21rpm; Temp: 37oC; O2Sat: 98%.">
+      </dcc-lively-talk>
+      <dcc-lively-talk duration="2s" delay="2s" direction="right"
+         character="patient" bubble="bubble"
+         speech="Ok.">
+      </dcc-lively-talk>
+      <a class="edit_button" href="#" onclick="editAllDCCs()">Edit</a>
+   </div>
+</body>
+</html>
