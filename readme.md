@@ -13,17 +13,18 @@ Lab environment for Jupyter applications.
 
 <!-- MarkdownTOC autolink=true -->
 
-- [Running this lab](#running-this-lab)
+- [Running these labs](#running-this-lab)
   - [Launching via Cloud Services](#launching-via-cloud-services)
     - [Via MyBinder.org \(instance of the project jupyterhub/binderhub\)](#via-mybinderorg-instance-of-the-project-jupyterhubbinderhub)
     - [Via Google Colaboratory](#via-google-colaboratory)
   - [Launching Locally via Docker](#launching-locally-via-docker)
     - [DockerHub Image](#dockerhub-image)
     - [Using repo2docker](#using-repo2docker)
+- [SQL Labs](sql/)
 
 <!-- /MarkdownTOC -->
 
-## Running this lab
+## Running these labs
 
 Examples and exercises in this lab are presented as [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). 
 Get started with this lab simply by cloning this repository within your own Jupyter environment or by launching an environment in the cloud services listed below.
