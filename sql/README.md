@@ -27,3 +27,22 @@ Laboratório em *06/09/2019*
 * ative o Jupyter Lab/Binder (vide botãoa acima);
 * dentro do Jupyter, entre no diretório `[sql/nhanes/exercicios]`;
 * realize as tarefas relacionadas ao NHANES disponíveis no seguinte notebook do Jupyter: `nhanes-lab-02.ipynb`.
+
+# Tarefa - Análise Complexa de Dados FAERS/NHANES
+Laboratório em *13/09/2019*
+
+## Parte 1 - FAERS
+
+Considere a base de dados que reúne relatos de efeitos adversos de drogas: [FDA Adverse Event Reporting System (FAERS)](https://open.fda.gov/data/faers/).
+
+As fontes de dados são publicadas e documentadas em: [Latest Quarterly Data Files](https://www.fda.gov/drugs/fda-adverse-event-reporting-system-faers/fda-adverse-event-reporting-system-faers-latest-quarterly-data-files)
+
+* ative o Jupyter Lab/Binder (vide botãoa acima);
+* dentro do Jupyter, entre no diretório `[sql/faers/exercicios]`;
+* realize as tarefas relacionadas ao FAERS disponíveis no seguinte notebook do Jupyter: `faers-lab-01.ipynb`.
+
+## Parte 2 - FAERS
+
+* dentro do Jupyter, entre no diretório `[nhanes]`;
+* entre no notebook `nhanes-fb-2005-2006-en-v14.ipynb` e estude o seu funcionamento (não há exercícios para ser resolvidos);
+* você também pode estudar (opcionalmente) os notebooks `nhanes-full-2005-2006-en-v14-part1.ipynb` e `nhanes-full-2005-2006-en-v14-part2.ipynb` que tem as mesmas operações usadas no `nhanes-fb-2005-2006-en-v14.ipynb` mas aplicadas a um conjunto maior de variáveis.
