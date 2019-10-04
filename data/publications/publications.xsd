@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://purl.org/andresantanche" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://purl.org/andresantanche">
+
+    <element name="publication" type="tns:publicationType"/>
+    
+    <complexType name="publicationType">
+      <sequence>
+        <element name="title" type="tns:multiLangType" maxOccurs="unbounded" minOccurs="1">
+        </element>
+        <element name="author" type="string" maxOccurs="unbounded" minOccurs="1">
+        </element>
+        <element name="event" type="tns:eventType" maxOccurs="1" minOccurs="0">
+        </element>
+        <element name="journal" type="tns:journalType" maxOccurs="1" minOccurs="0">
+        </element>
+        <element name="month" type="int" maxOccurs="1" minOccurs="0">
+        </element>
+        <element name="year" type="int" maxOccurs="1" minOccurs="1"/>
+        <element name="online" type="tns:onlineType" maxOccurs="unbounded" minOccurs="0">
+        </element>
+        <element name="key" type="string" maxOccurs="unbounded" minOccurs="1">
+        </element>
+      </sequence>
+    </complexType>
+
+    <complexType name="eventType">
+      <simpleContent>
+        <extension base="string">
+          <attribute name="href" type="anyURI"/>
+          <attribute name="location" type="string"/>
+          <attribute name="begin" type="int"/>
+          <attribute name="end" type="int"/>
+        </extension>
+      </simpleContent>
+    </complexType>
+
+    <complexType name="journalType">
+      <simpleContent>
+        <extension base="string">
+          <attribute name="href" type="anyURI"/>
+          <attribute name="vol" type="int"/>
+          <attribute name="n" type="string"/>
+        </extension>
+      </simpleContent>
+    </complexType>
+
+    <complexType name="onlineType">
+      <simpleContent>
+        <extension base="string">
+          <attribute name="href" type="anyURI"/>
+        </extension>
+      </simpleContent>
+    </complexType>
+
+    <element name="publications" type="tns:publicationsType"/>
+    
+    <complexType name="publicationsType">
+      <sequence>
+        <element name="title" type="tns:multiLangType" maxOccurs="unbounded" minOccurs="1">
+        </element>
+        <element name="categories" type="tns:categoriesType" maxOccurs="unbounded" minOccurs="1"/>
+        <element name="publication" type="tns:publicationType" maxOccurs="unbounded" minOccurs="1">
+        </element>
+      </sequence>
+    </complexType>
+
+    <complexType name="categoriesType">
+      <sequence>
+        <element name="title" type="tns:multiLangType" maxOccurs="unbounded" minOccurs="1">
+        </element>
+        <element name="category" type="tns:categoryType" maxOccurs="unbounded" minOccurs="1"/>
+      </sequence>
+      <attribute name="catkey" type="string"/>
+    </complexType>
+
+    <complexType name="categoryType">
+      <sequence>
+        <element name="label" type="tns:multiLangType" maxOccurs="unbounded" minOccurs="0"/>
+      </sequence>
+      <attribute name="key" type="string"/>
+    </complexType>
+
+    <complexType name="multiLangType">
+      <simpleContent>
+        <extension base="string">
+          <attribute name="lang" type="language"/>
+        </extension>
+      </simpleContent>
+    </complexType>
+</schema>
