@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publications pubtype="publications">
+
+<title lang="en-US">Publications</title>
+<title lang="pt-BR">Publicações</title>
+
+<categories catkey="year">
+  <title lang="en-US">by Chronological Order</title>
+  <title lang="pt-BR">por Ordem Cronológica</title>
+  <category key="2013"/>
+  <category key="2012"/>
+  <category key="2011"/>
+  <category key="2010"/>
+  <category key="2009"/>
+  <category key="2008"/>
+  <category key="2007"/>
+  <category key="2006"/>
+  <category key="2005"/>
+  <category key="2004"/>
+  <category key="2003"/>
+  <category key="2002"/>
+  <category key="2001"/>
+  <category key="2000"/>
+  <category key="1999"/>
+  <category key="1998"/>
+</categories>
+
+<categories catkey="subject">
+
+  <title lang="en-US">by Subject</title>
+  <title lang="pt-BR">por Assunto</title>
+  
+  <category key="is">
+    <label lang="en-US">Information Systems</label>
+    <label lang="pt-BR">Sistemas de Informação</label>
+  </category>
+
+  <category key="semantics">
+    <label lang="en-US">Social and In Loco Semantics</label>
+    <label lang="pt-BR">Semântica Social e In Loco</label>
+  </category>
+  
+  <category key="graph">
+    <label lang="en-US">Graph and Multirepresentation Databases</label>
+    <label lang="pt-BR">Bancos de Dados de Grafos e Multirepresentação</label>
+  </category>
+  
+  <category key="dcc">
+    <label lang="en-US">Digital Content Component and Complex Descriptions</label>
+    <label lang="pt-BR">Componentes de Conteúdo Digital e Descrições Complexas</label>
+  </category>
+  
+  <category key="authoring">
+    <label lang="en-US">Web and Multimedia Authoring (e-Learning and e-Science)</label>
+    <label lang="pt-BR">Autoria Web e Multimídia (e-Learning e e-Science)</label>
+  </category>
+  
+  <category key="e-science">
+    <label lang="en-US">e-Science Domain</label>
+    <label lang="pt-BR">Domínio de e-Science</label>
+  </category>
+  
+  <category key="e-learning">
+    <label lang="en-US">e-Learning Domain</label>
+    <label lang="pt-BR">Domínio de e-Learning</label>
+  </category>
+
+</categories>
+
+<publication>
+  <title>Folksonomized ontology and the 3E steps technique to support ontology evolvement</title>
+  <author>Hugo Alves</author>
+  <author>André Santanchè</author>
+  <journal vol="16" n="1" href="http://www.sciencedirect.com/science/journal/15708268/18/1">Journal of Web Semantics</journal>
+  <month>1</month>
+  <year>2013</year>
+  <online href="http://dx.doi.org/10.1016/j.websem.2012.07.004">(Springer)</online>
+  <key>semantics</key>
+</publication>
+
+<publication>
+  <title>Towards Query Model Integration: Topology-aware, IR-inspired Metrics for Declarative Graph Querying</title>
+  <author>Luiz Celso Gomes Jr</author>
+  <author>André Santanchè</author>
+  <event location="Genoa" begin="18" end="22" href="http://www.isgroup.unimo.it/graphq2013/">Second International Workshop on Querying Graph Structured Data - GraphQ 2013</event>
+  <month>3</month>
+  <year>2013</year>
+  <online href="http://dx.doi.org/10.1145/2457317.2457350">(ACM)</online>
+  <key>graph</key>
+</publication>
+
+<publication>
+  <title>Towards Adapting Scientific Workflow Systems to Healthcare Planning</title>
+  <author>Bruno S. C. M. Vilar</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <author>André Santanchè</author>
+  <event location="Barcelona" begin="11" end="14" href="http://www.healthinf.biostec.org/?y=2013">6th International Conference on Health Informatics - HEALTHINF 2013 (BIOSTEC 2013)</event>
+  <month>2</month>
+  <year>2013</year>
+  <online href="http://www.lis.ic.unicamp.br/publications/journal-and-conference-papers/towards-adapting-scientific-workflow-systems-to-healthcare-planning/at_download/file">(pdf)</online>
+  <key>e-science</key>
+</publication>
+
+<publication>
+  <title lang="pt-BR">Reconhecendo Padrões em Planilhas no domínio de uso da Biologia</title>
+  <title lang="en-US">Recognizing Spreadsheet Patterns in Biology usage domain</title>
+  <author>Ivelize Rocha Bernardo</author>
+  <author>André Santanchè</author>
+  <author>Maria Cecília Calani Baranauskas</author>
+  <event location="São Paulo" begin="16" end="18" href="http://www.each.usp.br/sbsi2012/">SBSI 2012</event>
+  <month>5</month>
+  <year>2012</year>
+  <key>semantics</key>
+</publication>
+
+<publication>
+  <title>Challenges of the Anthropocene epoch - supporting multi-focus research</title>
+  <author>André Santanchè</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <author>Genevieve Jomier</author>
+  <author>Michel Zamfirouiu</author>
+  <event location="Campos do Jordão" begin="25" end="27" href="http://www.geoinfo.info/geoinfo2012/">XIII Brazilian Symposium on Geoinformatics - GeoInfo 2012</event>
+  <month>11</month>
+  <year>2012</year>
+  <online href="https://www.lis.ic.unicamp.br/publications/journal-and-conference-papers/challenges-of-the-anthropocene-epoch-supporting-multi-focus-research/at_download/file">(pdf)</online>
+  <key>graph</key>
+</publication>
+
+<publication>
+  <title>Using the DBV model to maintain versions of multi-scale geospatial data</title>
+  <author>João Sávio C. Longo</author>
+  <author>Luís Theodoro O. Camargo</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <author>André Santanchè</author>
+  <event location="Florence" begin="15" end="18" href="http://cs.ulb.ac.be/conferences/secogis2012/">6th International Workshop on Semantics and Conceptual Issues in Geographical Information Systems - SeCoGIS 2012</event>
+  <month>10</month>
+  <year>2012</year>
+  <online href="http://www.lis.ic.unicamp.br/publications/docs/using-the-dbv-model-to-maintain-versions-of-multi-scale-geospatial-data/at_download/file">(pdf)</online>
+  <key>graph</key>
+</publication>
+
+<publication>
+  <title>Multi-representation Lens for Visual Analytics</title>
+  <author>Sandro Danilo Gatto</author>
+  <author>André Santanchè</author>
+  <event location="Washington DC" begin="1" href="http://research.ihost.com/stir12/index.html">STIR 2012</event>
+  <month>4</month>
+  <year>2012</year>
+  <online href="http://www.lis.ic.unicamp.br/publications/journal-and-conference-papers/multi-representation-lens-for-visual-analytics/at_download/file">(pdf)</online>
+  <key>e-science</key>
+</publication>
+
+<publication>
+  <title>Folksonomized Ontologies -- from social to formal</title>
+  <author>Hugo Alves</author>
+  <author>André Santanchè</author>
+  <event location="Florianópolis" begin="3" end="6" href="http://www.sbbd-webmedia2011.inf.ufsc.br/webmedia/index.php/pt/">WebMedia 2011</event>
+  <month>10</month>
+  <year>2011</year>
+  <online href="http://www.lis.ic.unicamp.br/publications/journal-and-conference-papers/folksonomized-ontologies-from-social-to-formal/at_download/file">(pdf)</online>
+  <key>semantics</key>
+</publication>
+
+<publication>
+  <title>Autoria Virtual Baseada no Mundo Real</title>
+  <author>Alessandra Gomes</author>
+  <author>André Santanchè</author>
+  <event location="Florianópolis" begin="3" end="6" href="http://www.sbbd-webmedia2011.inf.ufsc.br/webmedia/index.php/pt/">Workshop de Ferramentas e Aplicações - WebMedia 2011</event>
+  <month>10</month>
+  <year>2011</year>
+  <online href="http://www.lis.ic.unicamp.br/publications/journal-and-conference-papers/autoria-virtual-baseada-no-mundo-real/at_download/file">(pdf)</online>
+  <key>authoring</key>
+</publication>
+
+<publication>
+  <title>Data Driven Research at LIS: the Laboratory of Information Systems at UNICAMP</title>
+  <author>Claudia Bauzer Medeiros</author>
+  <author>André Santanchè</author>
+  <author>Edmundo R. M. Madeira</author>
+  <author>Eliane Martins</author>
+  <author>Geovane C. Magalhâes</author>
+  <author>Maria Cecília C. Baranauskas</author>
+  <author>Neucimar J. Leite</author>
+  <author>Ricardo da S. Torres</author>
+  <journal vol="2" n="2" href="http://seer.lcc.ufmg.br/index.php/jidm/article/view/116">Journal of Information and Data Management</journal>
+  <month>6</month>
+  <year>2011</year>
+  <online href="http://seer.lcc.ufmg.br/index.php/jidm/article/view/116/73">(pdf)</online>
+  <key>is</key>
+</publication>
+
+<publication>
+  <title>Padrão de Anotação Semântica de Código e sua Aplicação no Desenvolvimento de Componentes</title>
+  <author>Taluna Mendes d'Araújo Costa</author>
+  <author>André Santanchè</author>
+  <event location="São Paulo" begin="26" end="30" href="http://www.each.usp.br/cbsoft2011/portugues/sbcars/sbcars_pt.html">SBCARS 2011</event>
+  <month>9</month>
+  <year>2011</year>
+  <online href="http://www.lis.ic.unicamp.br/publications/journal-and-conference-papers/padrao-de-anotacao-semantica-de-codigo-e-sua-aplicacao-no-desenvolvimento-de-componentes/at_download/file">(pdf)</online>
+  <key>dcc</key>
+</publication>
+
+<publication>
+  <title>Component-based Web Clients For Scientific Data Exploration Using The DCC Framework</title>
+  <author>André Santanchè</author>
+  <author>Peter Baumann</author>
+  <event location="Zurich" begin="14" end="17" href="http://www.giscience2010.org/">GIScience 2010</event>
+  <month>9</month>
+  <year>2010</year>
+  <online href="http://www.giscience2010.org/pdfs/paper_209.pdf">(pdf)</online>
+  <key>e-science</key>
+</publication>
+
+<publication>
+  <title>Document-centered Learning Object Authoring</title>
+  <author>André Santanchè</author>
+  <author>Luiz Augusto Matos da Silva</author>
+  <journal vol="12" n="1" href="http://www.ieeetclt.org/content/newsletter">Learning Technology Newsletter</journal>
+  <month>1</month>
+  <year>2010</year>
+  <online href="http://www.ieeetclt.org/issues/january2010/index.htm#_Toc253225028">(html)</online>
+  <online href="http://www.ieeetclt.org/issues/january2010/lt_january2010.pdf#page=59">(pdf)</online>
+  <key>semantics</key>
+</publication>
+
+<publication>
+  <title>Componere - Autoria na Web baseada em Componentes</title>
+  <author>André Santanchè</author>
+  <author>Diego Passos Costa</author>
+  <author>André Santanchè</author>
+  <author>Nícolas Oliveira</author>
+  <author>Christianne Orrico Dalforno</author>
+  <event location="Fortaleza" begin="5" end="7" href="http://www.sbc.org.br/webmedia/webmedia2009/">WebMedia 2009</event>
+  <month>10</month>
+  <year>2009</year>
+  <online href="http://www.archive.org/details/santanche2009_paper_componere_webmedia">(site)</online>
+  <online href="http://www.archive.org/download/santanche2009_paper_componere_webmedia/santanche2009_paper_componere_webmedia.pdf">(pdf)</online>
+  <key>authoring</key>
+</publication>
+
+<publication>
+  <title>ARARA: Autoria de Objetos Digitais Complexos Baseada em Documentos</title>
+  <author>Luiz Augusto Matos da Silva</author>
+  <author>André Santanchè</author>
+  <event location="Florianópolis" begin="17" end="20" href="http://wwwexe.inf.ufsc.br/~sbie2009/">XX Simpósio Brasileiro de Informática na Educação</event>
+  <month>11</month>
+  <year>2009</year>
+  <online href="http://www.br-ie.org/pub/index.php/sbie/article/view/1170">(site)</online>
+  <online href="http://www.br-ie.org/pub/index.php/sbie/article/viewFile/1170/1073">(pdf)</online>
+  <key>semantics</key>
+</publication>
+
+<publication>
+  <title>From Curriculum to Multimedia Content Authoring, Production and Distribution - A Process Modeling Suitable for Distance Learning Courses</title>
+  <author>Joberto S. B. Martins</author>
+  <author>André Santanchè</author>
+  <author>Teresinha Quadros</author>
+  <author>Maria Carolina S. de Souza</author>
+  <event location="Bento Gonçalves" begin="27" end="31">9th IFIP World Conference on Computers in Education (WCCE 2009)</event>
+  <month>7</month>
+  <year>2009</year>
+  <key>semantics</key>
+</publication>
+
+<publication>
+  <title>O Desenvolvimento de Jogos Baseado em OA para E-Learning</title>
+  <author>Diego Passos Costa</author>
+  <author>Patrícia Dourado</author>
+  <author>Alex Pereira</author>
+  <author>André Santanchè</author>
+  <event location="Fortaleza" begin="12" end="14" href="http://sbie2008.virtual.ufc.br/">XIX Simpósio Brasileiro de Informática na Educação</event>
+  <month>11</month>
+  <year>2008</year>
+  <online href="http://www.br-ie.org/pub/index.php/sbie/article/view/730">(site)</online>
+  <online href="http://www.br-ie.org/pub/index.php/sbie/article/viewFile/730/716">(pdf)</online>
+  <key>e-learning</key>
+</publication>
+
+<publication>
+  <title>Accessing and Processing Sensing Data</title>
+  <author>Gilberto Zonta Pastorello Jr</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <author>André Santanchè</author>
+  <event location="São Paulo" begin="16" end="18" href="http://www.icmc.usp.br/~cse08/">11th IEEE International Conference on Computational Science and Engineering</event>
+  <month>7</month>
+  <year>2008</year>
+  <key>e-science</key>
+</publication>
+
+<publication>
+  <title>Sensor Data Publication on the Web for Scientific Applications</title>
+  <author>Gilberto Zonta Pastorello Jr</author>
+  <author>Luiz Celso Gomes Jr</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <author>André Santanchè</author>
+  <event location="Funchal, Madeira" begin="4" end="7" href="http://www.webist.org/WEBIST2008/">4th International Conference on Web Information Systems and Technologies (WEBIST 2008)</event>
+  <month>5</month>
+  <year>2008</year>
+  <key>e-science</key>
+</publication>
+
+<publication>
+  <title>A Component Model and Infrastructure for a Fluid Web</title>
+  <author>André Santanchè</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <journal vol="19" n="2">IEEE Transactions on Knowledge and Data Engineering</journal>
+  <month>2</month>
+  <year>2007</year>
+  <online href="http://dx.doi.org/10.1109/tkde.2007.16">(IEEE)</online>
+  <key>dcc</key>
+</publication>
+
+<publication>
+  <title>User-author centered multimedia building blocks</title>
+  <author>André Santanchè</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <author>Gilberto Zonta Pastorello Jr</author>
+  <journal vol="12" n="4-5">Multimedia Systems</journal>
+  <month>3</month>
+  <year>2007</year>
+  <online href="http://dx.doi.org/10.1007/s00530-006-0050-0">(Springer)</online>
+  <key>dcc</key>
+</publication>
+
+<publication>
+  <title>Otimizando a anotação de Objetos de Aprendizagem através da Semântica In Loco</title>
+  <author>André Santanchè</author>
+  <event location="São Paulo" begin="28" end="30" href="http://www.lsi.usp.br/sbie2007/">XVIII Simpósio Brasileiro de Informática na Educação</event>
+  <month>11</month>
+  <year>2007</year>
+  <online href="http://www.br-ie.org/pub/index.php/sbie/article/view/594">(site)</online>
+  <online href="http://www.br-ie.org/pub/index.php/sbie/article/viewFile/594/580">(pdf)</online>
+  <key>semantics</key>
+</publication>
+
+<publication>
+  <title>Representação Unificada de Objetos Digitais Complexos: confrontando o RAS com o IMS CP</title>
+  <author>Patrícia Dourado</author>
+  <author>Pedro Ferreira</author>
+  <author>André Santanchè</author>
+  <event location="Gramado" begin="21" end="24" href="http://www.ic.unicamp.br/~rtorres/wdl2007/">WDL 2007 -- III Workshop on Digital Libraries - WebMedia 2007</event>
+  <month>10</month>
+  <year>2007</year>
+  <online href="http://www.archive.org/details/dourado2007_paper_representacao-unificada-odc_wdl2007">(pdf)</online>
+  <key>dcc</key>
+</publication>
+
+<publication>
+  <title>Applying Scientific Workflows to Manage Sensor Data</title>
+  <author>Gilberto Zonta Pastorello Jr</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <author>André Santanchè</author>
+  <event location="João Pessoa" begin="15" end="19" href="http://www.cos.ufrj.br/~marta/E-Science/">1st eScience Workshop (SBBD 2007)</event>
+  <month>10</month>
+  <year>2007</year>
+  <key>e-science</key>
+</publication>
+
+<publication>
+  <title>SenseWeb: Browsing the Physical World in Real Time</title>
+  <author>André Santanchè</author>
+  <author>Suman Nath</author>
+  <author>Jie Liu</author>
+  <author>Bodhi Priyantha</author>
+  <author>Feng Zhao</author>
+  <event location="Nashville, TN, USA" begin="19" end="21" href="http://www.cs.virginia.edu/~ipsn06/">Fifth International Conference on Information Processing in Sensor Networks, 2006</event>
+  <month>4</month>
+  <year>2006</year>
+  <online href="http://research.microsoft.com/nec/publications/IPSN06-SenseWeb.pdf">(pdf)</online>
+  <key>e-science</key>
+</publication>
+
+<publication>
+  <title>Self Describing Components: Searching for Digital Artifacts on the Web</title>
+  <author>André Santanchè</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <event location="Uberlândia" begin="3" end="7" href="http://www.sbbd-sbes2005.ufu.br">XX Simpósio Brasileiro de Banco de Dados</event>
+  <month>10</month>
+  <year>2005</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/SBBD2005-SelfDescribing.pdf">(pdf)</online>
+  <key>dcc</key>
+</publication>
+
+<publication>
+  <title> WOODSS and the Web: Annotating and Reusing Scientific Workflows</title>
+  <author>Claudia Bauzer Medeiros</author>
+  <author>José Pérez-Alcazar</author>
+  <author>Luciano Digiampietri</author>
+  <author>Gilberto Zonta Pastorello Jr</author>
+  <author>André Santanchè</author>
+  <author>Ricardo da Silva Torres</author>
+  <author>Edmundo Madeira</author>
+  <author>Evandro Bacarin</author>
+  <journal vol="34" n="3" href="http://www.sigmod.org/sigmod/record/issues/0509/">SIGMOD Record</journal>
+  <month>9</month>
+  <year>2005</year>
+  <online href="http://www.sigmod.org/sigmod/record/issues/0509/p18-special-sw-section-3.pdf">(pdf)</online>
+  <key>e-science</key>
+</publication>
+
+<publication>
+  <title>Geographic Digital Content Components</title>
+  <author>André Santanchè</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <event location="São Paulo" begin="22" end="24" href="http://www.geoinfo.info/geoinfo2004/index.html">VI Brazilian Symposium on GeoInformatics</event>
+  <month>11</month>
+  <year>2004</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/GeoInfo2004-GDCC.pdf">(pdf)</online>
+  <key>dcc</key>
+</publication>
+
+<publication>
+  <title>Managing Dynamic Repositories for Digital Content Components</title>
+  <author>André Santanchè</author>
+  <author>Claudia Bauzer Medeiros</author>
+  <event location="Heraklion, Crete, Greece" begin="14" end="18" href="http://www.edbt04.gr/">EDBT 2004 PhD Workshop</event>
+  <month>3</month>
+  <year>2004</year>
+  <online href="http://springerlink.metapress.com/link.asp?id=ulgvfc8pjfh9p3kw">(Springer)</online>
+  <key>dcc</key>
+</publication>
+
+<publication>
+  <title>Algaroba: um projeto para integrar pesquisa e ensino</title>
+  <author>André Santanchè</author>
+  <author>Maria Carolina S. de Souza</author>
+  <author>Christianne Orrico Dalforno</author>
+  <event location="Campinas" begin="4" end="6" href="http://www.ic.unicamp.br/~wie2003/">IX Workshop de Informática na Escola - WIE 2003 - SBC 2003</event>
+  <month>8</month>
+  <year>2003</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/WIE2003-Algaroba.pdf">(pdf)</online>
+  <key>e-learning</key>
+</publication>
+
+<publication>
+  <title>Mais pontes e menos ilhas - Estratégias para a integração de software educacional</title>
+  <author>André Santanchè</author>
+  <author>Cesar Augusto Camillo Teixeira</author>
+  <event location="São Leopoldo" begin="12" end="14" href="http://inf.unisinos.br/~sbie2002/">XIII Simpósio Brasileiro de Informática na Educação - SBIE 2002</event>
+  <month>11</month>
+  <year>2002</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/SBIE2002-Pontes.pdf">(pdf)</online>
+  <key>e-learning</key>
+</publication>
+
+<publication>
+  <title>Explorando metáforas na elaboração de composições hipermídia</title>
+  <author>André Santanchè</author>
+  <event location="Florianópolis" begin="15" end="19" href="http://www.inf.ufsc.br/sbc2002/wie.html">VIII Workshop de Informática na Escola - WIE 2002 - SBC 2002</event>
+  <month>7</month>
+  <year>2002</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/WIE2002-Metafora.pdf">(pdf)</online>
+  <key>authoring</key>
+</publication>
+
+<publication>
+  <title>Máquinas e componentes de software na aprendizagem matemática</title>
+  <author>André Santanchè</author>
+  <author>Cesar Augusto Camillo Teixeira</author>
+  <event location="Florianópolis" begin="15" end="19" href="http://www.inf.ufsc.br/sbc2002/wie.html">VIII Workshop de Informática na Escola - WIE 2002 - SBC 2002</event>
+  <month>7</month>
+  <year>2002</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/WIE2002-Maquinas.pdf">(pdf)</online>
+  <key>authoring</key>
+</publication>
+
+<publication>
+  <title>Anima: Promovendo Integração de Componentes na Web</title>
+  <author>André Santanchè</author>
+  <author>Cesar Augusto Camillo Teixeira</author>
+  <event location="Florianópolis" begin="15" end="19" href="http://www.inf.ufsc.br/info2001/">SBMídia 2001 - Simpósio Brasileiro de Sistemas Multimídia e Hipermídia, Workshop de Teses e Dissertações</event>
+  <month>10</month>
+  <year>2001</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/SBMidia2001-Anima.pdf">(pdf)</online>
+  <key>authoring</key>
+</publication>
+
+<publication>
+  <title>Anima: Sistema para integração de Objetos Educacionais</title>
+  <author>André Santanchè</author>
+  <author>Cesar Augusto Camillo Teixeira</author>
+  <event location="Maceió" begin="8" end="10">SBIE 2000 - Simpósio Brasileiro de Informática na Educação</event>
+  <month>11</month>
+  <year>2000</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/SBIE2000-Anima.pdf">(pdf)</online>
+  <key>authoring</key>
+</publication>
+
+<publication>
+  <title>Construindo e explorando o conhecimento através de Componentes Educacionais embutidos em hiperdocumentos</title>
+  <author>André Santanchè</author>
+  <author>Cesar Augusto Camillo Teixeira</author>
+  <event location="Curitiba" begin="17" end="21">VI Workshop de Informática na Escola - WIE 2000 - SBC 2000</event>
+  <month>7</month>
+  <year>2000</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/WIE2000-ComponentesEducacionais.pdf">(pdf)</online>
+  <key>authoring</key>
+</publication>
+
+<publication>
+  <title>Integrando Instrucionismo e Construcionismo em Aplicações Educacionais através do Casa Mágica</title>
+  <author>André Santanchè</author>
+  <author>Cesar Augusto Camillo Teixeira</author>
+  <event location="Rio de Janeiro" begin="20" end="22">V Workshop de Informática na Escola – WIE’99 - SBC’99</event>
+  <month>7</month>
+  <year>1999</year>
+  <online href="http://www.archive.org/details/santanche1999_paper_casa-magica_wie99">(pdf)</online>
+  <key>authoring</key>
+</publication>
+
+<publication>
+  <title>Explorando Linguagens de Markup Extensíveis na Construção de Sistemas de Educação Baseados na Web</title>
+  <author>André Santanchè</author>
+  <author>Cesar Augusto Camillo Teixeira</author>
+  <event location="Rio de Janeiro" begin="20" end="22">XXVI SEMISH - Seminário Integrado de Software e Hardware - SBC’99</event>
+  <month>7</month>
+  <year>1999</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/SEMISH99-EducacaoWeb.pdf">(pdf)</online>
+  <key>e-learning</key>
+</publication>
+
+<publication>
+  <title>Sistema para Construção de Aplicações Educacionais</title>
+  <author>André Santanchè</author>
+  <event location="Brasília" begin="20" end="23" href="http://lsm.dei.uc.pt/ribie/pt/textos/doc.asp?txtid=33">RIBIE98 - IV Congresso da Rede Iberoamericana de Innformática Educativa</event>
+  <month>10</month>
+  <year>1998</year>
+  <online href="http://www.archive.org/details/santanche1998_paper_casa-magica_ribie98">(pdf)</online>
+  <key>authoring</key>
+</publication>
+
+</publications>
