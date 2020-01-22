@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+70,"Case-01","Description Hypothesis","reflux",0.0,38,122.53
+70,"Case-01","EKG Hypothesis","nstemi",1.0,25,89.69
+70,"Case-02","Description Hypothesis","pyrosis",1.0,70,67.04
+70,"Case-02","EKG Hypothesis","reflex",1.0,50,42.20
+70,"Case-03","Description Hypothesis","costomyalgeen",1.0,35,100.51
+70,"Case-03","EKG Hypothesis","costomyalgeen",1.0,33,24.94
+70,"Case-07","Description Hypothesis","costomyalgeen",0.0,34,77.74
+70,"Case-07","EKG Hypothesis","pericarditis",1.0,50,48.25
+70,"Case-08","Description Hypothesis","pericarditis",0.0,89,15.02
+70,"Case-08","EKG Hypothesis","pericarditis",0.0,52,53.53
+70,"Case-09","Description Hypothesis","costomyalgeen",0.0,12,78.54
+70,"Case-09","EKG Hypothesis","infarct",0.5,16,41.03
+70,"Case-12","Description Hypothesis","ritme/geleiding",0.0,10,136.44
+70,"Case-12","EKG Hypothesis","nstemi",0.0,0,28.67
+70,"Case-13","Description Hypothesis","acs",1.0,23,46.97
+70,"Case-13","EKG Hypothesis","acs",1.0,23,30.15
+70,"Case-15","Description Hypothesis","nstemi",1.0,51,53.18
+70,"Case-15","EKG Hypothesis","acs",1.0,35,34.65
+70,"Case-16","Description Hypothesis","acs",1.0,36,66.95
+70,"Case-16","EKG Hypothesis","pericarditis",0.0,13,36.95
+70,"Case-17","Description Hypothesis","stress",0.5,20,48.11
+70,"Case-17","EKG Hypothesis","acs",0.5,72,16.72
+70,"Case-19","Description Hypothesis","acs",1.0,63,38.09
+70,"Case-19","EKG Hypothesis","acs",1.0,35,21.79

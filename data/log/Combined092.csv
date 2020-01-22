@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+92,"Case-01","EKG Hypothesis","nstemi",1.0,63,82.79
+92,"Case-01","Description Hypothesis","nstemi",1.0,62,207.53
+92,"Case-02","EKG Hypothesis","pericarditis",1.0,36,39.63
+92,"Case-02","Description Hypothesis","dyspepsie",1.0,41,80.36
+92,"Case-03","EKG Hypothesis","pericarditis",0.5,37,78.36
+92,"Case-03","Description Hypothesis","hvs",1.0,35,44.95
+92,"Case-07","EKG Hypothesis","acs",0.0,23,108.83
+92,"Case-07","Description Hypothesis","pericarditis",1.0,66,43.30
+92,"Case-08","EKG Hypothesis","nstemi",1.0,41,25.01
+92,"Case-08","Description Hypothesis","nstemi",1.0,77,28.79
+92,"Case-09","EKG Hypothesis","acs",1.0,53,37.92
+92,"Case-09","Description Hypothesis","acs",1.0,66,38.93
+92,"Case-12","EKG Hypothesis","functioneel",1.0,58,49.85
+92,"Case-12","Description Hypothesis","functioneel",1.0,33,90.95
+92,"Case-13","EKG Hypothesis","acs",1.0,34,50.18
+92,"Case-13","Description Hypothesis","acs",1.0,36,70.52
+92,"Case-15","EKG Hypothesis","functioneel",0.0,26,33.29
+92,"Case-15","Description Hypothesis","acs",1.0,62,73.63
+92,"Case-16","EKG Hypothesis","3-vatslijden",1.0,35,70.26
+92,"Case-16","Description Hypothesis","3-vatslijden",1.0,79,70.74
+92,"Case-17","EKG Hypothesis","strain",0.5,58,44.32
+92,"Case-17","Description Hypothesis","functioneel",1.0,54,50.76
+92,"Case-19","EKG Hypothesis","acs",1.0,35,29.48
+92,"Case-19","Description Hypothesis","acs",1.0,56,42.29

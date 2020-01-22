@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+66,"Case-01","Description Hypothesis","acs",1.0,78,71.30
+66,"Case-01","EKG Hypothesis","acs",1.0,94,27.49
+66,"Case-02","Description Hypothesis","maagklachten",1.0,60,104.28
+66,"Case-02","EKG Hypothesis","maagklachten",1.0,68,36.82
+66,"Case-03","Description Hypothesis","pericarditis",0.5,71,79.73
+66,"Case-03","EKG Hypothesis","pericarditis",0.5,75,22.77
+66,"Case-07","Description Hypothesis","pericarditis",1.0,85,52.99
+66,"Case-07","EKG Hypothesis","pericarditis",1.0,90,30.56
+66,"Case-08","Description Hypothesis","instabiele ap",1.0,72,44.80
+66,"Case-08","EKG Hypothesis","acs",1.0,90,29.93
+66,"Case-09","Description Hypothesis","acs",1.0,70,41.33
+66,"Case-09","EKG Hypothesis","acs",1.0,34,95.31
+66,"Case-12","Description Hypothesis","snel af",0.5,35,227.96
+66,"Case-12","EKG Hypothesis","paroxysme af",0.5,23,65.92
+66,"Case-13","Description Hypothesis","acs",1.0,69,23.28
+66,"Case-13","EKG Hypothesis","acs",1.0,81,25.01
+66,"Case-15","Description Hypothesis","acs",1.0,75,32.53
+66,"Case-15","EKG Hypothesis","acs",1.0,70,28.17
+66,"Case-16","Description Hypothesis","acs",1.0,58,69.63
+66,"Case-16","EKG Hypothesis","acs",1.0,75,55.68
+66,"Case-17","Description Hypothesis","slokdarmspasme",0.0,43,81.01
+66,"Case-17","EKG Hypothesis","acs",0.5,68,31.93
+66,"Case-19","Description Hypothesis","iap",1.0,68,36.09
+66,"Case-19","EKG Hypothesis","iap",1.0,60,23.56

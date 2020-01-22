@@ -1,0 +1,21 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+76,"Case-01","Description Hypothesis","nstemi",1.0,64,26.09
+76,"Case-01","EKG Hypothesis","nstemi",1.0,66,25.56
+76,"Case-02","Description Hypothesis","gastro-intestinaal probleem",1.0,91,58.04
+76,"Case-02","EKG Hypothesis","gastro-intestinaal probleem",1.0,94,55.40
+76,"Case-03","Description Hypothesis","hyperventilatie",1.0,97,75.19
+76,"Case-03","EKG Hypothesis","hyperventilatie",1.0,98,17.30
+76,"Case-07","Description Hypothesis","pericarditis",1.0,92,45.82
+76,"Case-07","EKG Hypothesis","pericarditis",1.0,100,25.20
+76,"Case-08","Description Hypothesis","iap",1.0,100,56.79
+76,"Case-08","EKG Hypothesis","nstemi",1.0,100,50.86
+76,"Case-09","Description Hypothesis","nstemi",1.0,90,311.68
+76,"Case-09","EKG Hypothesis","subacuut lateraal infarct",0.5,100,24.51
+76,"Case-15","Description Hypothesis","nstemi",1.0,83,49.28
+76,"Case-15","EKG Hypothesis","nstemi/iap",1.0,100,21.07
+76,"Case-16","Description Hypothesis","angina pectoris",1.0,86,208.94
+76,"Case-16","EKG Hypothesis","nstemi panischemie",1.0,89,23.96
+76,"Case-17","Description Hypothesis","stress",0.5,93,40.45
+76,"Case-17","EKG Hypothesis","takotsubo cmp",0.5,81,58.78
+76,"Case-19","Description Hypothesis","nstemi",1.0,89,28.46
+76,"Case-19","EKG Hypothesis","nstemi",1.0,84,26.33

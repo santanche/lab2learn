@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+99,"Case-01","EKG Hypothesis","nstemi met inferolateraal neg t's",1.0,80,104.80
+99,"Case-01","Description Hypothesis","nstemi",1.0,85,82.63
+99,"Case-02","EKG Hypothesis","pericarditis",1.0,90,78.65
+99,"Case-02","Description Hypothesis","reflux/gastritis",1.0,75,79.18
+99,"Case-03","EKG Hypothesis","ber (vroege repolarisatiestoornis)",1.0,85,64.91
+99,"Case-03","Description Hypothesis","ber (vroege repolarisatiestoornis)op ecg, aspecifieke thoracale klachten",1.0,100,64.80
+99,"Case-07","EKG Hypothesis","stemi",0.0,60,226.96
+99,"Case-07","Description Hypothesis","pericarditis",1.0,70,49.00
+99,"Case-08","EKG Hypothesis","acs",1.0,75,62.25
+99,"Case-08","Description Hypothesis","acs",1.0,80,75.69
+99,"Case-09","EKG Hypothesis","stemi lateraal",0.5,100,64.34
+99,"Case-09","Description Hypothesis","stemi",0.0,70,56.84
+99,"Case-12","EKG Hypothesis","normaal ecg",1.0,94,55.41
+99,"Case-12","Description Hypothesis","paf",0.0,60,122.25
+99,"Case-13","EKG Hypothesis","la dilatatie en neg t's lateraal",0.5,80,69.98
+99,"Case-13","Description Hypothesis","nstemi",1.0,75,30.63
+99,"Case-15","EKG Hypothesis","normaal ecg",1.0,95,119.47
+99,"Case-15","Description Hypothesis","nstemi",1.0,95,30.68
+99,"Case-16","EKG Hypothesis","3 vd of hs stenose",1.0,85,47.40
+99,"Case-16","Description Hypothesis","acs",1.0,90,26.32
+99,"Case-17","EKG Hypothesis","lvh",0.5,60,29.14
+99,"Case-17","Description Hypothesis","spanning",0.5,80,31.52
+99,"Case-19","EKG Hypothesis","normaal ecg",0.0,71,23.96
+99,"Case-19","Description Hypothesis","nstemi",1.0,69,34.46

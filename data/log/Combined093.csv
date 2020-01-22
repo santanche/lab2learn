@@ -1,0 +1,23 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+93,"Case-01","EKG Hypothesis","nstemi",1.0,66,137.13
+93,"Case-01","Description Hypothesis","nstemi",1.0,69,40.37
+93,"Case-02","EKG Hypothesis","ge reflux",1.0,80,55.59
+93,"Case-02","Description Hypothesis","ge reflux",1.0,79,103.26
+93,"Case-03","EKG Hypothesis","lvh",0.0,70,55.95
+93,"Case-03","Description Hypothesis","hyperventilatie",1.0,86,131.05
+93,"Case-07","EKG Hypothesis","pericarditis",1.0,66,133.08
+93,"Case-07","Description Hypothesis","pericarditis",1.0,68,60.69
+93,"Case-08","EKG Hypothesis","infarct",1.0,70,85.66
+93,"Case-08","Description Hypothesis","iap",1.0,74,69.91
+93,"Case-09","EKG Hypothesis","longembolie",0.5,24,146.00
+93,"Case-09","Description Hypothesis","longembolie",0.5,31,135.64
+93,"Case-12","EKG Hypothesis","atypisch",1.0,46,64.66
+93,"Case-12","Description Hypothesis","atypisch",1.0,76,125.44
+93,"Case-13","EKG Hypothesis","la dilatatie",0.5,48,57.14
+93,"Case-13","Description Hypothesis","nstemi",1.0,36,52.69
+93,"Case-15","EKG Hypothesis","normaal",0.0,49,26.99
+93,"Case-15","Description Hypothesis","iap",1.0,59,64.63
+93,"Case-16","EKG Hypothesis","nstemi",1.0,73,33.51
+93,"Case-16","Description Hypothesis","acs",1.0,86,50.42
+93,"Case-17","EKG Hypothesis","ischemie",0.5,68,26.05
+93,"Case-17","Description Hypothesis","ap",0.5,59,15.68

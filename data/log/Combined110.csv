@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+110,"Case-01","EKG Hypothesis","doorgemaakt ischemie",1.0,30,103.07
+110,"Case-01","Description Hypothesis","acs",1.0,43,70.84
+110,"Case-02","EKG Hypothesis","pericarditis",1.0,71,94.01
+110,"Case-02","Description Hypothesis","gastritis of reflux",1.0,74,41.45
+110,"Case-03","EKG Hypothesis","acs",0.0,40,42.41
+110,"Case-03","Description Hypothesis","nonspecifieke thoracale pijn",1.0,80,34.36
+110,"Case-07","EKG Hypothesis","acs",0.0,46,46.95
+110,"Case-07","Description Hypothesis","pericarditis",1.0,89,22.86
+110,"Case-08","EKG Hypothesis","hyperttensie",0.0,65,51.53
+110,"Case-08","Description Hypothesis","acs",1.0,65,28.24
+110,"Case-09","EKG Hypothesis","pulmonale belasting",0.5,40,148.10
+110,"Case-09","Description Hypothesis","ischemie",1.0,38,40.39
+110,"Case-12","EKG Hypothesis","normaal",1.0,93,62.69
+110,"Case-12","Description Hypothesis","niet cardiaal",1.0,79,66.97
+110,"Case-13","EKG Hypothesis","acs",1.0,42,53.11
+110,"Case-13","Description Hypothesis","acs",1.0,90,32.91
+110,"Case-15","EKG Hypothesis","normaal ecg",1.0,74,33.82
+110,"Case-15","Description Hypothesis","acs",1.0,94,39.73
+110,"Case-16","EKG Hypothesis","als 3vd",1.0,76,55.79
+110,"Case-16","Description Hypothesis","acs",1.0,80,29.65
+110,"Case-17","EKG Hypothesis","strain",0.5,72,26.50
+110,"Case-17","Description Hypothesis","takotsubo",0.5,86,41.94
+110,"Case-19","EKG Hypothesis","hypertensie",0.0,75,41.58
+110,"Case-19","Description Hypothesis","viraal infect",0.0,67,33.94

@@ -1,0 +1,19 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+64,"Case-01","Description Hypothesis","gastritis",0.0,96,30.43
+64,"Case-01","EKG Hypothesis","acs",1.0,58,21.91
+64,"Case-02","Description Hypothesis","gastritis",1.0,69,53.01
+64,"Case-02","EKG Hypothesis","gatritis",1.0,79,46.45
+64,"Case-03","Description Hypothesis","costomyogeen",1.0,99,34.72
+64,"Case-03","EKG Hypothesis","costomyogeen",1.0,100,7.58
+64,"Case-09","Description Hypothesis","acs",1.0,80,47.86
+64,"Case-09","EKG Hypothesis","costomyogeen",0.0,24,77.67
+64,"Case-12","Description Hypothesis","vasovagaal",0.5,95,48.47
+64,"Case-12","EKG Hypothesis","vadovagaal",0.5,99,19.52
+64,"Case-13","Description Hypothesis","oesodagusspasme",0.0,76,53.57
+64,"Case-13","EKG Hypothesis","iap",1.0,85,33.62
+64,"Case-15","Description Hypothesis","acs",1.0,100,37.99
+64,"Case-15","EKG Hypothesis","acs",1.0,67,38.03
+64,"Case-16","Description Hypothesis","acs",1.0,90,325.18
+64,"Case-16","EKG Hypothesis","acs",1.0,89,8.57
+64,"Case-17","Description Hypothesis","gastritis",0.0,90,71.27
+64,"Case-17","EKG Hypothesis","acs",0.5,61,24.24

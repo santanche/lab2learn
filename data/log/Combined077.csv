@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+77,"Case-01","Description Hypothesis","gastro-intestinaal dd acs",0.0,50,100.14
+77,"Case-01","EKG Hypothesis","oud ecg? dd blijft gelijk",0.0,49,86.43
+77,"Case-02","Description Hypothesis","ge dd acs",0.5,50,61.32
+77,"Case-02","EKG Hypothesis","acs",0.0,80,49.82
+77,"Case-03","Description Hypothesis","le dd acs (scad?)",0.5,49,53.32
+77,"Case-03","EKG Hypothesis","pericarditis dd le",0.5,49,71.21
+77,"Case-07","Description Hypothesis","pericarditis",1.0,69,61.15
+77,"Case-07","EKG Hypothesis","pericarditis",1.0,92,17.30
+77,"Case-08","Description Hypothesis","progressief ap (als laatste episode in rust acs)",1.0,73,81.91
+77,"Case-08","EKG Hypothesis","stemi prox lad/d",1.0,88,50.35
+77,"Case-09","Description Hypothesis","acs",1.0,70,63.61
+77,"Case-09","EKG Hypothesis","doorgemaakt/persisteren acs",1.0,80,57.72
+77,"Case-12","Description Hypothesis","efo patiënt",0.0,51,124.29
+77,"Case-12","EKG Hypothesis","aspec pob, geen evident acs, geen evidente alternatieve diagnose",1.0,50,64.31
+77,"Case-13","Description Hypothesis","acs",1.0,49,31.94
+77,"Case-13","EKG Hypothesis","acs",1.0,51,57.71
+77,"Case-15","Description Hypothesis","acs",1.0,70,59.28
+77,"Case-15","EKG Hypothesis","acs (iap)",1.0,31,33.36
+77,"Case-16","Description Hypothesis","ap",1.0,49,99.04
+77,"Case-16","EKG Hypothesis","acs",1.0,59,25.22
+77,"Case-17","Description Hypothesis","ge",0.0,45,62.74
+77,"Case-17","EKG Hypothesis","ge",0.0,40,40.23
+77,"Case-19","Description Hypothesis","acs",1.0,72,71.73
+77,"Case-19","EKG Hypothesis","acs",1.0,69,15.76

@@ -1,0 +1,23 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+72,"Case-01","Description Hypothesis","nste-acs",1.0,40,25.34
+72,"Case-01","EKG Hypothesis","nste-acs",1.0,40,10.04
+72,"Case-03","Description Hypothesis","costomyalgene pijn",1.0,80,64.07
+72,"Case-03","EKG Hypothesis","geen acs",1.0,80,49.73
+72,"Case-07","Description Hypothesis","pericarditis",1.0,31,59.78
+72,"Case-07","EKG Hypothesis","pericarditis",1.0,80,36.55
+72,"Case-08","Description Hypothesis","angina pectoris",1.0,60,75.92
+72,"Case-08","EKG Hypothesis","nste-acs",1.0,81,60.39
+72,"Case-09","Description Hypothesis","luchtweginfectie",0.0,50,125.82
+72,"Case-09","EKG Hypothesis","luchtweginfectie",0.0,60,89.79
+72,"Case-12","Description Hypothesis","adpecifieke thoracale pijn",1.0,31,143.65
+72,"Case-12","EKG Hypothesis","adpecifieke thoracale pijn",1.0,50,24.95
+72,"Case-13","Description Hypothesis","angina pectoris",0.5,41,47.88
+72,"Case-13","EKG Hypothesis","ancona pectoris",0.5,62,42.28
+72,"Case-15","Description Hypothesis","acs",1.0,69,88.81
+72,"Case-15","EKG Hypothesis","nste-acs",1.0,55,10.96
+72,"Case-16","Description Hypothesis","angina pectoris",1.0,73,67.35
+72,"Case-16","EKG Hypothesis","nste-acs",1.0,57,21.95
+72,"Case-17","Description Hypothesis","aspecifieke thoracale pijn",1.0,52,50.32
+72,"Case-17","EKG Hypothesis","nste-acs",0.5,56,11.42
+72,"Case-19","Description Hypothesis","nste-acs",1.0,34,24.49
+72,"Case-19","EKG Hypothesis","nste-acs",1.0,19,10.49

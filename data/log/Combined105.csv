@@ -1,0 +1,23 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+105,"Case-01","EKG Hypothesis","cardiac mimicking",0.0,50,82.32
+105,"Case-01","Description Hypothesis","acs",1.0,34,116.96
+105,"Case-02","EKG Hypothesis","sr met vroege repolarisatie.",1.0,70,58.25
+105,"Case-02","Description Hypothesis","perimyocarditis",0.5,61,89.41
+105,"Case-03","EKG Hypothesis","pericarditis",0.5,55,72.40
+105,"Case-03","Description Hypothesis","pericarditis",0.5,58,35.83
+105,"Case-07","EKG Hypothesis","inferoseptaal infarct",0.0,35,66.23
+105,"Case-07","Description Hypothesis","pericarditis",1.0,78,59.88
+105,"Case-08","EKG Hypothesis","ischemie",1.0,60,46.55
+105,"Case-08","Description Hypothesis","stabiele ap",0.0,64,41.35
+105,"Case-09","EKG Hypothesis","tamponade",0.0,63,75.95
+105,"Case-09","Description Hypothesis","pe met instroombelemmering",0.0,36,89.46
+105,"Case-12","EKG Hypothesis","sr",0.5,57,26.68
+105,"Case-12","Description Hypothesis","nstemi",0.0,63,194.89
+105,"Case-13","EKG Hypothesis","nstemi",1.0,32,223.68
+105,"Case-13","Description Hypothesis","nst",1.0,39,44.64
+105,"Case-16","EKG Hypothesis","hs stenose",1.0,26,24.05
+105,"Case-16","Description Hypothesis","nstemi",1.0,36,24.85
+105,"Case-17","EKG Hypothesis","nstemi",0.5,37,22.79
+105,"Case-17","Description Hypothesis","nstemi",0.5,39,16.45
+105,"Case-19","EKG Hypothesis","sr",0.0,20,28.31
+105,"Case-19","Description Hypothesis","atypisch pob",0.0,24,52.02

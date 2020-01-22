@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+75,"Case-01","Description Hypothesis","acs-nstemi",1.0,21,119.38
+75,"Case-01","EKG Hypothesis","acs-nsteni",1.0,60,61.45
+75,"Case-02","Description Hypothesis","reflux/ maagklachten",1.0,40,114.33
+75,"Case-02","EKG Hypothesis","reflux/maagklachten",1.0,61,82.80
+75,"Case-03","Description Hypothesis","tendomyalgeen",1.0,81,66.98
+75,"Case-03","EKG Hypothesis","tendomyalgeen",1.0,80,37.89
+75,"Case-07","Description Hypothesis","pericarditis",1.0,61,47.11
+75,"Case-07","EKG Hypothesis","pericarditis",1.0,81,47.87
+75,"Case-08","Description Hypothesis","acs",1.0,100,55.03
+75,"Case-08","EKG Hypothesis","acs-nstemi",1.0,100,43.32
+75,"Case-09","Description Hypothesis","pneumothorax",0.0,30,42.79
+75,"Case-09","EKG Hypothesis","stemi lateraal",0.5,100,51.95
+75,"Case-12","Description Hypothesis","reflux/ maagklachten",0.0,81,60.45
+75,"Case-12","EKG Hypothesis","reflux/maagklachten",0.0,80,16.67
+75,"Case-13","Description Hypothesis","ap",0.5,51,70.85
+75,"Case-13","EKG Hypothesis","ap-klachten",1.0,81,52.33
+75,"Case-15","Description Hypothesis","acs",1.0,80,52.94
+75,"Case-15","EKG Hypothesis","acs-nstemi",1.0,20,36.05
+75,"Case-16","Description Hypothesis","iap",1.0,41,65.74
+75,"Case-16","EKG Hypothesis","acs-nstemi (panischemie",1.0,100,34.22
+75,"Case-17","Description Hypothesis","slokdarmspasme",0.0,61,53.94
+75,"Case-17","EKG Hypothesis","tako-tsubo (cmp)",0.5,61,27.31
+75,"Case-19","Description Hypothesis","acs",1.0,70,34.34
+75,"Case-19","EKG Hypothesis","acs",1.0,70,17.61

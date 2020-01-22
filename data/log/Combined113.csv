@@ -1,0 +1,11 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+113,"Case-01","EKG Hypothesis","inferolateraal negatieve ts en minimale st depressie (geen oud ecg), verdenking nstemi, stenose plcx restenose rca",0.5,74,466.16
+113,"Case-01","Description Hypothesis","inferolateraal negatieve ts en minimale st depressie (geen oud ecg), verdenking nstemi, stenose plcx restenose rca",0.5,63,86.60
+113,"Case-02","EKG Hypothesis","indien neg, vroege repolarisatie",0.0,70,91.66
+113,"Case-02","Description Hypothesis","nog steeds verdenking acs, opnieuw ecg maken om te zien of het dynamisch is, troponines",0.0,63,108.83
+113,"Case-03","EKG Hypothesis","stemi ipl",0.0,71,31.61
+113,"Case-03","Description Hypothesis","vroege repolarisatie, acs nog niet uitgesloten",1.0,62,41.76
+113,"Case-07","EKG Hypothesis","acs, verdenking stemi ipl",0.0,63,53.79
+113,"Case-07","Description Hypothesis","stemi ipl",0.0,69,19.76
+113,"Case-08","EKG Hypothesis","komvormige st depressie inferolateraal, kan passen digoxine intoxicatie, acs nog niet uitgesloten",0.0,41,121.56
+113,"Case-08","Description Hypothesis","acs, cardiomypathie",1.0,59,56.12

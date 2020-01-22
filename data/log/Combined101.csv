@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+101,"Case-01","EKG Hypothesis","doorgemaakt infarct",1.0,71,76.63
+101,"Case-01","Description Hypothesis","doorgemaakt infero posterior infarct",0.5,83,60.10
+101,"Case-02","EKG Hypothesis","inferior stemi",0.0,86,61.79
+101,"Case-02","Description Hypothesis","reflux",1.0,83,78.54
+101,"Case-03","EKG Hypothesis","stemi onderwand",0.0,46,102.62
+101,"Case-03","Description Hypothesis","niet cardiale klachten",1.0,78,62.04
+101,"Case-07","EKG Hypothesis","pericarditis",1.0,80,30.23
+101,"Case-07","Description Hypothesis","pericarditis",1.0,82,44.06
+101,"Case-08","EKG Hypothesis","nstemi",1.0,65,96.72
+101,"Case-08","Description Hypothesis","nstemi",1.0,70,48.17
+101,"Case-09","EKG Hypothesis","stemi lateraal",0.5,83,80.94
+101,"Case-09","Description Hypothesis","stemi lateraal",0.5,84,55.20
+101,"Case-12","EKG Hypothesis","normaal ecg",1.0,61,66.26
+101,"Case-12","Description Hypothesis","brady tachy",0.0,65,86.44
+101,"Case-13","EKG Hypothesis","nstemi",1.0,73,121.98
+101,"Case-13","Description Hypothesis","niet cardiaal",0.0,74,70.65
+101,"Case-15","EKG Hypothesis","pericarditis",0.0,59,46.23
+101,"Case-15","Description Hypothesis","nstemi",1.0,66,46.70
+101,"Case-16","EKG Hypothesis","rv infarct",0.0,58,56.35
+101,"Case-16","Description Hypothesis","stemi rv",0.0,69,29.20
+101,"Case-17","EKG Hypothesis","nstemi",0.5,25,52.98
+101,"Case-17","Description Hypothesis","nstemi",0.5,48,35.81
+101,"Case-19","EKG Hypothesis","niet cardiaal",0.0,33,48.03
+101,"Case-19","Description Hypothesis","nstemi",1.0,58,20.93

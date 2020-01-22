@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+81,"Case-01","Description Hypothesis","acs",1.0,64,169.60
+81,"Case-01","EKG Hypothesis","acs",1.0,48,36.59
+81,"Case-02","Description Hypothesis","gastro-esofagaal",1.0,77,76.24
+81,"Case-02","EKG Hypothesis","gastro esofagaal",1.0,73,39.47
+81,"Case-03","Description Hypothesis","tendomyalgeen",1.0,64,50.16
+81,"Case-03","EKG Hypothesis","tendomyalgeen",1.0,86,15.01
+81,"Case-07","Description Hypothesis","pericarditis",1.0,66,87.23
+81,"Case-07","EKG Hypothesis","pericarditis",1.0,98,21.08
+81,"Case-08","Description Hypothesis","ap",1.0,71,76.63
+81,"Case-08","EKG Hypothesis","ap",1.0,77,29.99
+81,"Case-09","Description Hypothesis","pneumonie",0.0,74,86.56
+81,"Case-09","EKG Hypothesis","pneumonie",0.0,62,60.87
+81,"Case-12","Description Hypothesis","hvs",0.0,79,106.09
+81,"Case-12","EKG Hypothesis","hvs",0.0,90,20.69
+81,"Case-13","Description Hypothesis","tendomyalgeen",0.0,64,91.24
+81,"Case-13","EKG Hypothesis","tendomyalgeen",0.0,66,18.59
+81,"Case-15","Description Hypothesis","iap",1.0,64,69.87
+81,"Case-15","EKG Hypothesis","iap",1.0,59,26.99
+81,"Case-16","Description Hypothesis","ap",1.0,73,35.54
+81,"Case-16","EKG Hypothesis","ap",1.0,68,16.33
+81,"Case-17","Description Hypothesis","oesofagus spasme",0.0,62,86.27
+81,"Case-17","EKG Hypothesis","ap",0.5,18,12.81
+81,"Case-19","Description Hypothesis","iap",1.0,76,30.86
+81,"Case-19","EKG Hypothesis","iap",1.0,79,8.87

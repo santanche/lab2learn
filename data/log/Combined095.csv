@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+95,"Case-01","EKG Hypothesis","doorgemaakt inferolateraal infarct",0.5,85,60.54
+95,"Case-01","Description Hypothesis","pyrosis/gerd, in het verleden doorgemaakt ipl infarct",0.0,90,240.70
+95,"Case-02","EKG Hypothesis","pericarditis",1.0,95,28.95
+95,"Case-02","Description Hypothesis","pericarditis",1.0,80,105.89
+95,"Case-03","EKG Hypothesis","pericarditis",0.5,70,101.86
+95,"Case-03","Description Hypothesis","costomyogene klachten met op ecg vroege repolarisatie",1.0,70,87.34
+95,"Case-07","EKG Hypothesis","pericarditis",1.0,90,41.99
+95,"Case-07","Description Hypothesis","pericarditis",1.0,100,14.76
+95,"Case-08","EKG Hypothesis","de winters t toppen",1.0,70,91.59
+95,"Case-08","Description Hypothesis","voorwandinfarct",1.0,80,64.03
+95,"Case-09","EKG Hypothesis","longembolie",0.5,69,86.03
+95,"Case-09","Description Hypothesis","longembolie",0.5,60,146.98
+95,"Case-12","EKG Hypothesis","normaal ecg",1.0,79,41.26
+95,"Case-12","Description Hypothesis","atypische thoracale pijn",1.0,80,53.08
+95,"Case-13","EKG Hypothesis","la dilatatie, vlakke repolarisatie, mogelijk nstemi",0.5,65,88.22
+95,"Case-13","Description Hypothesis","nstemi",1.0,81,15.82
+95,"Case-15","EKG Hypothesis","vroege repolarisatie",0.5,76,40.98
+95,"Case-15","Description Hypothesis","nste-acs",1.0,75,34.39
+95,"Case-16","EKG Hypothesis","nste-acs",1.0,86,43.99
+95,"Case-16","Description Hypothesis","nste-acs",1.0,89,21.11
+95,"Case-17","EKG Hypothesis","nste-acs",0.5,89,21.98
+95,"Case-17","Description Hypothesis","takotsubo",0.5,54,26.12
+95,"Case-19","EKG Hypothesis","preexcitatie",0.0,81,51.97
+95,"Case-19","Description Hypothesis","nste-acs",1.0,82,58.68

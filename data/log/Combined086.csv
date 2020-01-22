@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+86,"Case-01","EKG Hypothesis","acs",1.0,70,45.66
+86,"Case-01","Description Hypothesis","acs",1.0,70,126.70
+86,"Case-02","EKG Hypothesis","pericarditis",1.0,75,29.42
+86,"Case-02","Description Hypothesis","maagklachten",1.0,60,80.00
+86,"Case-03","EKG Hypothesis","normal",1.0,89,26.61
+86,"Case-03","Description Hypothesis","aspecifieke pijn, dd hvs",1.0,100,39.66
+86,"Case-07","EKG Hypothesis","pericarditis",1.0,77,24.48
+86,"Case-07","Description Hypothesis","pericarditis",1.0,80,55.28
+86,"Case-08","EKG Hypothesis","lvh strain.",0.0,81,29.71
+86,"Case-08","Description Hypothesis","angina pectoris",1.0,75,43.61
+86,"Case-09","EKG Hypothesis","doorgemaakt infarct.",0.5,19,89.99
+86,"Case-09","Description Hypothesis","doorgemaakt infarct",0.0,90,33.17
+86,"Case-12","EKG Hypothesis","normal ecg",1.0,100,30.32
+86,"Case-12","Description Hypothesis","paf",0.0,51,64.10
+86,"Case-13","EKG Hypothesis","prolonged qt, nonspecific st abnormalities",0.5,71,60.70
+86,"Case-13","Description Hypothesis","acs",1.0,67,26.11
+86,"Case-15","EKG Hypothesis","normal",0.0,100,35.04
+86,"Case-15","Description Hypothesis","acs",1.0,86,44.32
+86,"Case-16","EKG Hypothesis","sinus tachycardia, nonspecific st changes",0.5,70,58.74
+86,"Case-16","Description Hypothesis","iap",1.0,86,31.34
+86,"Case-17","EKG Hypothesis","strain, short pr without pre-excitation",0.5,78,79.69
+86,"Case-17","Description Hypothesis","angina pectoris",0.5,47,41.72
+86,"Case-19","EKG Hypothesis","hypertension",0.0,47,53.03
+86,"Case-19","Description Hypothesis","iap",1.0,46,41.64

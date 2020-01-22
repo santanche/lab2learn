@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+94,"Case-01","EKG Hypothesis","history of myocardial infarction",1.0,30,137.66
+94,"Case-01","Description Hypothesis","acs",1.0,49,45.25
+94,"Case-02","EKG Hypothesis","early repolarization inferior",1.0,50,108.65
+94,"Case-02","Description Hypothesis","pyrosis",1.0,70,52.57
+94,"Case-03","EKG Hypothesis","pericarditis",0.5,39,79.89
+94,"Case-03","Description Hypothesis","costomyalgeen",1.0,60,108.89
+94,"Case-07","EKG Hypothesis","pericarditis",1.0,80,32.79
+94,"Case-07","Description Hypothesis","pericarditis",1.0,80,33.20
+94,"Case-08","EKG Hypothesis","acs",1.0,60,61.79
+94,"Case-08","Description Hypothesis","acs",1.0,80,31.46
+94,"Case-09","EKG Hypothesis","longembolie",0.5,76,70.70
+94,"Case-09","Description Hypothesis","acs",1.0,51,117.61
+94,"Case-12","EKG Hypothesis","normal ecg, hangt af van anamnese",1.0,100,66.19
+94,"Case-12","Description Hypothesis","nstemi",0.0,32,48.59
+94,"Case-13","EKG Hypothesis","nstemi",1.0,30,70.85
+94,"Case-13","Description Hypothesis","nstemi",1.0,75,27.66
+94,"Case-15","EKG Hypothesis","early repolarization",0.5,73,33.92
+94,"Case-15","Description Hypothesis","acs",1.0,61,36.70
+94,"Case-16","EKG Hypothesis","acs",1.0,37,53.71
+94,"Case-16","Description Hypothesis","acs",1.0,70,22.99
+94,"Case-17","EKG Hypothesis","acs",0.5,58,20.21
+94,"Case-17","Description Hypothesis","acs",0.5,89,19.76
+94,"Case-19","EKG Hypothesis","wpw?",0.0,16,78.13
+94,"Case-19","Description Hypothesis","nstemi",1.0,48,26.10

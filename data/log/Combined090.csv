@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+90,"Case-01","EKG Hypothesis","inferolaterale ischemie",0.5,55,50.52
+90,"Case-01","Description Hypothesis","acs",1.0,64,167.63
+90,"Case-02","EKG Hypothesis","acs",0.0,58,40.28
+90,"Case-02","Description Hypothesis","gastro intestinaal",1.0,76,135.63
+90,"Case-03","EKG Hypothesis","ischemie",0.0,70,87.60
+90,"Case-03","Description Hypothesis","niet cardiaal",1.0,81,51.23
+90,"Case-07","EKG Hypothesis","pericarditis",1.0,57,97.70
+90,"Case-07","Description Hypothesis","pericarditis",1.0,91,47.02
+90,"Case-08","EKG Hypothesis","acs",1.0,86,62.71
+90,"Case-08","Description Hypothesis","acs",1.0,92,48.27
+90,"Case-09","EKG Hypothesis","longembolie",0.5,80,108.90
+90,"Case-09","Description Hypothesis","longembolie",0.5,95,37.54
+90,"Case-12","EKG Hypothesis","niet cardiaal",1.0,72,33.35
+90,"Case-12","Description Hypothesis","stress gerelateerde klachten",0.0,77,51.21
+90,"Case-13","EKG Hypothesis","panischemie",0.5,60,104.78
+90,"Case-13","Description Hypothesis","panischemie",0.5,63,57.99
+90,"Case-15","EKG Hypothesis","acs",1.0,59,38.99
+90,"Case-15","Description Hypothesis","nstemi",1.0,74,109.87
+90,"Case-16","EKG Hypothesis","acs",1.0,63,20.03
+90,"Case-16","Description Hypothesis","acs",1.0,88,28.22
+90,"Case-17","EKG Hypothesis","panischemie",0.0,59,24.11
+90,"Case-17","Description Hypothesis","panischemie",0.0,76,26.01
+90,"Case-19","EKG Hypothesis","niet cardiaal",0.0,51,35.21
+90,"Case-19","Description Hypothesis","nstemi",1.0,63,49.11

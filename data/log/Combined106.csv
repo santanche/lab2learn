@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+106,"Case-01","EKG Hypothesis","nstemi",1.0,59,62.98
+106,"Case-01","Description Hypothesis","nstemi",1.0,65,59.82
+106,"Case-02","EKG Hypothesis","pericarditis",1.0,70,51.11
+106,"Case-02","Description Hypothesis","pericarditis en maagklachten",1.0,61,85.63
+106,"Case-03","EKG Hypothesis","stemi inferolateraal",0.0,28,73.07
+106,"Case-03","Description Hypothesis","maagklachten",0.5,25,94.43
+106,"Case-07","EKG Hypothesis","stemi",0.0,78,38.22
+106,"Case-07","Description Hypothesis","pericarditis",1.0,73,39.62
+106,"Case-08","EKG Hypothesis","subendocardiale ischemie",0.0,57,203.63
+106,"Case-08","Description Hypothesis","ap klachten",1.0,59,53.26
+106,"Case-09","EKG Hypothesis","tamponade",0.0,57,110.89
+106,"Case-09","Description Hypothesis","pericarditis",0.0,57,34.38
+106,"Case-12","EKG Hypothesis","nstemi",0.0,52,57.48
+106,"Case-12","Description Hypothesis","nstemi",0.0,57,94.68
+106,"Case-13","EKG Hypothesis","nstemi",1.0,41,79.82
+106,"Case-13","Description Hypothesis","nstemi",1.0,67,30.97
+106,"Case-15","EKG Hypothesis","nstemi",1.0,20,31.73
+106,"Case-15","Description Hypothesis","nstemi",1.0,58,80.95
+106,"Case-16","EKG Hypothesis","angina pectoris",1.0,52,27.92
+106,"Case-16","Description Hypothesis","angina pectoris",1.0,67,61.94
+106,"Case-17","EKG Hypothesis","angina pectoris",0.5,58,35.96
+106,"Case-17","Description Hypothesis","angina pectoris",0.5,56,38.92
+106,"Case-19","EKG Hypothesis","angina pectoris",1.0,36,29.42
+106,"Case-19","Description Hypothesis","nstemi",1.0,60,37.24

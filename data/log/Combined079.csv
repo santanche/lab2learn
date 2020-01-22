@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+79,"Case-01","Description Hypothesis","zuurbranden",0.0,30,127.10
+79,"Case-01","EKG Hypothesis","oud inferolateraal infarct, geen acute ischemie",0.5,49,55.58
+79,"Case-02","Description Hypothesis","zuurbranden",1.0,54,92.71
+79,"Case-02","EKG Hypothesis","pericarditis",1.0,22,54.41
+79,"Case-03","Description Hypothesis","aspecifieke thoracale klachten, costomyalgeen",1.0,65,42.56
+79,"Case-03","EKG Hypothesis","aspecifieke thoracale pijnklachten, dd costomyalgeen",1.0,80,46.13
+79,"Case-07","Description Hypothesis","pericarditis",1.0,98,50.15
+79,"Case-07","EKG Hypothesis","pericarditis",1.0,100,33.38
+79,"Case-08","Description Hypothesis","acuut infarct",1.0,69,38.10
+79,"Case-08","EKG Hypothesis","acuut infarct",1.0,100,35.71
+79,"Case-09","Description Hypothesis","pneumonie",0.0,24,59.24
+79,"Case-09","EKG Hypothesis","iap",1.0,14,77.85
+79,"Case-12","Description Hypothesis","pyrosis",0.0,24,60.85
+79,"Case-12","EKG Hypothesis","pyrosis",0.0,32,37.44
+79,"Case-13","Description Hypothesis","acs",1.0,39,44.52
+79,"Case-13","EKG Hypothesis","longembolie",0.0,0,64.62
+79,"Case-15","Description Hypothesis","infarct",1.0,66,40.47
+79,"Case-15","EKG Hypothesis","nstemi",1.0,15,19.44
+79,"Case-16","Description Hypothesis","ap",1.0,16,33.74
+79,"Case-16","EKG Hypothesis","acs",1.0,67,34.99
+79,"Case-17","Description Hypothesis","stress",0.5,3,62.16
+79,"Case-17","EKG Hypothesis","lvh",0.5,17,32.76
+79,"Case-19","Description Hypothesis","iap",1.0,66,36.11
+79,"Case-19","EKG Hypothesis","iap",1.0,71,22.70
