@@ -1,0 +1,21 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+100,"Case-01","EKG Hypothesis","doorgemaakt onderwand infarct",0.5,60,66.39
+100,"Case-01","Description Hypothesis","mogelijk nstemi",1.0,53,149.43
+100,"Case-02","EKG Hypothesis","geen cardiale acute pathologie",0.5,55,60.22
+100,"Case-02","Description Hypothesis","reflux",1.0,90,127.28
+100,"Case-03","EKG Hypothesis","geen stemi",1.0,62,80.43
+100,"Case-03","Description Hypothesis","atypische thor klachten",1.0,86,90.99
+100,"Case-07","EKG Hypothesis","pericarditis",1.0,63,40.22
+100,"Case-07","Description Hypothesis","pericarditis",1.0,100,48.03
+100,"Case-08","EKG Hypothesis","atypisch",0.0,23,87.55
+100,"Case-08","Description Hypothesis","iap",1.0,74,76.73
+100,"Case-09","EKG Hypothesis","geen acute pathologie",0.0,39,62.69
+100,"Case-09","Description Hypothesis","nstemi",1.0,52,114.75
+100,"Case-12","EKG Hypothesis","niet cardiaal",1.0,59,34.09
+100,"Case-12","Description Hypothesis","niet cardiaal",1.0,80,74.50
+100,"Case-13","EKG Hypothesis","la vergroting en neg t inf/lat",0.5,56,78.20
+100,"Case-13","Description Hypothesis","mogelijk ap/iap",0.5,40,109.49
+100,"Case-15","EKG Hypothesis","niet cardiaal",0.0,42,21.02
+100,"Case-15","Description Hypothesis","nstemi",1.0,52,85.84
+100,"Case-16","EKG Hypothesis","st depressie v2-v4",1.0,57,97.48
+100,"Case-16","Description Hypothesis","ap",1.0,58,66.20

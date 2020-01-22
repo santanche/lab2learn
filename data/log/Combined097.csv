@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+97,"Case-01","EKG Hypothesis","nstemi",1.0,22,61.31
+97,"Case-01","Description Hypothesis","nstemi",1.0,69,62.91
+97,"Case-02","EKG Hypothesis","vroege repolarisatie/pericarditis",0.5,22,61.16
+97,"Case-02","Description Hypothesis","pyrosis",1.0,83,64.19
+97,"Case-03","EKG Hypothesis","vroege repolarisatie",1.0,26,79.23
+97,"Case-03","Description Hypothesis","costomyalgeen",1.0,92,31.14
+97,"Case-07","EKG Hypothesis","pericarditis of negroïde patiënt",1.0,23,86.20
+97,"Case-07","Description Hypothesis","pericarditis",1.0,83,34.29
+97,"Case-08","EKG Hypothesis","drievatslijden nstemi",0.5,54,118.40
+97,"Case-08","Description Hypothesis","nstemi drievatijden",0.5,90,23.90
+97,"Case-09","EKG Hypothesis","lateraal infarct",0.5,48,91.11
+97,"Case-09","Description Hypothesis","doorgemaakt lateraal infarct",0.0,90,48.66
+97,"Case-12","EKG Hypothesis","geen acs, misschien lvh",0.0,61,37.83
+97,"Case-12","Description Hypothesis","hypertensie, geen acs",0.0,78,62.19
+97,"Case-13","EKG Hypothesis","nstemi",1.0,38,70.33
+97,"Case-13","Description Hypothesis","ap",0.5,86,62.32
+97,"Case-15","EKG Hypothesis","normaal ecg",1.0,93,50.00
+97,"Case-15","Description Hypothesis","iap",1.0,36,102.46
+97,"Case-16","EKG Hypothesis","drievatslijden",1.0,69,47.11
+97,"Case-16","Description Hypothesis","drievatslijden",1.0,92,32.65
+97,"Case-17","EKG Hypothesis","drievatslijden",0.0,53,42.15
+97,"Case-17","Description Hypothesis","myalgeen/stress",0.0,57,71.29
+97,"Case-19","EKG Hypothesis","mogelijk doorgemaakt inferior ischemie",0.5,26,70.05
+97,"Case-19","Description Hypothesis","iap/nstemi",1.0,84,39.69

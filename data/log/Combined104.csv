@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+104,"Case-01","EKG Hypothesis","nstemi",1.0,47,15.77
+104,"Case-01","Description Hypothesis","nstemi",1.0,50,23.11
+104,"Case-02","EKG Hypothesis","pericarditis",1.0,31,-49.63
+104,"Case-02","Description Hypothesis","dyspepsie",1.0,76,14.64
+104,"Case-03","EKG Hypothesis","vroege repolarisatei",1.0,28,-174.68
+104,"Case-03","Description Hypothesis","spierpijn",1.0,69,22.30
+104,"Case-07","EKG Hypothesis","pericarditis",1.0,47,-240.21
+104,"Case-07","Description Hypothesis","pericarditis",1.0,80,15.81
+104,"Case-08","EKG Hypothesis","nstemi",1.0,27,-306.22
+104,"Case-08","Description Hypothesis","nstemi",1.0,76,19.58
+104,"Case-09","EKG Hypothesis","decompensatio cordis",0.0,15,66.73
+104,"Case-09","Description Hypothesis","doorgemaakt infarct",0.0,48,36.25
+104,"Case-12","EKG Hypothesis","niet cardiaal",1.0,26,33.55
+104,"Case-12","Description Hypothesis","coronairspasme",0.0,23,46.87
+104,"Case-13","EKG Hypothesis","mitralisklepinsufficientie",0.0,12,63.20
+104,"Case-13","Description Hypothesis","nstemi",1.0,20,25.10
+104,"Case-15","EKG Hypothesis","niet cardiaal",0.0,46,29.53
+104,"Case-15","Description Hypothesis","angina pectoris",1.0,46,18.10
+104,"Case-16","EKG Hypothesis","longembolie",0.0,15,40.32
+104,"Case-16","Description Hypothesis","ap",1.0,36,38.79
+104,"Case-17","EKG Hypothesis","doorgemaakt ipl infarct",0.0,26,21.76
+104,"Case-17","Description Hypothesis","doorgemaakt ipl infarct",0.0,74,21.13
+104,"Case-19","EKG Hypothesis","doorgemaakt posterior infarct",0.5,16,37.43
+104,"Case-19","Description Hypothesis","nstemi",1.0,64,18.37

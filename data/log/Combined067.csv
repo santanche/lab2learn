@@ -1,0 +1,23 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+67,"Case-01","Description Hypothesis","acs",1.0,70,107.35
+67,"Case-01","EKG Hypothesis","acs",1.0,90,32.71
+67,"Case-02","Description Hypothesis","maagklachten",1.0,57,119.56
+67,"Case-02","EKG Hypothesis","maagklachten",1.0,65,11.64
+67,"Case-07","Description Hypothesis","pericarditis",1.0,64,25.92
+67,"Case-07","EKG Hypothesis","pericarditis",1.0,90,13.13
+67,"Case-08","Description Hypothesis","acs",1.0,52,30.68
+67,"Case-08","EKG Hypothesis","acs",1.0,91,15.42
+67,"Case-09","Description Hypothesis","acs",1.0,28,65.92
+67,"Case-09","EKG Hypothesis","acs",1.0,38,105.71
+67,"Case-12","Description Hypothesis","acs",0.0,37,93.41
+67,"Case-12","EKG Hypothesis","costomyalgeen",0.0,34,33.74
+67,"Case-13","Description Hypothesis","costomyalgeen",0.0,51,24.39
+67,"Case-13","EKG Hypothesis","acs",1.0,71,33.30
+67,"Case-15","Description Hypothesis","acs",1.0,80,43.24
+67,"Case-15","EKG Hypothesis","acs",1.0,70,16.96
+67,"Case-16","Description Hypothesis","ap",1.0,53,60.28
+67,"Case-16","EKG Hypothesis","acs",1.0,65,33.14
+67,"Case-17","Description Hypothesis","hyperventilatie",0.0,52,41.07
+67,"Case-17","EKG Hypothesis","acs",0.5,75,20.88
+67,"Case-19","Description Hypothesis","acs",1.0,59,42.85
+67,"Case-19","EKG Hypothesis","acs",1.0,55,17.55

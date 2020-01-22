@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+61,"Case-01","Description Hypothesis","acs",1.0,60,116.29
+61,"Case-01","EKG Hypothesis","nstemi",1.0,85,44.17
+61,"Case-02","Description Hypothesis","gastrointestinal",1.0,85,102.18
+61,"Case-02","EKG Hypothesis","gastrointestinal",1.0,65,101.37
+61,"Case-03","Description Hypothesis","tendomyogenic",1.0,85,81.42
+61,"Case-03","EKG Hypothesis","tendomyogenic",1.0,85,31.00
+61,"Case-07","Description Hypothesis","pericarditis",1.0,50,67.92
+61,"Case-07","EKG Hypothesis","pericarditis",1.0,91,34.73
+61,"Case-08","Description Hypothesis","acs",1.0,70,49.27
+61,"Case-08","EKG Hypothesis","acs",1.0,90,33.66
+61,"Case-09","Description Hypothesis","acs",1.0,75,67.40
+61,"Case-09","EKG Hypothesis","acs",1.0,84,36.09
+61,"Case-12","Description Hypothesis","afib",0.5,50,148.74
+61,"Case-12","EKG Hypothesis","transient tachycardia",0.5,60,58.12
+61,"Case-13","Description Hypothesis","acs",1.0,81,36.46
+61,"Case-13","EKG Hypothesis","acs",1.0,90,37.14
+61,"Case-15","Description Hypothesis","acs",1.0,89,43.97
+61,"Case-15","EKG Hypothesis","acs",1.0,90,15.16
+61,"Case-16","Description Hypothesis","acs",1.0,80,51.14
+61,"Case-16","EKG Hypothesis","acs 3vd",1.0,89,23.69
+61,"Case-17","Description Hypothesis","hyperventilation",0.0,61,81.19
+61,"Case-17","EKG Hypothesis","acs",0.5,80,19.97
+61,"Case-19","Description Hypothesis","acs",1.0,72,50.71
+61,"Case-19","EKG Hypothesis","acs",1.0,80,24.21

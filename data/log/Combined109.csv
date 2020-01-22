@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+109,"Case-01","EKG Hypothesis","ischemie inferolateraal",0.5,63,103.07
+109,"Case-01","Description Hypothesis","nstemi",1.0,72,70.84
+109,"Case-02","EKG Hypothesis","pericarditis",1.0,65,94.01
+109,"Case-02","Description Hypothesis","maagklachten",1.0,79,41.45
+109,"Case-03","EKG Hypothesis","pericarditis",0.5,72,42.41
+109,"Case-03","Description Hypothesis","hyperventilatie",1.0,67,34.36
+109,"Case-07","EKG Hypothesis","pericarditis",1.0,66,46.95
+109,"Case-07","Description Hypothesis","pericarditis",1.0,84,22.86
+109,"Case-08","EKG Hypothesis","nstemi",1.0,60,51.53
+109,"Case-08","Description Hypothesis","nstemi",1.0,79,28.24
+109,"Case-09","EKG Hypothesis","stemi",0.0,51,148.10
+109,"Case-09","Description Hypothesis","stemi",0.0,64,40.39
+109,"Case-12","EKG Hypothesis","normaal ecg",1.0,82,62.69
+109,"Case-12","Description Hypothesis","nstemi",0.0,49,66.97
+109,"Case-13","EKG Hypothesis","nstemi",1.0,51,53.11
+109,"Case-13","Description Hypothesis","nstemi",1.0,56,32.91
+109,"Case-15","EKG Hypothesis","normaal ecg",1.0,82,33.82
+109,"Case-15","Description Hypothesis","nstemi",1.0,73,39.73
+109,"Case-16","EKG Hypothesis","panischemie",1.0,73,55.79
+109,"Case-16","Description Hypothesis","nstemi",1.0,68,29.65
+109,"Case-17","EKG Hypothesis","nstemi",0.5,75,26.50
+109,"Case-17","Description Hypothesis","tako tsubo danwel nstemi",0.5,58,41.94
+109,"Case-19","EKG Hypothesis","normaal ecg",0.0,56,41.58
+109,"Case-19","Description Hypothesis","nstemi",1.0,62,33.94

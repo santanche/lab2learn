@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+88,"Case-01","EKG Hypothesis","stabiele angina pectoris",0.5,70,67.42
+88,"Case-01","Description Hypothesis","stabiele angina pectoris",0.5,71,204.06
+88,"Case-02","EKG Hypothesis","pericarditis",1.0,60,95.85
+88,"Case-02","Description Hypothesis","galstenen",0.5,70,68.65
+88,"Case-03","EKG Hypothesis","pericarditis",0.5,50,100.66
+88,"Case-03","Description Hypothesis","tendomyogene klachten",1.0,60,70.13
+88,"Case-07","EKG Hypothesis","pericarditis",1.0,60,38.87
+88,"Case-07","Description Hypothesis","pericarditis",1.0,100,31.50
+88,"Case-08","EKG Hypothesis","stemi posterior",0.0,80,44.90
+88,"Case-08","Description Hypothesis","acuut myocard infarct",1.0,100,34.01
+88,"Case-09","EKG Hypothesis","longembolie",0.5,70,78.41
+88,"Case-09","Description Hypothesis","longembolie",0.5,80,39.11
+88,"Case-12","EKG Hypothesis","niet cardinals diagnose",1.0,51,44.20
+88,"Case-12","Description Hypothesis","paf",0.0,80,95.45
+88,"Case-13","EKG Hypothesis","mitralisinsufficientie",0.0,60,40.78
+88,"Case-13","Description Hypothesis","nstemi",1.0,70,64.58
+88,"Case-15","EKG Hypothesis","normaal ecg",1.0,80,28.68
+88,"Case-15","Description Hypothesis","instabiele ap",1.0,100,49.89
+88,"Case-16","EKG Hypothesis","type 2 ischemie",0.5,80,32.87
+88,"Case-16","Description Hypothesis","hoofdstad stenose",1.0,81,29.47
+88,"Case-17","EKG Hypothesis","lvh",0.5,70,31.42
+88,"Case-17","Description Hypothesis","tako tsubo",0.5,100,50.76
+88,"Case-19","EKG Hypothesis","nstemi",1.0,75,90.34
+88,"Case-19","Description Hypothesis","nstemi",1.0,74,56.05

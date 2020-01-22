@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+85,"Case-01","Description Hypothesis","acs",1.0,80,150.95
+85,"Case-01","EKG Hypothesis","nstemi",1.0,70,66.84
+85,"Case-02","Description Hypothesis","gastro intestinaal",1.0,95,72.68
+85,"Case-02","EKG Hypothesis","pericarditis",1.0,70,49.57
+85,"Case-03","Description Hypothesis","atypische thoracale pijnklachten",1.0,85,58.43
+85,"Case-03","EKG Hypothesis","vroege repolarisatie",1.0,85,29.07
+85,"Case-07","Description Hypothesis","pericarditis",1.0,91,30.79
+85,"Case-07","EKG Hypothesis","pericarditis",1.0,95,31.82
+85,"Case-08","Description Hypothesis","iap",1.0,80,53.28
+85,"Case-08","EKG Hypothesis","anterior infarct",1.0,95,108.69
+85,"Case-09","Description Hypothesis","pneumonie",0.0,70,103.16
+85,"Case-09","EKG Hypothesis","pneumonie",0.0,85,92.73
+85,"Case-12","Description Hypothesis","snel af",0.5,90,66.24
+85,"Case-12","EKG Hypothesis","snel af met conversie pauze",0.5,80,35.53
+85,"Case-13","Description Hypothesis","atypische thoracale pijnklachten",0.0,70,49.62
+85,"Case-13","EKG Hypothesis","sinusbradycardie met linker atriumfilatatie",0.5,70,89.38
+85,"Case-15","Description Hypothesis","iap/acs",1.0,80,56.26
+85,"Case-15","EKG Hypothesis","iap",1.0,75,31.45
+85,"Case-16","Description Hypothesis","ap",1.0,70,54.37
+85,"Case-16","EKG Hypothesis","nstemi",1.0,80,77.77
+85,"Case-17","Description Hypothesis","reflux",0.0,70,132.15
+85,"Case-17","EKG Hypothesis","lvh met strain en mogelijk subendocardiale ischemie",0.5,75,45.61
+85,"Case-19","Description Hypothesis","acs",1.0,72,21.14
+85,"Case-19","EKG Hypothesis","nstemi",1.0,72,18.61

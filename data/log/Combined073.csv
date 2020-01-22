@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+73,"Case-01","Description Hypothesis","nste-acs",1.0,43,151.43
+73,"Case-01","EKG Hypothesis","nste-acs",1.0,60,38.10
+73,"Case-02","Description Hypothesis","pyrosis",1.0,59,49.35
+73,"Case-02","EKG Hypothesis","pyrosis/reflux",1.0,70,58.55
+73,"Case-03","Description Hypothesis","hyperventilatie",1.0,62,37.49
+73,"Case-03","EKG Hypothesis","hyperventilatie",1.0,70,48.77
+73,"Case-07","Description Hypothesis","pericarditis",1.0,70,26.10
+73,"Case-07","EKG Hypothesis","pericarditis",1.0,90,29.45
+73,"Case-08","Description Hypothesis","iap",1.0,65,40.35
+73,"Case-08","EKG Hypothesis","nste-acs",1.0,70,54.12
+73,"Case-09","Description Hypothesis","nste-acs",1.0,50,67.36
+73,"Case-09","EKG Hypothesis","stemi",0.0,90,63.07
+73,"Case-12","Description Hypothesis","reflux",0.0,40,123.97
+73,"Case-12","EKG Hypothesis","reflux",0.0,70,39.34
+73,"Case-13","Description Hypothesis","ap",0.5,61,83.30
+73,"Case-13","EKG Hypothesis","ap",0.5,60,43.17
+73,"Case-15","Description Hypothesis","infarct",1.0,61,63.64
+73,"Case-15","EKG Hypothesis","nste-acs",1.0,52,51.45
+73,"Case-16","Description Hypothesis","iap",1.0,50,48.57
+73,"Case-16","EKG Hypothesis","nste-acs panischemie",1.0,80,36.87
+73,"Case-17","Description Hypothesis","stress",0.5,50,57.86
+73,"Case-17","EKG Hypothesis","tako tsubo",0.5,61,25.76
+73,"Case-19","Description Hypothesis","acs",1.0,61,58.84
+73,"Case-19","EKG Hypothesis","nste-acs",1.0,75,25.23

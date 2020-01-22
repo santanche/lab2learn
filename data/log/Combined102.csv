@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+102,"Case-01","EKG Hypothesis","doorgemaakt inferolateraal infarct",0.5,30,70.35
+102,"Case-01","Description Hypothesis","angina pectoris of pyrosis",0.5,50,105.62
+102,"Case-02","EKG Hypothesis","inferior stemi",0.0,25,126.37
+102,"Case-02","Description Hypothesis","reflux",1.0,60,50.40
+102,"Case-03","EKG Hypothesis","stemi",0.0,25,59.22
+102,"Case-03","Description Hypothesis","costo-myalgeen",1.0,60,31.32
+102,"Case-07","EKG Hypothesis","stemi",0.0,40,55.09
+102,"Case-07","Description Hypothesis","pericarditis",1.0,70,34.11
+102,"Case-08","EKG Hypothesis","stemi septaal",0.5,45,55.81
+102,"Case-08","Description Hypothesis","stemi septaal",0.5,60,75.91
+102,"Case-09","EKG Hypothesis","misschien stemi lateraal",0.5,25,69.04
+102,"Case-09","Description Hypothesis","doorgemaakt myocardinfarct lateraal",0.0,30,63.55
+102,"Case-12","EKG Hypothesis","geen ischemie",1.0,35,41.83
+102,"Case-12","Description Hypothesis","nstemi",0.0,50,47.77
+102,"Case-13","EKG Hypothesis","nstemi",1.0,40,51.57
+102,"Case-13","Description Hypothesis","nstemi",1.0,25,68.19
+102,"Case-15","EKG Hypothesis","normaal ecg, mogelijk inferior afwijkingen",0.5,15,62.45
+102,"Case-15","Description Hypothesis","iap",1.0,80,31.55
+102,"Case-16","EKG Hypothesis","hoofdstamstenose, demand ischemie",1.0,40,94.86
+102,"Case-16","Description Hypothesis","hoofdstamstenose",1.0,40,32.09
+102,"Case-17","EKG Hypothesis","nstemi",0.5,60,51.04
+102,"Case-17","Description Hypothesis","nstemi",0.5,55,46.45
+102,"Case-19","EKG Hypothesis","doorgemaakte ischemie inferior",0.5,25,54.25
+102,"Case-19","Description Hypothesis","nstemi",1.0,40,30.86

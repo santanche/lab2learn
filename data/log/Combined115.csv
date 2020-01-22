@@ -1,0 +1,17 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+115,"Case-01","EKG Hypothesis","nstemi",1.0,61,142.05
+115,"Case-01","Description Hypothesis","nstemi",1.0,73,52.30
+115,"Case-02","EKG Hypothesis","stemi inferior",0.0,71,42.42
+115,"Case-02","Description Hypothesis","stemi inferior",0.0,62,123.96
+115,"Case-03","EKG Hypothesis","pericarditis",0.5,68,60.69
+115,"Case-03","Description Hypothesis","atypische pob (tendomyogeen)",1.0,76,73.97
+115,"Case-07","EKG Hypothesis","pericarditis",1.0,79,44.86
+115,"Case-07","Description Hypothesis","pericarditis",1.0,89,29.55
+115,"Case-12","EKG Hypothesis","acs",0.0,18,45.04
+115,"Case-12","Description Hypothesis","nstemi",0.0,62,41.46
+115,"Case-13","EKG Hypothesis","rv hypertrofie",0.0,32,44.33
+115,"Case-13","Description Hypothesis","nstemi",1.0,68,77.51
+115,"Case-15","EKG Hypothesis","acs",1.0,24,54.90
+115,"Case-15","Description Hypothesis","stemi",0.0,100,45.16
+115,"Case-16","EKG Hypothesis","nstemi",1.0,22,100.45
+115,"Case-16","Description Hypothesis","nstemi",1.0,69,30.64

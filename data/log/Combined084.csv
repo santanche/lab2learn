@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+84,"Case-01","Description Hypothesis","acs",1.0,28,99.59
+84,"Case-01","EKG Hypothesis","acs",1.0,55,53.17
+84,"Case-02","Description Hypothesis","castro oesofageaal",1.0,62,76.09
+84,"Case-02","EKG Hypothesis","castro oesofageaal",1.0,74,30.70
+84,"Case-03","Description Hypothesis","tendomyogen",1.0,63,42.09
+84,"Case-03","EKG Hypothesis","tendomyogeen",1.0,67,23.32
+84,"Case-07","Description Hypothesis","pericarditis",1.0,52,53.52
+84,"Case-07","EKG Hypothesis","pericarditis",1.0,69,15.63
+84,"Case-08","Description Hypothesis","instabiele ap/acs",1.0,60,78.04
+84,"Case-08","EKG Hypothesis","acs",1.0,78,49.87
+84,"Case-09","Description Hypothesis","pneumonie",0.0,61,77.97
+84,"Case-09","EKG Hypothesis","pneumonie",0.0,67,58.27
+84,"Case-12","Description Hypothesis","hyperventilatie",0.0,60,145.65
+84,"Case-12","EKG Hypothesis","hyperventilatie",0.0,67,26.49
+84,"Case-13","Description Hypothesis","acs",1.0,80,26.90
+84,"Case-13","EKG Hypothesis","acs",1.0,76,17.13
+84,"Case-15","Description Hypothesis","acs",1.0,74,30.13
+84,"Case-15","EKG Hypothesis","acs",1.0,69,12.69
+84,"Case-16","Description Hypothesis","angina pectoris",1.0,64,77.68
+84,"Case-16","EKG Hypothesis","acs",1.0,68,24.06
+84,"Case-17","Description Hypothesis","niet cardiaal",1.0,67,131.17
+84,"Case-17","EKG Hypothesis","ap",0.5,34,24.48
+84,"Case-19","Description Hypothesis","acs",1.0,63,26.24
+84,"Case-19","EKG Hypothesis","acs",1.0,56,13.76

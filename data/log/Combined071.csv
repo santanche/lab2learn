@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+71,"Case-01","Description Hypothesis","reflux dd acs",0.0,71,215.43
+71,"Case-01","EKG Hypothesis","acs",1.0,70,29.54
+71,"Case-02","Description Hypothesis","maagklachten",1.0,97,40.52
+71,"Case-02","EKG Hypothesis","maagklachten",1.0,78,44.90
+71,"Case-03","Description Hypothesis","hyperventilatie",1.0,68,185.94
+71,"Case-03","EKG Hypothesis","hyperventilatie",1.0,65,19.03
+71,"Case-07","Description Hypothesis","pericaridits",1.0,64,41.62
+71,"Case-07","EKG Hypothesis","pericarditis",1.0,66,17.70
+71,"Case-08","Description Hypothesis","acs",1.0,71,34.01
+71,"Case-08","EKG Hypothesis","acs",1.0,90,23.45
+71,"Case-09","Description Hypothesis","acs",1.0,77,29.66
+71,"Case-09","EKG Hypothesis","acs",1.0,91,29.22
+71,"Case-12","Description Hypothesis","svt",0.5,68,90.63
+71,"Case-12","EKG Hypothesis","svt",0.5,88,24.15
+71,"Case-13","Description Hypothesis","acs",1.0,73,55.59
+71,"Case-13","EKG Hypothesis","acs",1.0,87,19.81
+71,"Case-15","Description Hypothesis","acs",1.0,100,32.45
+71,"Case-15","EKG Hypothesis","acs",1.0,71,16.87
+71,"Case-16","Description Hypothesis","acs",1.0,74,77.05
+71,"Case-16","EKG Hypothesis","panischemie",1.0,87,45.95
+71,"Case-17","Description Hypothesis","stress",0.5,84,49.81
+71,"Case-17","EKG Hypothesis","cardiale ischemie",0.5,73,35.62
+71,"Case-19","Description Hypothesis","gastritis",0.0,73,31.71
+71,"Case-19","EKG Hypothesis","gastritis",0.0,90,20.00

@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+65,"Case-01","Description Hypothesis","recidief infarct",1.0,50,122.52
+65,"Case-01","EKG Hypothesis","nstemi",1.0,50,52.24
+65,"Case-02","Description Hypothesis","gastro-intestinale klachten",1.0,70,87.20
+65,"Case-02","EKG Hypothesis","gastro intestinaal",1.0,48,95.15
+65,"Case-03","Description Hypothesis","hyperventilatie",1.0,65,84.90
+65,"Case-03","EKG Hypothesis","pericarditis",0.5,55,49.92
+65,"Case-07","Description Hypothesis","pericarditis / pleuritis",1.0,60,65.28
+65,"Case-07","EKG Hypothesis","stemi",0.0,41,79.40
+65,"Case-08","Description Hypothesis","myocardinfarct",1.0,75,83.51
+65,"Case-08","EKG Hypothesis","3 vatslijden of hs stenose",0.5,60,78.06
+65,"Case-09","Description Hypothesis","postinfarct hartfalen/ap",0.5,61,58.35
+65,"Case-09","EKG Hypothesis","doorgemaakt il infarct",0.0,70,87.63
+65,"Case-12","Description Hypothesis","type 2 ischemie bij af met bijkomend conversiepauzes",0.0,58,117.63
+65,"Case-12","EKG Hypothesis","recidief af met conversie",0.5,51,66.61
+65,"Case-13","Description Hypothesis","doorgemaakt infarxt",0.0,57,78.13
+65,"Case-13","EKG Hypothesis","nstemi",1.0,55,29.70
+65,"Case-15","Description Hypothesis","recidief infarct",1.0,63,33.99
+65,"Case-15","EKG Hypothesis","nstemi",1.0,38,33.96
+65,"Case-16","Description Hypothesis","recidief infarct",0.5,48,47.66
+65,"Case-16","EKG Hypothesis","in stent probleem",0.5,54,51.16
+65,"Case-17","Description Hypothesis","hyperventilatie",0.0,53,59.81
+65,"Case-17","EKG Hypothesis","nstemi",0.5,66,49.00
+65,"Case-19","Description Hypothesis","iap",1.0,39,47.97
+65,"Case-19","EKG Hypothesis","slokdarmspasme",0.0,57,26.87

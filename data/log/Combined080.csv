@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+80,"Case-01","Description Hypothesis","acs",1.0,51,87.93
+80,"Case-01","EKG Hypothesis","acs",1.0,64,28.49
+80,"Case-02","Description Hypothesis","gastro intestinaal",1.0,74,30.30
+80,"Case-02","EKG Hypothesis","gastro intestinaal",1.0,78,37.43
+80,"Case-03","Description Hypothesis","costo myogeen",1.0,73,34.04
+80,"Case-03","EKG Hypothesis","costo myogeen",1.0,77,26.27
+80,"Case-07","Description Hypothesis","costo myogeen",0.0,55,66.67
+80,"Case-07","EKG Hypothesis","pericarditis",1.0,77,22.00
+80,"Case-08","Description Hypothesis","progressieve ap",1.0,61,36.09
+80,"Case-08","EKG Hypothesis","acs",1.0,78,41.94
+80,"Case-09","Description Hypothesis","acs",1.0,49,75.59
+80,"Case-09","EKG Hypothesis","acs",1.0,57,48.78
+80,"Case-12","Description Hypothesis","hypertension",0.0,68,53.72
+80,"Case-12","EKG Hypothesis","hypertensie",0.0,39,27.39
+80,"Case-13","Description Hypothesis","iap",1.0,48,25.19
+80,"Case-13","EKG Hypothesis","iap",1.0,59,24.42
+80,"Case-15","Description Hypothesis","acs",1.0,58,35.57
+80,"Case-15","EKG Hypothesis","acs",1.0,62,21.10
+80,"Case-16","Description Hypothesis","acs",1.0,43,41.15
+80,"Case-16","EKG Hypothesis","acs",1.0,57,19.62
+80,"Case-17","Description Hypothesis","stress",0.5,48,41.16
+80,"Case-17","EKG Hypothesis","stress",0.5,54,25.59
+80,"Case-19","Description Hypothesis","acs",1.0,53,25.09
+80,"Case-19","EKG Hypothesis","nstemi",1.0,51,23.10

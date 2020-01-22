@@ -1,0 +1,23 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+96,"Case-01","EKG Hypothesis","pyrosis",0.0,68,114.38
+96,"Case-01","Description Hypothesis","doorgemaakt inferior infarct",0.5,60,141.08
+96,"Case-02","EKG Hypothesis","pericarditis",1.0,50,98.11
+96,"Case-02","Description Hypothesis","gastritis/reflux/ ulcer",1.0,84,96.19
+96,"Case-03","EKG Hypothesis","pericarditis",0.5,40,65.59
+96,"Case-03","Description Hypothesis","aspecifiek",1.0,30,82.11
+96,"Case-07","EKG Hypothesis","stemi",0.0,48,105.60
+96,"Case-07","Description Hypothesis","stemi",0.0,35,35.77
+96,"Case-08","EKG Hypothesis","proximale lad occlusie",1.0,22,72.17
+96,"Case-08","Description Hypothesis","stemi",0.5,43,43.67
+96,"Case-09","EKG Hypothesis","lateraal infarct",0.5,37,69.61
+96,"Case-09","Description Hypothesis","lateraal infarct",0.5,32,30.29
+96,"Case-12","EKG Hypothesis","normaal",1.0,45,66.29
+96,"Case-12","Description Hypothesis","atypische thoracale pijn",1.0,53,109.73
+96,"Case-13","EKG Hypothesis","nstemi",1.0,49,63.61
+96,"Case-13","Description Hypothesis","nstemi",1.0,52,33.04
+96,"Case-15","EKG Hypothesis","niet cardiaal",0.0,49,6.87
+96,"Case-15","Description Hypothesis","nstemi/iap",1.0,39,149.07
+96,"Case-16","EKG Hypothesis","demand ischemie",0.5,42,65.78
+96,"Case-16","Description Hypothesis","ap",1.0,41,114.56
+96,"Case-17","EKG Hypothesis","strain",0.5,53,66.57
+96,"Case-17","Description Hypothesis","dhje",0.0,42,40.22

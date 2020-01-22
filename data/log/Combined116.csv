@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+116,"Case-01","EKG Hypothesis","oud infero-posterior infarct",1.0,70,118.94
+116,"Case-01","Description Hypothesis","nstemi bij vg van oud inferoposterior infarct",1.0,85,152.09
+116,"Case-02","EKG Hypothesis","stemi inferior",0.0,70,70.07
+116,"Case-02","Description Hypothesis","stemi",0.0,84,50.02
+116,"Case-03","EKG Hypothesis","pericarditis",0.5,59,54.40
+116,"Case-03","Description Hypothesis","tendomyogeen (vroege repolarisatie)",1.0,70,52.96
+116,"Case-07","EKG Hypothesis","pericarditis",1.0,85,36.50
+116,"Case-07","Description Hypothesis","pericarditis",1.0,96,28.96
+116,"Case-08","EKG Hypothesis","panischemie",0.5,70,89.79
+116,"Case-08","Description Hypothesis","panischemie (elevatie avr)",0.5,80,43.82
+116,"Case-09","EKG Hypothesis","sinustach, rechteras, le?",0.5,55,103.00
+116,"Case-09","Description Hypothesis","tachycardie bij lwi/pneumonie",0.0,70,90.73
+116,"Case-12","EKG Hypothesis","gb",1.0,55,57.61
+116,"Case-12","Description Hypothesis","klachten bij conversie van af naar sr",0.5,75,99.21
+116,"Case-13","EKG Hypothesis","nstemi (neg t inf)",1.0,70,55.83
+116,"Case-13","Description Hypothesis","nstemi",1.0,80,32.83
+116,"Case-15","EKG Hypothesis","gb",0.0,60,26.95
+116,"Case-15","Description Hypothesis","nstemi",1.0,77,58.47
+116,"Case-16","EKG Hypothesis","oud inf infarct en nstemi",0.5,65,48.28
+116,"Case-16","Description Hypothesis","nstemi",1.0,85,36.39
+116,"Case-17","EKG Hypothesis","kort pr interval en nstemi",0.0,69,47.32
+116,"Case-17","Description Hypothesis","nstemi",0.5,80,44.04
+116,"Case-19","EKG Hypothesis","preexcitatie (v2)",0.0,66,43.09
+116,"Case-19","Description Hypothesis","nstemi",1.0,80,32.10

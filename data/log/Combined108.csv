@@ -1,0 +1,13 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+108,"Case-01","EKG Hypothesis","doorgemaakt onderwandinfarct in",1.0,68,34.25
+108,"Case-01","Description Hypothesis","mogelijk nieuwe ischemie",1.0,77,25.94
+108,"Case-03","EKG Hypothesis","pericarditis, masgklachten",0.5,35,55.19
+108,"Case-03","Description Hypothesis","maagklachten, costa myslgeen",1.0,84,46.83
+108,"Case-07","EKG Hypothesis","pericarditis",1.0,65,128.48
+108,"Case-07","Description Hypothesis","pericarditis",1.0,66,58.26
+108,"Case-08","EKG Hypothesis","lvh",0.0,60,33.38
+108,"Case-08","Description Hypothesis","acs",1.0,64,37.23
+108,"Case-09","EKG Hypothesis","hypertensie",0.0,28,152.34
+108,"Case-09","Description Hypothesis","hartfalen",0.0,57,60.74
+108,"Case-12","EKG Hypothesis","doorgemaakt onderwand infarct",0.0,57,69.42
+108,"Case-12","Description Hypothesis","acs",0.0,28,55.34

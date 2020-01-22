@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+103,"Case-01","EKG Hypothesis","inferolateraal infarct doorgemaakt",0.5,24,86.41
+103,"Case-01","Description Hypothesis","nstemi",1.0,17,157.52
+103,"Case-02","EKG Hypothesis","inferior stemi",0.0,25,70.22
+103,"Case-02","Description Hypothesis","pyrosis",1.0,25,51.38
+103,"Case-03","EKG Hypothesis","¿",0.0,1,99.58
+103,"Case-03","Description Hypothesis","not cardiac",1.0,27,28.13
+103,"Case-07","EKG Hypothesis","pericarditis",1.0,41,45.94
+103,"Case-07","Description Hypothesis","pericarditis",1.0,24,55.75
+103,"Case-08","EKG Hypothesis","left main stenosis",0.5,22,50.40
+103,"Case-08","Description Hypothesis","left main stenosis",0.5,30,34.17
+103,"Case-09","EKG Hypothesis","copd",0.0,12,49.01
+103,"Case-09","Description Hypothesis","pneumonie",0.0,22,77.98
+103,"Case-12","EKG Hypothesis","non cardiac",1.0,31,17.74
+103,"Case-12","Description Hypothesis","nstemi",0.0,32,32.21
+103,"Case-13","EKG Hypothesis","?",0.0,25,45.77
+103,"Case-13","Description Hypothesis","nstemi",1.0,11,56.34
+103,"Case-15","EKG Hypothesis","noncardiac",0.0,18,16.94
+103,"Case-15","Description Hypothesis","nstemi",1.0,23,19.95
+103,"Case-16","EKG Hypothesis","stc met 1e gr blok",0.5,25,34.10
+103,"Case-16","Description Hypothesis","nstemi",1.0,20,28.61
+103,"Case-17","EKG Hypothesis","doorgemaakt inferolateraal infarct",0.0,17,30.19
+103,"Case-17","Description Hypothesis","stress",0.5,42,33.20
+103,"Case-19","EKG Hypothesis","doorgemaakt inferior infarct",0.5,22,31.16
+103,"Case-19","Description Hypothesis","nstemi",1.0,3,21.19

@@ -1,0 +1,25 @@
+"User","Case","Stage","Answer","Points","Confidence","Time"
+82,"Case-01","Description Hypothesis","reflux",0.0,36,118.08
+82,"Case-01","EKG Hypothesis","nstemi",1.0,49,52.51
+82,"Case-02","Description Hypothesis","reflux",1.0,79,47.21
+82,"Case-02","EKG Hypothesis","reflux",1.0,50,66.00
+82,"Case-03","Description Hypothesis","myalgeen",1.0,63,72.42
+82,"Case-03","EKG Hypothesis","myalgeen",1.0,60,39.30
+82,"Case-07","Description Hypothesis","pericarditis",1.0,83,60.26
+82,"Case-07","EKG Hypothesis","pericarditis",1.0,100,28.56
+82,"Case-08","Description Hypothesis","ap",1.0,89,63.06
+82,"Case-08","EKG Hypothesis","prox lad",1.0,100,67.46
+82,"Case-09","Description Hypothesis","iap",1.0,82,35.35
+82,"Case-09","EKG Hypothesis","lateraal doorgemaakt infarct",0.5,100,62.38
+82,"Case-12","Description Hypothesis","av blok",0.0,62,71.83
+82,"Case-12","EKG Hypothesis","av blok",0.0,66,41.83
+82,"Case-13","Description Hypothesis","ap",0.5,64,38.08
+82,"Case-13","EKG Hypothesis","svt",0.0,51,90.96
+82,"Case-15","Description Hypothesis","iap",1.0,61,69.34
+82,"Case-15","EKG Hypothesis","iap",1.0,50,21.57
+82,"Case-16","Description Hypothesis","ap",1.0,44,42.97
+82,"Case-16","EKG Hypothesis","ap",1.0,42,13.24
+82,"Case-17","Description Hypothesis","le",0.0,33,44.13
+82,"Case-17","EKG Hypothesis","iap",0.0,66,28.03
+82,"Case-19","Description Hypothesis","iap",1.0,68,28.51
+82,"Case-19","EKG Hypothesis","ip infarct doorgemaakt",0.5,62,43.52
