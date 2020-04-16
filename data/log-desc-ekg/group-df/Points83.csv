@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,acs,Case-01,1.0
+EKG Confidence,92,Case-01,
+Description Hypothesis,acs,Case-01,1.0
+Description Confidence,91,Case-01,
+EKG Hypothesis,inferior cx infarct,Case-02,0.0
+EKG Confidence,71,Case-02,
+Description Hypothesis,acs,Case-02,0.0
+Description Confidence,80,Case-02,
+EKG Hypothesis,costomyalgeen,Case-03,1.0
+EKG Confidence,100,Case-03,
+Description Hypothesis,costomyalgeen,Case-03,1.0
+Description Confidence,90,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,95,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,74,Case-07,
+EKG Hypothesis,acs,Case-08,1.0
+EKG Confidence,89,Case-08,
+Description Hypothesis,acs,Case-08,1.0
+Description Confidence,83,Case-08,
+EKG Hypothesis,subacuut inferolateraal infarct,Case-09,0.5
+EKG Confidence,100,Case-09,
+Description Hypothesis,acs,Case-09,1.0
+Description Confidence,81,Case-09,
+EKG Hypothesis,acs,Case-12,0.0
+EKG Confidence,50,Case-12,
+Description Hypothesis,acs,Case-12,0.0
+Description Confidence,60,Case-12,
+EKG Hypothesis,acs,Case-13,1.0
+EKG Confidence,90,Case-13,
+Description Hypothesis,acs,Case-13,1.0
+Description Confidence,70,Case-13,
+EKG Hypothesis,acs,Case-15,1.0
+EKG Confidence,88,Case-15,
+Description Hypothesis,acs,Case-15,1.0
+Description Confidence,91,Case-15,
+EKG Hypothesis,ip ischaemie,Case-16,1.0
+EKG Confidence,100,Case-16,
+Description Hypothesis,acs,Case-16,1.0
+Description Confidence,90,Case-16,
+EKG Hypothesis,acs,Case-17,0.5
+EKG Confidence,91,Case-17,
+Description Hypothesis,acs,Case-17,0.5
+Description Confidence,90,Case-17,
+EKG Hypothesis,acs,Case-19,1.0
+EKG Confidence,71,Case-19,
+Description Hypothesis,acs,Case-19,1.0
+Description Confidence,70,Case-19,

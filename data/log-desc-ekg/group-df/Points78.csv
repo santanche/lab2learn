@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,nstemi oud ecg?,Case-01,0.5
+EKG Confidence,56,Case-01,
+Description Hypothesis,angina pectoris,Case-01,1.0
+Description Confidence,55,Case-01,
+EKG Hypothesis,acs,Case-02,0.0
+EKG Confidence,65,Case-02,
+Description Hypothesis,gastrointestinaal,Case-02,1.0
+Description Confidence,73,Case-02,
+EKG Hypothesis,hyperventilatie dd toch pericarditis anamnese onvolledig,Case-03,1.0
+EKG Confidence,57,Case-03,
+Description Hypothesis,hyperventilatie,Case-03,1.0
+Description Confidence,63,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,83,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,78,Case-07,
+EKG Hypothesis,stemi,Case-08,0.5
+EKG Confidence,73,Case-08,
+Description Hypothesis,acs,Case-08,1.0
+Description Confidence,80,Case-08,
+EKG Hypothesis,acs,Case-09,1.0
+EKG Confidence,69,Case-09,
+Description Hypothesis,acs,Case-09,1.0
+Description Confidence,61,Case-09,
+EKG Hypothesis,non cardiale pijn,Case-12,1.0
+EKG Confidence,57,Case-12,
+Description Hypothesis,atriumfib,Case-12,0.5
+Description Confidence,60,Case-12,
+EKG Hypothesis,acs,Case-13,1.0
+EKG Confidence,75,Case-13,
+Description Hypothesis,acs,Case-13,1.0
+Description Confidence,84,Case-13,
+EKG Hypothesis,iap,Case-15,1.0
+EKG Confidence,78,Case-15,
+Description Hypothesis,acs,Case-15,1.0
+Description Confidence,64,Case-15,
+EKG Hypothesis,acs,Case-16,1.0
+EKG Confidence,65,Case-16,
+Description Hypothesis,stabiele ap,Case-16,0.0
+Description Confidence,59,Case-16,
+EKG Hypothesis,acs,Case-17,0.5
+EKG Confidence,56,Case-17,
+Description Hypothesis,gastrointestinaal,Case-17,0.0
+Description Confidence,64,Case-17,
+EKG Hypothesis,acs,Case-19,1.0
+EKG Confidence,64,Case-19,
+Description Hypothesis,acs,Case-19,1.0
+Description Confidence,69,Case-19,

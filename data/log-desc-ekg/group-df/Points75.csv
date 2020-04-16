@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,acs-nsteni,Case-01,1.0
+EKG Confidence,60,Case-01,
+Description Hypothesis,acs-nstemi,Case-01,1.0
+Description Confidence,21,Case-01,
+EKG Hypothesis,reflux/maagklachten,Case-02,1.0
+EKG Confidence,61,Case-02,
+Description Hypothesis,reflux/ maagklachten,Case-02,1.0
+Description Confidence,40,Case-02,
+EKG Hypothesis,tendomyalgeen,Case-03,1.0
+EKG Confidence,80,Case-03,
+Description Hypothesis,tendomyalgeen,Case-03,1.0
+Description Confidence,81,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,81,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,61,Case-07,
+EKG Hypothesis,acs-nstemi,Case-08,1.0
+EKG Confidence,100,Case-08,
+Description Hypothesis,acs,Case-08,1.0
+Description Confidence,100,Case-08,
+EKG Hypothesis,stemi lateraal,Case-09,0.5
+EKG Confidence,100,Case-09,
+Description Hypothesis,pneumothorax,Case-09,0.0
+Description Confidence,30,Case-09,
+EKG Hypothesis,reflux/maagklachten,Case-12,0.0
+EKG Confidence,80,Case-12,
+Description Hypothesis,reflux/ maagklachten,Case-12,0.0
+Description Confidence,81,Case-12,
+EKG Hypothesis,ap-klachten,Case-13,1.0
+EKG Confidence,81,Case-13,
+Description Hypothesis,ap,Case-13,0.5
+Description Confidence,51,Case-13,
+EKG Hypothesis,acs-nstemi,Case-15,1.0
+EKG Confidence,20,Case-15,
+Description Hypothesis,acs,Case-15,1.0
+Description Confidence,80,Case-15,
+EKG Hypothesis,acs-nstemi (panischemie,Case-16,1.0
+EKG Confidence,100,Case-16,
+Description Hypothesis,iap,Case-16,1.0
+Description Confidence,41,Case-16,
+EKG Hypothesis,tako-tsubo (cmp),Case-17,0.5
+EKG Confidence,61,Case-17,
+Description Hypothesis,slokdarmspasme,Case-17,0.0
+Description Confidence,61,Case-17,
+EKG Hypothesis,acs,Case-19,1.0
+EKG Confidence,70,Case-19,
+Description Hypothesis,acs,Case-19,1.0
+Description Confidence,70,Case-19,

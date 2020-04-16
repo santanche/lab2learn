@@ -1,0 +1,48 @@
+Question,Answer,Case
+EKG Hypothesis,nstemi,Case-19
+EKG Confidence,73,Case-19
+Description Hypothesis,stemi,Case-19
+Description Confidence,20,Case-19
+EKG Hypothesis,nstemi,Case-17
+EKG Confidence,69,Case-17
+Description Hypothesis,atypische pob,Case-17
+Description Confidence,16,Case-17
+EKG Hypothesis,nstemi,Case-16
+EKG Confidence,22,Case-16
+Description Hypothesis,nstemi,Case-16
+Description Confidence,69,Case-16
+EKG Hypothesis,acs,Case-15
+EKG Confidence,24,Case-15
+Description Hypothesis,stemi,Case-15
+Description Confidence,100,Case-15
+EKG Hypothesis,rv hypertrofie,Case-13
+EKG Confidence,32,Case-13
+Description Hypothesis,nstemi,Case-13
+Description Confidence,68,Case-13
+EKG Hypothesis,acs,Case-12
+EKG Confidence,18,Case-12
+Description Hypothesis,nstemi,Case-12
+Description Confidence,62,Case-12
+EKG Hypothesis,tamponade,Case-09
+EKG Confidence,15,Case-09
+Description Hypothesis,longembolie,Case-09
+Description Confidence,6,Case-09
+EKG Hypothesis,panischemie,Case-08
+EKG Confidence,85,Case-08
+Description Confidence,100,Case-08
+EKG Hypothesis,pericarditis,Case-07
+EKG Confidence,79,Case-07
+Description Hypothesis,pericarditis,Case-07
+Description Confidence,89,Case-07
+EKG Hypothesis,pericarditis,Case-03
+EKG Confidence,68,Case-03
+Description Hypothesis,atypische pob (tendomyogeen),Case-03
+Description Confidence,76,Case-03
+EKG Hypothesis,stemi inferior,Case-02
+EKG Confidence,71,Case-02
+Description Hypothesis,stemi inferior,Case-02
+Description Confidence,62,Case-02
+EKG Hypothesis,nstemi,Case-01
+EKG Confidence,61,Case-01
+Description Hypothesis,nstemi,Case-01
+Description Confidence,73,Case-01

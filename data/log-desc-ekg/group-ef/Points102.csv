@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,doorgemaakt inferolateraal infarct,Case-01,0.5
+EKG Confidence,30,Case-01,
+Description Hypothesis,angina pectoris of pyrosis,Case-01,0.5
+Description Confidence,50,Case-01,
+EKG Hypothesis,inferior stemi,Case-02,0.0
+EKG Confidence,25,Case-02,
+Description Hypothesis,reflux,Case-02,1.0
+Description Confidence,60,Case-02,
+EKG Hypothesis,stemi,Case-03,0.0
+EKG Confidence,25,Case-03,
+Description Hypothesis,costo-myalgeen,Case-03,1.0
+Description Confidence,60,Case-03,
+EKG Hypothesis,stemi,Case-07,0.0
+EKG Confidence,40,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,70,Case-07,
+EKG Hypothesis,stemi septaal,Case-08,0.5
+EKG Confidence,45,Case-08,
+Description Hypothesis,stemi septaal,Case-08,0.5
+Description Confidence,60,Case-08,
+EKG Hypothesis,misschien stemi lateraal,Case-09,0.5
+EKG Confidence,25,Case-09,
+Description Hypothesis,doorgemaakt myocardinfarct lateraal,Case-09,0.0
+Description Confidence,30,Case-09,
+EKG Hypothesis,geen ischemie,Case-12,1.0
+EKG Confidence,35,Case-12,
+Description Hypothesis,nstemi,Case-12,0.0
+Description Confidence,50,Case-12,
+EKG Hypothesis,nstemi,Case-13,1.0
+EKG Confidence,40,Case-13,
+Description Hypothesis,nstemi,Case-13,1.0
+Description Confidence,25,Case-13,
+EKG Hypothesis,"normaal ecg, mogelijk inferior afwijkingen",Case-15,0.5
+EKG Confidence,15,Case-15,
+Description Hypothesis,iap,Case-15,1.0
+Description Confidence,80,Case-15,
+EKG Hypothesis,"hoofdstamstenose, demand ischemie",Case-16,1.0
+EKG Confidence,40,Case-16,
+Description Hypothesis,hoofdstamstenose,Case-16,1.0
+Description Confidence,40,Case-16,
+EKG Hypothesis,nstemi,Case-17,0.5
+EKG Confidence,60,Case-17,
+Description Hypothesis,nstemi,Case-17,0.5
+Description Confidence,55,Case-17,
+EKG Hypothesis,doorgemaakte ischemie inferior,Case-19,0.5
+EKG Confidence,25,Case-19,
+Description Hypothesis,nstemi,Case-19,1.0
+Description Confidence,40,Case-19,

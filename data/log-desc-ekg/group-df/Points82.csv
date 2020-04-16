@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,nstemi,Case-01,1.0
+EKG Confidence,49,Case-01,
+Description Hypothesis,reflux,Case-01,0.0
+Description Confidence,36,Case-01,
+EKG Hypothesis,reflux,Case-02,1.0
+EKG Confidence,50,Case-02,
+Description Hypothesis,reflux,Case-02,1.0
+Description Confidence,79,Case-02,
+EKG Hypothesis,myalgeen,Case-03,1.0
+EKG Confidence,60,Case-03,
+Description Hypothesis,myalgeen,Case-03,1.0
+Description Confidence,63,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,100,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,83,Case-07,
+EKG Hypothesis,prox lad,Case-08,1.0
+EKG Confidence,100,Case-08,
+Description Hypothesis,ap,Case-08,1.0
+Description Confidence,89,Case-08,
+EKG Hypothesis,lateraal doorgemaakt infarct,Case-09,0.5
+EKG Confidence,100,Case-09,
+Description Hypothesis,iap,Case-09,1.0
+Description Confidence,82,Case-09,
+EKG Hypothesis,av blok,Case-12,0.0
+EKG Confidence,66,Case-12,
+Description Hypothesis,av blok,Case-12,0.0
+Description Confidence,62,Case-12,
+EKG Hypothesis,svt,Case-13,0.0
+EKG Confidence,51,Case-13,
+Description Hypothesis,ap,Case-13,0.5
+Description Confidence,64,Case-13,
+EKG Hypothesis,iap,Case-15,1.0
+EKG Confidence,50,Case-15,
+Description Hypothesis,iap,Case-15,1.0
+Description Confidence,61,Case-15,
+EKG Hypothesis,ap,Case-16,1.0
+EKG Confidence,42,Case-16,
+Description Hypothesis,ap,Case-16,1.0
+Description Confidence,44,Case-16,
+EKG Hypothesis,iap,Case-17,0.0
+EKG Confidence,66,Case-17,
+Description Hypothesis,le,Case-17,0.0
+Description Confidence,33,Case-17,
+EKG Hypothesis,ip infarct doorgemaakt,Case-19,0.5
+EKG Confidence,62,Case-19,
+Description Hypothesis,iap,Case-19,1.0
+Description Confidence,68,Case-19,

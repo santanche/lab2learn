@@ -1,0 +1,43 @@
+Question,Answer,Case,Points
+EKG Hypothesis,doorgemaakt onderwand infarct,Case-01,0.5
+EKG Confidence,60,Case-01,
+Description Hypothesis,mogelijk nstemi,Case-01,1.0
+Description Confidence,53,Case-01,
+EKG Hypothesis,geen cardiale acute pathologie,Case-02,0.5
+EKG Confidence,55,Case-02,
+Description Hypothesis,reflux,Case-02,1.0
+Description Confidence,90,Case-02,
+EKG Hypothesis,geen stemi,Case-03,1.0
+EKG Confidence,62,Case-03,
+Description Hypothesis,atypische thor klachten,Case-03,1.0
+Description Confidence,86,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,63,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,100,Case-07,
+EKG Hypothesis,atypisch,Case-08,0.0
+EKG Confidence,23,Case-08,
+Description Hypothesis,iap,Case-08,1.0
+Description Confidence,74,Case-08,
+EKG Hypothesis,geen acute pathologie,Case-09,0.0
+EKG Confidence,39,Case-09,
+Description Hypothesis,nstemi,Case-09,1.0
+Description Confidence,52,Case-09,
+EKG Hypothesis,niet cardiaal,Case-12,1.0
+EKG Confidence,59,Case-12,
+Description Hypothesis,niet cardiaal,Case-12,1.0
+Description Confidence,80,Case-12,
+EKG Hypothesis,la vergroting en neg t inf/lat,Case-13,0.5
+EKG Confidence,56,Case-13,
+Description Hypothesis,mogelijk ap/iap,Case-13,0.5
+Description Confidence,40,Case-13,
+EKG Hypothesis,niet cardiaal,Case-15,0.0
+EKG Confidence,42,Case-15,
+Description Hypothesis,nstemi,Case-15,1.0
+Description Confidence,52,Case-15,
+EKG Hypothesis,st depressie v2-v4,Case-16,1.0
+EKG Confidence,57,Case-16,
+Description Hypothesis,ap,Case-16,1.0
+Description Confidence,58,Case-16,
+,,Case-17,
+,,Case-19,

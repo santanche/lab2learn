@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,nstemi,Case-01,1.0
+EKG Confidence,22,Case-01,
+Description Hypothesis,nstemi,Case-01,1.0
+Description Confidence,69,Case-01,
+EKG Hypothesis,vroege repolarisatie/pericarditis,Case-02,0.5
+EKG Confidence,22,Case-02,
+Description Hypothesis,pyrosis,Case-02,1.0
+Description Confidence,83,Case-02,
+EKG Hypothesis,vroege repolarisatie,Case-03,1.0
+EKG Confidence,26,Case-03,
+Description Hypothesis,costomyalgeen,Case-03,1.0
+Description Confidence,92,Case-03,
+EKG Hypothesis,pericarditis of negroïde patiënt,Case-07,1.0
+EKG Confidence,23,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,83,Case-07,
+EKG Hypothesis,drievatslijden nstemi,Case-08,0.5
+EKG Confidence,54,Case-08,
+Description Hypothesis,nstemi drievatijden,Case-08,0.5
+Description Confidence,90,Case-08,
+EKG Hypothesis,lateraal infarct,Case-09,0.5
+EKG Confidence,48,Case-09,
+Description Hypothesis,doorgemaakt lateraal infarct,Case-09,0.0
+Description Confidence,90,Case-09,
+EKG Hypothesis,"geen acs, misschien lvh",Case-12,0.0
+EKG Confidence,61,Case-12,
+Description Hypothesis,"hypertensie, geen acs",Case-12,0.0
+Description Confidence,78,Case-12,
+EKG Hypothesis,nstemi,Case-13,1.0
+EKG Confidence,38,Case-13,
+Description Hypothesis,ap,Case-13,0.5
+Description Confidence,86,Case-13,
+EKG Hypothesis,normaal ecg,Case-15,1.0
+EKG Confidence,93,Case-15,
+Description Hypothesis,iap,Case-15,1.0
+Description Confidence,36,Case-15,
+EKG Hypothesis,drievatslijden,Case-16,1.0
+EKG Confidence,69,Case-16,
+Description Hypothesis,drievatslijden,Case-16,1.0
+Description Confidence,92,Case-16,
+EKG Hypothesis,drievatslijden,Case-17,0.0
+EKG Confidence,53,Case-17,
+Description Hypothesis,myalgeen/stress,Case-17,0.0
+Description Confidence,57,Case-17,
+EKG Hypothesis,mogelijk doorgemaakt inferior ischemie,Case-19,0.5
+EKG Confidence,26,Case-19,
+Description Hypothesis,iap/nstemi,Case-19,1.0
+Description Confidence,84,Case-19,

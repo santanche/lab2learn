@@ -1,0 +1,49 @@
+Question,Answer,Case
+EKG Hypothesis,acs,Case-19
+EKG Confidence,69,Case-19
+Description Hypothesis,acs,Case-19
+Description Confidence,72,Case-19
+EKG Hypothesis,ge,Case-17
+EKG Confidence,40,Case-17
+Description Hypothesis,ge,Case-17
+Description Confidence,45,Case-17
+EKG Hypothesis,acs,Case-16
+EKG Confidence,59,Case-16
+Description Hypothesis,ap,Case-16
+Description Confidence,49,Case-16
+EKG Hypothesis,acs (iap),Case-15
+EKG Confidence,31,Case-15
+Description Hypothesis,acs,Case-15
+Description Confidence,70,Case-15
+EKG Hypothesis,acs,Case-13
+EKG Confidence,51,Case-13
+Description Hypothesis,acs,Case-13
+Description Confidence,49,Case-13
+EKG Hypothesis,"aspec pob, geen evident acs, geen evidente alternatieve diagnose",Case-12
+EKG Confidence,50,Case-12
+Description Hypothesis,efo patiënt,Case-12
+Description Confidence,51,Case-12
+EKG Hypothesis,doorgemaakt/persisteren acs,Case-09
+EKG Confidence,80,Case-09
+Description Hypothesis,acs,Case-09
+Description Confidence,70,Case-09
+EKG Hypothesis,stemi prox lad/d,Case-08
+EKG Confidence,88,Case-08
+Description Hypothesis,progressief ap (als laatste episode in rust acs),Case-08
+Description Confidence,73,Case-08
+EKG Hypothesis,pericarditis,Case-07
+EKG Confidence,92,Case-07
+Description Hypothesis,pericarditis,Case-07
+Description Confidence,69,Case-07
+EKG Hypothesis,pericarditis dd le,Case-03
+EKG Confidence,49,Case-03
+Description Hypothesis,le dd acs (scad?),Case-03
+Description Confidence,49,Case-03
+EKG Hypothesis,acs,Case-02
+EKG Confidence,80,Case-02
+Description Hypothesis,ge dd acs,Case-02
+Description Confidence,50,Case-02
+EKG Hypothesis,oud ecg? dd blijft gelijk,Case-01
+EKG Confidence,49,Case-01
+Description Hypothesis,gastro-intestinaal dd acs,Case-01
+Description Confidence,50,Case-01

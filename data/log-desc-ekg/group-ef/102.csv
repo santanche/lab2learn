@@ -1,0 +1,49 @@
+Question,Answer,Case
+EKG Hypothesis,doorgemaakte ischemie inferior,Case-19
+EKG Confidence,25,Case-19
+Description Hypothesis,nstemi,Case-19
+Description Confidence,40,Case-19
+EKG Hypothesis,nstemi,Case-17
+EKG Confidence,60,Case-17
+Description Hypothesis,nstemi,Case-17
+Description Confidence,55,Case-17
+EKG Hypothesis,"hoofdstamstenose, demand ischemie",Case-16
+EKG Confidence,40,Case-16
+Description Hypothesis,hoofdstamstenose,Case-16
+Description Confidence,40,Case-16
+EKG Hypothesis,"normaal ecg, mogelijk inferior afwijkingen",Case-15
+EKG Confidence,15,Case-15
+Description Hypothesis,iap,Case-15
+Description Confidence,80,Case-15
+EKG Hypothesis,nstemi,Case-13
+EKG Confidence,40,Case-13
+Description Hypothesis,nstemi,Case-13
+Description Confidence,25,Case-13
+EKG Hypothesis,geen ischemie,Case-12
+EKG Confidence,35,Case-12
+Description Hypothesis,nstemi,Case-12
+Description Confidence,50,Case-12
+EKG Hypothesis,misschien stemi lateraal,Case-09
+EKG Confidence,25,Case-09
+Description Hypothesis,doorgemaakt myocardinfarct lateraal,Case-09
+Description Confidence,30,Case-09
+EKG Hypothesis,stemi septaal,Case-08
+EKG Confidence,45,Case-08
+Description Hypothesis,stemi septaal,Case-08
+Description Confidence,60,Case-08
+EKG Hypothesis,stemi,Case-07
+EKG Confidence,40,Case-07
+Description Hypothesis,pericarditis,Case-07
+Description Confidence,70,Case-07
+EKG Hypothesis,stemi,Case-03
+EKG Confidence,25,Case-03
+Description Hypothesis,costo-myalgeen,Case-03
+Description Confidence,60,Case-03
+EKG Hypothesis,inferior stemi,Case-02
+EKG Confidence,25,Case-02
+Description Hypothesis,reflux,Case-02
+Description Confidence,60,Case-02
+EKG Hypothesis,doorgemaakt inferolateraal infarct,Case-01
+EKG Confidence,30,Case-01
+Description Hypothesis,angina pectoris of pyrosis,Case-01
+Description Confidence,50,Case-01

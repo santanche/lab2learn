@@ -1,0 +1,29 @@
+Question,Answer,Case
+,,Case-19
+,,Case-17
+,,Case-16
+,,Case-15
+,,Case-13
+,,Case-12
+EKG Hypothesis,sinustachycardie,Case-09
+EKG Confidence,49,Case-09
+EKG Hypothesis,stemi,Case-08
+EKG Confidence,67,Case-08
+Description Hypothesis,ischemie,Case-08
+Description Confidence,73,Case-08
+EKG Hypothesis,st elevaties inferior en anterior,Case-07
+EKG Confidence,49,Case-07
+Description Hypothesis,pericarditis,Case-07
+Description Confidence,72,Case-07
+EKG Hypothesis,"diffuus iets opgetrokken st segmenten, mogelijk pericarditis",Case-03
+EKG Confidence,18,Case-03
+Description Hypothesis,atypische thoracale pijn,Case-03
+Description Confidence,73,Case-03
+EKG Hypothesis,"niet evident afwijkend ecg, vroege repolarisatie, mogelijk pta depressie",Case-02
+EKG Confidence,55,Case-02
+Description Hypothesis,"atypische thoracale pijn, niet verdacht voor cardiale ischemie",Case-02
+Description Confidence,81,Case-02
+EKG Hypothesis,diffuus vlakke st segmenten,Case-01
+EKG Confidence,38,Case-01
+Description Hypothesis,instabiele ap,Case-01
+Description Confidence,23,Case-01

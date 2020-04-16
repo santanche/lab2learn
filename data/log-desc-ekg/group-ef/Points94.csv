@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,history of myocardial infarction,Case-01,1.0
+EKG Confidence,30,Case-01,
+Description Hypothesis,acs,Case-01,1.0
+Description Confidence,49,Case-01,
+EKG Hypothesis,early repolarization inferior,Case-02,1.0
+EKG Confidence,50,Case-02,
+Description Hypothesis,pyrosis,Case-02,1.0
+Description Confidence,70,Case-02,
+EKG Hypothesis,pericarditis,Case-03,0.5
+EKG Confidence,39,Case-03,
+Description Hypothesis,costomyalgeen,Case-03,1.0
+Description Confidence,60,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,80,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,80,Case-07,
+EKG Hypothesis,acs,Case-08,1.0
+EKG Confidence,60,Case-08,
+Description Hypothesis,acs,Case-08,1.0
+Description Confidence,80,Case-08,
+EKG Hypothesis,longembolie,Case-09,0.5
+EKG Confidence,76,Case-09,
+Description Hypothesis,acs,Case-09,1.0
+Description Confidence,51,Case-09,
+EKG Hypothesis,"normal ecg, hangt af van anamnese",Case-12,1.0
+EKG Confidence,100,Case-12,
+Description Hypothesis,nstemi,Case-12,0.0
+Description Confidence,32,Case-12,
+EKG Hypothesis,nstemi,Case-13,1.0
+EKG Confidence,30,Case-13,
+Description Hypothesis,nstemi,Case-13,1.0
+Description Confidence,75,Case-13,
+EKG Hypothesis,early repolarization,Case-15,0.5
+EKG Confidence,73,Case-15,
+Description Hypothesis,acs,Case-15,1.0
+Description Confidence,61,Case-15,
+EKG Hypothesis,acs,Case-16,1.0
+EKG Confidence,37,Case-16,
+Description Hypothesis,acs,Case-16,1.0
+Description Confidence,70,Case-16,
+EKG Hypothesis,acs,Case-17,0.5
+EKG Confidence,58,Case-17,
+Description Hypothesis,acs,Case-17,0.5
+Description Confidence,89,Case-17,
+EKG Hypothesis,wpw?,Case-19,0.0
+EKG Confidence,16,Case-19,
+Description Hypothesis,nstemi,Case-19,1.0
+Description Confidence,48,Case-19,

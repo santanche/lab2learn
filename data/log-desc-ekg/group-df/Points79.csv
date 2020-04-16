@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,"oud inferolateraal infarct, geen acute ischemie",Case-01,0.5
+EKG Confidence,49,Case-01,
+Description Hypothesis,zuurbranden,Case-01,0.0
+Description Confidence,30,Case-01,
+EKG Hypothesis,pericarditis,Case-02,1.0
+EKG Confidence,22,Case-02,
+Description Hypothesis,zuurbranden,Case-02,1.0
+Description Confidence,54,Case-02,
+EKG Hypothesis,"aspecifieke thoracale pijnklachten, dd costomyalgeen",Case-03,1.0
+EKG Confidence,80,Case-03,
+Description Hypothesis,"aspecifieke thoracale klachten, costomyalgeen",Case-03,1.0
+Description Confidence,65,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,100,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,98,Case-07,
+EKG Hypothesis,acuut infarct,Case-08,1.0
+EKG Confidence,100,Case-08,
+Description Hypothesis,acuut infarct,Case-08,1.0
+Description Confidence,69,Case-08,
+EKG Hypothesis,iap,Case-09,1.0
+EKG Confidence,14,Case-09,
+Description Hypothesis,pneumonie,Case-09,0.0
+Description Confidence,24,Case-09,
+EKG Hypothesis,pyrosis,Case-12,0.0
+EKG Confidence,32,Case-12,
+Description Hypothesis,pyrosis,Case-12,0.0
+Description Confidence,24,Case-12,
+EKG Hypothesis,longembolie,Case-13,0.0
+EKG Confidence,0,Case-13,
+Description Hypothesis,acs,Case-13,1.0
+Description Confidence,39,Case-13,
+EKG Hypothesis,nstemi,Case-15,1.0
+EKG Confidence,15,Case-15,
+Description Hypothesis,infarct,Case-15,1.0
+Description Confidence,66,Case-15,
+EKG Hypothesis,acs,Case-16,1.0
+EKG Confidence,67,Case-16,
+Description Hypothesis,ap,Case-16,1.0
+Description Confidence,16,Case-16,
+EKG Hypothesis,lvh,Case-17,0.5
+EKG Confidence,17,Case-17,
+Description Hypothesis,stress,Case-17,0.5
+Description Confidence,3,Case-17,
+EKG Hypothesis,iap,Case-19,1.0
+EKG Confidence,71,Case-19,
+Description Hypothesis,iap,Case-19,1.0
+Description Confidence,66,Case-19,

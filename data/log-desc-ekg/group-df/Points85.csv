@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,nstemi,Case-01,1.0
+EKG Confidence,70,Case-01,
+Description Hypothesis,acs,Case-01,1.0
+Description Confidence,80,Case-01,
+EKG Hypothesis,pericarditis,Case-02,1.0
+EKG Confidence,70,Case-02,
+Description Hypothesis,gastro intestinaal,Case-02,1.0
+Description Confidence,95,Case-02,
+EKG Hypothesis,vroege repolarisatie,Case-03,1.0
+EKG Confidence,85,Case-03,
+Description Hypothesis,atypische thoracale pijnklachten,Case-03,1.0
+Description Confidence,85,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,95,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,91,Case-07,
+EKG Hypothesis,anterior infarct,Case-08,1.0
+EKG Confidence,95,Case-08,
+Description Hypothesis,iap,Case-08,1.0
+Description Confidence,80,Case-08,
+EKG Hypothesis,pneumonie,Case-09,0.0
+EKG Confidence,85,Case-09,
+Description Hypothesis,pneumonie,Case-09,0.0
+Description Confidence,70,Case-09,
+EKG Hypothesis,snel af met conversie pauze,Case-12,0.5
+EKG Confidence,80,Case-12,
+Description Hypothesis,snel af,Case-12,0.5
+Description Confidence,90,Case-12,
+EKG Hypothesis,sinusbradycardie met linker atriumfilatatie,Case-13,0.5
+EKG Confidence,70,Case-13,
+Description Hypothesis,atypische thoracale pijnklachten,Case-13,0.0
+Description Confidence,70,Case-13,
+EKG Hypothesis,iap,Case-15,1.0
+EKG Confidence,75,Case-15,
+Description Hypothesis,iap/acs,Case-15,1.0
+Description Confidence,80,Case-15,
+EKG Hypothesis,nstemi,Case-16,1.0
+EKG Confidence,80,Case-16,
+Description Hypothesis,ap,Case-16,1.0
+Description Confidence,70,Case-16,
+EKG Hypothesis,lvh met strain en mogelijk subendocardiale ischemie,Case-17,0.5
+EKG Confidence,75,Case-17,
+Description Hypothesis,reflux,Case-17,0.0
+Description Confidence,70,Case-17,
+EKG Hypothesis,nstemi,Case-19,1.0
+EKG Confidence,72,Case-19,
+Description Hypothesis,acs,Case-19,1.0
+Description Confidence,72,Case-19,

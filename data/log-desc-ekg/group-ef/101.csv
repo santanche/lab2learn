@@ -1,0 +1,49 @@
+Question,Answer,Case
+EKG Hypothesis,niet cardiaal,Case-19
+EKG Confidence,33,Case-19
+Description Hypothesis,nstemi,Case-19
+Description Confidence,58,Case-19
+EKG Hypothesis,nstemi,Case-17
+EKG Confidence,25,Case-17
+Description Hypothesis,nstemi,Case-17
+Description Confidence,48,Case-17
+EKG Hypothesis,rv infarct,Case-16
+EKG Confidence,58,Case-16
+Description Hypothesis,stemi rv,Case-16
+Description Confidence,69,Case-16
+EKG Hypothesis,pericarditis,Case-15
+EKG Confidence,59,Case-15
+Description Hypothesis,nstemi,Case-15
+Description Confidence,66,Case-15
+EKG Hypothesis,nstemi,Case-13
+EKG Confidence,73,Case-13
+Description Hypothesis,niet cardiaal,Case-13
+Description Confidence,74,Case-13
+EKG Hypothesis,normaal ecg,Case-12
+EKG Confidence,61,Case-12
+Description Hypothesis,brady tachy,Case-12
+Description Confidence,65,Case-12
+EKG Hypothesis,stemi lateraal,Case-09
+EKG Confidence,83,Case-09
+Description Hypothesis,stemi lateraal,Case-09
+Description Confidence,84,Case-09
+EKG Hypothesis,nstemi,Case-08
+EKG Confidence,65,Case-08
+Description Hypothesis,nstemi,Case-08
+Description Confidence,70,Case-08
+EKG Hypothesis,pericarditis,Case-07
+EKG Confidence,80,Case-07
+Description Hypothesis,pericarditis,Case-07
+Description Confidence,82,Case-07
+EKG Hypothesis,stemi onderwand,Case-03
+EKG Confidence,46,Case-03
+Description Hypothesis,niet cardiale klachten,Case-03
+Description Confidence,78,Case-03
+EKG Hypothesis,inferior stemi,Case-02
+EKG Confidence,86,Case-02
+Description Hypothesis,reflux,Case-02
+Description Confidence,83,Case-02
+EKG Hypothesis,doorgemaakt infarct,Case-01
+EKG Confidence,71,Case-01
+Description Hypothesis,doorgemaakt infero posterior infarct,Case-01
+Description Confidence,83,Case-01

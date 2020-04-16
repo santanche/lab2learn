@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,nste-acs,Case-01,1.0
+EKG Confidence,40,Case-01,
+Description Hypothesis,nste-acs,Case-01,1.0
+Description Confidence,40,Case-01,
+EKG Hypothesis,geen acs,Case-02,1.0
+EKG Confidence,49,Case-02,
+Description Hypothesis,gastropathie,Case-02,1.0
+Description Confidence,70,Case-02,
+EKG Hypothesis,geen acs,Case-03,1.0
+EKG Confidence,80,Case-03,
+Description Hypothesis,costomyalgene pijn,Case-03,1.0
+Description Confidence,80,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,80,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,31,Case-07,
+EKG Hypothesis,nste-acs,Case-08,1.0
+EKG Confidence,81,Case-08,
+Description Hypothesis,angina pectoris,Case-08,1.0
+Description Confidence,60,Case-08,
+EKG Hypothesis,luchtweginfectie,Case-09,0.0
+EKG Confidence,60,Case-09,
+Description Hypothesis,luchtweginfectie,Case-09,0.0
+Description Confidence,50,Case-09,
+EKG Hypothesis,adpecifieke thoracale pijn,Case-12,1.0
+EKG Confidence,50,Case-12,
+Description Hypothesis,adpecifieke thoracale pijn,Case-12,1.0
+Description Confidence,31,Case-12,
+EKG Hypothesis,ancona pectoris,Case-13,0.5
+EKG Confidence,62,Case-13,
+Description Hypothesis,angina pectoris,Case-13,0.5
+Description Confidence,41,Case-13,
+EKG Hypothesis,nste-acs,Case-15,1.0
+EKG Confidence,55,Case-15,
+Description Hypothesis,acs,Case-15,1.0
+Description Confidence,69,Case-15,
+EKG Hypothesis,nste-acs,Case-16,1.0
+EKG Confidence,57,Case-16,
+Description Hypothesis,angina pectoris,Case-16,1.0
+Description Confidence,73,Case-16,
+EKG Hypothesis,nste-acs,Case-17,0.5
+EKG Confidence,56,Case-17,
+Description Hypothesis,aspecifieke thoracale pijn,Case-17,1.0
+Description Confidence,52,Case-17,
+EKG Hypothesis,nste-acs,Case-19,1.0
+EKG Confidence,19,Case-19,
+Description Hypothesis,nste-acs,Case-19,1.0
+Description Confidence,34,Case-19,

@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,doorgemaakt inferolateraal infarct,Case-01,0.5
+EKG Confidence,85,Case-01,
+Description Hypothesis,"pyrosis/gerd, in het verleden doorgemaakt ipl infarct",Case-01,0.0
+Description Confidence,90,Case-01,
+EKG Hypothesis,pericarditis,Case-02,1.0
+EKG Confidence,95,Case-02,
+Description Hypothesis,pericarditis,Case-02,1.0
+Description Confidence,80,Case-02,
+EKG Hypothesis,pericarditis,Case-03,0.5
+EKG Confidence,70,Case-03,
+Description Hypothesis,costomyogene klachten met op ecg vroege repolarisatie,Case-03,1.0
+Description Confidence,70,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,90,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,100,Case-07,
+EKG Hypothesis,de winters t toppen,Case-08,1.0
+EKG Confidence,70,Case-08,
+Description Hypothesis,voorwandinfarct,Case-08,1.0
+Description Confidence,80,Case-08,
+EKG Hypothesis,longembolie,Case-09,0.5
+EKG Confidence,69,Case-09,
+Description Hypothesis,longembolie,Case-09,0.5
+Description Confidence,60,Case-09,
+EKG Hypothesis,normaal ecg,Case-12,1.0
+EKG Confidence,79,Case-12,
+Description Hypothesis,atypische thoracale pijn,Case-12,1.0
+Description Confidence,80,Case-12,
+EKG Hypothesis,"la dilatatie, vlakke repolarisatie, mogelijk nstemi",Case-13,0.5
+EKG Confidence,65,Case-13,
+Description Hypothesis,nstemi,Case-13,1.0
+Description Confidence,81,Case-13,
+EKG Hypothesis,vroege repolarisatie,Case-15,0.5
+EKG Confidence,76,Case-15,
+Description Hypothesis,nste-acs,Case-15,1.0
+Description Confidence,75,Case-15,
+EKG Hypothesis,nste-acs,Case-16,1.0
+EKG Confidence,86,Case-16,
+Description Hypothesis,nste-acs,Case-16,1.0
+Description Confidence,89,Case-16,
+EKG Hypothesis,nste-acs,Case-17,0.5
+EKG Confidence,89,Case-17,
+Description Hypothesis,takotsubo,Case-17,0.5
+Description Confidence,54,Case-17,
+EKG Hypothesis,preexcitatie,Case-19,0.0
+EKG Confidence,81,Case-19,
+Description Hypothesis,nste-acs,Case-19,1.0
+Description Confidence,82,Case-19,
