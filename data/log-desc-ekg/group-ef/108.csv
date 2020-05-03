@@ -1,0 +1,35 @@
+Question,Answer,Case
+,,Case-19
+,,Case-17
+,,Case-16
+,,Case-15
+EKG Hypothesis,hypertensie,Case-13
+EKG Confidence,25,Case-13
+EKG Hypothesis,doorgemaakt onderwand infarct,Case-12
+EKG Confidence,57,Case-12
+Description Hypothesis,acs,Case-12
+Description Confidence,28,Case-12
+EKG Hypothesis,hypertensie,Case-09
+EKG Confidence,28,Case-09
+Description Hypothesis,hartfalen,Case-09
+Description Confidence,57,Case-09
+EKG Hypothesis,lvh,Case-08
+EKG Confidence,60,Case-08
+Description Hypothesis,acs,Case-08
+Description Confidence,64,Case-08
+EKG Hypothesis,pericarditis,Case-07
+EKG Confidence,65,Case-07
+Description Hypothesis,pericarditis,Case-07
+Description Confidence,66,Case-07
+EKG Hypothesis,"pericarditis, masgklachten",Case-03
+EKG Confidence,35,Case-03
+Description Hypothesis,"maagklachten, costa myslgeen",Case-03
+Description Confidence,84,Case-03
+EKG Hypothesis,"pericarditis, toch infact",Case-02
+EKG Confidence,69,Case-02
+Description Hypothesis,maagklachten,Case-02
+Description Confidence,72,Case-02
+EKG Hypothesis,doorgemaakt onderwandinfarct in,Case-01
+EKG Confidence,68,Case-01
+Description Hypothesis,mogelijk nieuwe ischemie,Case-01
+Description Confidence,77,Case-01

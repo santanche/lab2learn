@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,nstemi met inferolateraal neg t's,Case-01,1.0
+EKG Confidence,80,Case-01,
+Description Hypothesis,nstemi,Case-01,1.0
+Description Confidence,85,Case-01,
+EKG Hypothesis,pericarditis,Case-02,1.0
+EKG Confidence,90,Case-02,
+Description Hypothesis,reflux/gastritis,Case-02,1.0
+Description Confidence,75,Case-02,
+EKG Hypothesis,ber (vroege repolarisatiestoornis),Case-03,1.0
+EKG Confidence,85,Case-03,
+Description Hypothesis,"ber (vroege repolarisatiestoornis)op ecg, aspecifieke thoracale klachten",Case-03,1.0
+Description Confidence,100,Case-03,
+EKG Hypothesis,stemi,Case-07,0.0
+EKG Confidence,60,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,70,Case-07,
+EKG Hypothesis,acs,Case-08,1.0
+EKG Confidence,75,Case-08,
+Description Hypothesis,acs,Case-08,1.0
+Description Confidence,80,Case-08,
+EKG Hypothesis,stemi lateraal,Case-09,0.5
+EKG Confidence,100,Case-09,
+Description Hypothesis,stemi,Case-09,0.0
+Description Confidence,70,Case-09,
+EKG Hypothesis,normaal ecg,Case-12,1.0
+EKG Confidence,94,Case-12,
+Description Hypothesis,paf,Case-12,0.0
+Description Confidence,60,Case-12,
+EKG Hypothesis,la dilatatie en neg t's lateraal,Case-13,0.5
+EKG Confidence,80,Case-13,
+Description Hypothesis,nstemi,Case-13,1.0
+Description Confidence,75,Case-13,
+EKG Hypothesis,normaal ecg,Case-15,1.0
+EKG Confidence,95,Case-15,
+Description Hypothesis,nstemi,Case-15,1.0
+Description Confidence,95,Case-15,
+EKG Hypothesis,3 vd of hs stenose,Case-16,1.0
+EKG Confidence,85,Case-16,
+Description Hypothesis,acs,Case-16,1.0
+Description Confidence,90,Case-16,
+EKG Hypothesis,lvh,Case-17,0.5
+EKG Confidence,60,Case-17,
+Description Hypothesis,spanning,Case-17,0.5
+Description Confidence,80,Case-17,
+EKG Hypothesis,normaal ecg,Case-19,0.0
+EKG Confidence,71,Case-19,
+Description Hypothesis,nstemi,Case-19,1.0
+Description Confidence,69,Case-19,

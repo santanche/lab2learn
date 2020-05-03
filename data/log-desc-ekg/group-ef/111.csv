@@ -1,0 +1,49 @@
+Question,Answer,Case
+EKG Hypothesis,longprobleem,Case-19
+EKG Confidence,80,Case-19
+Description Hypothesis,infectie,Case-19
+Description Confidence,49,Case-19
+EKG Hypothesis,acs,Case-17
+EKG Confidence,90,Case-17
+Description Hypothesis,raktakotsubo,Case-17
+Description Confidence,56,Case-17
+EKG Hypothesis,eerstegraads av blok,Case-16
+EKG Confidence,70,Case-16
+Description Hypothesis,ischemie,Case-16
+Description Confidence,81,Case-16
+EKG Hypothesis,normaal,Case-15
+EKG Confidence,90,Case-15
+Description Hypothesis,acs,Case-15
+Description Confidence,97,Case-15
+EKG Hypothesis,ischemie,Case-13
+EKG Confidence,80,Case-13
+Description Hypothesis,ischemie,Case-13
+Description Confidence,85,Case-13
+EKG Hypothesis,normaal,Case-12
+EKG Confidence,70,Case-12
+Description Hypothesis,viraal infect,Case-12
+Description Confidence,70,Case-12
+EKG Hypothesis,longembolie,Case-09
+EKG Confidence,40,Case-09
+Description Hypothesis,ischemie,Case-09
+Description Confidence,50,Case-09
+EKG Hypothesis,strain,Case-08
+EKG Confidence,50,Case-08
+Description Hypothesis,acs,Case-08
+Description Confidence,59,Case-08
+EKG Hypothesis,pericarditis,Case-07
+EKG Confidence,45,Case-07
+Description Hypothesis,pericarditis,Case-07
+Description Confidence,76,Case-07
+EKG Hypothesis,infarct,Case-03
+EKG Confidence,37,Case-03
+Description Hypothesis,hyperventilatie,Case-03
+Description Confidence,30,Case-03
+EKG Hypothesis,pericarditis,Case-02
+EKG Confidence,69,Case-02
+Description Hypothesis,gastrointestinale klachten,Case-02
+Description Confidence,70,Case-02
+EKG Hypothesis,doorgemaakte ischemie ipl gebied,Case-01
+EKG Confidence,80,Case-01
+Description Hypothesis,ischemie,Case-01
+Description Confidence,70,Case-01

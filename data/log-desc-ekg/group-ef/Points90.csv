@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,inferolaterale ischemie,Case-01,0.5
+EKG Confidence,55,Case-01,
+Description Hypothesis,acs,Case-01,1.0
+Description Confidence,64,Case-01,
+EKG Hypothesis,acs,Case-02,0.0
+EKG Confidence,58,Case-02,
+Description Hypothesis,gastro intestinaal,Case-02,1.0
+Description Confidence,76,Case-02,
+EKG Hypothesis,ischemie,Case-03,0.0
+EKG Confidence,70,Case-03,
+Description Hypothesis,niet cardiaal,Case-03,1.0
+Description Confidence,81,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,57,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,91,Case-07,
+EKG Hypothesis,acs,Case-08,1.0
+EKG Confidence,86,Case-08,
+Description Hypothesis,acs,Case-08,1.0
+Description Confidence,92,Case-08,
+EKG Hypothesis,longembolie,Case-09,0.5
+EKG Confidence,80,Case-09,
+Description Hypothesis,longembolie,Case-09,0.5
+Description Confidence,95,Case-09,
+EKG Hypothesis,niet cardiaal,Case-12,1.0
+EKG Confidence,72,Case-12,
+Description Hypothesis,stress gerelateerde klachten,Case-12,0.0
+Description Confidence,77,Case-12,
+EKG Hypothesis,panischemie,Case-13,0.5
+EKG Confidence,60,Case-13,
+Description Hypothesis,panischemie,Case-13,0.5
+Description Confidence,63,Case-13,
+EKG Hypothesis,acs,Case-15,1.0
+EKG Confidence,59,Case-15,
+Description Hypothesis,nstemi,Case-15,1.0
+Description Confidence,74,Case-15,
+EKG Hypothesis,acs,Case-16,1.0
+EKG Confidence,63,Case-16,
+Description Hypothesis,acs,Case-16,1.0
+Description Confidence,88,Case-16,
+EKG Hypothesis,panischemie,Case-17,0.0
+EKG Confidence,59,Case-17,
+Description Hypothesis,panischemie,Case-17,0.0
+Description Confidence,76,Case-17,
+EKG Hypothesis,niet cardiaal,Case-19,0.0
+EKG Confidence,51,Case-19,
+Description Hypothesis,nstemi,Case-19,1.0
+Description Confidence,63,Case-19,

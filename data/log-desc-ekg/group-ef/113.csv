@@ -1,0 +1,28 @@
+Question,Answer,Case
+,,Case-19
+,,Case-17
+,,Case-16
+,,Case-15
+,,Case-13
+,,Case-12
+,,Case-09
+EKG Hypothesis,"komvormige st depressie inferolateraal, kan passen digoxine intoxicatie, acs nog niet uitgesloten",Case-08
+EKG Confidence,41,Case-08
+Description Hypothesis,"acs, cardiomypathie",Case-08
+Description Confidence,59,Case-08
+EKG Hypothesis,"acs, verdenking stemi ipl",Case-07
+EKG Confidence,63,Case-07
+Description Hypothesis,stemi ipl,Case-07
+Description Confidence,69,Case-07
+EKG Hypothesis,stemi ipl,Case-03
+EKG Confidence,71,Case-03
+Description Hypothesis,"vroege repolarisatie, acs nog niet uitgesloten",Case-03
+Description Confidence,62,Case-03
+EKG Hypothesis,"indien neg, vroege repolarisatie",Case-02
+EKG Confidence,70,Case-02
+Description Hypothesis,"nog steeds verdenking acs, opnieuw ecg maken om te zien of het dynamisch is, troponines",Case-02
+Description Confidence,63,Case-02
+EKG Hypothesis,"inferolateraal negatieve ts en minimale st depressie (geen oud ecg), verdenking nstemi, stenose plcx restenose rca",Case-01
+EKG Confidence,74,Case-01
+Description Hypothesis,"inferolateraal negatieve ts en minimale st depressie (geen oud ecg), verdenking nstemi, stenose plcx restenose rca",Case-01
+Description Confidence,63,Case-01

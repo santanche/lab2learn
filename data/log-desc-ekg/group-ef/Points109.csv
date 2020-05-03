@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,ischemie inferolateraal,Case-01,0.5
+EKG Confidence,63,Case-01,
+Description Hypothesis,nstemi,Case-01,1.0
+Description Confidence,72,Case-01,
+EKG Hypothesis,pericarditis,Case-02,1.0
+EKG Confidence,65,Case-02,
+Description Hypothesis,maagklachten,Case-02,1.0
+Description Confidence,79,Case-02,
+EKG Hypothesis,pericarditis,Case-03,0.5
+EKG Confidence,72,Case-03,
+Description Hypothesis,hyperventilatie,Case-03,1.0
+Description Confidence,67,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,66,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,84,Case-07,
+EKG Hypothesis,nstemi,Case-08,1.0
+EKG Confidence,60,Case-08,
+Description Hypothesis,nstemi,Case-08,1.0
+Description Confidence,79,Case-08,
+EKG Hypothesis,stemi,Case-09,0.0
+EKG Confidence,51,Case-09,
+Description Hypothesis,stemi,Case-09,0.0
+Description Confidence,64,Case-09,
+EKG Hypothesis,normaal ecg,Case-12,1.0
+EKG Confidence,82,Case-12,
+Description Hypothesis,nstemi,Case-12,0.0
+Description Confidence,49,Case-12,
+EKG Hypothesis,nstemi,Case-13,1.0
+EKG Confidence,51,Case-13,
+Description Hypothesis,nstemi,Case-13,1.0
+Description Confidence,56,Case-13,
+EKG Hypothesis,normaal ecg,Case-15,1.0
+EKG Confidence,82,Case-15,
+Description Hypothesis,nstemi,Case-15,1.0
+Description Confidence,73,Case-15,
+EKG Hypothesis,panischemie,Case-16,1.0
+EKG Confidence,73,Case-16,
+Description Hypothesis,nstemi,Case-16,1.0
+Description Confidence,68,Case-16,
+EKG Hypothesis,nstemi,Case-17,0.5
+EKG Confidence,75,Case-17,
+Description Hypothesis,tako tsubo danwel nstemi,Case-17,0.5
+Description Confidence,58,Case-17,
+EKG Hypothesis,normaal ecg,Case-19,0.0
+EKG Confidence,56,Case-19,
+Description Hypothesis,nstemi,Case-19,1.0
+Description Confidence,62,Case-19,

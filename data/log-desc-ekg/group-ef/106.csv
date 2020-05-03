@@ -1,0 +1,49 @@
+Question,Answer,Case
+EKG Hypothesis,angina pectoris,Case-19
+EKG Confidence,36,Case-19
+Description Hypothesis,nstemi,Case-19
+Description Confidence,60,Case-19
+EKG Hypothesis,angina pectoris,Case-17
+EKG Confidence,58,Case-17
+Description Hypothesis,angina pectoris,Case-17
+Description Confidence,56,Case-17
+EKG Hypothesis,angina pectoris,Case-16
+EKG Confidence,52,Case-16
+Description Hypothesis,angina pectoris,Case-16
+Description Confidence,67,Case-16
+EKG Hypothesis,nstemi,Case-15
+EKG Confidence,20,Case-15
+Description Hypothesis,nstemi,Case-15
+Description Confidence,58,Case-15
+EKG Hypothesis,nstemi,Case-13
+EKG Confidence,41,Case-13
+Description Hypothesis,nstemi,Case-13
+Description Confidence,67,Case-13
+EKG Hypothesis,nstemi,Case-12
+EKG Confidence,52,Case-12
+Description Hypothesis,nstemi,Case-12
+Description Confidence,57,Case-12
+EKG Hypothesis,tamponade,Case-09
+EKG Confidence,57,Case-09
+Description Hypothesis,pericarditis,Case-09
+Description Confidence,57,Case-09
+EKG Hypothesis,subendocardiale ischemie,Case-08
+EKG Confidence,57,Case-08
+Description Hypothesis,ap klachten,Case-08
+Description Confidence,59,Case-08
+EKG Hypothesis,stemi,Case-07
+EKG Confidence,78,Case-07
+Description Hypothesis,pericarditis,Case-07
+Description Confidence,73,Case-07
+EKG Hypothesis,stemi inferolateraal,Case-03
+EKG Confidence,28,Case-03
+Description Hypothesis,maagklachten,Case-03
+Description Confidence,25,Case-03
+EKG Hypothesis,pericarditis,Case-02
+EKG Confidence,70,Case-02
+Description Hypothesis,pericarditis en maagklachten,Case-02
+Description Confidence,61,Case-02
+EKG Hypothesis,nstemi,Case-01
+EKG Confidence,59,Case-01
+Description Hypothesis,nstemi,Case-01
+Description Confidence,65,Case-01

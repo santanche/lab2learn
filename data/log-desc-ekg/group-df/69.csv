@@ -1,0 +1,40 @@
+Question,Answer,Case
+,,Case-19
+,,Case-17
+,,Case-16
+EKG Hypothesis,acs,Case-15
+EKG Confidence,40,Case-15
+Description Hypothesis,acs,Case-15
+Description Confidence,77,Case-15
+EKG Hypothesis,nstemi,Case-13
+EKG Confidence,67,Case-13
+Description Hypothesis,iap/ nstemi,Case-13
+Description Confidence,54,Case-13
+EKG Hypothesis,acs,Case-12
+EKG Confidence,33,Case-12
+Description Hypothesis,symptomatisch af,Case-12
+Description Confidence,66,Case-12
+EKG Hypothesis,iap,Case-09
+EKG Confidence,64,Case-09
+Description Hypothesis,ambulant doorgemaakt infarct/ nstemi,Case-09
+Description Confidence,58,Case-09
+EKG Hypothesis,nstemi,Case-08
+EKG Confidence,75,Case-08
+Description Hypothesis,iap,Case-08
+Description Confidence,74,Case-08
+EKG Hypothesis,pericarditis,Case-07
+EKG Confidence,65,Case-07
+Description Hypothesis,musculoskeletaal,Case-07
+Description Confidence,65,Case-07
+EKG Hypothesis,hvs/ musculoskeletaal,Case-03
+EKG Confidence,81,Case-03
+Description Hypothesis,hvs/ musculoskeletaal,Case-03
+Description Confidence,78,Case-03
+EKG Hypothesis,maagklachten,Case-02
+EKG Confidence,70,Case-02
+Description Hypothesis,maagklachten,Case-02
+Description Confidence,68,Case-02
+EKG Hypothesis,nstemi,Case-01
+EKG Confidence,75,Case-01
+Description Hypothesis,nstemi,Case-01
+Description Confidence,45,Case-01

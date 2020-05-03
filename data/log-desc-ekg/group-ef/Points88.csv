@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,stabiele angina pectoris,Case-01,0.5
+EKG Confidence,70,Case-01,
+Description Hypothesis,stabiele angina pectoris,Case-01,0.5
+Description Confidence,71,Case-01,
+EKG Hypothesis,pericarditis,Case-02,1.0
+EKG Confidence,60,Case-02,
+Description Hypothesis,galstenen,Case-02,0.5
+Description Confidence,70,Case-02,
+EKG Hypothesis,pericarditis,Case-03,0.5
+EKG Confidence,50,Case-03,
+Description Hypothesis,tendomyogene klachten,Case-03,1.0
+Description Confidence,60,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,60,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,100,Case-07,
+EKG Hypothesis,stemi posterior,Case-08,0.0
+EKG Confidence,80,Case-08,
+Description Hypothesis,acuut myocard infarct,Case-08,1.0
+Description Confidence,100,Case-08,
+EKG Hypothesis,longembolie,Case-09,0.5
+EKG Confidence,70,Case-09,
+Description Hypothesis,longembolie,Case-09,0.5
+Description Confidence,80,Case-09,
+EKG Hypothesis,niet cardinals diagnose,Case-12,1.0
+EKG Confidence,51,Case-12,
+Description Hypothesis,paf,Case-12,0.0
+Description Confidence,80,Case-12,
+EKG Hypothesis,mitralisinsufficientie,Case-13,0.0
+EKG Confidence,60,Case-13,
+Description Hypothesis,nstemi,Case-13,1.0
+Description Confidence,70,Case-13,
+EKG Hypothesis,normaal ecg,Case-15,1.0
+EKG Confidence,80,Case-15,
+Description Hypothesis,instabiele ap,Case-15,1.0
+Description Confidence,100,Case-15,
+EKG Hypothesis,type 2 ischemie,Case-16,0.5
+EKG Confidence,80,Case-16,
+Description Hypothesis,hoofdstad stenose,Case-16,1.0
+Description Confidence,81,Case-16,
+EKG Hypothesis,lvh,Case-17,0.5
+EKG Confidence,70,Case-17,
+Description Hypothesis,tako tsubo,Case-17,0.5
+Description Confidence,100,Case-17,
+EKG Hypothesis,nstemi,Case-19,1.0
+EKG Confidence,75,Case-19,
+Description Hypothesis,nstemi,Case-19,1.0
+Description Confidence,74,Case-19,

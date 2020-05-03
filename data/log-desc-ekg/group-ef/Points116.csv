@@ -1,0 +1,49 @@
+Question,Answer,Case,Points
+EKG Hypothesis,oud infero-posterior infarct,Case-01,1.0
+EKG Confidence,70,Case-01,
+Description Hypothesis,nstemi bij vg van oud inferoposterior infarct,Case-01,1.0
+Description Confidence,85,Case-01,
+EKG Hypothesis,stemi inferior,Case-02,0.0
+EKG Confidence,70,Case-02,
+Description Hypothesis,stemi,Case-02,0.0
+Description Confidence,84,Case-02,
+EKG Hypothesis,pericarditis,Case-03,0.5
+EKG Confidence,59,Case-03,
+Description Hypothesis,tendomyogeen (vroege repolarisatie),Case-03,1.0
+Description Confidence,70,Case-03,
+EKG Hypothesis,pericarditis,Case-07,1.0
+EKG Confidence,85,Case-07,
+Description Hypothesis,pericarditis,Case-07,1.0
+Description Confidence,96,Case-07,
+EKG Hypothesis,panischemie,Case-08,0.5
+EKG Confidence,70,Case-08,
+Description Hypothesis,panischemie (elevatie avr),Case-08,0.5
+Description Confidence,80,Case-08,
+EKG Hypothesis,"sinustach, rechteras, le?",Case-09,0.5
+EKG Confidence,55,Case-09,
+Description Hypothesis,tachycardie bij lwi/pneumonie,Case-09,0.0
+Description Confidence,70,Case-09,
+EKG Hypothesis,gb,Case-12,1.0
+EKG Confidence,55,Case-12,
+Description Hypothesis,klachten bij conversie van af naar sr,Case-12,0.5
+Description Confidence,75,Case-12,
+EKG Hypothesis,nstemi (neg t inf),Case-13,1.0
+EKG Confidence,70,Case-13,
+Description Hypothesis,nstemi,Case-13,1.0
+Description Confidence,80,Case-13,
+EKG Hypothesis,gb,Case-15,0.0
+EKG Confidence,60,Case-15,
+Description Hypothesis,nstemi,Case-15,1.0
+Description Confidence,77,Case-15,
+EKG Hypothesis,oud inf infarct en nstemi,Case-16,0.5
+EKG Confidence,65,Case-16,
+Description Hypothesis,nstemi,Case-16,1.0
+Description Confidence,85,Case-16,
+EKG Hypothesis,kort pr interval en nstemi,Case-17,0.0
+EKG Confidence,69,Case-17,
+Description Hypothesis,nstemi,Case-17,0.5
+Description Confidence,80,Case-17,
+EKG Hypothesis,preexcitatie (v2),Case-19,0.0
+EKG Confidence,66,Case-19,
+Description Hypothesis,nstemi,Case-19,1.0
+Description Confidence,80,Case-19,

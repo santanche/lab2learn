@@ -1,0 +1,46 @@
+Question,Answer,Case,Points
+EKG Hypothesis,pyrosis,Case-01,0.0
+EKG Confidence,68,Case-01,
+Description Hypothesis,doorgemaakt inferior infarct,Case-01,0.5
+Description Confidence,60,Case-01,
+EKG Hypothesis,pericarditis,Case-02,1.0
+EKG Confidence,50,Case-02,
+Description Hypothesis,gastritis/reflux/ ulcer,Case-02,1.0
+Description Confidence,84,Case-02,
+EKG Hypothesis,pericarditis,Case-03,0.5
+EKG Confidence,40,Case-03,
+Description Hypothesis,aspecifiek,Case-03,1.0
+Description Confidence,30,Case-03,
+EKG Hypothesis,stemi,Case-07,0.0
+EKG Confidence,48,Case-07,
+Description Hypothesis,stemi,Case-07,0.0
+Description Confidence,35,Case-07,
+EKG Hypothesis,proximale lad occlusie,Case-08,1.0
+EKG Confidence,22,Case-08,
+Description Hypothesis,stemi,Case-08,0.5
+Description Confidence,43,Case-08,
+EKG Hypothesis,lateraal infarct,Case-09,0.5
+EKG Confidence,37,Case-09,
+Description Hypothesis,lateraal infarct,Case-09,0.5
+Description Confidence,32,Case-09,
+EKG Hypothesis,normaal,Case-12,1.0
+EKG Confidence,45,Case-12,
+Description Hypothesis,atypische thoracale pijn,Case-12,1.0
+Description Confidence,53,Case-12,
+EKG Hypothesis,nstemi,Case-13,1.0
+EKG Confidence,49,Case-13,
+Description Hypothesis,nstemi,Case-13,1.0
+Description Confidence,52,Case-13,
+EKG Hypothesis,niet cardiaal,Case-15,0.0
+EKG Confidence,49,Case-15,
+Description Hypothesis,nstemi/iap,Case-15,1.0
+Description Confidence,39,Case-15,
+EKG Hypothesis,demand ischemie,Case-16,0.5
+EKG Confidence,42,Case-16,
+Description Hypothesis,ap,Case-16,1.0
+Description Confidence,41,Case-16,
+EKG Hypothesis,strain,Case-17,0.5
+EKG Confidence,53,Case-17,
+Description Hypothesis,dhje,Case-17,0.0
+Description Confidence,42,Case-17,
+,,Case-19,

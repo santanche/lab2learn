@@ -1,0 +1,49 @@
+Question,Answer,Case
+EKG Hypothesis,slokdarmspasme,Case-19
+EKG Confidence,57,Case-19
+Description Hypothesis,iap,Case-19
+Description Confidence,39,Case-19
+EKG Hypothesis,nstemi,Case-17
+EKG Confidence,66,Case-17
+Description Hypothesis,hyperventilatie,Case-17
+Description Confidence,53,Case-17
+EKG Hypothesis,in stent probleem,Case-16
+EKG Confidence,54,Case-16
+Description Hypothesis,recidief infarct,Case-16
+Description Confidence,48,Case-16
+EKG Hypothesis,nstemi,Case-15
+EKG Confidence,38,Case-15
+Description Hypothesis,recidief infarct,Case-15
+Description Confidence,63,Case-15
+EKG Hypothesis,nstemi,Case-13
+EKG Confidence,55,Case-13
+Description Hypothesis,doorgemaakt infarxt,Case-13
+Description Confidence,57,Case-13
+EKG Hypothesis,recidief af met conversie,Case-12
+EKG Confidence,51,Case-12
+Description Hypothesis,type 2 ischemie bij af met bijkomend conversiepauzes,Case-12
+Description Confidence,58,Case-12
+EKG Hypothesis,doorgemaakt il infarct,Case-09
+EKG Confidence,70,Case-09
+Description Hypothesis,postinfarct hartfalen/ap,Case-09
+Description Confidence,61,Case-09
+EKG Hypothesis,3 vatslijden of hs stenose,Case-08
+EKG Confidence,60,Case-08
+Description Hypothesis,myocardinfarct,Case-08
+Description Confidence,75,Case-08
+EKG Hypothesis,stemi,Case-07
+EKG Confidence,41,Case-07
+Description Hypothesis,pericarditis / pleuritis,Case-07
+Description Confidence,60,Case-07
+EKG Hypothesis,pericarditis,Case-03
+EKG Confidence,55,Case-03
+Description Hypothesis,hyperventilatie,Case-03
+Description Confidence,65,Case-03
+EKG Hypothesis,gastro intestinaal,Case-02
+EKG Confidence,48,Case-02
+Description Hypothesis,gastro-intestinale klachten,Case-02
+Description Confidence,70,Case-02
+EKG Hypothesis,nstemi,Case-01
+EKG Confidence,50,Case-01
+Description Hypothesis,recidief infarct,Case-01
+Description Confidence,50,Case-01

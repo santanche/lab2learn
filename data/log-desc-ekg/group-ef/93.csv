@@ -1,0 +1,47 @@
+Question,Answer,Case
+EKG Hypothesis,atypisch,Case-19
+EKG Confidence,68,Case-19
+EKG Hypothesis,ischemie,Case-17
+EKG Confidence,68,Case-17
+Description Hypothesis,ap,Case-17
+Description Confidence,59,Case-17
+EKG Hypothesis,nstemi,Case-16
+EKG Confidence,73,Case-16
+Description Hypothesis,acs,Case-16
+Description Confidence,86,Case-16
+EKG Hypothesis,normaal,Case-15
+EKG Confidence,49,Case-15
+Description Hypothesis,iap,Case-15
+Description Confidence,59,Case-15
+EKG Hypothesis,la dilatatie,Case-13
+EKG Confidence,48,Case-13
+Description Hypothesis,nstemi,Case-13
+Description Confidence,36,Case-13
+EKG Hypothesis,atypisch,Case-12
+EKG Confidence,46,Case-12
+Description Hypothesis,atypisch,Case-12
+Description Confidence,76,Case-12
+EKG Hypothesis,longembolie,Case-09
+EKG Confidence,24,Case-09
+Description Hypothesis,longembolie,Case-09
+Description Confidence,31,Case-09
+EKG Hypothesis,infarct,Case-08
+EKG Confidence,70,Case-08
+Description Hypothesis,iap,Case-08
+Description Confidence,74,Case-08
+EKG Hypothesis,pericarditis,Case-07
+EKG Confidence,66,Case-07
+Description Hypothesis,pericarditis,Case-07
+Description Confidence,68,Case-07
+EKG Hypothesis,lvh,Case-03
+EKG Confidence,70,Case-03
+Description Hypothesis,hyperventilatie,Case-03
+Description Confidence,86,Case-03
+EKG Hypothesis,ge reflux,Case-02
+EKG Confidence,80,Case-02
+Description Hypothesis,ge reflux,Case-02
+Description Confidence,79,Case-02
+EKG Hypothesis,nstemi,Case-01
+EKG Confidence,66,Case-01
+Description Hypothesis,nstemi,Case-01
+Description Confidence,69,Case-01
