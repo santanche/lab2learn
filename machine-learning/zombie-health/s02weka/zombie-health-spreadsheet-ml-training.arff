@@ -1,0 +1,32 @@
+@relation zombie-health
+
+@attribute paralysis {t,f}
+@attribute yellow_tong {t,f}
+@attribute member_loss {t,f}
+@attribute chest_pain {t,f}
+@attribute trembling_finger {t,f}
+@attribute severe_anger {t,f}
+@attribute history_bacteria {t,f}
+@attribute diagnostic {bacterial_infection, bite_deficit, viral_infection, fights, nothing}
+
+@data
+
+t,t,f,f,f,f,f,bacterial_infection
+f,t,f,f,f,f,f,bacterial_infection
+f,t,f,f,t,f,t,bite_deficit
+f,t,t,f,t,f,f,bite_deficit
+f,f,t,t,f,f,f,viral_infection
+f,f,t,f,f,t,f,fights
+f,f,f,f,f,t,f,nothing
+f,f,f,f,t,f,f,bite_deficit
+f,t,f,t,f,f,f,bacterial_infection
+f,f,f,t,f,f,f,viral_infection
+f,t,t,f,f,f,t,bite_deficit
+t,t,f,f,f,f,f,bacterial_infection
+f,f,f,t,f,f,t,viral_infection
+f,f,t,f,f,f,f,fights
+f,t,f,f,t,f,t,bite_deficit
+f,t,t,f,t,f,f,bite_deficit
+f,f,f,t,f,f,f,fights
+f,t,f,f,f,f,f,bacterial_infection
+f,f,f,f,t,f,f,bite_deficit

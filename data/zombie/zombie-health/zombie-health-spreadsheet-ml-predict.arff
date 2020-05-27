@@ -1,0 +1,14 @@
+@relation zombie-health
+
+@attribute paralysis {t,f}
+@attribute yellow_tong {t,f}
+@attribute member_loss {t,f}
+@attribute chest_pain {t,f}
+@attribute trembling_finger {t,f}
+@attribute severe_anger {t,f}
+@attribute history_bacteria {t,f}
+@attribute diagnostic {bacterial_infection, bite_deficit, viral_infection, fights, nothing}
+
+@data
+
+t,t,f,f,f,f,f,?
