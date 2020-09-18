@@ -55,3 +55,17 @@ Challenge: How to classify three very similar species of plant according to four
 * Sepal Width
 * Petal Length
 * Petal Width
+
+# Regras de Associação
+*Lab de Componentização e Reúso de Software 01/08/2020*
+
+Estude o exemplo construído Orange no diretório:
+* [zombie-health/s03orange/](zombie-health/s03orange/)
+
+Especificamente o arquivo `zombie-health-ml-association.ows` que carrega o arquivo `zombie-health-association.csv` (pode ser necessário reconfigurar o caminho de entrada do arquivo no Orange).
+
+Este exemplo descobre regras de associação entre sintomas e doenças.
+
+## Tarefa
+
+Acesse o diretório [foodmart/](foodmart/) que relaciona compras realizadas por clientes sobre produtos e descubra regras de associação entre produtos. Como estes dados poderiam ser explorados para recomendar produtos para clientes?
