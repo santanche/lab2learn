@@ -1,4 +1,8 @@
-# beakerx and deps
+# sos - script of scripts (multiple kernels)
+sos
+sos-notebook
+
+# beakerx (kernels: java, clojure, groovy, scala, kotlin, sql) and dependencies
 beakerx
 py4j
 
@@ -9,44 +13,12 @@ jupyterlab_launcher
 jupyterlab-git
 ipywidgets
 
-# <error>
-# jupyter-server-proxy
-
 # data structures and data analysis 
 pandas
 numpy
 
-# data management/versioning
-quilt
-
-# http tools
-requests
-
-ipywidgets
-
-# <error>
-# RISE
-
 # data viz
 matplotlib
-
-# <error>
 plotly
-
+chart-studio
 seaborn
-
-# machine learning
-scikit-learn
-scipy
-
-# information retrieval
-pysolr
-
-# misc
-tornado
-sparqlkernel
-paho-mqtt
-feedparser
-traitlets
-numpy
-matplotlib
