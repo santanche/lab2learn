@@ -1,11 +1,3 @@
-# sos - script of scripts (multiple kernels)
-sos
-sos-notebook
-
-# beakerx (kernels: java, clojure, groovy, scala, kotlin, sql) and dependencies
-beakerx
-py4j
-
 # jupyter/jupyterlab plugins/extensions
 jupyterlab
 jupyter_contrib_nbextensions
