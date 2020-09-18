@@ -16,8 +16,9 @@ jupyter labextension install beakerx-jupyterlab --no-build
 jupyter labextension install @jupyterlab/toc --no-build 
 
 # Jupyter/Jupyterlab extension for proxying internal applications
-jupyter serverextension enable --sys-prefix jupyter_server_proxy
-jupyter labextension install jupyterlab-server-proxy --no-build 
+# <error>
+# jupyter serverextension enable --sys-prefix jupyter_server_proxy
+# jupyter labextension install jupyterlab-server-proxy --no-build 
 
 # Git Jupyter/Lab extension 
 jupyter labextension install @jupyterlab/git --no-build 
@@ -30,12 +31,13 @@ jupyter labextension install @jupyterlab/github --no-build
 jupyter labextension install jupyterlab-drawio --no-build 
 
 # Rise Jupyter extension (presentation mode)
-jupyter-nbextension install rise --py --sys-prefix
-jupyter-nbextension enable  rise --py --sys-prefix
+# <error>
+# jupyter-nbextension install rise --py --sys-prefix
+# jupyter-nbextension enable  rise --py --sys-prefix
 
 # Plotly Jupyter Lab extension
-jupyter labextension install @jupyterlab/plotly-extension --no-build 
-
+# <error>
+# jupyter labextension install @jupyterlab/plotly-extension --no-build 
 
 # Building everything up for jupyterlab extensions
 jupyter lab build

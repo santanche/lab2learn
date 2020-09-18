@@ -7,5 +7,7 @@ lsof
 nodejs
 maven
 openjdk-8-jdk
-mosquitto
-mosquitto-clients
+
+# <future>
+# mosquitto
+# mosquitto-clients
