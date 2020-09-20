@@ -17,7 +17,7 @@ jupyter labextension install @jupyterlab/toc --no-build
 
 # Git Jupyter/Lab extension
 jupyter labextension install @jupyterlab/git --no-build
-jupyter serverextension enable --py jupyterlab_git
+# jupyter serverextension enable --py jupyterlab_git
 
 # Github Jupyter Lab extension
 jupyter labextension install @jupyterlab/github --no-build
