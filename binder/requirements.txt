@@ -1,9 +1,11 @@
-jupyter/jupyterlab plugins/extensions
+# jupyter/jupyterlab plugins/extensions
 jupyterlab
 jupyter_contrib_nbextensions
 jupyterlab_launcher
 jupyterlab-git
 ipywidgets
+
+# beakerx (kernels: java, clojure, groovy, scala, kotlin, sql) and dependencies
 beakerx
 
 # <error>
