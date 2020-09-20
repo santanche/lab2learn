@@ -1,0 +1,12 @@
+name: beakerx
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - beakerx
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - chart-studio
+  - plotly

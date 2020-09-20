@@ -33,3 +33,5 @@ jupyter labextension install @jupyterlab/github --no-build
 
 # Building everything up for jupyterlab extensions
 jupyter lab build --dev-build=False --minimize=False
+
+conda install beakerx

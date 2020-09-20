@@ -3,22 +3,22 @@ jupyterlab
 jupyter_contrib_nbextensions
 jupyterlab_launcher
 jupyterlab-git
-ipywidgets
+#ipywidgets
 
 # beakerx (kernels: java, clojure, groovy, scala, kotlin, sql) and dependencies
-beakerx
+#beakerx
 
 # <error>
 # jupyter-server-proxy
 
 # data structures and data analysis
-pandas
-numpy
+#pandas
+#numpy
 
 # data viz
 
-matplotlib
-plotly
+#matplotlib
+#plotly
 
-chart-studio
-seaborn
+#chart-studio
+#seaborn
