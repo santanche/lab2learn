@@ -1,1 +1,6 @@
-conda install -c beakerx beakerx_all  
+name: beakerx
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - beakerx
