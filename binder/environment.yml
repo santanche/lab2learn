@@ -4,9 +4,3 @@ channels:
 dependencies:
   - ipywidgets
   - beakerx
-  - numpy
-  - pandas
-  - matplotlib
-  - seaborn
-  - chart-studio
-  - plotly
