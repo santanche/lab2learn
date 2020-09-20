@@ -1,5 +1,3 @@
-yarn
-npm
 nodejs
 maven
 openjdk-8-jdk
