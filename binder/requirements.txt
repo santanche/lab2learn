@@ -1,11 +1,12 @@
-# jupyter/jupyterlab plugins/extensions
+jupyter/jupyterlab plugins/extensions
 jupyterlab
 jupyter_contrib_nbextensions
 jupyterlab_launcher
 jupyterlab-git
 ipywidgets
+jupyter-server-proxy
 
-# data structures and data analysis 
+# data structures and data analysis
 pandas
 numpy
 
