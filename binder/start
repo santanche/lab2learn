@@ -1,5 +1,5 @@
 #!bin/bash
 
-mosquito &
+# mosquito &
 
 # DO NOT REMOVE(!)

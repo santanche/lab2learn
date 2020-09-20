@@ -4,14 +4,18 @@ jupyter_contrib_nbextensions
 jupyterlab_launcher
 jupyterlab-git
 ipywidgets
-jupyter-server-proxy
+
+# <error>
+# jupyter-server-proxy
 
 # data structures and data analysis
 pandas
 numpy
 
 # data viz
+
 matplotlib
 plotly
+
 chart-studio
 seaborn
