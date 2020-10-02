@@ -68,3 +68,17 @@ Estrutura de pastas:
 > Coloque a imagem do PNG do seu diagrama como ilustrado abaixo (a imagem estará na pasta `image`):
 > 
 > ![Diagrama de Orquestração](images/diagrama-livre.png)
+
+# Modelo para Apresentação do Lab02 - Modelos Lógicos
+
+Estrutura de pastas:
+
+~~~
+├── README.md  <- arquivo apresentando a tarefa
+│
+└── notebook   <- arquivos do notebook
+~~~
+
+## Tarefa sobre Acesso a DBPedia e MeSH
+
+> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`.
