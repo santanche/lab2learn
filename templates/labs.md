@@ -68,3 +68,37 @@ Estrutura de pastas:
 > Coloque a imagem do PNG do seu diagrama como ilustrado abaixo (a imagem estará na pasta `image`):
 > 
 > ![Diagrama de Orquestração](images/diagrama-livre.png)
+
+# Modelo para Apresentação do Lab02 - Modelos Lógicos
+
+Estrutura de pastas:
+
+~~~
+├── README.md  <- arquivo apresentando a tarefa
+│
+└── notebook   <- arquivos do notebook
+~~~
+
+## Tarefa sobre Acesso a DBPedia e MeSH
+
+> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`.
+
+# Modelo para Apresentação do Lab03 - Modelo Lógico de Tabelas com Orange/Kaggle
+
+Estrutura de pastas:
+
+~~~
+├── README.md  <- arquivo apresentando a tarefa
+│
+├── images     <- imagem da captura de tela do lab
+│
+└── orange     <- arquivo do Orange
+~~~
+
+## Tarefa sobre Análise de Dados usando o Orange
+
+> Coloque a imagem do PNG da captura de tela do seu projeto Orange conforme ilustrado abaixo (a imagem estará na pasta `image`):
+> 
+> ![Captura Orange](images/captura-orange.png)
+
+> Coloque um link para o arquivo do Orange com a resolução da tarefa. Ele estará dentro da pasta `orange`.
