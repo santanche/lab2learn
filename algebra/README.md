@@ -8,4 +8,4 @@ Laboratórios para expererimentos com Álgebra Relacional.
 
 Ambiente interativo para álgebra relacional [RelaX](https://dbis-uibk.github.io/relax/).
 
-RelaX com o [Banco de Dados dos casos](https://dbis-uibk.github.io/relax/calc/gist/300cdabb6607e57101119f3d7fbb6721)
+RelaX com o [Caso dos Taxis](https://dbis-uibk.github.io/relax/calc/gist/300cdabb6607e57101119f3d7fbb6721)
