@@ -1,0 +1,35 @@
+group: UNICAMP Taxi - Taxi, Cliente, Corrida
+description: Taxi tables
+category@en:UNICAMP
+
+Taxi = {
+Placa, Marca, Modelo, AnoFab, Licenca
+
+'DAE6534', 'Ford', 'Fiesta', 1999, 'MN572345'
+'DKL4598', 'Wolkswagen', 'Gol', 2001, 'AU876543'
+'DKL7878', 'Ford', 'Fiesta', 2001, 'OP102938'
+'JDM8776', 'Wolkswagen', 'Santana', 2002, 'QM365923'
+'JJM3692', 'Chevrolet', 'Corsa', 1999, 'UU335577'
+}
+
+Cliente = {
+CliId, Nome, CPF
+
+'1532', 'Asdrúbal', '448.754.253-65'
+'1755', 'Doriana', '567.387.387-44'
+'1780', 'Quincas', '546.373.762-02'
+'1888', 'Melissa', '123.456.789-10'
+}
+
+Corrida = {
+CliId, Placa, DataPedido
+
+'1755', 'DAE6534', '2003-02-15'
+'1780', 'JDM8776', '2003-02-18'
+'1755', 'DKL7878', '2003-02-16'
+'1780', 'DKL4598', '2003-02-17'
+'1532', 'DKL4598', '2003-02-18'
+'1780', 'DAE6534', '2003-02-16'
+'1755', 'DAE6534', '2003-02-18'
+'1532', 'DKL4598', '2003-02-20'
+}

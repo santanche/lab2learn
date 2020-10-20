@@ -1,0 +1,94 @@
+group: UNICAMP Taxi - TX, CP, CE, R1, R2
+description: Taxi tables
+category@en:UNICAMP
+
+TX = {
+Placa, Marca, Modelo, AnoFab
+
+'DAE6534', 'Ford', 'Fiesta', 1999
+'DKL4598', 'Wolkswagen', 'Gol', 2001
+'DKL7878', 'Ford', 'Fiesta', 2001
+'JDM8776', 'Wolkswagen', 'Santana', 2002
+'JJM3692', 'Chevrolet', 'Corsa', 1999
+}
+
+CP = {
+CliId, Nome, CPF
+
+'1532', 'Asdrúbal', '448.754.253-65'
+'1755', 'Doriana', '567.387.387-44'
+'1780', 'Quincas', '546.373.762-02'
+}
+
+CE = {
+CliId, Nome, CNPJ
+
+'1532', 'Asdrúbal', '754.856.965/0001-54'
+'1644', 'Jepeto', '478.652.635/0001-75'
+'1780', 'Quincas', '554.663.996/0001-87'
+'1982', 'Zandor', '736.952.369/0001-23'
+}
+
+R1 = {
+CliId, Placa, DataPedido
+
+'1755', 'DAE6534', '2003-02-15'
+'1982', 'JDM8776', '2003-02-18'
+}
+
+R2 = {
+CliId, Placa, DataPedido
+
+'1532', 'DAE6534', '2003-02-15'
+'1532', 'DKL4586', '2003-02-17'
+'1644', 'DKL7878', '2003-01-10'
+'1644', 'JDM8776', '2003-02-18'
+'1780', 'JJM3692', '2003-01-08'
+'1982', 'DAE6534', '2003-01-15'
+'1982', 'DKL4598', '2003-01-26'
+'1982', 'DKL7878', '2003-02-01'
+}
+
+C1 = {
+CliId, Nome
+
+'1532', 'Asdrúbal'
+'1755', 'Doriana'
+'1780', 'Quincas'
+}
+
+C2 = {
+CliId, Nome
+
+'1532', 'Asdrúbal'
+'1644', 'Jepeto'
+'1780', 'Quincas'
+'1982', 'Zandor'
+}
+
+FR = {
+Placa, Marca, Modelo, AnoFab
+
+'DAE6534', 'Ford', 'Fiesta', 1999
+'DKL7878', 'Ford', 'Fiesta', 2001
+}
+
+SR2 = {
+CliId, Placa
+
+'1532', 'DAE6534'
+'1532', 'DKL4586'
+'1644', 'DKL7878'
+'1644', 'JDM8776'
+'1780', 'JJM3692'
+'1982', 'DAE6534'
+'1982', 'DKL4598'
+'1982', 'DKL7878'
+}
+
+SFR = {
+Placa
+
+'DAE6534'
+'DKL7878'
+}
