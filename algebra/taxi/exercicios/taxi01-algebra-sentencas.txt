@@ -10,6 +10,8 @@
 
 C1 ∪ C2
 
+( π CliId, Nome ( CP ) ) ∪ ( π CliId, Nome ( CE ) ) 
+
 C1 ∩ C2
 
 C1 - C2
@@ -22,3 +24,8 @@ C1 ⨝ R1
 
 ρ FR (σ Marca='Ford' TX)
 
+ρ SR2 (π CliId, Placa (R2))
+
+ρ SFR (π Placa (R1))
+
+SR2 ÷ SFR
