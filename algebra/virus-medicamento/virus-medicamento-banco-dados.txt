@@ -1,0 +1,20 @@
+group: UNICAMP Virus/Medicamento - Virus1, Virus2
+description: Virus tables
+category@en:UNICAMP
+
+Virus1 = {
+nomeCientifico, nomePopular, incubacao
+
+'Virus X', 'Gripoide', 5
+'Virus W', 'Gripoide', 8
+'H1N1', 'Influenza', 7
+'SARS-CoV-2', 'Coronavirus', 10
+}
+
+Virus2 = {
+nomeCientifico, nomePopular, incubacao
+
+'H1N1', 'Influenza', 7
+'SARS-CoV-2', 'Coronavirus', 9
+'Virus Y', 'Gripix', 12
+}
