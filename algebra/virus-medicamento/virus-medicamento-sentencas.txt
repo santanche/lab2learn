@@ -1,0 +1,11 @@
+-- Todos os nomes populares cadastrados
+(π nomePopular (Virus1)) ∪ (π nomePopular (Virus2))
+π nomePopular (Virus1 ∪ Virus2)
+
+-- Somente os nomes populares que aparecem em ambas as relações
+(π nomePopular (Virus1)) ∩ (π nomePopular (Virus2))
+π nomePopular (Virus1 ∩ Virus2) -- não funciona
+
+-- Nome científico dos vírus que aparecem em apenas uma das relações
+(π nomeCientifico (Virus1) - π nomeCientifico (Virus2)) ∪ (π nomeCientifico (Virus2) - π nomeCientifico (Virus1))
+(π nomeCientifico (Virus1) ∪ π nomeCientifico (Virus2)) - (π nomeCientifico (Virus2) ∩ π nomeCientifico (Virus1))
