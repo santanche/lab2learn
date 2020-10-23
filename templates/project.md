@@ -39,15 +39,15 @@ Segue abaixo o modelo de como devem ser documentadas as entregas.
 Para a construção dos diagramas, devem ser usados modelos disponíveis em: [Diagramas de Classes, Interfaces e Componentes](https://docs.google.com/presentation/d/1ML3WrnDtzh-4wqLmdXN9au1TBIwEqo7TIbMLNOYSMAI/edit?usp=sharing)
 # Modelo para Apresentação do Grupo/Trabalho
 
-# Equipe `<nome da equipe>`
-* `<nome completo>`
-* `<nome completo>`
-* `<nome completo>`
-
 # Projeto `<Título do Projeto>`
 
-# Resumo do Projeto
-> <texto resumindo o projeto>
+## Equipe `<nome da equipe>`
+* `<nome completo>`
+* `<nome completo>`
+* `<nome completo>`
+
+## Resumo do Projeto
+> Texto resumindo o projeto.
 
 # Modelo para Apresentação da Etapa 02 - Descrição da Proposta
 
