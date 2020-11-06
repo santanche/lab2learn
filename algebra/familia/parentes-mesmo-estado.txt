@@ -1,0 +1,1 @@
+π P2.nome, P2.nome_cidade_natal (((σ P1.nome='Vitor' (ρ P1 (Pessoa))) ⨝ P1.nome_cidade_natal=C1.nome_cidade (ρ C1 (Cidade))) ⨝ C1.sigla_estado=C2.sigla_estado ∧ (P1.nome_da_mae = P2.nome_da_mae ∨ P1.nome_da_mae = P2.nome) ((σ P2.nome ≠ 'Vitor' (ρ P2 (Pessoa))⨝ P2.nome_cidade_natal=C2.nome_cidade (ρ C2 (Cidade)))))
