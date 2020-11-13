@@ -14,7 +14,7 @@ Ele é um arquivo que relaciona um conjunto de drogas combinando duas fontes de 
 O comando a seguir carrega o CSV e o coloca em um grafo Neo4j. Note que cada linha do arquivo CSV é colocado em uma instância de uma variável indicada (chamamos de `line`). As colunas (`code` e `name`) passam a ser um atributos dessa instância e podemos atribuí-los a propriedades do nó:
 
 ~~~cypher
-LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017-dron/drug.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/drug.csv' AS line
 CREATE (:Drug {code: line.code, name: line.name})
 ~~~
 
@@ -37,7 +37,7 @@ LIMIT 50
 A mesma sequência pode ser feita com o arquivo de patologias:
 
 ~~~cypher
-LOAD CSV WITH HEADERS FROM 'https://github.com/santanche/lab2learn/raw/master/data/faers-2017/pathology.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/pathology.csv' AS line
 CREATE (:Pathology { code: line.code, name: line.name})
 
 CREATE INDEX ON :Pathology(code)
@@ -48,7 +48,7 @@ CREATE INDEX ON :Pathology(code)
 Quando um arquivo CSV conecta dois outros arquivos, pode ser usado o MATCH para encontrar nós que já estão no grafo e ligá-los. Por exemplo, no código a seguir é lida uma tabela que indica drogas que foram usadas para tratar doenças. Para cada ocorrência, é criada uma aresta entre a droga e a respectiva doença:
 
 ~~~cypher
-LOAD CSV WITH HEADERS FROM 'https://github.com/santanche/lab2learn/raw/master/data/faers-2017/drug-use.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/drug-use.csv' AS line
 MATCH (d:Drug {code: line.codedrug})
 MATCH (p:Pathology {code: line.codepathology})
 CREATE (d)-[:Treats {person: line.idperson}]->(p)
@@ -77,7 +77,7 @@ DELETE t
 Depois criaremos uma query para refazê-las usando o `MERGE`. Ela define um atributo peso (*weight*) na relação e incrementa um para cada relação encontrada:
 
 ~~~cypher
-LOAD CSV WITH HEADERS FROM 'https://github.com/santanche/lab2learn/raw/master/data/faers-2017/drug-use.csv' AS line
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/drug-use.csv' AS line
 MATCH (d:Drug {code: line.codedrug})
 MATCH (p:Pathology {code: line.codepathology})
 MERGE (d)-[t:Treats]->(p)
