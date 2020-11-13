@@ -121,3 +121,33 @@ Faça a projeção em relação a Patologia, ou seja, conecte patologias que sã
 ~~~cypher
 (escreva aqui a resolução em Cypher)
 ~~~
+
+# Trabalhando com Efeitos Colaterais
+
+Considere o seguinte arquivo que indica um conjunto de pessoas (identificadas por código) e as drogas que elas usam:
+
+[https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/drug-use.csv]
+
+Considere este outro arquivo que indica as mesmas pessoas e efeitos colaterais que elas experimentaram:
+
+[https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/sideeffect.csv]
+
+## Exercício
+
+Construa um grafo ligando os medicamentos aos efeitos colaterais às pessoas (com pesos associados).
+
+### Resolução
+~~~cypher
+(escreva aqui a resolução em Cypher)
+~~~
+
+## Exercício
+
+Que tipo de análise interessante pode ser feita com esse grafo?
+
+Proponha um tipo de análise e escreva uma sentença em Cypher que realize a análise.
+
+### Resolução
+~~~cypher
+(escreva aqui a resolução em Cypher)
+~~~
