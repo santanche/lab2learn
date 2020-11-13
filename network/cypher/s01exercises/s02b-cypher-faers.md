@@ -134,7 +134,7 @@ Considere este outro arquivo que indica as mesmas pessoas e efeitos colaterais q
 
 ## Exercício
 
-Construa um grafo ligando os medicamentos aos efeitos colaterais às pessoas (com pesos associados).
+Construa um grafo ligando os medicamentos aos efeitos colaterais (com pesos associados) a partir dos registros das pessoas, ou seja, se uma pessoa usa um medicamento e ela teve um efeito colateral, o medicamento deve ser ligado ao efeito colateral.
 
 ### Resolução
 ~~~cypher
