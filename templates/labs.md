@@ -197,3 +197,43 @@ Proponha um tipo de análise e escreva uma sentença em Cypher que realize a an�
 ~~~cypher
 (escreva aqui a resolução em Cypher)
 ~~~
+
+# Modelo para Apresentação do Lab07 - Análise de Redes
+
+Estrutura de pastas:
+
+~~~
+├── README.md  <- arquivo apresentando a tarefa
+│
+└── notebook   <- arquivos do notebook
+~~~
+
+## Tarefa de análises feitas no Cypher
+
+## Exercício 1
+
+Calcule o Pagerank do exemplo da Wikipedia em Cypher:
+
+~~~cypher
+(escreva aqui a resolução em Cypher)
+~~~
+
+> Coloque aqui a imagem resultante conforme o exemplo (não obrigatório, mas sugerido - imagem produzida pelo CytoScape ou Gephi).
+
+![PageRank](pagerank-cytoscape.png)
+
+~~~cypher
+(escreva aqui a resolução em Cypher)
+~~~
+
+## Exercício 2
+
+Departing from a Drug-Drug graph created in a previous lab, whose relationship determines drugs taken together, apply a community detection in it to see the results:
+
+~~~cypher
+(escreva aqui a resolução em Cypher)
+~~~
+
+> Coloque aqui a imagem resultante conforme o exemplo (não obrigatório, mas sugerido - imagem produzida pelo CytoScape ou Gephi).
+
+![Comunidade](comunidade-cytoscape.png)

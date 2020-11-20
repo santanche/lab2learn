@@ -1,10 +1,6 @@
-# Neo4j e Cypher - Conceitos Básicos
+# Neo4j e Cypher - Network Analysis
 
-Entre no Sandbox do Cypher: https://neo4j.com/
-
-Há uma opção de se usar o Neo4j online através de um sandbox em: https://neo4j.com/sandbox/
-
-Crie uma conta e abra um `Blank Sandbox`. Abaixo segue um tutorial a ser executado nesse sandbox.
+The examples here run in the [Neo4J Sandbox](https://neo4j.com/sandbox/).
 
 ### Simple Example
 
@@ -65,14 +61,24 @@ name	score
 
 ![Simple PageRank](../../pagerank/pagerank-simple.png)
 
-Transfering Page Tank to nodes:
+Transfering PageRank to nodes:
 
 ~~~cypher
-CALL gds.pageRank.stream('prGraph2')
+CALL gds.pageRank.stream('prGraph')
 YIELD nodeId, score
 MATCH (p:Page {name: gds.util.asNode(nodeId).name})
 SET p.pagerank = score
 ~~~
+
+To export the PageRank for visualization:
+
+~~~cypher
+CALL gds.pageRank.stream('prGraph')
+YIELD nodeId, score
+RETURN gds.util.asNode(nodeId).name AS name, score AS pagerank
+~~~
+
+It is possible to export the result as CSV and load at [CytoScape](https://cytoscape.org/) or [Gephi](https://gephi.org/).
 
 ### Exercise - Wikipedia Example
 
@@ -141,8 +147,21 @@ RETURN gds.util.asNode(nodeId).name AS name, communityId
 ORDER BY communityId ASC
 ~~~
 
+Transfering the Community to nodes:
+
 ~~~cypher
-=== response ===
+CALL gds.louvain.stream('communityGraph')
+YIELD nodeId, communityId
+MATCH (p:Person {name: gds.util.asNode(nodeId).name})
+SET p.community = communityId
+~~~
+
+To export the Community for visualization:
+
+~~~cypher
+CALL gds.louvain.stream('communityGraph')
+YIELD nodeId, communityId
+RETURN gds.util.asNode(nodeId).name AS name, communityId
 ~~~
 
 ## Exercise - FAERS & DRON
