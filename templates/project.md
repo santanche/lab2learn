@@ -81,3 +81,26 @@ Estrutura de pastas:
 título da base | link | breve descrição
 ----- | ----- | -----
 `<título da base>` | `<link para a página da base>` | `<breve descrição da base>`
+
+# Modelo para Apresentação da Etapa 03 - Descrição da Proposta
+
+Estrutura de pastas:
+
+~~~
+├── README.md  <- arquivo apresentando a proposta
+│
+├── images     <- arquivo de imagens para esta etapa (se houver)
+│
+└── slides     <- arquivo de slides em formato PDF
+~~~
+
+# Etapa 02 - Descrição da Proposta
+
+## Slides da Proposta
+
+
+primeiro modelo conceitual do projeto;
+modelos lógicos dos bancos de dados relacionados aos modelos conceituais;
+primeiro programa de extração e conversão de dados  no Jupyter Notebook via Binder;
+primeiro conjunto de queries no Jupyter Notebook via Binder;
+arquivos relacionais (usualmente CSV), XML ou JSON que não estejam disponíveis online e sejam acessados pelo notebook.
