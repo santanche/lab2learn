@@ -2,7 +2,7 @@
 
 Entre no Sandbox do Cypher: https://neo4j.com/
 
-Há uma opção de se usar o Neo4j online através de um sandbox em: https://neo4j.com/sandbox-v2/
+Há uma opção de se usar o Neo4j online através de um sandbox em: https://neo4j.com/sandbox/
 
 Crie uma conta e abra um `Blank Sandbox`. Abaixo segue um tutorial a ser executado nesse sandbox.
 
@@ -20,19 +20,19 @@ The following loads the CSV into a Neo4J graph:
 
 ~~~cypher
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/network/pagerank/pagerank-simple.csv' AS line
-MERGE (p1:Page {name:line.Source})
-MERGE (p2:Page {name:line.Target})
+MERGE (p1:Page {name:line.source})
+MERGE (p2:Page {name:line.target})
 CREATE (p1)-[:LINKS]->(p2)
 ~~~
 
 Showing the graph:
 
 ~~~cypher
-MATCH (n)
+MATCH (n:Page)
 RETURN n
 ~~~
 
-The following Pagerank algorithm can be applied in the graph. It is based on [The PageRank algorithm](https://neo4j.com/docs/graph-algorithms/3.5/algorithms/page-rank/).
+The following sentence creates a native projection of a Neo4j graph or subgraph in memory. `prGraph` is the name of the graph; `Page` is the class of the projected nodes; `LINKS` is the class of projected edges:
 
 ~~~cypher
 CALL gds.graph.create(
@@ -40,7 +40,13 @@ CALL gds.graph.create(
   'Page',
   'LINKS'
 )
+~~~
 
+See details of native projections at [Native projection](https://neo4j.com/docs/graph-data-science/current/management-ops/native-projection/).
+
+The following Pagerank algorithm can be applied in the named graph (`prGraph`). It is based on [PageRank](https://neo4j.com/docs/graph-data-science/current/algorithms/page-rank/):
+
+~~~cypher
 CALL gds.pageRank.stream('prGraph')
 YIELD nodeId, score
 RETURN gds.util.asNode(nodeId).name AS name, score
@@ -73,7 +79,7 @@ Compute the Pagerank of the Wikipedia example in Cypher:
 
 ## Community
 
-There are [Community Detection Algoritms in Neo4J](https://neo4j.com/docs/graph-algorithms/3.5/algorithms/community/) the you can use in the following data.
+There are [Community Detection Algoritms](https://neo4j.com/docs/graph-data-science/current/algorithms/community/) the you can use in the following data.
 
 ### Exercise - Simple Comunity
 
@@ -85,11 +91,104 @@ The resulting expected graph can be seen in the illustration below.
 
 ![Simple Community](../../community/community-simple.png)
 
-Detect this Comunity in Cypher:
+Detect this Community in Cypher:
+
+Loading the CSV:
+
+~~~cypher
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/network/community/community-simple.csv' AS line
+MERGE (p1:Person {name:line.source})
+MERGE (p2:Person {name:line.target})
+CREATE (p1)-[:FRIEND]->(p2)
+~~~
+
+Showing the graph:
+
+~~~cypher
+MATCH (n:Person)
+RETURN n
+~~~
+
+Creating a native projection:
+
+~~~cypher
+CALL gds.graph.create(
+  'communityGraph',
+  'Person',
+  {
+    FRIEND: {
+      orientation: 'UNDIRECTED'
+    }
+  }
+)
+~~~
+
+Detecting a community using a Louvain algorithm:
+
+~~~cypher
+CALL gds.louvain.stream('communityGraph')
+YIELD nodeId, communityId
+RETURN gds.util.asNode(nodeId).name AS name, communityId
+ORDER BY communityId ASC
+~~~
 
 ~~~cypher
 === response ===
 ~~~
+
+## Exercise - FAERS & DRON
+
+Departing from a Drug-Drug graph created in a previous lab, whose relationship determines drugs taken together, apply a community detection in it to see the results.
+
+Apply this community with and without weights.
+
+Sequence to build the graph:
+
+~~~cypher
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/drug.csv' AS line
+CREATE (:Drug {code: line.code, name: line.name})
+~~~
+
+~~~cypher
+CREATE INDEX ON :Drug(code)
+~~~
+
+~~~cypher
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/pathology.csv' AS line
+CREATE (:Pathology { code: line.code, name: line.name})
+~~~
+
+~~~cypher
+CREATE INDEX ON :Pathology(code)
+~~~
+
+~~~cypher
+LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/drug-use.csv' AS line
+MATCH (d:Drug {code: line.codedrug})
+MATCH (p:Pathology {code: line.codepathology})
+MERGE (d)-[t:Treats]->(p)
+ON CREATE SET t.weight=1
+ON MATCH SET t.weight=t.weight+1
+~~~
+
+~~~cypher
+MATCH (d1:Drug)-[a]->(p:Pathology)<-[b]-(d2:Drug)
+WHERE a.weight > 20 AND b.weight > 20
+MERGE (d1)<-[r:Relates]->(d2)
+ON CREATE SET r.weight=1
+ON MATCH SET r.weight=r.weight+1
+~~~
+
+~~~cypher
+MATCH (d1:Drug)<-[:Relates]->(d2:Drug)
+RETURN d1, d2
+LIMIT 20
+~~~
+
+~~~cypher
+=== response ===
+~~~
+
 
 ## Symptoms–disease network
 

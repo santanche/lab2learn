@@ -34,12 +34,14 @@ RETURN d
 LIMIT 50
 ~~~
 
-A mesma sequência pode ser feita com o arquivo de patologias:
+As mesmas duas sequências podem ser feita com o arquivo de patologias:
 
 ~~~cypher
 LOAD CSV WITH HEADERS FROM 'https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/pathology.csv' AS line
 CREATE (:Pathology { code: line.code, name: line.name})
+~~~
 
+~~~cypher
 CREATE INDEX ON :Pathology(code)
 ~~~
 
@@ -111,6 +113,13 @@ WHERE a.weight > 20 AND b.weight > 20
 MERGE (d1)<-[r:Relates]->(d2)
 ON CREATE SET r.weight=1
 ON MATCH SET r.weight=r.weight+1
+~~~
+
+Visualizando o resultado:
+~~~cypher
+MATCH (d1:Drug)<-[:Relates]->(d2:Drug)
+RETURN d1, d2
+LIMIT 20
 ~~~
 
 ## Exercício
