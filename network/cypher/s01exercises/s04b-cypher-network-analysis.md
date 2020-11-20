@@ -65,6 +65,15 @@ name	score
 
 ![Simple PageRank](../../pagerank/pagerank-simple.png)
 
+Transfering Page Tank to nodes:
+
+~~~cypher
+CALL gds.pageRank.stream('prGraph2')
+YIELD nodeId, score
+MATCH (p:Page {name: gds.util.asNode(nodeId).name})
+SET p.pagerank = score
+~~~
+
 ### Exercise - Wikipedia Example
 
 Following the previous steps, you can depart from the file [pagerank-wikipedia.csv](../../pagerank/pagerank-wikipedia.csv) to create the example illustrated in Wikipedia: https://en.wikipedia.org/wiki/PageRank.
