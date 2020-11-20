@@ -220,7 +220,7 @@ Calcule o Pagerank do exemplo da Wikipedia em Cypher:
 
 > Coloque aqui a imagem resultante conforme o exemplo (não obrigatório, mas sugerido - imagem produzida pelo CytoScape ou Gephi).
 
-![PageRank](pagerank-cytoscape.png)
+![PageRank](images/pagerank-cytoscape.png)
 
 ~~~cypher
 (escreva aqui a resolução em Cypher)
@@ -236,4 +236,4 @@ Departing from a Drug-Drug graph created in a previous lab, whose relationship d
 
 > Coloque aqui a imagem resultante conforme o exemplo (não obrigatório, mas sugerido - imagem produzida pelo CytoScape ou Gephi).
 
-![Comunidade](comunidade-cytoscape.png)
+![Comunidade](images/comunidade-cytoscape.png)
