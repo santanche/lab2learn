@@ -108,7 +108,7 @@ Estrutura de pastas:
 ## Primeiro Modelo Conceitual
 
 > Coloque aqui a imagem do primeiro modelo conceitual em ER ou UML, como o exemplo a seguir:
-> ![ER Taxi](er-taxi.png)
+> ![ER Taxi](images/er-taxi.png)
 
 ## Primeiros Modelos Lógicos
 
@@ -179,7 +179,7 @@ Estrutura de pastas:
 ## Modelo Conceitual Atualizado
 
 > Coloque aqui a imagem do modelo conceitual atualizado em ER ou UML, como o exemplo a seguir:
-> ![ER Taxi](er-taxi.png)
+> ![ER Taxi](images/er-taxi.png)
 
 ## Modelos Lógicos Atualizados
 
