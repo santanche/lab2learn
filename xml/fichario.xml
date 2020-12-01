@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fichario>
+  <individuo nome="Asdrubal da Silva">
+    <idade>15</idade> 
+    <genero>masculino</genero> 
+  </individuo>
+  <individuo nome="Quincas Borba">
+    <idade>33</idade> 
+    <genero>masculino</genero> 
+  </individuo>
+  <individuo nome="Doriana Margarina">
+    <idade>42</idade> 
+    <genero>feminino</genero> 
+  </individuo>
+</fichario>
