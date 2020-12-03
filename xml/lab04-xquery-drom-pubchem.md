@@ -5,16 +5,22 @@ PubChem is the world's largest collection of freely accessible chemical informat
 ## Exploring
 
 Go to PubChem: https://pubchem.ncbi.nlm.nih.gov/
+
 Look for: `acetylsalicylic acid`
 
 It is possible to do the same search on PubChem through an API. The details are here:
+
 https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest-tutorial
 
 Let us build an API request using the popular name aspirin:
+
 https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aspirin
 
 It will return an XML. Since Zorba did not accept to fetch the data straight from the result, the file was downloaded and is available here:
-https://github.com/santanche/lab2learn/blob/master/data/pubchem/acetylsalicylic-acid.xml
+
+https://github.com/santanche/lab2learn/blob/master/data/pubchem/pubchem-acetylsalicylic-acid.xml
+
+Headers were adapted for Zorba.
 
 # Basics
 
@@ -23,9 +29,41 @@ The following queries will be tested on http://try.zorba.io/
 Fetching the XML file:
 
 ~~~xquery
-let $aspirin := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/pubchem/acetylsalicylic-acid.xml')
+let $aspirin := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/pubchem/pubchem-acetylsalicylic-acid.xml')
 return $aspirin
 ~~~
+
+
+Synonyms of aspirin:
+~~~xquery
+let $aspirin := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/pubchem/pubchem-acetylsalicylic-acid.xml')
+return $aspirin//PC-Substance_synonyms_E
+~~~
+
+How many synonyms?
+
+~~~xquery
+let $aspirin := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/pubchem/pubchem-acetylsalicylic-acid.xml')
+return count($aspirin//PC-Substance_synonyms_E)
+~~~
+
+One per line:
+
+~~~xquery
+let $aspirin := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/pubchem/pubchem-acetylsalicylic-acid.xml')
+for $a in ($aspirin//PC-Substance_synonyms_E)
+return {$a/text(), '&#xa;'}
+~~~
+
+~~~xquery
+~~~
+
+~~~xquery
+~~~
+
+~~~xquery
+~~~
+
 
 # DRON - The Drug Ontology
 
