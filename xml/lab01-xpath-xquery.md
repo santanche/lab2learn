@@ -318,7 +318,8 @@ return {concat('Autor: ', data($a/@nome), ', Livro: ', data($l/@titulo))}
 ~~~xquery
 let $autorlivro := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/xml/autor-livro-referencia.xml')
 for $l in ($autorlivro/catalogo/livros/livro)
-group by $l/@ano
+let $ano := $l/ano
+group by $ano
 return {'Livros -- ano: ', 'quantidade: ', count($l)}
 ~~~
 
