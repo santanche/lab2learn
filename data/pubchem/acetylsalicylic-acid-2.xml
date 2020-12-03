@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PCSubstances xmlns="http://www.ncbi.nlm.nih.gov" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://www.ncbi.nlm.nih.gov ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem.xsd">
+  <PCSubstance>
+    <PCSubstancesid>
+      <PCID>
+        <PCIDid>2244</PCIDid>
+        <PCIDversion>28</PCIDversion>
+      </PCID>
+    </PCSubstancesid>
+    <PCSubstancesource>
+      <PCSource>
+        <PCSourcedb>
+          <PCDBTracking>
+            <PCDBTrackingname>BioCyc</PCDBTrackingname>
+            <PCDBTrackingsource-id>
+              <Object-id>
+                <Object-idstr>CMP</Object-idstr>
+              </Object-id>
+            </PCDBTrackingsource-id>
+          </PCDBTracking>
+        </PCSourcedb>
+      </PCSource>
+    </PCSubstancesource>
+    <PCSubstancesynonyms>
+      <PCSubstancesynonymsE>CMP</PCSubstancesynonymsE>
+      <PCSubstancesynonymsE>63-37-6</PCSubstancesynonymsE>
+      <PCSubstancesynonymsE>5'-cytidylic acid</PCSubstancesynonymsE>
+      <PCSubstancesynonymsE>cytidine 5'-monophosphate</PCSubstancesynonymsE>
+      <PCSubstancesynonymsE>cytidylate</PCSubstancesynonymsE>
+      <PCSubstancesynonymsE>cytidylic acid</PCSubstancesynonymsE>
+      <PCSubstancesynonymsE>cytidine-P</PCSubstancesynonymsE>
+      <PCSubstancesynonymsE>cytidine-monophosphate</PCSubstancesynonymsE>
+      <PCSubstancesynonymsE>cytidine-phosphate</PCSubstancesynonymsE>
+      <PCSubstancesynonymsE>cytidine 5'-phosphate</PCSubstancesynonymsE>
+    </PCSubstancesynonyms>
+    <PCSubstancecomment>
+      <PCSubstancecommentE>TYPES: Pyrimidine-ribonucleosides-5-P</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.46</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.39</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.9</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.2</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.2</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.3</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 3.6.1.5</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.4</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.11</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.5</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a reactant of enzyme EC 3.2.2.10</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.45</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.8</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.1.M15</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.15</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 3.6.1.53</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.14</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.1.213</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.22</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.6</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.44</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 3.1.4.40</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.12</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.24</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.13</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 6.3.2.5</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.47</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.34</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a reactant of enzyme EC 2.4.2.57</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 3.6.1.6</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 4.6.1.12</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 3.6.1.16</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.7</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.38</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.14</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.12</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 3.6.1.65</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.1.48</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a reactant of enzyme EC 3.1.3.5</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.22</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.41</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a reactant of enzyme EC 2.7.4.25</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.8</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.10</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 3.6.1.26</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.7.8.M5</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a reactant of enzyme EC 2.1.2</PCSubstancecommentE>
+      <PCSubstancecommentE>Is a product of enzyme EC 2.4.99.5</PCSubstancecommentE>
+    </PCSubstancecomment>
+    <PCSubstancexref>
+      <PCXRefData>
+        <PCXRefDatadburl>https://biocyc.org/</PCXRefDatadburl>
+      </PCXRefData>
+      <PCXRefData>
+        <PCXRefDatarn>63-37-6</PCXRefDatarn>
+      </PCXRefData>
+      <PCXRefData>
+        <PCXRefDatasburl>https://biocyc.org/compound?orgid=META&amp;id=CMP</PCXRefDatasburl>
+      </PCXRefData>
+      <PCXRefData>
+        <PCXRefDataregid>CMP</PCXRefDataregid>
+      </PCXRefData>
+    </PCSubstancexref>
+    <PCSubstancecompound>
+      <PCCompounds>
+        <PCCompound>
+          <PCCompoundid>
+            <PCCompoundType>
+              <PCCompoundTypetype value="deposited">0</PCCompoundTypetype>
+            </PCCompoundType>
+          </PCCompoundid>
+          <PCCompoundatoms>
+            <PCAtoms>
+              <PCAtomsaid>
+                <PCAtomsaidE>1</PCAtomsaidE>
+                <PCAtomsaidE>2</PCAtomsaidE>
+                <PCAtomsaidE>3</PCAtomsaidE>
+                <PCAtomsaidE>4</PCAtomsaidE>
+                <PCAtomsaidE>5</PCAtomsaidE>
+                <PCAtomsaidE>6</PCAtomsaidE>
+                <PCAtomsaidE>7</PCAtomsaidE>
+                <PCAtomsaidE>8</PCAtomsaidE>
+                <PCAtomsaidE>9</PCAtomsaidE>
+                <PCAtomsaidE>10</PCAtomsaidE>
+                <PCAtomsaidE>11</PCAtomsaidE>
+                <PCAtomsaidE>12</PCAtomsaidE>
+                <PCAtomsaidE>13</PCAtomsaidE>
+                <PCAtomsaidE>14</PCAtomsaidE>
+                <PCAtomsaidE>15</PCAtomsaidE>
+                <PCAtomsaidE>16</PCAtomsaidE>
+                <PCAtomsaidE>17</PCAtomsaidE>
+                <PCAtomsaidE>18</PCAtomsaidE>
+                <PCAtomsaidE>19</PCAtomsaidE>
+                <PCAtomsaidE>20</PCAtomsaidE>
+                <PCAtomsaidE>21</PCAtomsaidE>
+              </PCAtomsaid>
+              <PCAtomselement>
+                <PCElement value="c">6</PCElement>
+                <PCElement value="c">6</PCElement>
+                <PCElement value="c">6</PCElement>
+                <PCElement value="c">6</PCElement>
+                <PCElement value="c">6</PCElement>
+                <PCElement value="c">6</PCElement>
+                <PCElement value="c">6</PCElement>
+                <PCElement value="c">6</PCElement>
+                <PCElement value="c">6</PCElement>
+                <PCElement value="n">7</PCElement>
+                <PCElement value="n">7</PCElement>
+                <PCElement value="n">7</PCElement>
+                <PCElement value="o">8</PCElement>
+                <PCElement value="o">8</PCElement>
+                <PCElement value="o">8</PCElement>
+                <PCElement value="o">8</PCElement>
+                <PCElement value="o">8</PCElement>
+                <PCElement value="o">8</PCElement>
+                <PCElement value="o">8</PCElement>
+                <PCElement value="o">8</PCElement>
+                <PCElement value="p">15</PCElement>
+              </PCAtomselement>
+              <PCAtomscharge>
+                <PCAtomInt>
+                  <PCAtomIntaid>17</PCAtomIntaid>
+                  <PCAtomIntvalue>-1</PCAtomIntvalue>
+                </PCAtomInt>
+                <PCAtomInt>
+                  <PCAtomIntaid>18</PCAtomIntaid>
+                  <PCAtomIntvalue>-1</PCAtomIntvalue>
+                </PCAtomInt>
+              </PCAtomscharge>
+            </PCAtoms>
+          </PCCompoundatoms>
+          <PCCompoundbonds>
+            <PCBonds>
+              <PCBondsaid1>
+                <PCBondsaid1E>6</PCBondsaid1E>
+                <PCBondsaid1E>7</PCBondsaid1E>
+                <PCBondsaid1E>20</PCBondsaid1E>
+                <PCBondsaid1E>20</PCBondsaid1E>
+                <PCBondsaid1E>6</PCBondsaid1E>
+                <PCBondsaid1E>6</PCBondsaid1E>
+                <PCBondsaid1E>7</PCBondsaid1E>
+                <PCBondsaid1E>8</PCBondsaid1E>
+                <PCBondsaid1E>4</PCBondsaid1E>
+                <PCBondsaid1E>3</PCBondsaid1E>
+                <PCBondsaid1E>18</PCBondsaid1E>
+                <PCBondsaid1E>17</PCBondsaid1E>
+                <PCBondsaid1E>16</PCBondsaid1E>
+                <PCBondsaid1E>19</PCBondsaid1E>
+                <PCBondsaid1E>11</PCBondsaid1E>
+                <PCBondsaid1E>2</PCBondsaid1E>
+                <PCBondsaid1E>1</PCBondsaid1E>
+                <PCBondsaid1E>11</PCBondsaid1E>
+                <PCBondsaid1E>9</PCBondsaid1E>
+                <PCBondsaid1E>5</PCBondsaid1E>
+                <PCBondsaid1E>9</PCBondsaid1E>
+                <PCBondsaid1E>12</PCBondsaid1E>
+              </PCBondsaid1>
+              <PCBondsaid2>
+                <PCBondsaid2E>13</PCBondsaid2E>
+                <PCBondsaid2E>14</PCBondsaid2E>
+                <PCBondsaid2E>4</PCBondsaid2E>
+                <PCBondsaid2E>8</PCBondsaid2E>
+                <PCBondsaid2E>7</PCBondsaid2E>
+                <PCBondsaid2E>4</PCBondsaid2E>
+                <PCBondsaid2E>8</PCBondsaid2E>
+                <PCBondsaid2E>12</PCBondsaid2E>
+                <PCBondsaid2E>3</PCBondsaid2E>
+                <PCBondsaid2E>19</PCBondsaid2E>
+                <PCBondsaid2E>21</PCBondsaid2E>
+                <PCBondsaid2E>21</PCBondsaid2E>
+                <PCBondsaid2E>21</PCBondsaid2E>
+                <PCBondsaid2E>21</PCBondsaid2E>
+                <PCBondsaid2E>9</PCBondsaid2E>
+                <PCBondsaid2E>1</PCBondsaid2E>
+                <PCBondsaid2E>5</PCBondsaid2E>
+                <PCBondsaid2E>5</PCBondsaid2E>
+                <PCBondsaid2E>15</PCBondsaid2E>
+                <PCBondsaid2E>10</PCBondsaid2E>
+                <PCBondsaid2E>12</PCBondsaid2E>
+                <PCBondsaid2E>2</PCBondsaid2E>
+              </PCBondsaid2>
+              <PCBondsorder>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="double">2</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="double">2</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="double">2</PCBondType>
+                <PCBondType value="double">2</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+                <PCBondType value="single">1</PCBondType>
+              </PCBondsorder>
+            </PCBonds>
+          </PCCompoundbonds>
+          <PCCompoundcoords>
+            <PCCoordinates>
+              <PCCoordinatestype>
+                <PCCoordinateType value="twod">1</PCCoordinateType>
+                <PCCoordinateType value="submitted">3</PCCoordinateType>
+              </PCCoordinatestype>
+              <PCCoordinatesaid>
+                <PCCoordinatesaidE>1</PCCoordinatesaidE>
+                <PCCoordinatesaidE>2</PCCoordinatesaidE>
+                <PCCoordinatesaidE>3</PCCoordinatesaidE>
+                <PCCoordinatesaidE>4</PCCoordinatesaidE>
+                <PCCoordinatesaidE>5</PCCoordinatesaidE>
+                <PCCoordinatesaidE>6</PCCoordinatesaidE>
+                <PCCoordinatesaidE>7</PCCoordinatesaidE>
+                <PCCoordinatesaidE>8</PCCoordinatesaidE>
+                <PCCoordinatesaidE>9</PCCoordinatesaidE>
+                <PCCoordinatesaidE>10</PCCoordinatesaidE>
+                <PCCoordinatesaidE>11</PCCoordinatesaidE>
+                <PCCoordinatesaidE>12</PCCoordinatesaidE>
+                <PCCoordinatesaidE>13</PCCoordinatesaidE>
+                <PCCoordinatesaidE>14</PCCoordinatesaidE>
+                <PCCoordinatesaidE>15</PCCoordinatesaidE>
+                <PCCoordinatesaidE>16</PCCoordinatesaidE>
+                <PCCoordinatesaidE>17</PCCoordinatesaidE>
+                <PCCoordinatesaidE>18</PCCoordinatesaidE>
+                <PCCoordinatesaidE>19</PCCoordinatesaidE>
+                <PCCoordinatesaidE>20</PCCoordinatesaidE>
+                <PCCoordinatesaidE>21</PCCoordinatesaidE>
+              </PCCoordinatesaid>
+              <PCCoordinatesconformers>
+                <PCConformer>
+                  <PCConformerx>
+                    <PCConformerxE>900.805</PCConformerxE>
+                    <PCConformerxE>802.611</PCConformerxE>
+                    <PCConformerxE>325.115</PCConformerxE>
+                    <PCConformerxE>423.447</PCConformerxE>
+                    <PCConformerxE>900.805</PCConformerxE>
+                    <PCConformerxE>457.692</PCConformerxE>
+                    <PCConformerxE>571.152</PCConformerxE>
+                    <PCConformerxE>606.084</PCConformerxE>
+                    <PCConformerxE>704.279</PCConformerxE>
+                    <PCConformerxE>999</PCConformerxE>
+                    <PCConformerxE>802.611</PCConformerxE>
+                    <PCConformerxE>704.279</PCConformerxE>
+                    <PCConformerxE>390.991</PCConformerxE>
+                    <PCConformerxE>637.578</PCConformerxE>
+                    <PCConformerxE>606.084</PCConformerxE>
+                    <PCConformerxE>113.46</PCConformerxE>
+                    <PCConformerxE>113.46</PCConformerxE>
+                    <PCConformerxE>0</PCConformerxE>
+                    <PCConformerxE>226.92</PCConformerxE>
+                    <PCConformerxE>514.078</PCConformerxE>
+                    <PCConformerxE>113.46</PCConformerxE>
+                  </PCConformerx>
+                  <PCConformery>
+                    <PCConformeryE>-170.259</PCConformeryE>
+                    <PCConformeryE>-226.92</PCConformeryE>
+                    <PCConformeryE>-170.259</PCConformeryE>
+                    <PCConformeryE>-226.92</PCConformeryE>
+                    <PCConformeryE>-56.6613</PCConformeryE>
+                    <PCConformeryE>-334.879</PCConformeryE>
+                    <PCConformeryE>-334.879</PCConformeryE>
+                    <PCConformeryE>-226.92</PCConformeryE>
+                    <PCConformeryE>-56.6613</PCConformeryE>
+                    <PCConformeryE>0</PCConformeryE>
+                    <PCConformeryE>0</PCConformeryE>
+                    <PCConformeryE>-170.259</PCConformeryE>
+                    <PCConformeryE>-425.923</PCConformeryE>
+                    <PCConformeryE>-426.198</PCConformeryE>
+                    <PCConformeryE>0</PCConformeryE>
+                    <PCConformeryE>-340.381</PCConformeryE>
+                    <PCConformeryE>-113.46</PCConformeryE>
+                    <PCConformeryE>-226.92</PCConformeryE>
+                    <PCConformeryE>-226.92</PCConformeryE>
+                    <PCConformeryE>-161.182</PCConformeryE>
+                    <PCConformeryE>-226.92</PCConformeryE>
+                  </PCConformery>
+                  <PCConformerstyle>
+                    <PCDrawAnnotations>
+                      <PCDrawAnnotationsannotation>
+                        <PCBondAnnotation value="wedge-down">6</PCBondAnnotation>
+                        <PCBondAnnotation value="wedge-down">6</PCBondAnnotation>
+                        <PCBondAnnotation value="wedge-up">5</PCBondAnnotation>
+                        <PCBondAnnotation value="wedge-up">5</PCBondAnnotation>
+                      </PCDrawAnnotationsannotation>
+                      <PCDrawAnnotationsaid1>
+                        <PCDrawAnnotationsaid1E>6</PCDrawAnnotationsaid1E>
+                        <PCDrawAnnotationsaid1E>7</PCDrawAnnotationsaid1E>
+                        <PCDrawAnnotationsaid1E>8</PCDrawAnnotationsaid1E>
+                        <PCDrawAnnotationsaid1E>4</PCDrawAnnotationsaid1E>
+                      </PCDrawAnnotationsaid1>
+                      <PCDrawAnnotationsaid2>
+                        <PCDrawAnnotationsaid2E>13</PCDrawAnnotationsaid2E>
+                        <PCDrawAnnotationsaid2E>14</PCDrawAnnotationsaid2E>
+                        <PCDrawAnnotationsaid2E>12</PCDrawAnnotationsaid2E>
+                        <PCDrawAnnotationsaid2E>3</PCDrawAnnotationsaid2E>
+                      </PCDrawAnnotationsaid2>
+                    </PCDrawAnnotations>
+                  </PCConformerstyle>
+                </PCConformer>
+              </PCCoordinatesconformers>
+            </PCCoordinates>
+          </PCCompoundcoords>
+          <PCCompoundcharge>-2</PCCompoundcharge>
+        </PCCompound>
+        <PCCompound>
+          <PCCompoundid>
+            <PCCompoundType>
+              <PCCompoundTypetype value="standardized">1</PCCompoundTypetype>
+              <PCCompoundTypeid>
+                <PCCompoundTypeidcid>7058165</PCCompoundTypeidcid>
+              </PCCompoundTypeid>
+            </PCCompoundType>
+          </PCCompoundid>
+        </PCCompound>
+        <PCCompound>
+          <PCCompoundid>
+            <PCCompoundType>
+              <PCCompoundTypetype value="component">2</PCCompoundTypetype>
+              <PCCompoundTypeid>
+                <PCCompoundTypeidcid>6131</PCCompoundTypeidcid>
+              </PCCompoundTypeid>
+            </PCCompoundType>
+          </PCCompoundid>
+        </PCCompound>
+      </PCCompounds>
+    </PCSubstancecompound>
+  </PCSubstance>
+</PCSubstances>
