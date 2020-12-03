@@ -1,4 +1,5 @@
-<PC-Substances>
+<?xml version="1.0" encoding="UTF-8"?>
+<PC-Substances xmlns="http://www.ncbi.nlm.nih.gov" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="http://www.ncbi.nlm.nih.gov ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem.xsd">
   <PC-Substance>
     <PC-Substance_sid>
       <PC-ID>
