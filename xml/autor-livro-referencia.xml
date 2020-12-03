@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+	<autores>
+		<autor nome="Doriana" livroid="livro-horacio-dino" />
+		<autor nome="Asdrubal" livroid="livro-vida-sentimental" />
+		<autor nome="Alcebiades" idade="32" livroid="livro-como-entender" />
+		<autor nome="Melissa" idade="29" livroid="livro-dino-para-leigos" />
+	</autores>
+	<livros>
+	   <livro id="livro-horacio-dino" titulo="Horacio o dino"
+	      ano="2015" />
+	   <livro id="livro-vida-sentimental" titulo="Vida sentimental dos dinossauros"
+	      ano="2013" />
+		<livro id="livro-como-entender" titulo="Como entender seu dino"
+			ano="2015" />
+		<livro id="livro-dino-para-leigos" titulo="Dinos para leigos"
+			ano="2014" />
+	</livros>
+</catalogo>
