@@ -5,8 +5,27 @@ PubChem is the world's largest collection of freely accessible chemical informat
 ## Exploring
 
 Go to PubChem: https://pubchem.ncbi.nlm.nih.gov/
-
 Look for: `acetylsalicylic acid`
+
+It is possible to do the same search on PubChem through an API. The details are here:
+https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest-tutorial
+
+Let us build an API request using the popular name aspirin:
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aspirin
+
+It will return an XML. Since Zorba did not accept to fetch the data straight from the result, the file was downloaded and is available here:
+https://github.com/santanche/lab2learn/blob/master/data/pubchem/acetylsalicylic-acid.xml
+
+# Basics
+
+The following queries will be tested on http://try.zorba.io/
+
+Fetching the XML file:
+
+~~~xquery
+let $aspirin := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/pubchem/acetylsalicylic-acid.xml')
+return $aspirin
+~~~
 
 # DRON - The Drug Ontology
 
