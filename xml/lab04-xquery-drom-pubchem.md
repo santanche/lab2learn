@@ -55,7 +55,12 @@ for $a in ($aspirin//PC-Substance_synonyms_E)
 return {$a/text(), '&#xa;'}
 ~~~
 
+
+
+
 ~~~xquery
+let $pubchem := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/pubchem/pubchem-aspirin-similar-structure.xml')
+return {$pubchem}
 ~~~
 
 ~~~xquery
