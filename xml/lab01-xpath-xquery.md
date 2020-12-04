@@ -315,12 +315,15 @@ return {concat('Autor: ', data($a/@nome), ', Livro: ', data($l/@titulo))}
 ## Group by
 
 ## XQuery 17 - número de livros por ano
+
+A sequência `'&#xa;'` é usada para pular linha:
+
 ~~~xquery
 let $autorlivro := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/xml/autor-livro-referencia.xml')
 for $l in ($autorlivro/catalogo/livros/livro)
-let $ano := $l/ano
+let $ano := $l/@ano
 group by $ano
-return {'Livros -- ano: ', 'quantidade: ', count($l)}
+return {'Livros -- ano: ', $ano, 'quantidade: ', count($l), '&#xa;'}
 ~~~
 
 # Questões XQuery avançado
