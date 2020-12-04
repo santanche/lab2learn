@@ -1,13 +1,23 @@
-# DRON - The Drug Ontology
+# Exercícios com DRON e PubChem
 
-A simplified version of DRON in XML can be found here:
+## DRON - The Drug Ontology
+
+Uma versão simplificada do DRON pode ser encontrada em:
 [DRON in XML](/data/faers-2017-dron/dron.xml)
 
-Each element `<drug>` represents a drug or drug classification (group). When a drug is part of a classification its `<drug>` element is subordinated to the classification. It produces a hierarchy as further illustrated.
+Cada elemento `<drug>` representa uma droga ou classificação de droga (grupo). Quando uma droga é parte de uma classificação, seu elemento `<drug>` é subordinado ao da classificação.
 
 Endereço do DRON para acesso via XQuery:
 
 https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017-dron/dron.xml
+
+## PubChem
+
+PubChem é a maior coleção de informações químicas do mundo livremente acessível. 
+
+https://pubchem.ncbi.nlm.nih.gov/
+
+Responda as questões abaixo a partir do DRON e PubChem:
 
 # Questão 1
 
