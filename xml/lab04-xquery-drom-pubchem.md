@@ -109,3 +109,21 @@ group by $parent
 order by $parent
 return {data($parent), '&#xa;'}
 ~~~
+
+~~~xquery
+let $pubchem := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/pubchem/pubchem-chebi.xml')
+for $p in ($pubchem//RegistryID)
+return substring($p/text(), 7)
+~~~
+
+~~~xquery
+let $pubchem := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/pubchem/pubchem-chebi.xml')
+let $dron := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017-dron/dron.xml')
+for $p in ($pubchem//RegistryID),
+    $d in ($dron//drug)
+where concat('http://purl.obolibrary.org/obo/CHEBI_',substring($p/text(), 7)) = $d/@id
+let $gr := $d/@name
+group by $gr
+order by $gr
+return {data($gr), '&#xa;'}
+~~~
