@@ -227,6 +227,7 @@ for $i in ($fichariodoc//individuo)
 where $i[idade>17]
 return {data($i/@nome)}
 ~~~
+
 ### Resolução
 ~~~xquery
 (escreva aqui a resolução em XQuery)
