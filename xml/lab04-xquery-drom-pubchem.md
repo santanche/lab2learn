@@ -22,15 +22,15 @@ https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2244/XML
 Retrieving its synonyms:
 https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/2244/synonyms/XML
 
-Retieving a compound related to Acetylsalicylic Acid whose code is 49854366. It is described here:
+Retieving a substance related to Acetylsalicylic Acid whose code is 49854366. It is described here:
 
 https://pubchem.ncbi.nlm.nih.gov/substance/49854366
 
-It is possible to retrieve data from this compound with the REST request:
+It is possible to retrieve data from this substance with the REST request:
 
 https://pubchem.ncbi.nlm.nih.gov/rest/pug/substance/sid/49854366/XML
 
-This compound will be used as an example in the following queries. 
+This substance will be used as an example in the following queries. 
 
 Since Zorba did not accept to fetch the data straight from the result, the file was downloaded and is available here:
 
