@@ -1,0 +1,215 @@
+<PC-DataSet>
+<InformationList>
+  <Information>
+    <SID>438446846</SID>
+    <Synonym>CHEBI:157652</Synonym>
+    <Synonym>N-(omega-linoleoyloxy-octacosanoyl)sphingosine</Synonym>
+    <Synonym>N-(omega-linoleoyloxyoctacosanoyl)sphing-4E-enine</Synonym>
+    <Synonym>N-(28-(9Z,12Z-octadecadienoyloxy)-octacosanoyl)-sphing-4-enine</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446845</SID>
+    <Synonym>CHEBI:157649</Synonym>
+    <Synonym>N-(omega-hydroxyhexatriacontadienoyl)sphingosine</Synonym>
+    <Synonym>an N-(36-hydroxyhexatriacontadienoyl)-sphing-4-enine</Synonym>
+    <Synonym>N-(omega-hydroxyhexatriacontadienoyl)-sphing-4E-enine</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446844</SID>
+    <Synonym>CHEBI:157524</Synonym>
+    <Synonym>Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-6)[NeuAc(a2-3)Gal(b1-3)]a-GalNAc</Synonym>
+    <Synonym>(2S,4S,5R,6R)-5-Acetamido-2-[(2R,3R,4S,5S,6R)-2-[(2R,3R,4R,5R,6S)-5-acetamido-2-[[(2R,3R,4R,5S,6R)-3-acetamido-5-[(2S,3R,4S,5S,6R)-4-[(2S,3R,4R,5S,6R)-3-acetamido-4-hydroxy-6-(hydroxymethyl)-5-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-hydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]-3,6-dihydroxyoxan-4-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-4-hydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid</Synonym>
+    <Synonym>beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)-beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;6)-[5-acetamido-3,5-dideoxy-D-glycero-alpha-D-galacto-non-2-ulopyranosylonic acid-(2-&gt;3)-beta-D-galacto-hexopyranosyl-(1-&gt;3)]-2-acetamido-2-deoxy-alpha-D-galacto-hexopyranose</Synonym>
+    <Synonym>WURCS=2.0/4,7,6/[a2112h-1a_1-5_2*NCC/3=O][a2112h-1b_1-5][Aad21122h-2a_2-6_5*NCC/3=O][a2122h-1b_1-5_2*NCC/3=O]/1-2-3-4-2-4-2/a3-b1_a6-d1_b3-c2_d4-e1_e3-f1_f4-g1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446843</SID>
+    <Synonym>CHEBI:157511</Synonym>
+    <Synonym>beta-D-galacto-hexopyranosyl-(1-&gt;4)-[6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;6)]-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;2)-[2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;6)]-alpha-D-manno-hexopyranosyl-(1-&gt;6)-[2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;2)-alpha-D-manno-hexopyranosyl-(1-&gt;3)]-beta-D-manno-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-D-gluco-hexopyranose</Synonym>
+    <Synonym>Gal(b1-4)[Fuc(a1-6)]GlcNAc(b1-2)[GlcNAc(b1-6)]Man(a1-6)[GlcNAc(b1-2)Man(a1-3)]Man(b1-4)GlcNAc(b1-4)GlcNAc</Synonym>
+    <Synonym>N-[(3R,4R,5S,6R)-5-[(2S,3R,4R,5S,6R)-3-Acetamido-5-[(2S,3S,4S,5R,6R)-4-[(2R,3S,4S,5S,6R)-3-[(2R,3R,4R,5S,6R)-3-acetamido-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-[[(2S,3S,4S,5S,6R)-6-[[(2R,3R,4R,5S,6R)-3-acetamido-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]-3-[(2S,3R,4R,5S,6R)-3-acetamido-4-hydroxy-5-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-[[(2R,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxy-4,5-dihydroxyoxan-2-yl]oxymethyl]-3,5-dihydroxyoxan-2-yl]oxy-4-hydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,4-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/6,10,9/[a2122h-1x_1-5_2*NCC/3=O][a2122h-1b_1-5_2*NCC/3=O][a1122h-1b_1-5][a1122h-1a_1-5][a2112h-1b_1-5][a1221m-1a_1-5]/1-2-3-4-2-4-2-5-6-2/a4-b1_b4-c1_c3-d1_c6-f1_d2-e1_f2-g1_f6-j1_g4-h1_g6-i1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446842</SID>
+    <Synonym>CHEBI:157493</Synonym>
+    <Synonym>Fuc(?1-2)[GalNAc(?1-3)]Gal(?1-3)[GlcNAc(?1-6)]a-GalNAc</Synonym>
+    <Synonym>6-deoxy-L-galacto-hexopyranosyl-(1-&gt;2)-[2-acetamido-2-deoxy-D-galacto-hexopyranosyl-(1-&gt;3)]-D-galacto-hexopyranosyl-(1-&gt;3)-[2-acetamido-2-deoxy-D-gluco-hexopyranosyl-(1-&gt;6)]-2-acetamido-2-deoxy-alpha-D-galacto-hexopyranose</Synonym>
+    <Synonym>N-[(3R,4R,5S,6R)-2-[[(2R,3R,4R,5R,6S)-5-Acetamido-4-[(3R,4S,5S,6R)-4-[(3R,4R,5R,6R)-3-acetamido-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-5-hydroxy-6-(hydroxymethyl)-3-[(3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-3,6-dihydroxyoxan-2-yl]methoxy]-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/5,5,4/[a2112h-1a_1-5_2*NCC/3=O][a2112h-1x_1-5][a1221m-1x_1-5][a2112h-1x_1-5_2*NCC/3=O][a2122h-1x_1-5_2*NCC/3=O]/1-2-3-4-5/a3-b1_a6-e1_b2-c1_b3-d1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446841</SID>
+    <Synonym>CHEBI:157488</Synonym>
+    <Synonym>CID 146017473</Synonym>
+    <Synonym>3,5-dideoxy-5-glycolamido-D-glycero-alpha-D-galacto-non-2-ulopyranosylonic acid-(2-&gt;3)-beta-D-galacto-hexopyranosyl-(1-&gt;3)-[3,5-dideoxy-5-glycolamido-D-glycero-alpha-D-galacto-non-2-ulopyranosylonic acid-(2-&gt;6)]-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;2)-alpha-D-manno-hexopyranosyl-(1-&gt;3)-[3,5-dideoxy-5-glycolamido-D-glycero-alpha-D-galacto-non-2-ulopyranosylonic acid-(2-&gt;6)-beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;2)-alpha-D-manno-hexopyranosyl-(1-&gt;6)]-beta-D-manno-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranose</Synonym>
+    <Synonym>NeuGc(a2-3)Gal(b1-3)[NeuGc(a2-6)]GlcNAc(b1-2)Man(a1-3)[NeuGc(a2-6)Gal(b1-4)GlcNAc(b1-2)Man(a1-6)]Man(b1-4)GlcNAc(b1-4)b-GlcNAc</Synonym>
+    <Synonym>WURCS=2.0/5,12,11/[a2122h-1b_1-5_2*NCC/3=O][a1122h-1b_1-5][a1122h-1a_1-5][a2112h-1b_1-5][Aad21122h-2a_2-6_5*NCCO/3=O]/1-1-2-3-1-4-5-5-3-1-4-5/a4-b1_b4-c1_c3-d1_c6-i1_d2-e1_e3-f1_e6-h2_f3-g2_i2-j1_j4-k1_k6-l2</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446840</SID>
+    <Synonym>CHEBI:157485</Synonym>
+    <Synonym>6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;2)-[2-acetamido-2-deoxy-alpha-D-galacto-hexopyranosyl-(1-&gt;3)]-beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)-beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)-beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)-2-acetamido-2-deoxy-alpha-D-galacto-hexopyranose</Synonym>
+    <Synonym>Fuc(a1-2)[GalNAc(a1-3)]Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)a-GalNAc</Synonym>
+    <Synonym>N-[(2R,3R,4R,5R,6R)-2-[(2S,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6S)-5-Acetamido-6-[(2S,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6S)-5-acetamido-6-[(2S,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6R)-5-acetamido-6-[(2S,3R,4R,5R,6R)-3-acetamido-2,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-5-hydroxy-6-(hydroxymethyl)-3-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-4-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/4,9,8/[a2112h-1a_1-5_2*NCC/3=O][a2122h-1b_1-5_2*NCC/3=O][a2112h-1b_1-5][a1221m-1a_1-5]/1-2-3-2-3-2-3-4-1/a3-b1_b4-c1_c3-d1_d4-e1_e3-f1_f4-g1_g2-h1_g3-i1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446839</SID>
+    <Synonym>CHEBI:157484</Synonym>
+    <Synonym>Fuc(a1-2)[Gal(a1-3)]Gal(b1-3)[GlcNAc6S(b1-6)]b-GalNAc</Synonym>
+    <Synonym>[(2R,3S,4R,5R,6R)-5-Acetamido-6-[[(2R,3R,4R,5R,6R)-5-acetamido-3,6-dihydroxy-4-[(2R,3R,4S,5S,6R)-5-hydroxy-6-(hydroxymethyl)-4-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxyoxan-2-yl]methoxy]-3,4-dihydroxyoxan-2-yl]methyl hydrogen sulfate</Synonym>
+    <Synonym>6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;2)-[alpha-D-galacto-hexopyranosyl-(1-&gt;3)]-beta-D-galacto-hexopyranosyl-(1-&gt;3)-[2-acetamido-2-deoxy-6-O-sulfo-beta-D-gluco-hexopyranosyl-(1-&gt;6)]-2-acetamido-2-deoxy-beta-D-galacto-hexopyranose</Synonym>
+    <Synonym>WURCS=2.0/5,5,4/[a2112h-1b_1-5_2*NCC/3=O][a2112h-1b_1-5][a1221m-1a_1-5][a2112h-1a_1-5][a2122h-1b_1-5_2*NCC/3=O_6*OSO/3=O/3=O]/1-2-3-4-5/a3-b1_a6-e1_b2-c1_b3-d1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446838</SID>
+    <Synonym>CHEBI:157440</Synonym>
+    <Synonym>6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;2)-beta-D-galacto-hexopyranosyl-(1-&gt;3)-[6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;4)]-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)-beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;6)-[beta-D-galacto-hexopyranosyl-(1-&gt;3)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)]-beta-D-galacto-hexopyranosyl-(1-&gt;4)-D-gluco-hexopyranose</Synonym>
+    <Synonym>Fuc(a1-2)Gal(b1-3)[Fuc(a1-4)]GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-6)[Gal(b1-3)GlcNAc(b1-3)]Gal(b1-4)Glc</Synonym>
+    <Synonym>N-[(2R,3R,4R,5S,6R)-5-[(2S,3R,4S,5S,6R)-4-[(2S,3R,4R,5S,6R)-3-Acetamido-4-[(2R,3R,4S,5R,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-6-(hydroxymethyl)-5-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2-[[(2R,3S,4S,5R,6S)-4-[(2S,3R,4R,5S,6R)-3-acetamido-5-hydroxy-6-(hydroxymethyl)-4-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-3,5-dihydroxy-6-[(2R,3S,4R,5R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-2-yl]methoxy]-4-hydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/4,10,9/[a2122h-1x_1-5][a2112h-1b_1-5][a2122h-1b_1-5_2*NCC/3=O][a1221m-1a_1-5]/1-2-3-2-3-2-3-2-4-4/a4-b1_b3-c1_b6-e1_c3-d1_e4-f1_f3-g1_g3-h1_g4-j1_h2-i1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446837</SID>
+    <Synonym>CHEBI:157435</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446836</SID>
+    <Synonym>CHEBI:157397</Synonym>
+    <Synonym>Fuc(a1-2)[Gal(a1-3)]Gal(b1-4)GlcNAc(b1-3)b-GalNAc</Synonym>
+    <Synonym>6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;2)-[alpha-D-galacto-hexopyranosyl-(1-&gt;3)]-beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)-2-acetamido-2-deoxy-beta-D-galacto-hexopyranose</Synonym>
+    <Synonym>N-[(2R,3R,4R,5S,6R)-2-[(2R,3R,4R,5R,6R)-3-Acetamido-2,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-4-hydroxy-5-[(2S,3R,4S,5S,6R)-5-hydroxy-6-(hydroxymethyl)-4-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-6-(hydroxymethyl)oxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/5,5,4/[a2112h-1b_1-5_2*NCC/3=O][a2122h-1b_1-5_2*NCC/3=O][a2112h-1b_1-5][a1221m-1a_1-5][a2112h-1a_1-5]/1-2-3-4-5/a3-b1_b4-c1_c2-d1_c3-e1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446835</SID>
+    <Synonym>CHEBI:157378</Synonym>
+    <Synonym>(2S,4S,5R,6R)-5-Acetamido-2-[(2R,3R,4S,5S,6R)-2-[(2S,3R,4R,5S,6R)-3-acetamido-2-[(2R,3S,4S,5R,6S)-2-[[(2R,3R,4R,5S,6R)-3-acetamido-5-[(2S,3R,4S,5S,6R)-4-[(2S,3R,4R,5S,6R)-3-acetamido-6-(hydroxymethyl)-5-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-hydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]-3,5-dihydroxy-6-[(2R,3S,4R,5R,6R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-4-yl]oxy-6-(hydroxymethyl)-5-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-4-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-4-hydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid</Synonym>
+    <Synonym>6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;3)-[beta-D-galacto-hexopyranosyl-(1-&gt;4)]-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)-beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;6)-[5-acetamido-3,5-dideoxy-D-glycero-alpha-D-galacto-non-2-ulopyranosylonic acid-(2-&gt;3)-beta-D-galacto-hexopyranosyl-(1-&gt;3)-[6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;4)]-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)]-beta-D-galacto-hexopyranosyl-(1-&gt;4)-beta-D-gluco-hexopyranose</Synonym>
+    <Synonym>Fuc(a1-3)[Gal(b1-4)]GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-6)[NeuAc(a2-3)Gal(b1-3)[Fuc(a1-4)]GlcNAc(b1-3)]Gal(b1-4)b-Glc</Synonym>
+    <Synonym>WURCS=2.0/5,11,10/[a2122h-1b_1-5][a2112h-1b_1-5][a2122h-1b_1-5_2*NCC/3=O][Aad21122h-2a_2-6_5*NCC/3=O][a1221m-1a_1-5]/1-2-3-2-4-5-3-2-3-5-2/a4-b1_b3-c1_b6-g1_c3-d1_c4-f1_d3-e2_g4-h1_h3-i1_i3-j1_i4-k1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446834</SID>
+    <Synonym>CHEBI:157315</Synonym>
+    <Synonym>NeuAc(?2-3)[GalNAc(?1-4)]Gal(?1-4)GlcNAc(?1-6)[Gal(?1-3)]a-GalNAc</Synonym>
+    <Synonym>(4S,5R,6R)-5-Acetamido-2-[(3R,4R,5S,6R)-2-[(2R,3S,4R,5R)-5-acetamido-6-[[(2R,3R,4R,5R,6S)-5-acetamido-3,6-dihydroxy-4-[(3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]methoxy]-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-5-[(3R,4R,5R,6R)-3-acetamido-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3-hydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-4-hydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid</Synonym>
+    <Synonym>5-acetamido-3,5-dideoxy-D-glycero-D-galacto-non-2-ulopyranosylonic acid-(2-&gt;3)-[2-acetamido-2-deoxy-D-galacto-hexopyranosyl-(1-&gt;4)]-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-D-gluco-hexopyranosyl-(1-&gt;6)-[D-galacto-hexopyranosyl-(1-&gt;3)]-2-acetamido-2-deoxy-alpha-D-galacto-hexopyranose</Synonym>
+    <Synonym>WURCS=2.0/5,6,5/[a2112h-1a_1-5_2*NCC/3=O][a2112h-1x_1-5][a2122h-1x_1-5_2*NCC/3=O][Aad21122h-2x_2-6_5*NCC/3=O][a2112h-1x_1-5_2*NCC/3=O]/1-2-3-2-4-5/a3-b1_a6-c1_c4-d1_d3-e2_d4-f1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446833</SID>
+    <Synonym>CHEBI:157312</Synonym>
+    <Synonym>GalNAc(b1-3)GalNAc(b1-3)Gal(a1-4)Gal(b1-4)Glc</Synonym>
+    <Synonym>2-acetamido-2-deoxy-beta-D-galacto-hexopyranosyl-(1-&gt;3)-2-acetamido-2-deoxy-beta-D-galacto-hexopyranosyl-(1-&gt;3)-alpha-D-galacto-hexopyranosyl-(1-&gt;4)-beta-D-galacto-hexopyranosyl-(1-&gt;4)-D-gluco-hexopyranose</Synonym>
+    <Synonym>N-[(2R,3R,4R,5R,6R)-2-[(2S,3R,4R,5R,6R)-3-Acetamido-2-[(2R,3R,4S,5S,6R)-2-[(2R,3R,4R,5R,6S)-4,5-dihydroxy-2-(hydroxymethyl)-6-[(2R,3S,4R,5R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-5-hydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/4,5,4/[a2122h-1x_1-5][a2112h-1b_1-5][a2112h-1a_1-5][a2112h-1b_1-5_2*NCC/3=O]/1-2-3-4-4/a4-b1_b4-c1_c3-d1_d3-e1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446832</SID>
+    <Synonym>CHEBI:157294</Synonym>
+    <Synonym>GlcNAc(a1-4)Gal(b1-4)GlcNAc(b1-6)[Fuc(a1-2)Gal(b1-3)]a-GalNAc</Synonym>
+    <Synonym>2-acetamido-2-deoxy-alpha-D-gluco-hexopyranosyl-(1-&gt;4)-beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;6)-[6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;2)-beta-D-galacto-hexopyranosyl-(1-&gt;3)]-2-acetamido-2-deoxy-alpha-D-galacto-hexopyranose</Synonym>
+    <Synonym>N-[(2R,3R,4R,5S,6R)-2-[(2R,3R,4R,5R,6S)-6-[(2R,3S,4R,5R,6R)-5-Acetamido-6-[[(2R,3R,4R,5R,6S)-5-acetamido-4-[(2R,3R,4S,5R,6R)-4,5-dihydroxy-6-(hydroxymethyl)-3-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-3,6-dihydroxyoxan-2-yl]methoxy]-4-hydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-2-(hydroxymethyl)oxan-3-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/5,6,5/[a2112h-1a_1-5_2*NCC/3=O][a2112h-1b_1-5][a1221m-1a_1-5][a2122h-1b_1-5_2*NCC/3=O][a2122h-1a_1-5_2*NCC/3=O]/1-2-3-4-2-5/a3-b1_a6-d1_b2-c1_d4-e1_e4-f1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446831</SID>
+    <Synonym>CHEBI:157273</Synonym>
+    <Synonym>NeuAc(?2-3)Gal(?1-3)[NeuAc(?2-6)]a-GalNAc</Synonym>
+    <Synonym>(4S,5R,6R)-5-Acetamido-2-[[(2R,3R,4R,5R,6S)-5-acetamido-4-[(3R,4S,5S,6R)-4-[(4S,5R,6R)-5-acetamido-2-carboxy-4-hydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,6-dihydroxyoxan-2-yl]methoxy]-4-hydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid</Synonym>
+    <Synonym>5-acetamido-3,5-dideoxy-D-glycero-D-galacto-non-2-ulopyranosylonic acid-(2-&gt;3)-D-galacto-hexopyranosyl-(1-&gt;3)-[5-acetamido-3,5-dideoxy-D-glycero-D-galacto-non-2-ulopyranosylonic acid-(2-&gt;6)]-2-acetamido-2-deoxy-alpha-D-galacto-hexopyranose</Synonym>
+    <Synonym>WURCS=2.0/3,4,3/[a2112h-1a_1-5_2*NCC/3=O][a2112h-1x_1-5][Aad21122h-2x_2-6_5*NCC/3=O]/1-2-3-3/a3-b1_a6-d2_b3-c2</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446830</SID>
+    <Synonym>CHEBI:156934</Synonym>
+    <Synonym>GlcNAc(b1-3)[GalNAc(b1-4)]Gal(b1-4)Glc</Synonym>
+    <Synonym>2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)-[2-acetamido-2-deoxy-beta-D-galacto-hexopyranosyl-(1-&gt;4)]-beta-D-galacto-hexopyranosyl-(1-&gt;4)-D-gluco-hexopyranose</Synonym>
+    <Synonym>N-[(2S,3R,4R,5R,6R)-2-[(2R,3S,4R,5R,6S)-4-[(2S,3R,4R,5S,6R)-3-Acetamido-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-5-hydroxy-2-(hydroxymethyl)-6-[(2R,3S,4R,5R)-4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-3-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/4,4,3/[a2122h-1x_1-5][a2112h-1b_1-5][a2122h-1b_1-5_2*NCC/3=O][a2112h-1b_1-5_2*NCC/3=O]/1-2-3-4/a4-b1_b3-c1_b4-d1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446829</SID>
+    <Synonym>CHEBI:156923</Synonym>
+    <Synonym>Gal(b1-4)GlcNAc(b1-3)Gal(b1-4)GlcNAc(b1-3)b-GalNAc</Synonym>
+    <Synonym>beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)-beta-D-galacto-hexopyranosyl-(1-&gt;4)-2-acetamido-2-deoxy-beta-D-gluco-hexopyranosyl-(1-&gt;3)-2-acetamido-2-deoxy-beta-D-galacto-hexopyranose</Synonym>
+    <Synonym>N-[(2R,3R,4R,5S,6R)-2-[(2R,3R,4R,5R,6R)-3-Acetamido-2,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-5-[(2S,3R,4S,5S,6R)-4-[(2S,3R,4R,5S,6R)-3-acetamido-4-hydroxy-6-(hydroxymethyl)-5-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-hydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/3,5,4/[a2112h-1b_1-5_2*NCC/3=O][a2122h-1b_1-5_2*NCC/3=O][a2112h-1b_1-5]/1-2-3-2-3/a3-b1_b4-c1_c3-d1_d4-e1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446828</SID>
+    <Synonym>CHEBI:156835</Synonym>
+    <Synonym>Fuc(a1-2)[Gal(a1-3)]Gal(b1-3)[Fuc(a1-4)]GlcNAc</Synonym>
+    <Synonym>6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;2)-[alpha-D-galacto-hexopyranosyl-(1-&gt;3)]-beta-D-galacto-hexopyranosyl-(1-&gt;3)-[6-deoxy-alpha-L-galacto-hexopyranosyl-(1-&gt;4)]-2-acetamido-2-deoxy-D-gluco-hexopyranose</Synonym>
+    <Synonym>N-[(3R,4R,5S,6R)-2-Hydroxy-4-[(2R,3R,4S,5S,6R)-5-hydroxy-6-(hydroxymethyl)-4-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-2-yl]oxy-6-(hydroxymethyl)-5-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/4,5,4/[a2122h-1x_1-5_2*NCC/3=O][a2112h-1b_1-5][a1221m-1a_1-5][a2112h-1a_1-5]/1-2-3-4-3/a3-b1_a4-e1_b2-c1_b3-d1</Synonym>
+  </Information>
+</InformationList>
+
+<InformationList>
+  <Information>
+    <SID>438446827</SID>
+    <Synonym>CHEBI:156752</Synonym>
+    <Synonym>Gal(b1-2)Gal(b1-6)[Gal(b1-4)]a-GlcNAc</Synonym>
+    <Synonym>beta-D-galacto-hexopyranosyl-(1-&gt;2)-beta-D-galacto-hexopyranosyl-(1-&gt;6)-[beta-D-galacto-hexopyranosyl-(1-&gt;4)]-2-acetamido-2-deoxy-alpha-D-gluco-hexopyranose</Synonym>
+    <Synonym>N-[(2S,3R,4R,5S,6R)-6-[[(2R,3R,4S,5R,6R)-4,5-Dihydroxy-6-(hydroxymethyl)-3-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-2-yl]oxymethyl]-2,4-dihydroxy-5-[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxan-3-yl]acetamide</Synonym>
+    <Synonym>WURCS=2.0/2,4,3/[a2122h-1a_1-5_2*NCC/3=O][a2112h-1b_1-5]/1-2-2-2/a4-b1_a6-c1_c2-d1</Synonym>
+  </Information>
+</InformationList>
+</PC-DataSet>
