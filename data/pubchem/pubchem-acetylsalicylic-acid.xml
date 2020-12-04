@@ -2,18 +2,18 @@
   <PC-Substance>
     <PC-Substance_sid>
       <PC-ID>
-        <PC-ID_id>2244</PC-ID_id>
-        <PC-ID_version>28</PC-ID_version>
+        <PC-ID_id>49854366</PC-ID_id>
+        <PC-ID_version>1</PC-ID_version>
       </PC-ID>
     </PC-Substance_sid>
     <PC-Substance_source>
       <PC-Source>
         <PC-Source_db>
           <PC-DBTracking>
-            <PC-DBTracking_name>BioCyc</PC-DBTracking_name>
+            <PC-DBTracking_name>LeadScope</PC-DBTracking_name>
             <PC-DBTracking_source-id>
               <Object-id>
-                <Object-id_str>CMP</Object-id_str>
+                <Object-id_str>LS-143</Object-id_str>
               </Object-id>
             </PC-DBTracking_source-id>
           </PC-DBTracking>
@@ -21,81 +21,234 @@
       </PC-Source>
     </PC-Substance_source>
     <PC-Substance_synonyms>
-      <PC-Substance_synonyms_E>CMP</PC-Substance_synonyms_E>
-      <PC-Substance_synonyms_E>63-37-6</PC-Substance_synonyms_E>
-      <PC-Substance_synonyms_E>5'-cytidylic acid</PC-Substance_synonyms_E>
-      <PC-Substance_synonyms_E>cytidine 5'-monophosphate</PC-Substance_synonyms_E>
-      <PC-Substance_synonyms_E>cytidylate</PC-Substance_synonyms_E>
-      <PC-Substance_synonyms_E>cytidylic acid</PC-Substance_synonyms_E>
-      <PC-Substance_synonyms_E>cytidine-P</PC-Substance_synonyms_E>
-      <PC-Substance_synonyms_E>cytidine-monophosphate</PC-Substance_synonyms_E>
-      <PC-Substance_synonyms_E>cytidine-phosphate</PC-Substance_synonyms_E>
-      <PC-Substance_synonyms_E>cytidine 5'-phosphate</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>2-(Acetyloxy)benzoic acid</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>2-Acetoxybenzoic acid</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>2-Carboxyphenyl acetate</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>8-HOUR BAYER</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>A.S.A</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>A.S.A. and Codeine Compound</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>A.S.A. empirin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>AC 5230</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ACETAMINOPHEN, ASPIRIN AND CAFFEINE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ACETAMINOPHEN, ASPIRIN, AND CODEINE PHOSPHATE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>AGGRENOX</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>AI3-02956</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ASA</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ASPIRIN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ASPIRIN AND CAFFEINE W/ BUTALBITAL</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>AXOTAL</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>AZDONE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acenterine</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acesal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Aceticyl</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetilsalicilico</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetilum acidulatum</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetisal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetol</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetol (VAN)</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetonyl</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetophen</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetosal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetosalic acid</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetosalin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetylin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetylsal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetylsalicylate</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetylsalicylic acid</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetylsalicylsaure [German]</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetylsalycilic acid</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acetysal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acide acetylsalicylique [French]</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acido O-acetil-benzoico [Italian]</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acido acetilsalicilico [Italian]</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acidum acetylsalicylicum</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acimetten</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acisal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Acylpyrin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Adiro</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Aloxiprimum</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Anacin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Anacin Maximum Strength</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Arthritis Pain Formula Maximum Strength</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Asagran</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Ascriptin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Aspec</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Aspergum</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Aspirdrops</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Aspirin [BAN:JAN]</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Aspirina 03</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Aspirine</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Asprin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Aspro</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Aspro Clear</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Asteric</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>BAYER EXTRA STRENGTH ASPIRIN FOR MIGRAINE PAIN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>BRN 0779271</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>BUTAL COMPOUND</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>BUTALBITAL ASPIRIN AND CAFFEINE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>BUTALBITAL COMPOUND</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>BUTALBITAL W/ ASPIRIN &amp; CAFFEINE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>BUTALBITAL, ASPIRIN &amp; CAFFEINE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>BUTALBITAL, ASPIRIN AND CAFFEINE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>BUTALBITAL, ASPIRIN, CAFFEINE, AND CODEINE PHOSPHATE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bayer</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bayer Aspirin 8 Hour</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bayer Buffered</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bayer Children's Aspirin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bayer Enteric 325 mg Regular Strength</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bayer Enteric 500 mg Arthritis Strength</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bayer Enteric 81 mg Adult Low Strength</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bayer Plus</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Benaspir</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Benzoic acid, 2-(acetyloxy)-</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bi-prin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bialpirina</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bialpirinia</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bufferin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>C9H8O4</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>CARISOPRODOL AND ASPIRIN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>CARISOPRODOL COMPOUND</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>CARISOPRODOL, ASPIRIN AND CODEINE PHOSPHATE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>CCRIS 3243</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>CODEINE, ASPIRIN, APAP FORMULA NO. 2</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>CODEINE, ASPIRIN, APAP FORMULA NO. 3</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>CODEINE, ASPIRIN, APAP FORMULA NO. 4</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>CODOXY</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>COMPOUND 65</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Caprin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Cemirit</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Claradin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Clariprin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Colfarit</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Contrheuma retard</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>DARVON COMPOUND</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>DARVON COMPOUND-65</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>DARVON W/ ASA</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>DARVON-N W/ ASA</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>DEA No. 9804</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Dasin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Decaten</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Delgesic</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Dispril</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Dolean pH 8</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Duramax</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ECM</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>EINECS 200-064-1</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>EQUAGESIC</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>EXCEDRIN (MIGRAINE)</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Easprin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Ecolen</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Ecotrin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Empirin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Empirin with Codeine</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Endosprin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Endydol</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Entericin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Enterophen</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Enterosarein</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Enterosarine</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Entrophen</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Extren</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>FIORINAL</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>FIORINAL W/CODEINE NO 3</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Globentyl</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Globoid</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>HSDB 652</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Helicon</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>INVAGESIC</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>INVAGESIC FORTE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Idragin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Istopirin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Kapsazal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Kyselina 2-acetoxybenzoova [Czech]</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Kyselina acetylsalicylova [Czech]</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>LANORINAL</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>LS-143</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Levius</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>MEASURIN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>MEPRO-ASPIRIN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>MEPROBAMATE AND ASPIRIN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>METHOCARBAMOL AND ASPIRIN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>MICRAININ</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Magnecyl</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Medisyl</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Micristin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Mixture Name</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>NORGESIC</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>NORGESIC FORTE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>NSC 27223</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Neuronika</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Novid</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>O-Acetylsalicylic acid</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ORPHENADRINE CITRATE, ASPIRIN, AND CAFFEINE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ORPHENGESIC</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ORPHENGESIC FORTE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>OXYCODONE AND ASPIRIN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>OXYCODONE AND ASPIRIN (HALF-STRENGTH)</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>P-A-C Analgesic Tablets</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>PERCODAN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>PERCODAN-DEMI</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>PROPOXYPHENE COMPOUND 65</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>PROPOXYPHENE COMPOUND-65</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>PROPOXYPHENE HCL W/ ASPIRIN AND CAFFEINE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Percodan Demi</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Persistin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Pharmacin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Phensal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Pirseal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Polopirin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Polopiryna</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Pravigard PAC</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Premaspin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Q-GESIC</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ROBAXISAL</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>ROXIPRIN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Rheumin tabletten</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Rheumintabletten</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Rhodine</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Rhonal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Ronal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>S-211</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>SK-65 Compound</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>SOMA COMPOUND</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>SOMA COMPOUND W/ CODEINE</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>SP 189</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>SYNALGOS-DC</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Salacetin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Salcetogen</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Saletin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Salicylic acid acetate</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Salicylic acid, acetate</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Sine-Off Sinus Medicine Tablets-Aspirin Formula</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Solfrin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Solprin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Solprin acid</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Solpyron</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Solupsan</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Spira-Dine</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>St. Joseph Aspirin for Adults</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Supac</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Synalgos</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>TALWIN COMPOUND</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Temperal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Triple-sal</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>VICOPRIN</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Vanquish</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Xaxa</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Yasta</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Zorprin</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>o-Acetoxybenzoic acid</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>o-Carboxyphenyl acetate</PC-Substance_synonyms_E>
     </PC-Substance_synonyms>
-    <PC-Substance_comment>
-      <PC-Substance_comment_E>TYPES: Pyrimidine-ribonucleosides-5-P</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.46</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.39</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.9</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.2</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.2</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.3</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 3.6.1.5</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.4</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.11</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.5</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a reactant of enzyme EC 3.2.2.10</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.45</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.8</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.1.M15</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.15</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 3.6.1.53</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.14</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.1.213</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.22</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.6</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.44</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 3.1.4.40</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.12</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.24</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.13</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 6.3.2.5</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.47</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.34</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a reactant of enzyme EC 2.4.2.57</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 3.6.1.6</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 4.6.1.12</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 3.6.1.16</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.7</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.38</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.14</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.12</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 3.6.1.65</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.1.48</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a reactant of enzyme EC 3.1.3.5</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.22</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.41</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a reactant of enzyme EC 2.7.4.25</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.8</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.10</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 3.6.1.26</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.7.8.M5</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a reactant of enzyme EC 2.1.2</PC-Substance_comment_E>
-      <PC-Substance_comment_E>Is a product of enzyme EC 2.4.99.5</PC-Substance_comment_E>
-    </PC-Substance_comment>
     <PC-Substance_xref>
       <PC-XRefData>
-        <PC-XRefData_dburl>https://biocyc.org/</PC-XRefData_dburl>
+        <PC-XRefData_regid>LS-143</PC-XRefData_regid>
       </PC-XRefData>
       <PC-XRefData>
-        <PC-XRefData_rn>63-37-6</PC-XRefData_rn>
+        <PC-XRefData_dburl>http://www.leadscope.com</PC-XRefData_dburl>
       </PC-XRefData>
       <PC-XRefData>
-        <PC-XRefData_sburl>https://biocyc.org/compound?orgid=META&amp;id=CMP</PC-XRefData_sburl>
-      </PC-XRefData>
-      <PC-XRefData>
-        <PC-XRefData_regid>CMP</PC-XRefData_regid>
+        <PC-XRefData_sburl>http://www.leadscope.com/structure_search_results.php?ss_string=LS-143</PC-XRefData_sburl>
       </PC-XRefData>
     </PC-Substance_xref>
     <PC-Substance_compound>
@@ -122,121 +275,68 @@
                 <PC-Atoms_aid_E>11</PC-Atoms_aid_E>
                 <PC-Atoms_aid_E>12</PC-Atoms_aid_E>
                 <PC-Atoms_aid_E>13</PC-Atoms_aid_E>
-                <PC-Atoms_aid_E>14</PC-Atoms_aid_E>
-                <PC-Atoms_aid_E>15</PC-Atoms_aid_E>
-                <PC-Atoms_aid_E>16</PC-Atoms_aid_E>
-                <PC-Atoms_aid_E>17</PC-Atoms_aid_E>
-                <PC-Atoms_aid_E>18</PC-Atoms_aid_E>
-                <PC-Atoms_aid_E>19</PC-Atoms_aid_E>
-                <PC-Atoms_aid_E>20</PC-Atoms_aid_E>
-                <PC-Atoms_aid_E>21</PC-Atoms_aid_E>
               </PC-Atoms_aid>
               <PC-Atoms_element>
-                <PC-Element value="c">6</PC-Element>
-                <PC-Element value="c">6</PC-Element>
-                <PC-Element value="c">6</PC-Element>
-                <PC-Element value="c">6</PC-Element>
-                <PC-Element value="c">6</PC-Element>
-                <PC-Element value="c">6</PC-Element>
-                <PC-Element value="c">6</PC-Element>
-                <PC-Element value="c">6</PC-Element>
-                <PC-Element value="c">6</PC-Element>
-                <PC-Element value="n">7</PC-Element>
-                <PC-Element value="n">7</PC-Element>
-                <PC-Element value="n">7</PC-Element>
                 <PC-Element value="o">8</PC-Element>
                 <PC-Element value="o">8</PC-Element>
                 <PC-Element value="o">8</PC-Element>
                 <PC-Element value="o">8</PC-Element>
-                <PC-Element value="o">8</PC-Element>
-                <PC-Element value="o">8</PC-Element>
-                <PC-Element value="o">8</PC-Element>
-                <PC-Element value="o">8</PC-Element>
-                <PC-Element value="p">15</PC-Element>
+                <PC-Element value="c">6</PC-Element>
+                <PC-Element value="c">6</PC-Element>
+                <PC-Element value="c">6</PC-Element>
+                <PC-Element value="c">6</PC-Element>
+                <PC-Element value="c">6</PC-Element>
+                <PC-Element value="c">6</PC-Element>
+                <PC-Element value="c">6</PC-Element>
+                <PC-Element value="c">6</PC-Element>
+                <PC-Element value="c">6</PC-Element>
               </PC-Atoms_element>
-              <PC-Atoms_charge>
-                <PC-AtomInt>
-                  <PC-AtomInt_aid>17</PC-AtomInt_aid>
-                  <PC-AtomInt_value>-1</PC-AtomInt_value>
-                </PC-AtomInt>
-                <PC-AtomInt>
-                  <PC-AtomInt_aid>18</PC-AtomInt_aid>
-                  <PC-AtomInt_value>-1</PC-AtomInt_value>
-                </PC-AtomInt>
-              </PC-Atoms_charge>
             </PC-Atoms>
           </PC-Compound_atoms>
           <PC-Compound_bonds>
             <PC-Bonds>
               <PC-Bonds_aid1>
-                <PC-Bonds_aid1_E>6</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>7</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>20</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>20</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>6</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>6</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>7</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>8</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>4</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>3</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>18</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>17</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>16</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>19</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>11</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>2</PC-Bonds_aid1_E>
                 <PC-Bonds_aid1_E>1</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>11</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>9</PC-Bonds_aid1_E>
+                <PC-Bonds_aid1_E>1</PC-Bonds_aid1_E>
+                <PC-Bonds_aid1_E>2</PC-Bonds_aid1_E>
+                <PC-Bonds_aid1_E>3</PC-Bonds_aid1_E>
+                <PC-Bonds_aid1_E>4</PC-Bonds_aid1_E>
                 <PC-Bonds_aid1_E>5</PC-Bonds_aid1_E>
+                <PC-Bonds_aid1_E>5</PC-Bonds_aid1_E>
+                <PC-Bonds_aid1_E>5</PC-Bonds_aid1_E>
+                <PC-Bonds_aid1_E>6</PC-Bonds_aid1_E>
+                <PC-Bonds_aid1_E>8</PC-Bonds_aid1_E>
                 <PC-Bonds_aid1_E>9</PC-Bonds_aid1_E>
-                <PC-Bonds_aid1_E>12</PC-Bonds_aid1_E>
+                <PC-Bonds_aid1_E>10</PC-Bonds_aid1_E>
+                <PC-Bonds_aid1_E>11</PC-Bonds_aid1_E>
               </PC-Bonds_aid1>
               <PC-Bonds_aid2>
-                <PC-Bonds_aid2_E>13</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>14</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>4</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>8</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>7</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>4</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>8</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>12</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>3</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>19</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>21</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>21</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>21</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>21</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>9</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>1</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>5</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>5</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>15</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>6</PC-Bonds_aid2_E>
                 <PC-Bonds_aid2_E>10</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>7</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>7</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>10</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>6</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>7</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>8</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>9</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>11</PC-Bonds_aid2_E>
                 <PC-Bonds_aid2_E>12</PC-Bonds_aid2_E>
-                <PC-Bonds_aid2_E>2</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>13</PC-Bonds_aid2_E>
+                <PC-Bonds_aid2_E>12</PC-Bonds_aid2_E>
               </PC-Bonds_aid2>
               <PC-Bonds_order>
                 <PC-BondType value="single">1</PC-BondType>
                 <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="double">2</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
-                <PC-BondType value="single">1</PC-BondType>
                 <PC-BondType value="double">2</PC-BondType>
                 <PC-BondType value="single">1</PC-BondType>
                 <PC-BondType value="double">2</PC-BondType>
                 <PC-BondType value="double">2</PC-BondType>
                 <PC-BondType value="single">1</PC-BondType>
+                <PC-BondType value="single">1</PC-BondType>
+                <PC-BondType value="single">1</PC-BondType>
+                <PC-BondType value="double">2</PC-BondType>
+                <PC-BondType value="double">2</PC-BondType>
                 <PC-BondType value="single">1</PC-BondType>
                 <PC-BondType value="single">1</PC-BondType>
               </PC-Bonds_order>
@@ -262,107 +362,51 @@
                 <PC-Coordinates_aid_E>11</PC-Coordinates_aid_E>
                 <PC-Coordinates_aid_E>12</PC-Coordinates_aid_E>
                 <PC-Coordinates_aid_E>13</PC-Coordinates_aid_E>
-                <PC-Coordinates_aid_E>14</PC-Coordinates_aid_E>
-                <PC-Coordinates_aid_E>15</PC-Coordinates_aid_E>
-                <PC-Coordinates_aid_E>16</PC-Coordinates_aid_E>
-                <PC-Coordinates_aid_E>17</PC-Coordinates_aid_E>
-                <PC-Coordinates_aid_E>18</PC-Coordinates_aid_E>
-                <PC-Coordinates_aid_E>19</PC-Coordinates_aid_E>
-                <PC-Coordinates_aid_E>20</PC-Coordinates_aid_E>
-                <PC-Coordinates_aid_E>21</PC-Coordinates_aid_E>
               </PC-Coordinates_aid>
               <PC-Coordinates_conformers>
                 <PC-Conformer>
                   <PC-Conformer_x>
-                    <PC-Conformer_x_E>900.805</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>802.611</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>325.115</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>423.447</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>900.805</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>457.692</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>571.152</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>606.084</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>704.279</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>999</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>802.611</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>704.279</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>390.991</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>637.578</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>606.084</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>113.46</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>113.46</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>0</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>226.92</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>514.078</PC-Conformer_x_E>
-                    <PC-Conformer_x_E>113.46</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>0.65</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>-3.25</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>-0.65</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>1.95</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>-1.95</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>-0.65</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>-1.95</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>-3.25</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>-0.65</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>1.95</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>-3.25</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>-1.95</PC-Conformer_x_E>
+                    <PC-Conformer_x_E>3.25</PC-Conformer_x_E>
                   </PC-Conformer_x>
                   <PC-Conformer_y>
-                    <PC-Conformer_y_E>-170.259</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-226.92</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-170.259</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-226.92</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-56.6613</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-334.879</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-334.879</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-226.92</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-56.6613</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>0</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>0</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-170.259</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-425.923</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-426.198</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>0</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-340.381</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-113.46</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-226.92</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-226.92</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-161.182</PC-Conformer_y_E>
-                    <PC-Conformer_y_E>-226.92</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>0.375</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>2.625</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>2.625</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>-1.875</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>0.375</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>-0.375</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>1.875</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>-0.375</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>-1.875</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>-0.375</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>-1.875</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>-2.625</PC-Conformer_y_E>
+                    <PC-Conformer_y_E>0.375</PC-Conformer_y_E>
                   </PC-Conformer_y>
-                  <PC-Conformer_style>
-                    <PC-DrawAnnotations>
-                      <PC-DrawAnnotations_annotation>
-                        <PC-BondAnnotation value="wedge-down">6</PC-BondAnnotation>
-                        <PC-BondAnnotation value="wedge-down">6</PC-BondAnnotation>
-                        <PC-BondAnnotation value="wedge-up">5</PC-BondAnnotation>
-                        <PC-BondAnnotation value="wedge-up">5</PC-BondAnnotation>
-                      </PC-DrawAnnotations_annotation>
-                      <PC-DrawAnnotations_aid1>
-                        <PC-DrawAnnotations_aid1_E>6</PC-DrawAnnotations_aid1_E>
-                        <PC-DrawAnnotations_aid1_E>7</PC-DrawAnnotations_aid1_E>
-                        <PC-DrawAnnotations_aid1_E>8</PC-DrawAnnotations_aid1_E>
-                        <PC-DrawAnnotations_aid1_E>4</PC-DrawAnnotations_aid1_E>
-                      </PC-DrawAnnotations_aid1>
-                      <PC-DrawAnnotations_aid2>
-                        <PC-DrawAnnotations_aid2_E>13</PC-DrawAnnotations_aid2_E>
-                        <PC-DrawAnnotations_aid2_E>14</PC-DrawAnnotations_aid2_E>
-                        <PC-DrawAnnotations_aid2_E>12</PC-DrawAnnotations_aid2_E>
-                        <PC-DrawAnnotations_aid2_E>3</PC-DrawAnnotations_aid2_E>
-                      </PC-DrawAnnotations_aid2>
-                    </PC-DrawAnnotations>
-                  </PC-Conformer_style>
                 </PC-Conformer>
               </PC-Coordinates_conformers>
             </PC-Coordinates>
           </PC-Compound_coords>
-          <PC-Compound_charge>-2</PC-Compound_charge>
+          <PC-Compound_charge>0</PC-Compound_charge>
         </PC-Compound>
         <PC-Compound>
           <PC-Compound_id>
             <PC-CompoundType>
               <PC-CompoundType_type value="standardized">1</PC-CompoundType_type>
               <PC-CompoundType_id>
-                <PC-CompoundType_id_cid>7058165</PC-CompoundType_id_cid>
-              </PC-CompoundType_id>
-            </PC-CompoundType>
-          </PC-Compound_id>
-        </PC-Compound>
-        <PC-Compound>
-          <PC-Compound_id>
-            <PC-CompoundType>
-              <PC-CompoundType_type value="component">2</PC-CompoundType_type>
-              <PC-CompoundType_id>
-                <PC-CompoundType_id_cid>6131</PC-CompoundType_id_cid>
+                <PC-CompoundType_id_cid>2244</PC-CompoundType_id_cid>
               </PC-CompoundType_id>
             </PC-CompoundType>
           </PC-Compound_id>
