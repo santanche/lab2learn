@@ -181,6 +181,23 @@ return {data($gr), '&#xa;'}
 
 # Enriching XML with Python
 
-Departing from the list of all PubChem elements that have cross-reference with ChEBI, produced previously, in the following notebook, there is a code that produces a REST request for each id to retrieve synonym names from PubChem. It illustrates how to explore Python to enrich XML resources.
+Departing from the list of all PubChem elements that have cross-reference with ChEBI, produced previously, it is possible to produce an XML file with the SIDs (PubChem) of the substances that appears in both:
+
+~~~xquery
+let $pubchem := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/pubchem/pubchem-chebi.xml')
+let $dron := doc('https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017-dron/dron.xml')
+return
+<PUBCHEM_DRON>
+{for $p in ($pubchem//Information),
+    $d in ($dron//drug)
+where concat('http://purl.obolibrary.org/obo/CHEBI_',substring($p/RegistryID/text(), 7)) = $d/@id
+let $gr := $p/SID/text()
+group by $gr
+order by $gr
+return <SID>{data($gr)}</SID>
+}</PUBCHEM_DRON>
+~~~
+
+In the following notebook, there is a code that produces a REST request for each id to retrieve synonym names from PubChem. It illustrates how to explore Python to enrich XML resources.
 
 https://github.com/santanche/lab2learn/blob/master/api/pubchem/pubchem-api.ipynb
