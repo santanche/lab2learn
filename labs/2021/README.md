@@ -2,4 +2,4 @@
 
 ## Laboratórios
 
-* [Laboratório 2](02-api/)
+* [Laboratório 1](01-api/)

@@ -4,7 +4,7 @@
 
 Cada laboratório tem seu template que está especificado dentro da respectiva pasta:
 
-* [Laboratório 2](lab01/)
+* [Laboratório 1](lab01/)
 
 Abaixo são dadas orientações gerais para todos os laboratórios.
 
