@@ -9,7 +9,7 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `<nome completo>`
+* `RA`: `<nome completo>`
 
 ## Tarefa sobre Acesso a DBPedia, MeSH e OpenStreetMap
 

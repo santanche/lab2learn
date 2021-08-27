@@ -55,4 +55,4 @@ Para a construção dos diagramas, devem ser usados modelos disponíveis em: [Di
 # Modelo para Apresentação do Aluno
 
 # Aluno
-* `<nome completo>`
+* `RA`: `<nome completo>`

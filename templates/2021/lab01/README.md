@@ -11,7 +11,7 @@ Estrutura de pastas:
 ~~~
 
 # Aluno
-* `<nome completo>`
+* `RA`: `<nome completo>`
 
 ## Tarefa 1 sobre APIs de acesso
 
