@@ -1,0 +1,151 @@
+"name","type","gender","height","weight","gbc","gs","pbc","sp"
+"Lossack Slossir","biological","male",73.847017017515,,0.8,14,5.1,3.5
+"Hasp Talch","biological","male",68.7819040458903,162.3104725213,0.8,14,4.9,3
+"Lesprash Rindrad","biological","male",74.1101053917849,,0.8,13,4.7,3.2
+"Halceff Gock","biological","male",71.7309784033377,,0.8,15,4.6,3.1
+"Moddeche Splud ","biological","male",69.8817958611153,,0.8,14,5,3.6
+"Oshor Geactong","biological","male",67.2530156878065,152.212155757083,1.6,17,5.4,3.9
+"Glitcolch Threbbalgo","biological","male",68.7850812516616,,1.2,14,4.6,3.4
+"Giemmedd Ark","biological","male",68.3485155115879,167.971110489509,0.8,15,5,3.4
+"Nesp Natho","biological","male",67.018949662883,175.92944039571,0.8,14,4.4,2.9
+"Mapmo Ondrath ","biological","male",63.4564939783664,156.399676387112,0.4,15,4.9,3.1
+"Dall Raubbatt","biological","male",71.1953822829745,,0.8,15,5.4,3.7
+"Far Beggipt","biological","male",71.6408051192206,,0.8,16,4.8,3.4
+"Thash Sem","biological","male",64.7663291334055,167.127461073476,0.4,14,4.8,3
+"Whoor Sin","biological","male",69.2830700967204,,0.4,11,4.3,3
+"Whathizz Whoppell ","biological","male",69.2437322298112,,0.8,12,5.8,4
+"Quallught Theeght","biological","male",67.6456197004212,172.186930058117,1.6,15,5.7,4.4
+"Spriss Anne","biological","male",72.4183166259878,,1.6,13,5.4,3.9
+"Gaucke Ang","biological","male",63.974325721061,172.88347020878,1.2,14,5.1,3.5
+"Roppo Treesp","biological","male",69.6400598997523,,1.2,17,5.7,3.8
+"Bassell Tarken ","biological","male",67.9360048540095,,1.2,15,5.1,3.8
+"Splaglon Quombaund","biological","male",67.9150501938206,174.115929081393,0.8,17,5.4,3.4
+"Shreeckterp Shell","biological","male",69.4394398680395,,1.6,15,5.1,3.7
+"Ramp Dutt","biological","male",66.1491319608781,149.173566007975,0.8,10,4.6,3.6
+"Meglurk Boff","biological","male",75.2059736142212,,2,17,5.1,3.3
+"Lont Jackorl ","biological","male",67.8931963386043,162.006651848287,0.8,19,4.8,3.4
+"Allay Derrusp","biological","female",58.9107320370127,102.08832636784,0.8,16,5,3
+"Asp Thelk","biological","female",65.2300125077128,141.30582260142,1.6,16,5,3.4
+"Hagg Fobbar","biological","female",63.3690037584139,131.041402692995,0.8,15,5.2,3.5
+"Aisp Natroth","biological","female",64.4799974256081,128.171511221632,0.8,14,5.2,3.4
+"Veck Ackot ","biological","female",61.7930961472815,129.781407047572,0.8,16,4.7,3.2
+"Soddar Chor","biological","female",65.9680189539591,156.802082613991,0.8,16,4.8,3.1
+"Backom Gadduff","biological","female",62.8503786429821,114.969038250962,1.6,15,5.4,3.4
+"Shagrapt Ellang","biological","female",65.6521564350254,165.083001212576,0.4,15,5.2,4.1
+"Shorpest Herhock","biological","female",61.8902337378544,111.676199211845,0.8,14,5.5,4.2
+"Morgosh Bottorld ","biological","female",63.6778681520585,104.151559641935,0.4,15,4.9,3.1
+"Shalviggeeck Strant","biological","female",68.1011722359871,166.575660760601,0.8,12,5,3.2
+"Aight Man","biological","female",61.7988785298549,106.233686988457,0.8,13,5.5,3.5
+"Eavonk Blutwagg","biological","female",63.3714589617276,128.118169123676,0.4,15,4.9,3.1
+"Pett Gemmauth","biological","female",58.8958863500041,101.682613361014,0.8,13,4.4,3
+"Deckatt Thommesh ","biological","female",58.4382490995692,98.1926209281421,0.8,15,5.1,3.4
+"Her Shashaink","biological","female",60.809798678611,126.915463276282,1.2,13,5,3.5
+"Reslochald Pind","biological","female",70.1286528332314,151.254270351714,1.2,13,4.5,2.3
+"Thash Thir","biological","female",62.2574296463807,115.79739340816,0.8,13,4.4,3.2
+"Reashazz Bert","biological","female",61.7350902197,107.866872355221,2.4,16,5,3.5
+"Ass Cleggarp ","biological","female",63.0595566947049,145.589929145704,1.6,19,5.1,3.8
+"Moddosh Nalchieck","biological","female",62.2868383725748,139.522707668371,1.2,14,4.8,3
+"Soont Rott","biological","female",61.8274775548724,122.766166670135,0.8,16,5.1,3.8
+"Chonglothull Riddopp","biological","female",66.3475372155375,157.380964816028,0.8,14,4.6,3.2
+"Rommerch Turth","biological","female",65.3206320269197,145.037375621008,0.8,15,5.3,3.7
+"Wen Dreth ","biological","female",66.1038727954936,148.645182574529,0.8,14,5,3.3
+"Boss Bluckrast","chemical","male",68.1440327982008,,5.6,47,7,3.2
+"Slidding Robbirt","chemical","male",69.0896314289256,,6,45,6.4,3.2
+"Screckoolsh Deng","chemical","male",72.8008435165003,,6,49,6.9,3.1
+"Paun Lerbassun","chemical","male",67.4212422817167,175.213922399227,5.2,40,5.5,2.3
+"Relleest Cattierl ","chemical","male",68.4964153568827,154.342638925955,6,46,6.5,2.8
+"Sungisp Tush","chemical","male",68.6181105502058,,5.2,45,5.7,2.8
+"Sarhack Grend","chemical","male",74.0338076216678,,6.4,47,6.3,3.3
+"Spretheemp Borl","chemical","male",71.5282160355709,,4,33,4.9,2.4
+"Porreck Hissorth","chemical","male",69.1801610995692,,5.2,46,6.6,2.9
+"Charld Seckash ","chemical","male",69.577202365402,,5.6,39,5.2,2.7
+"Mor Bellank","chemical","male",70.4009288884762,,4,35,5,2
+"Pampight Floffor","chemical","male",69.0761711675356,,6,42,5.9,3
+"Copt Flespross","chemical","male",67.1935232827228,,4,40,6,2.2
+"Chald Renneer","chemical","male",65.8073156549306,163.851824878622,5.6,47,6.1,2.9
+"Ness Choss ","chemical","male",64.3041878915595,163.108017147583,5.2,36,5.6,2.9
+"Bar Toggoppo","chemical","male",67.9743362271967,172.135597406825,5.6,44,6.7,3.1
+"Crabbar Wherth","chemical","male",72.1894259592134,,6,45,5.6,3
+"Gablank Toll","chemical","male",65.2703455240394,168.617746204292,4,41,5.8,2.7
+"Crerk Mepmosp","chemical","male",66.0901773762725,161.193432596622,6,45,6.2,2.2
+"Cheglesk Wert ","chemical","male",67.5103215157138,164.660277264007,4.4,39,5.6,2.5
+"Mankorp Sheveerld","chemical","male",70.1047862551571,,7.2,48,5.9,3.2
+"Strash Sappe","chemical","male",68.2518364408672,,5.2,40,6.1,2.8
+"On Oggon","chemical","male",72.1727091157973,,6,49,6.3,2.5
+"Quain Queck","chemical","male",69.1798576188774,,4.8,47,6.1,2.8
+"Strumress Saggutt ","chemical","male",72.870360147235,,5.2,43,6.4,2.9
+"Arg Perconk","chemical","female",64.5271820296461,132.680868243034,5.6,44,6.6,3
+"Beashithadd Chuckemp","chemical","female",56.5479749809036,84.8721236452797,5.6,48,6.8,2.8
+"Gestra Spreeck","chemical","female",62.7392809291012,138.530421130127,6.8,50,6.7,3
+"Nabbe Glossod","chemical","female",61.585198645852,137.425286781889,6,45,6,2.9
+"Spotchetreet Fick ","chemical","female",62.0244248323023,124.603940620149,4,35,5.7,2.6
+"Chilpass Mash","chemical","female",65.3113341377437,140.266700393455,4.4,38,5.5,2.4
+"Galsh Shark","chemical","female",61.2049560689218,108.290104228827,4,37,5.5,2.4
+"Choglisk Rech","chemical","female",67.025093515345,150.219175933031,4.8,39,5.8,2.7
+"Spren Nelt","chemical","female",60.2111665623754,119.037534152405,6.4,51,6,2.7
+"Doffoock Abball ","chemical","female",63.9399727739834,139.49595733599,6,45,5.4,3
+"Allork Quoss","chemical","female",63.3578051598708,125.613238151682,6.4,45,6,3.4
+"Gorld Horrar","chemical","female",63.685068445343,132.282977854988,6,47,6.7,3.1
+"Goor Peshugg","chemical","female",60.2888703924791,130.440809040632,5.2,44,6.3,2.3
+"Nur Slabblir","chemical","female",63.4072897919724,128.848389435403,5.2,41,5.6,3
+"Serld Ressorsh ","chemical","female",60.6316001185165,109.719696252994,5.2,40,5.5,2.5
+"Gobba Roulfor","chemical","female",67.3735965886919,146.023295039745,4.8,44,5.5,2.6
+"Dapmar Tennand","chemical","female",66.8727415972973,158.855194208793,5.6,46,6.1,3
+"Merfocher Clabbosh","chemical","female",60.0471472234037,114.603525896347,4.8,40,5.8,2.6
+"Lorg Nachlenk","chemical","female",64.1544722687217,133.138355593842,4,33,5,2.3
+"Twonk Butcalch ","chemical","female",63.4616648933184,128.950960852672,5.2,42,5.6,2.7
+"Rosk Dald","chemical","female",67.2438679477325,154.061574837338,4.8,42,5.7,3
+"Ruve Nemp","chemical","female",66.2135945099311,139.001133618245,5.2,42,5.7,2.9
+"Sechand Flashass","chemical","female",64.6928213839027,138.680813564999,5.2,43,6.2,2.9
+"Hom Chackopp","chemical","female",66.1992832819946,,4.4,30,5.1,2.5
+"Reshmoth Sauck ","chemical","female",65.853375824511,149.11852839278,5.2,41,5.7,2.8
+"Boff Noggozz","technological","male",64.7825829779871,165.61162618225,10,60,6.3,3.3
+"Steshmelt Caffausp","technological","male",70.1835498874837,,7.6,51,5.8,2.7
+"Rolpell Apt","technological","male",68.4914502529394,173.423960346601,8.4,59,7.1,3
+"Sot Ockett","technological","male",67.3308308810162,,7.2,56,6.3,2.9
+"Ronk Nolsh ","technological","male",66.9909440825232,169.737707400252,8.8,58,6.5,3
+"Therross Guttilk","technological","male",66.4995499002499,163.309528309674,8.4,66,7.6,3
+"Shotchosh Choss","technological","male",68.3530566463988,,6.8,45,4.9,2.5
+"Varfammoth Rockold","technological","male",70.7744590703974,,7.2,63,7.3,2.9
+"Depposs Harrass","technological","male",71.2159236694709,,7.2,58,6.7,2.5
+"Gebbonnulsh Ross ","technological","male",70.0133653490674,,10,61,7.2,3.6
+"Clurnelk Gluch","technological","male",71.4031822207589,,8,51,6.5,3.2
+"Thatton Toochash","technological","male",69.5520050948319,,7.6,53,6.4,2.7
+"Splat Heck","technological","male",73.8185345577699,,8.4,55,6.8,3
+"Abbauggleesh Biddoy","technological","male",66.99688275225,164.943302997003,8,50,5.7,2.5
+"Daggeelt Seespreght ","technological","male",71.4184658930907,179.863902339297,9.6,51,5.8,2.8
+"Peppeck Choght","technological","male",65.2793002090043,155.250420694049,9.2,53,6.4,3.2
+"Alluck Povo","technological","male",68.2741914742284,,7.2,55,6.5,3
+"Siffash Rangrer","technological","male",72.7653699463424,,8.8,67,7.7,3.8
+"Angaith Benksar","technological","male",68.0993798003468,,9.2,69,7.7,2.6
+"Bar Brun ","technological","male",68.8967060721692,,6,50,6,2.2
+"Tack Glenksorg","technological","male",69.2895099633052,,9.2,57,6.9,3.2
+"Shoggass Thennor","technological","male",70.5232245234565,,8,49,5.6,2.8
+"Mun Borkass","technological","male",69.6637252265179,177.200928752348,8,67,7.7,2.8
+"Meer Thept","technological","male",67.5952688079157,163.108002209381,7.2,49,6.3,2.7
+"Pavo Mer ","technological","male",72.5081203801037,,8.4,57,6.7,3.3
+"Tucrezz Harfaush","technological","female",65.0495202214884,145.073538581697,7.2,60,7.2,3.2
+"Annorsh Bend","technological","female",64.477615149807,144.638245692437,7.2,48,6.2,2.8
+"Terra Lier","technological","female",62.5400773193173,139.478643930727,7.2,49,6.1,3
+"Bottar Twoapmopp","technological","female",61.59623161922,129.977149249753,8.4,56,6.4,2.8
+"Speght Threck ","technological","female",60.9503289147806,117.422588668035,6.4,58,7.2,3
+"Hottor Sar","technological","female",63.5532238018192,137.492070428581,7.6,61,7.4,2.8
+"Drocheld Tackelhech","technological","female",62.2483463509287,138.382413290926,8,64,7.9,3.8
+"Shochan Blappieght","technological","female",66.190590843343,141.271956088319,8.8,56,6.4,2.8
+"Nornall Shalk","technological","female",62.5480579760466,123.712853940157,6,51,6.3,2.8
+"Bollost Bitten ","technological","female",66.6298343220198,145.594711615587,5.6,56,6.1,2.6
+"Thuckaipperk Lurbelsh","technological","female",59.6085601361981,109.813156032597,9.2,61,7.7,3
+"Choll Larrall","technological","female",64.493394759493,159.456065776193,9.6,56,6.3,3.4
+"Pleddart Rushoff","technological","female",64.9365559015708,152.419352004462,7.2,55,6.4,3.1
+"Sheppont Thraff","technological","female",61.3792584854039,141.427450563345,7.2,48,6,3
+"Chash Fraffem ","technological","female",66.0707872085545,147.752330110449,8.4,54,6.9,3.1
+"Throuflurresh Robbloff","technological","female",63.914431661526,131.513704638389,9.6,56,6.7,3.1
+"Lursh Hang","technological","female",69.6198060242191,157.023733848368,9.2,51,6.9,3.1
+"Tebbor Netwon","technological","female",67.1815358769843,156.950847065556,7.6,51,5.8,2.7
+"Almatton Lump","technological","female",63.3990508337142,143.840429687839,9.2,59,6.8,3.2
+"Gass Robmuch ","technological","female",61.2131714955926,98.7074925949256,10,57,6.7,3.3
+"Therthe Mind","technological","female",59.6678488000619,126.355255679648,9.2,52,6.7,3
+"Dathierg Meggar","technological","female",64.0894064651938,134.211017209693,7.6,50,6.3,2.5
+"Chapt Screppour","technological","female",60.5780628792393,118.242811799265,8,52,6.5,3
+"Sobly Naffang","technological","female",62.114866399197,145.337359446736,9.2,54,6.2,3.4
+"Olfost Nass ","technological","female",56.1594580191187,90.8152556552271,7.2,51,5.9,3
