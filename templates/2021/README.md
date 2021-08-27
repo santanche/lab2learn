@@ -5,6 +5,7 @@
 Cada laboratório tem seu template que está especificado dentro da respectiva pasta:
 
 * [Laboratório 1](lab01/)
+* [Laboratório 2](lab02/)
 
 Abaixo são dadas orientações gerais para todos os laboratórios.
 
@@ -54,4 +55,4 @@ Para a construção dos diagramas, devem ser usados modelos disponíveis em: [Di
 # Modelo para Apresentação do Aluno
 
 # Aluno
-* `<nome completo>`
+* `RA`: `<nome completo>`
