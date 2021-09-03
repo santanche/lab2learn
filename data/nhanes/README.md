@@ -8,7 +8,7 @@ This dataset was extracted from [NHANES 2013-2014](https://wwwn.cdc.gov/nchs/nha
 ### `demographic-person.csv`
 
 | field | description | domain |
-+-------+-------------|--------|
-`id` | id of a participant | number
-`gender` | gender of the participant | `1` - male; `2` - female
-`age` | age of the participant | number
+|-------|-------------|--------|
+| `id` | id of a participant | number |
+| `gender` | gender of the participant | `1` - male; `2` - female |
+| `age` | age of the participant | number |
