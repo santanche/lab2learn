@@ -5,6 +5,8 @@ Estrutura de pastas:
 ~~~
 ├── README.md  <- arquivo apresentando a tarefa
 │
+├── data      <- arquivos CSV extraídos do NHANES
+│
 └── notebook   <- arquivos do notebook
 ~~~
 
@@ -13,4 +15,4 @@ Estrutura de pastas:
 
 ## Tarefa sobre Consultas SQL no NHANES
 
-> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`.
+> Coloque um link para o arquivo do notebook com a resolução da tarefa. Ele estará dentro da pasta `notebook`. Seu notebook deve fazer referência à sua pasta data.
