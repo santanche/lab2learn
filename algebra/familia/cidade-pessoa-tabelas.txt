@@ -1,0 +1,29 @@
+group: UNICAMP Familia - CD, PS
+description: Familia tables
+category@en:UNICAMP
+
+CD = {
+nome_cidade, sigla_estado
+
+'Salvador', 'BA'
+'Itabuna', 'BA'
+'Campinas', 'SP'
+'Petrolina', 'PE'
+'Juazeiro', 'BA'
+}
+
+PS = {
+nome, nome_mae, ano_nascimento, nome_cidade_natal
+
+'Melissa', NULL, 1930, 'Salvador'
+'Asdrubal', 'Melissa', 1970, 'Salvador'
+'Quincas', 'Melissa', 1973, 'Salvador'
+'Doriana', NULL, 1970, 'Campinas'
+'Alcebiades', 'Doriana', 2010, 'Campinas'
+'Lucinda', 'Melissa', 1970, 'Itabuna'
+'Mirabela', 'Melissa', 1972, 'Salvador'
+'Horacio Junior', 'Lucinda', 1998, 'Itabuna'
+'Tecodonte', 'Lucinda', 2000, 'Petrolina'
+'Piteco', 'Mirabela', 2001, 'Juazeiro'
+'Melissinha', 'Mirabela', 2003, 'Juazeiro'
+}
