@@ -1,17 +1,17 @@
-"categoria", "superior"
-"Geral", ""
-"Serviços", "Geral"
-"Acadêmico", "Geral"
-"Relacionamento", "Geral"
-"Busca", "Serviços"
-"Portal", "Serviços"
-"Mail", "Serviços"
-"Vendas", "Serviços"
-"Universidade", "Acadêmico"
-"CG", "Acadêmico"
-"Sociedade", "Acadêmico"
-"Rede Social", "Relacionamento"
-"Marketplace", "Vendas"
-"Loja", "Vendas"
-"Notícias", "Portal"
-"Agregador", "Portal"
+categoria, superior
+Geral,
+Serviços, Geral
+Acadêmico, Geral
+Relacionamento, Geral
+Busca, Serviços
+Portal, Serviços
+Mail, Serviços
+Vendas, Serviços
+Universidade, Acadêmico
+CG, Acadêmico
+Sociedade, Acadêmico
+Rede Social, Relacionamento
+Marketplace, Vendas
+Loja, Vendas
+Notícias, Portal
+Agregador, Portal
