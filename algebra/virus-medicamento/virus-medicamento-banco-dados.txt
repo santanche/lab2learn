@@ -1,20 +1,30 @@
-group: UNICAMP Virus/Medicamento - Virus1, Virus2
+group: UNICAMP Virus/Medicamento - Virus1, Virus2, Medicamento
 description: Virus tables
 category@en:UNICAMP
 
 Virus1 = {
-nomeCientifico, nomePopular, incubacao
+nomeCientifico, nomePopular, incubacao, nomeVendaMedicamento
 
-'Virus X', 'Gripoide', 5
-'Virus W', 'Gripoide', 8
-'H1N1', 'Influenza', 7
-'SARS-CoV-2', 'Coronavirus', 10
+'Virus X', 'Gripoide', 5, 'Desvirex'
+'Virus W', 'Gripoide', 8, 'Desvirex'
+'H1N1', 'Influenza', 7, 'Influenzex'
+'SARS-CoV-2', 'Coronavirus', 10, 'CorXY'
 }
 
 Virus2 = {
-nomeCientifico, nomePopular, incubacao
+nomeCientifico, nomePopular, incubacao, nomeVendaMedicamento
 
-'H1N1', 'Influenza', 7
-'SARS-CoV-2', 'Coronavirus', 9
-'Virus Y', 'Gripix', 12
+'H1N1', 'Influenza', 7, 'Influenzex'
+'H3N2', 'Influenza', 7, 'Influenzex'
+'SARS-CoV-2', 'Coronavirus', 9, 'CorXY'
+'Virus Y', 'Gripix', 12, 'Desvirex'
+}
+
+Medicamento = {
+nomeVenda, compostoAtivo
+
+'Desvirex', 'Desvirotrona'
+'Desvirol', 'Descirotrona'
+'Influenzex', 'InfAB'
+'Coronex', 'CorXY'
 }
