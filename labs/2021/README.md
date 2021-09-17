@@ -6,3 +6,4 @@
 * [Laboratório 2](02-logico/)
 * [Laboratório 3](03-sql/)
 * [Laboratório 4](04-sql-advanced/)
+* [Laboratório 5](05-cypher/)
