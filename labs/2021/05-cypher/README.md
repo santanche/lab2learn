@@ -36,3 +36,5 @@ Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços
 ## Tarefa 2
 
 Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços`, considerando as categorias subordinadas.
+
+Veja template para submissão desta tarefa na pasta `/templates/2021/lab05`.
