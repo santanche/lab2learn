@@ -9,3 +9,6 @@
 -- Nome científico dos vírus que aparecem em apenas uma das relações
 (π nomeCientifico (Virus1) - π nomeCientifico (Virus2)) ∪ (π nomeCientifico (Virus2) - π nomeCientifico (Virus1))
 (π nomeCientifico (Virus1) ∪ π nomeCientifico (Virus2)) - (π nomeCientifico (Virus2) ∩ π nomeCientifico (Virus1))
+
+-- O nome popular dos vírus tratados pelo medicamento de composto ativo Desvirotrona
+σ compostoAtivo='Desvirotrona' (π nomePopular, compostoAtivo (Virus1 ⨝ nomeVendaMedicamento=nomeVenda  Medicamento))
