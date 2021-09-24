@@ -9,6 +9,7 @@ Cada laboratório tem seu template que está especificado dentro da respectiva p
 * [Laboratório 3](lab03/)
 * [Laboratório 4](lab04/)
 * [Laboratório 5](lab05/)
+* [Laboratório 6](lab06/)
 
 Abaixo são dadas orientações gerais para todos os laboratórios.
 
