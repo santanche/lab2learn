@@ -1,3 +1,37 @@
+# Template para Entrega do Trabalho
+
+No repositório do projeto, deve haver um arquivo com dados básicos do projeto e da equipe na raiz, uma pasta para a entrega parcial e outra para a entrega final, conforme templates a seguir:
+
+* [Entrega Parcial](projeto-parcial/)
+
+# Estrutura de Arquivos e Pastas
+
+A seguir é apresentada a estrutura de pastas esperada no repositório do projeto:
+
+~~~
+├── README.md  <- apresentação do projeto
+│
+├── parcial    <- entrega parcial
+│
+└── final      <- entrega final
+~~~
+
+# Modelo o arquivo `README.md` que fica na raiz
+
+# Projeto `<Título do Projeto/Jogo>`
+
+# Equipe `<sigla da equipe>`
+* `<nome completo>` - `<RA>`
+* `<nome completo>` - `<RA>`
+* `<nome completo>` - `<RA>`
+
+# Etapas
+
+* [Entrega Parcial](parcial/)
+* [Entrega Final](final/)
+
+<hr>
+
 # Template para Entrega dos Laboratórios Individuais
 
 # Templates de Laboratórios
