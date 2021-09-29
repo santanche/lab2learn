@@ -46,7 +46,7 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 # Projeto `<Título do Projeto/Jogo>`
 
-# Equipe `<sigla da equipe>`
+# Equipe `<nome da equipe>` - `<sigla da equipe>`
 * `<nome completo>` - `<RA>`
 * `<nome completo>` - `<RA>`
 * `<nome completo>` - `<RA>`

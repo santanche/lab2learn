@@ -2,7 +2,7 @@
 
 No repositório do projeto, deve haver um arquivo com dados básicos do projeto e da equipe na raiz, uma pasta para a entrega parcial e outra para a entrega final, conforme templates a seguir:
 
-* [Entrega Parcial](projeto-parcial/)
+* [Entrega Parcial](parcial/)
 
 # Estrutura de Arquivos e Pastas
 
@@ -18,9 +18,9 @@ A seguir é apresentada a estrutura de pastas esperada no repositório do projet
 
 # Modelo o arquivo `README.md` que fica na raiz
 
-# Projeto `<Título do Projeto/Jogo>`
+# Projeto `<Título do Projeto>`
 
-# Equipe `<sigla da equipe>`
+# Equipe `<nome da equipe>` - `<sigla da equipe>`
 * `<nome completo>` - `<RA>`
 * `<nome completo>` - `<RA>`
 * `<nome completo>` - `<RA>`
