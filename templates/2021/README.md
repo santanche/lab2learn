@@ -44,6 +44,7 @@ Cada laboratório tem seu template que está especificado dentro da respectiva p
 * [Laboratório 4](lab04/)
 * [Laboratório 5](lab05/)
 * [Laboratório 6](lab06/)
+* [Laboratório 7](lab07/)
 
 Abaixo são dadas orientações gerais para todos os laboratórios.
 
