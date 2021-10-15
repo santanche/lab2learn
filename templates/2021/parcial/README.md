@@ -44,7 +44,7 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 # Modelo para Apresentação da Entrega Parcial do Projeto
 
-# Projeto `<Título do Projeto/Jogo>`
+# Projeto `<Título do Projeto>`
 
 # Equipe `<nome da equipe>` - `<sigla da equipe>`
 * `<nome completo>` - `<RA>`

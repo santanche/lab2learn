@@ -3,6 +3,7 @@
 No repositório do projeto, deve haver um arquivo com dados básicos do projeto e da equipe na raiz, uma pasta para a entrega parcial e outra para a entrega final, conforme templates a seguir:
 
 * [Entrega Parcial](parcial/)
+* [Laboratório 8 + Projeto](lab08-projeto/)
 
 # Estrutura de Arquivos e Pastas
 
@@ -11,9 +12,11 @@ A seguir é apresentada a estrutura de pastas esperada no repositório do projet
 ~~~
 ├── README.md  <- apresentação do projeto
 │
-├── parcial    <- entrega parcial
+├── parcial       <- entrega parcial
 │
-└── final      <- entrega final
+├── lab08-projeto <- entrega referente ao lab08 sobre redes
+│
+└── final         <- entrega final
 ~~~
 
 # Modelo o arquivo `README.md` que fica na raiz
@@ -28,6 +31,7 @@ A seguir é apresentada a estrutura de pastas esperada no repositório do projet
 # Etapas
 
 * [Entrega Parcial](parcial/)
+* [Laboratório 8 + Projeto](lab08-projeto/)
 * [Entrega Final](final/)
 
 <hr>
