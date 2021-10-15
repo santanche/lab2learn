@@ -10,7 +10,8 @@ Look for: `acetylsalicylic acid`
 
 It is possible to do the same search on PubChem through an API. The details are here:
 
-https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest-tutorial
+* Tutorial: https://pubchemdocs.ncbi.nlm.nih.gov/pug-rest-tutorial
+* Docs: https://pubchemdocs.ncbi.nlm.nih.gov
 
 Let us build an API request using the popular name aspirin:
 
