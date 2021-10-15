@@ -6,9 +6,11 @@
 
 O objetivo é usar o espaço do laboratório para praticar conceitos que contribuam na elaboração do trabalho. Este trabalho será feito pela mesma equipe do trabalho e será entregue pelo grupo no repositório do trabalho.
 
-Assista o vídeo:
-[![Mapeamento e Transformação de Redes Complexas](https://img.youtube.com/vi/atmKU5NuHSA.jpg)](https://youtu.be/atmKU5NuHSA)
-[![Análise de Redes Complexas](https://img.youtube.com/vi/ZmTPfSW6V9s.jpg)](https://youtu.be/ZmTPfSW6V9s)
+Assista os vídeos:
+
+[![Mapeamento e Transformação de Redes Complexas](https://img.youtube.com/vi/atmKU5NuHSA/0.jpg)](https://youtu.be/atmKU5NuHSA)
+
+[![Análise de Redes Complexas](https://img.youtube.com/vi/ZmTPfSW6V9s/0.jpg)](https://youtu.be/ZmTPfSW6V9s)
 
 Considerando o modelo proposto por cada membro da equipe na tarefa anterior, realizem uma tarefa de combinação ou fusão dos modelos, de modo que se alcance um modelo ou conjunto de modelos finais que serão trabalhados pela equipe. Nesta etapa, podem ser feitas mudanças e melhorias no modelo.
 
