@@ -13,9 +13,13 @@ Estrutura de pastas:
 
 ## Exemplo de Grafo de Conhecimento - para publicar ou enriquecer
 > Utilize a abordagem (recurso, propriedade, valor) para apresentar seu grafo exemplo.
-> Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image`):
+> Coloque a imagem do PNG do seu modelo lógico como ilustrado abaixo (a imagem estará na pasta `image).
 >
-> ![Modelo Lógico de Grafos](images/grafo-conhecimento.png)
+> Você pode usar um grafo ilustrando as classes, como este:
+> ![Modelo Lógico de Grafos](images/grafo-conhecimento-classes.png)
+>
+> Além de outro com exemplo de instâncias, como este:
+> ![Modelo Lógico de Grafos](images/grafo-conhecimento-exemplos.png)
 
 ## Perguntas de Pesquisa ou Queries
 
