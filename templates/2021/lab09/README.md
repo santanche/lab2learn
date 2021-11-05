@@ -21,6 +21,8 @@ Estrutura de pastas:
 > Além de outro com exemplo de instâncias, como este:
 > ![Modelo Lógico de Grafos](images/grafo-conhecimento-exemplo.png)
 
+A representação na forma de triplas é opcional.
+
 ## Perguntas de Pesquisa ou Queries
 
 > Liste aqui as três perguntas de pesquisa ou queries
