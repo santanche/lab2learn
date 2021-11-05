@@ -30,9 +30,11 @@ It is possible to retrieve data from this substance with the REST request:
 
 https://pubchem.ncbi.nlm.nih.gov/rest/pug/substance/sid/49854366/XML
 
-This substance will be used as an example in the following queries. 
+This substance will be used as an example in the following queries.
 
-Since Zorba did not accept to fetch the data straight from the result, the file was downloaded and is available here:
+## Zorba
+
+Since Zorba does not accept to fetch the data straight from the result, the file was downloaded and is available here:
 
 https://github.com/santanche/lab2learn/blob/master/data/pubchem/pubchem-acetylsalicylic-acid.xml
 
