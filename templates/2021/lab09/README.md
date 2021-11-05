@@ -19,7 +19,7 @@ Estrutura de pastas:
 > ![Modelo Lógico de Grafos](images/grafo-conhecimento-classes.png)
 >
 > Além de outro com exemplo de instâncias, como este:
-> ![Modelo Lógico de Grafos](images/grafo-conhecimento-exemplos.png)
+> ![Modelo Lógico de Grafos](images/grafo-conhecimento-exemplo.png)
 
 ## Perguntas de Pesquisa ou Queries
 
