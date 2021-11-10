@@ -5,18 +5,19 @@
 A estrutura aqui apresentada é uma simplificação daquela proposta pelo [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/). Também será aceito que o projeto adote a estrutura completa do Cookiecutter Data Science e isso será considerado um diferencial. A estrutura geral é a seguinte e será detalhada a seguir:
 
 ~~~
-├── README.md          <- apresentação do projeto
+├── README.md  <- arquivo apresentando a proposta
 │
-├── data               <- dados publicados no projeto
+├── data
+│   ├── external       <- dados de terceiros em formato usado para entrada na transformação
+│   ├── interim        <- dados intermediários, e.g., resultado de transformação
+│   ├── processed      <- dados finais usados para a publicação
+│   └── raw            <- dados originais sem modificações
 │
-├── notebooks          <- Jupyter notebooks ou equivalentes com demonstrações
+├── notebooks          <- Jupyter notebooks ou equivalentes
 │
-├── src                <- demonstrações em linguagem de programação escolhida
-│   │
-│   ├── src            <- arquivos-fonte do projeto
-│   │
-│   ├── bin            <- arquivos binários
-│   │
+├── slides             <- arquivo de slides em formato PDF
+│
+├── src                <- fonte em linguagem de programação ou sistema (e.g., Cytoscape)
 │   └── README.md      <- instruções básicas de instalação/execução
 │
 └── assets             <- mídias usadas no projeto
@@ -56,33 +57,6 @@ Qualquer mídia usada no seu projeto: vídeo, imagens, animações, slides etc. 
 
 ## Slides da Apresentação
 > Coloque aqui o link para o PDF da apresentação prévia
-
-Estrutura de pastas:
-
-# Modelo para Apresentação da Etapa 04 - Análises com o Segundo Modelo Lógico
-
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a proposta
-│
-├── data
-│   ├── external       <- dados de terceiros em formato usado para entrada na transformação
-│   ├── interim        <- dados intermediários, e.g., resultado de transformação
-│   ├── processed      <- dados finais usados para a publicação
-│   └── raw            <- dados originais sem modificações
-│
-├── notebooks          <- Jupyter notebooks ou equivalentes
-│
-├── slides             <- arquivo de slides em formato PDF
-│
-├── src                <- fonte em linguagem de programação ou sistema (e.g., Cytoscape)
-│   └── README.md      <- instruções básicas de instalação/execução
-│
-└── assets             <- mídias usadas no projeto
-~~~
-
-# Etapa 03 - Análises com o Primeiro Modelo Lógico
 
 ## Modelo Conceitual Preliminar
 
