@@ -4,6 +4,7 @@ No repositório do projeto, deve haver um arquivo com dados básicos do projeto 
 
 * [Entrega Parcial](parcial/)
 * [Laboratório 8 + Projeto](lab08-projeto/)
+* [Entrega Prévia](previa/)
 
 # Estrutura de Arquivos e Pastas
 
@@ -15,6 +16,8 @@ A seguir é apresentada a estrutura de pastas esperada no repositório do projet
 ├── parcial       <- entrega parcial
 │
 ├── lab08-projeto <- entrega referente ao lab08 sobre redes
+│
+├── previa        <- entrega prévia
 │
 └── final         <- entrega final
 ~~~
