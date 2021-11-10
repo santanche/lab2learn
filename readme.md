@@ -15,10 +15,10 @@ Details about how to clone this environment in your machine can is presented [he
 * Última versão testada e estável:
 
   * Jupyter:
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/lab2learn/v00.60_SQL?urlpath=lab)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/lab2learn/v00.70_SQL?urlpath=lab)
 
   * Jupyter Lab:     
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/lab2learn/v00.60_SQL?urlpath=lab)
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/lab2learn/v00.70_SQL?urlpath=lab)
 
 * Última versão disponível:
 
