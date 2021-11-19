@@ -1,10 +1,11 @@
 # Template para Entrega do Trabalho
 
-No repositório do projeto, deve haver um arquivo com dados básicos do projeto e da equipe na raiz, uma pasta para a entrega parcial e outra para a entrega final, conforme templates a seguir:
+No repositório do projeto, deve haver um arquivo com dados básicos do projeto e da equipe na raiz, uma pasta para cada etapa de entrega, conforme templates a seguir:
 
 * [Entrega Parcial](parcial/)
 * [Laboratório 8 + Projeto](lab08-projeto/)
 * [Entrega Prévia](previa/)
+* [Entrega Final](final/)
 
 # Estrutura de Arquivos e Pastas
 
@@ -35,6 +36,7 @@ A seguir é apresentada a estrutura de pastas esperada no repositório do projet
 
 * [Entrega Parcial](parcial/)
 * [Laboratório 8 + Projeto](lab08-projeto/)
+* [Entrega Prévia](previa/)
 * [Entrega Final](final/)
 
 <hr>
