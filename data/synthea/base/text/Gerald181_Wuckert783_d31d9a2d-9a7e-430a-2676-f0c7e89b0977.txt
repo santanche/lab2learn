@@ -1,0 +1,1132 @@
+Gerald181 Wuckert783
+====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 43
+Birth Date:          1979-03-17
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-09-25[CURRENT] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2021-09-25[CURRENT] : lisinopril 10 MG Oral Tablet for Hypertension
+  2021-09-25[CURRENT] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2021-09-25[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2020-09-19[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2020-09-19[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2020-09-19[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2020-09-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-09-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2019-09-14[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2019-09-14[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2019-09-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-12-14[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2018-09-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2018-09-08[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2018-09-08[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2018-09-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-02-17[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2017-09-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2017-09-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2017-09-02[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2017-09-02[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2017-01-30[STOPPED] : Kyleena 19.5 MG Intrauterine System
+  2016-08-27[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2016-08-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2016-08-27[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2016-08-27[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2015-08-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2015-08-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2015-08-22[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2015-08-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2014-08-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-08-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-08-16[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2014-08-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2014-02-13[STOPPED] : Seasonique 91 Day Pack
+  2014-02-03[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]
+  2014-01-18[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2014-01-18[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2014-01-18[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2013-08-10[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2013-08-10[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2013-08-10[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2012-08-04[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2012-08-04[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2012-08-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2012-02-24[STOPPED] : Errin 28 Day Pack
+  2011-12-17[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-12-17[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2011-12-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2011-07-30[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2011-07-30[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2011-07-30[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-07-24[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2010-07-24[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2010-07-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2009-07-18[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2009-07-18[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2009-07-18[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-07-12[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2008-07-12[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2008-07-12[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2007-07-07[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2007-07-07[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2007-07-07[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2006-07-01[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2006-07-01[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2006-07-01[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2005-06-25[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2005-06-25[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2005-06-25[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2004-06-19[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2004-06-19[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2004-06-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2003-06-14[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2003-06-14[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2003-06-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2002-06-08[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2002-06-08[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2002-06-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2001-06-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2001-06-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2001-06-02[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2001-06-02[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2001-06-02[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2001-06-02[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2000-05-27[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  2000-05-27[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  2000-05-27[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1999-05-22[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1999-05-22[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1999-05-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1998-05-16[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1998-05-16[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1998-05-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1997-06-09[STOPPED] : amLODIPine 2.5 MG Oral Tablet for Hypertension
+  1997-05-10[STOPPED] : lisinopril 10 MG Oral Tablet for Hypertension
+  1997-05-10[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-11-20 -            : Normal pregnancy
+  2021-09-25 -            : Social isolation (finding)
+  2021-09-25 -            : Part-time employment (finding)
+  2020-09-19 -            : Unhealthy alcohol drinking behavior (finding)
+  2020-09-19 - 2021-09-25 : Full-time employment (finding)
+  2019-09-14 - 2020-09-19 : Limited social contact (finding)
+  2019-09-14 - 2020-09-19 : Full-time employment (finding)
+  2018-12-14 - 2019-01-03 : Viral sinusitis (disorder)
+  2018-09-08 - 2019-09-14 : Reports of violence in the environment (finding)
+  2018-09-08 - 2021-09-25 : Stress (finding)
+  2018-09-08 - 2019-09-14 : Full-time employment (finding)
+  2017-09-02 - 2018-09-08 : Limited social contact (finding)
+  2017-09-02 - 2018-09-08 : Full-time employment (finding)
+  2017-06-03 - 2018-01-06 : Normal pregnancy
+  2016-11-25 - 2016-12-18 : Viral sinusitis (disorder)
+  2016-08-27 - 2017-09-02 : Not in labor force (finding)
+  2015-08-22 - 2016-08-27 : Stress (finding)
+  2015-08-22 - 2016-08-27 : Full-time employment (finding)
+  2014-08-16 - 2015-08-22 : Full-time employment (finding)
+  2014-02-03 -            : Fibromyalgia (disorder)
+  2014-02-03 -            : Chronic low back pain (finding)
+  2014-01-18 - 2014-08-16 : Full-time employment (finding)
+  2014-01-10 - 2014-01-21 : Acute viral pharyngitis (disorder)
+  2013-08-10 - 2014-01-18 : Full-time employment (finding)
+  2012-08-04 - 2013-08-10 : Full-time employment (finding)
+  2011-12-17 - 2014-01-18 : Stress (finding)
+  2011-12-17 - 2012-08-04 : Full-time employment (finding)
+  2011-07-30 -            : Has a criminal record (finding)
+  2009-06-13 - 2010-01-23 : Normal pregnancy
+  2006-07-01 - 2016-08-27 : Limited social contact (finding)
+  2006-07-01 - 2007-07-07 : Part-time employment (finding)
+  2002-06-08 - 2003-06-14 : Part-time employment (finding)
+  2001-06-02 - 2002-06-08 : Part-time employment (finding)
+  2001-06-02 -            : Anemia (disorder)
+  2001-06-02 -            : Prediabetes
+  1997-05-10 -            : Only received primary school education (finding)
+  1997-05-10 -            : Hypertension
+  1996-04-20 - 1996-11-23 : Normal pregnancy
+  1980-12-07 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-11-20[CURRENT] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2017-06-03[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2014-02-03[STOPPED] : Therapy (regime/therapy)
+                         Activity: Physical therapy procedure (regime/therapy)
+                         Activity: Cognitive and behavior therapy
+  2009-06-13[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2001-06-02[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1997-05-10[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1996-04-20[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-09-25 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-09-25 : Lipid Panel
+           - Total Cholesterol                        193.5 mg/dL
+           - Triglycerides                            120.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      122.5 mg/dL
+           - High Density Lipoprotein Cholesterol     46.9 mg/dL
+  2021-09-25 : Basic Metabolic Panel
+           - Glucose                                  80.7 mg/dL
+           - Urea Nitrogen                            12.5 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.5 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 103.7 mmol/L
+           - Carbon Dioxide                           29.0 mmol/L
+  2020-09-19 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    12.0 {score}
+  2020-09-19 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2020-09-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+           - MCV [Entitic volume] by Automated count  93.1 fL
+           - MCH [Entitic mass] by Automated count    32.6 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+           - Platelets [#/volume] in Blood by Automated count 429.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 458.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2020-09-19 : Basic Metabolic Panel
+           - Glucose                                  98.6 mg/dL
+           - Urea Nitrogen                            14.8 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   139.8 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 101.5 mmol/L
+           - Carbon Dioxide                           22.3 mmol/L
+  2019-09-14 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-09-14 : Basic Metabolic Panel
+           - Glucose                                  80.1 mg/dL
+           - Urea Nitrogen                            9.4 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   138.2 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 106.9 mmol/L
+           - Carbon Dioxide                           22.0 mmol/L
+  2018-09-08 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2018-09-08 : Lipid Panel
+           - Total Cholesterol                        156.2 mg/dL
+           - Triglycerides                            107.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      76.1 mg/dL
+           - High Density Lipoprotein Cholesterol     58.6 mg/dL
+  2018-09-08 : Basic Metabolic Panel
+           - Glucose                                  84.5 mg/dL
+           - Urea Nitrogen                            16.5 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   136.8 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 110.0 mmol/L
+           - Carbon Dioxide                           24.5 mmol/L
+  2017-09-02 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2017-09-02 : Basic Metabolic Panel
+           - Glucose                                  68.9 mg/dL
+           - Urea Nitrogen                            14.7 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   136.8 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 102.3 mmol/L
+           - Carbon Dioxide                           22.9 mmol/L
+  2016-08-27 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2016-08-27 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2016-08-27 : Basic Metabolic Panel
+           - Glucose                                  76.8 mg/dL
+           - Urea Nitrogen                            18.4 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 106.1 mmol/L
+           - Carbon Dioxide                           24.1 mmol/L
+  2015-08-22 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2015-08-22 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2015-08-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.5 %
+           - MCV [Entitic volume] by Automated count  80.8 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 373.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 285.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2015-08-22 : Lipid Panel
+           - Total Cholesterol                        196.6 mg/dL
+           - Triglycerides                            144.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      106.7 mg/dL
+           - High Density Lipoprotein Cholesterol     61.0 mg/dL
+  2015-08-22 : Basic Metabolic Panel
+           - Glucose                                  79.4 mg/dL
+           - Urea Nitrogen                            8.9 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   140.7 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 110.8 mmol/L
+           - Carbon Dioxide                           27.9 mmol/L
+  2014-08-16 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2014-08-16 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2014-08-16 : Basic Metabolic Panel
+           - Glucose                                  99.3 mg/dL
+           - Urea Nitrogen                            11.2 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   141.2 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 103.0 mmol/L
+           - Carbon Dioxide                           28.3 mmol/L
+  2014-01-18 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2014-01-18 : Basic Metabolic Panel
+           - Glucose                                  87.1 mg/dL
+           - Urea Nitrogen                            13.7 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 109.0 mmol/L
+           - Carbon Dioxide                           25.8 mmol/L
+  2013-08-10 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2013-08-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-08-10 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2013-08-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2013-08-10 : Basic Metabolic Panel
+           - Glucose                                  78.3 mg/dL
+           - Urea Nitrogen                            12.4 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   136.9 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 107.6 mmol/L
+           - Carbon Dioxide                           28.8 mmol/L
+  2012-08-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-08-04 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2012-08-04 : Lipid Panel
+           - Total Cholesterol                        148.0 mg/dL
+           - Triglycerides                            119.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      66.7 mg/dL
+           - High Density Lipoprotein Cholesterol     57.4 mg/dL
+  2012-08-04 : Basic Metabolic Panel
+           - Glucose                                  75.3 mg/dL
+           - Urea Nitrogen                            15.1 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   137.9 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 104.2 mmol/L
+           - Carbon Dioxide                           25.4 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-09-25 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2021-09-25 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Less than once a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-09-25 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2021-09-25 : Tobacco smoking status NHIS              Former smoker 
+  2021-09-25 : High Density Lipoprotein Cholesterol     46.9 mg/dL
+  2021-09-25 : Low Density Lipoprotein Cholesterol      122.5 mg/dL
+  2021-09-25 : Triglycerides                            120.4 mg/dL
+  2021-09-25 : Total Cholesterol                        193.5 mg/dL
+  2021-09-25 : Carbon Dioxide                           29.0 mmol/L
+  2021-09-25 : Chloride                                 103.7 mmol/L
+  2021-09-25 : Potassium                                4.6 mmol/L
+  2021-09-25 : Sodium                                   142.3 mmol/L
+  2021-09-25 : Calcium                                  8.5 mg/dL
+  2021-09-25 : Creatinine                               0.9 mg/dL
+  2021-09-25 : Urea Nitrogen                            12.5 mg/dL
+  2021-09-25 : Glucose                                  80.7 mg/dL
+  2021-09-25 : Respiratory rate                         15.0 /min
+  2021-09-25 : Heart rate                               66.0 /min
+  2021-09-25 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2021-09-25 : Body Mass Index                          28.9 kg/m2
+  2021-09-25 : Body Weight                              77.0 kg
+  2021-09-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-09-25 : Body Height                              163.3 cm
+  2020-09-19 : Total score [AUDIT-C]                    12.0 {score}
+  2020-09-19 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 7.0 {score}
+  2020-09-19 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2020-09-19 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2020-09-19 : Tobacco smoking status NHIS              Former smoker 
+  2020-09-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2020-09-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 458.5 fL
+  2020-09-19 : Platelets [#/volume] in Blood by Automated count 429.9 10*3/uL
+  2020-09-19 : Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+  2020-09-19 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2020-09-19 : MCH [Entitic mass] by Automated count    32.6 pg
+  2020-09-19 : MCV [Entitic volume] by Automated count  93.1 fL
+  2020-09-19 : Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+  2020-09-19 : Hemoglobin [Mass/volume] in Blood        13.3 g/dL
+  2020-09-19 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2020-09-19 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2020-09-19 : Carbon Dioxide                           22.3 mmol/L
+  2020-09-19 : Chloride                                 101.5 mmol/L
+  2020-09-19 : Potassium                                4.0 mmol/L
+  2020-09-19 : Sodium                                   139.8 mmol/L
+  2020-09-19 : Calcium                                  8.7 mg/dL
+  2020-09-19 : Creatinine                               0.9 mg/dL
+  2020-09-19 : Urea Nitrogen                            14.8 mg/dL
+  2020-09-19 : Glucose                                  98.6 mg/dL
+  2020-09-19 : Respiratory rate                         13.0 /min
+  2020-09-19 : Heart rate                               92.0 /min
+  2020-09-19 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2020-09-19 : Body Mass Index                          29.4 kg/m2
+  2020-09-19 : Body Weight                              78.4 kg
+  2020-09-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-09-19 : Body Height                              163.3 cm
+  2019-09-14 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2019-09-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-09-14 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2019-09-14 : Tobacco smoking status NHIS              Former smoker 
+  2019-09-14 : Carbon Dioxide                           22.0 mmol/L
+  2019-09-14 : Chloride                                 106.9 mmol/L
+  2019-09-14 : Potassium                                5.0 mmol/L
+  2019-09-14 : Sodium                                   138.2 mmol/L
+  2019-09-14 : Calcium                                  9.7 mg/dL
+  2019-09-14 : Creatinine                               1.0 mg/dL
+  2019-09-14 : Urea Nitrogen                            9.4 mg/dL
+  2019-09-14 : Glucose                                  80.1 mg/dL
+  2019-09-14 : Respiratory rate                         13.0 /min
+  2019-09-14 : Heart rate                               99.0 /min
+  2019-09-14 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2019-09-14 : Body Mass Index                          28.7 kg/m2
+  2019-09-14 : Body Weight                              76.6 kg
+  2019-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-09-14 : Body Height                              163.3 cm
+  2018-09-08 : Total score [HARK]                       0.0 {score}
+  2018-09-08 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? No 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-09-08 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2018-09-08 : Tobacco smoking status NHIS              Former smoker 
+  2018-09-08 : High Density Lipoprotein Cholesterol     58.6 mg/dL
+  2018-09-08 : Low Density Lipoprotein Cholesterol      76.1 mg/dL
+  2018-09-08 : Triglycerides                            107.6 mg/dL
+  2018-09-08 : Total Cholesterol                        156.2 mg/dL
+  2018-09-08 : Carbon Dioxide                           24.5 mmol/L
+  2018-09-08 : Chloride                                 110.0 mmol/L
+  2018-09-08 : Potassium                                5.0 mmol/L
+  2018-09-08 : Sodium                                   136.8 mmol/L
+  2018-09-08 : Calcium                                  9.9 mg/dL
+  2018-09-08 : Creatinine                               0.9 mg/dL
+  2018-09-08 : Urea Nitrogen                            16.5 mg/dL
+  2018-09-08 : Glucose                                  84.5 mg/dL
+  2018-09-08 : Respiratory rate                         14.0 /min
+  2018-09-08 : Heart rate                               99.0 /min
+  2018-09-08 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2018-09-08 : Body Mass Index                          28.1 kg/m2
+  2018-09-08 : Body Weight                              74.9 kg
+  2018-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-09-08 : Body Height                              163.3 cm
+  2017-09-02 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2017-09-02 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-09-02 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2017-09-02 : Tobacco smoking status NHIS              Former smoker 
+  2017-09-02 : Carbon Dioxide                           22.9 mmol/L
+  2017-09-02 : Chloride                                 102.3 mmol/L
+  2017-09-02 : Potassium                                5.0 mmol/L
+  2017-09-02 : Sodium                                   136.8 mmol/L
+  2017-09-02 : Calcium                                  10.0 mg/dL
+  2017-09-02 : Creatinine                               0.9 mg/dL
+  2017-09-02 : Urea Nitrogen                            14.7 mg/dL
+  2017-09-02 : Glucose                                  68.9 mg/dL
+  2017-09-02 : Respiratory rate                         16.0 /min
+  2017-09-02 : Heart rate                               99.0 /min
+  2017-09-02 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2017-09-02 : Body Mass Index                          27.6 kg/m2
+  2017-09-02 : Body Weight                              73.7 kg
+  2017-09-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-09-02 : Body Height                              163.3 cm
+  2016-08-27 : Total score [AUDIT-C]                    0.0 {score}
+  2016-08-27 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2016-08-27 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2016-08-27 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2016-08-27 : Tobacco smoking status NHIS              Former smoker 
+  2016-08-27 : Carbon Dioxide                           24.1 mmol/L
+  2016-08-27 : Chloride                                 106.1 mmol/L
+  2016-08-27 : Potassium                                4.7 mmol/L
+  2016-08-27 : Sodium                                   137.7 mmol/L
+  2016-08-27 : Calcium                                  10.1 mg/dL
+  2016-08-27 : Creatinine                               1.0 mg/dL
+  2016-08-27 : Urea Nitrogen                            18.4 mg/dL
+  2016-08-27 : Glucose                                  76.8 mg/dL
+  2016-08-27 : Respiratory rate                         14.0 /min
+  2016-08-27 : Heart rate                               80.0 /min
+  2016-08-27 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2016-08-27 : Body Mass Index                          27.0 kg/m2
+  2016-08-27 : Body Weight                              72.0 kg
+  2016-08-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-08-27 : Body Height                              163.3 cm
+  2015-08-22 : Total score [DAST-10]                    1.0 {score}
+  2015-08-22 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2015-08-22 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-08-22 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2015-08-22 : Tobacco smoking status NHIS              Former smoker 
+  2015-08-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2015-08-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 285.0 fL
+  2015-08-22 : Platelets [#/volume] in Blood by Automated count 373.0 10*3/uL
+  2015-08-22 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2015-08-22 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2015-08-22 : MCH [Entitic mass] by Automated count    27.6 pg
+  2015-08-22 : MCV [Entitic volume] by Automated count  80.8 fL
+  2015-08-22 : Hematocrit [Volume Fraction] of Blood by Automated count 40.5 %
+  2015-08-22 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2015-08-22 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2015-08-22 : Leukocytes [#/volume] in Blood by Automated count 9.1 10*3/uL
+  2015-08-22 : High Density Lipoprotein Cholesterol     61.0 mg/dL
+  2015-08-22 : Low Density Lipoprotein Cholesterol      106.7 mg/dL
+  2015-08-22 : Triglycerides                            144.5 mg/dL
+  2015-08-22 : Total Cholesterol                        196.6 mg/dL
+  2015-08-22 : Carbon Dioxide                           27.9 mmol/L
+  2015-08-22 : Chloride                                 110.8 mmol/L
+  2015-08-22 : Potassium                                4.7 mmol/L
+  2015-08-22 : Sodium                                   140.7 mmol/L
+  2015-08-22 : Calcium                                  8.7 mg/dL
+  2015-08-22 : Creatinine                               0.9 mg/dL
+  2015-08-22 : Urea Nitrogen                            8.9 mg/dL
+  2015-08-22 : Glucose                                  79.4 mg/dL
+  2015-08-22 : Respiratory rate                         14.0 /min
+  2015-08-22 : Heart rate                               67.0 /min
+  2015-08-22 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2015-08-22 : Body Mass Index                          26.6 kg/m2
+  2015-08-22 : Body Weight                              71.0 kg
+  2015-08-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-08-22 : Body Height                              163.3 cm
+  2014-08-16 : Total score [AUDIT-C]                    2.0 {score}
+  2014-08-16 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2014-08-16 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-08-16 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2014-08-16 : Tobacco smoking status NHIS              Former smoker 
+  2014-08-16 : Carbon Dioxide                           28.3 mmol/L
+  2014-08-16 : Chloride                                 103.0 mmol/L
+  2014-08-16 : Potassium                                4.4 mmol/L
+  2014-08-16 : Sodium                                   141.2 mmol/L
+  2014-08-16 : Calcium                                  8.6 mg/dL
+  2014-08-16 : Creatinine                               1.2 mg/dL
+  2014-08-16 : Urea Nitrogen                            11.2 mg/dL
+  2014-08-16 : Glucose                                  99.3 mg/dL
+  2014-08-16 : Respiratory rate                         15.0 /min
+  2014-08-16 : Heart rate                               75.0 /min
+  2014-08-16 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2014-08-16 : Body Mass Index                          26.1 kg/m2
+  2014-08-16 : Body Weight                              69.6 kg
+  2014-08-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-08-16 : Body Height                              163.3 cm
+  2014-03-06 : Pain severity - Reported                 4.4 {score}
+  2014-03-03 : Pain severity - Reported                 1.6 {score}
+  2014-02-28 : Pain severity - Reported                 6.5 {score}
+  2014-02-25 : Pain severity - Reported                 2.5 {score}
+  2014-02-22 : Pain severity - Reported                 3.1 {score}
+  2014-02-19 : Pain severity - Reported                 5.3 {score}
+  2014-02-15 : Pain severity - Reported                 8.9 {score}
+  2014-02-12 : Pain severity - Reported                 9.7 {score}
+  2014-02-09 : Pain severity - Reported                 6.3 {score}
+  2014-02-06 : Pain severity - Reported                 1.1 {score}
+  2014-02-03 : Pain intensity, Enjoyment of life, General activity (PEG) 3 item pain scale
+           - What number best describes how, during the past week, pain has interfered with your general activity? 2.4 {score}
+           - What number best describes how, during the past week, pain has interfered with your enjoyment of life? 2.8 {score}
+           - What number best describes your pain on average in the past week? 8.7 {score}
+  2014-01-18 : Total score [DAST-10]                    2.0 {score}
+  2014-01-18 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2014-01-18 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2014-01-18 : Tobacco smoking status NHIS              Former smoker 
+  2014-01-18 : Carbon Dioxide                           25.8 mmol/L
+  2014-01-18 : Chloride                                 109.0 mmol/L
+  2014-01-18 : Potassium                                4.1 mmol/L
+  2014-01-18 : Sodium                                   141.5 mmol/L
+  2014-01-18 : Calcium                                  8.9 mg/dL
+  2014-01-18 : Creatinine                               0.9 mg/dL
+  2014-01-18 : Urea Nitrogen                            13.7 mg/dL
+  2014-01-18 : Glucose                                  87.1 mg/dL
+  2014-01-18 : Respiratory rate                         14.0 /min
+  2014-01-18 : Heart rate                               97.0 /min
+  2014-01-18 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2014-01-18 : Body Mass Index                          25.4 kg/m2
+  2014-01-18 : Body Weight                              67.7 kg
+  2014-01-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-01-18 : Body Height                              163.3 cm
+  2014-01-10 : Body temperature                         37.4 Cel
+  2013-08-10 : Total score [DAST-10]                    1.0 {score}
+  2013-08-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2013-08-10 : Total score [HARK]                       0.0 {score}
+  2013-08-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 8.0 {score}
+  2013-08-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2013-08-10 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2013-08-10 : Tobacco smoking status NHIS              Former smoker 
+  2013-08-10 : Carbon Dioxide                           28.8 mmol/L
+  2013-08-10 : Chloride                                 107.6 mmol/L
+  2013-08-10 : Potassium                                5.2 mmol/L
+  2013-08-10 : Sodium                                   136.9 mmol/L
+  2013-08-10 : Calcium                                  9.5 mg/dL
+  2013-08-10 : Creatinine                               1.5 mg/dL
+  2013-08-10 : Urea Nitrogen                            12.4 mg/dL
+  2013-08-10 : Glucose                                  78.3 mg/dL
+  2013-08-10 : Respiratory rate                         14.0 /min
+  2013-08-10 : Heart rate                               92.0 /min
+  2013-08-10 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2013-08-10 : Body Mass Index                          25.4 kg/m2
+  2013-08-10 : Body Weight                              67.7 kg
+  2013-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-08-10 : Body Height                              163.3 cm
+  2012-08-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-08-04 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2012-08-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Phone 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 111070 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             689 Johnston Alley Unit 70 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2012-08-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2012-08-04 : Tobacco smoking status NHIS              Former smoker 
+  2012-08-04 : High Density Lipoprotein Cholesterol     57.4 mg/dL
+  2012-08-04 : Low Density Lipoprotein Cholesterol      66.7 mg/dL
+  2012-08-04 : Triglycerides                            119.2 mg/dL
+  2012-08-04 : Total Cholesterol                        148.0 mg/dL
+  2012-08-04 : Carbon Dioxide                           25.4 mmol/L
+  2012-08-04 : Chloride                                 104.2 mmol/L
+  2012-08-04 : Potassium                                4.6 mmol/L
+  2012-08-04 : Sodium                                   137.9 mmol/L
+  2012-08-04 : Calcium                                  9.7 mg/dL
+  2012-08-04 : Creatinine                               0.8 mg/dL
+  2012-08-04 : Urea Nitrogen                            15.1 mg/dL
+  2012-08-04 : Glucose                                  75.3 mg/dL
+  2012-08-04 : Respiratory rate                         13.0 /min
+  2012-08-04 : Heart rate                               91.0 /min
+  2012-08-04 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2012-08-04 : Body Mass Index                          24.8 kg/m2
+  2012-08-04 : Body Weight                              66.2 kg
+  2012-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-08-04 : Body Height                              163.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2022-04-09 : Auscultation of the fetal heart for Normal pregnancy
+  2022-04-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-04-09 : Urine screening for glucose for Normal pregnancy
+  2022-04-09 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2022-04-09 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2022-03-12 : Auscultation of the fetal heart for Normal pregnancy
+  2022-03-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-02-12 : Auscultation of the fetal heart for Normal pregnancy
+  2022-02-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-01-15 : Auscultation of the fetal heart for Normal pregnancy
+  2022-01-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2022-01-15 : Alpha-fetoprotein test for Normal pregnancy
+  2022-01-15 : Fetal anatomy study for Normal pregnancy
+  2021-12-18 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2021-12-18 : Auscultation of the fetal heart for Normal pregnancy
+  2021-12-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-11-20 : Physical examination of mother for Normal pregnancy
+  2021-11-20 : Urine protein test for Normal pregnancy
+  2021-11-20 : Skin test for tuberculosis for Normal pregnancy
+  2021-11-20 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2021-11-20 : Rubella screening for Normal pregnancy
+  2021-11-20 : Hepatitis C antibody test for Normal pregnancy
+  2021-11-20 : Urine screening test for diabetes for Normal pregnancy
+  2021-11-20 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2021-11-20 : Urine culture for Normal pregnancy
+  2021-11-20 : Syphilis infection test for Normal pregnancy
+  2021-11-20 : Gonorrhea infection test for Normal pregnancy
+  2021-11-20 : Chlamydia antigen test for Normal pregnancy
+  2021-11-20 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2021-11-20 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2021-11-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2021-11-20 : Blood typing, RH typing for Normal pregnancy
+  2021-11-20 : Auscultation of the fetal heart for Normal pregnancy
+  2021-11-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2021-11-20 : Ultrasound scan for fetal viability for Normal pregnancy
+  2021-11-20 : Standard pregnancy test for Normal pregnancy
+  2021-09-25 : Assessment of anxiety (procedure)
+  2021-09-25 : Assessment of health and social care needs (procedure)
+  2021-09-25 : Removal of subcutaneous contraceptive
+  2020-09-19 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2020-09-19 : Assessment of substance use (procedure)
+  2020-09-19 : Assessment of anxiety (procedure)
+  2020-09-19 : Assessment of health and social care needs (procedure)
+  2019-09-14 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2019-09-14 : Depression screening (procedure)
+  2019-09-14 : Assessment of health and social care needs (procedure)
+  2019-02-16 : Insertion of intrauterine contraceptive device
+  2018-09-08 : Screening for domestic abuse (procedure)
+  2018-09-08 : Assessment of health and social care needs (procedure)
+  2018-02-17 : Insertion of subcutaneous contraceptive
+  2018-02-17 : Depression screening
+  2018-02-17 : Physical examination following birth
+  2018-01-06 : Childbirth for Normal pregnancy
+  2018-01-06 : Medical induction of labor for Normal pregnancy
+  2017-12-30 : Auscultation of the fetal heart for Normal pregnancy
+  2017-12-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-16 : Auscultation of the fetal heart for Normal pregnancy
+  2017-12-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-16 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-11-18 : Auscultation of the fetal heart for Normal pregnancy
+  2017-11-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-21 : Auscultation of the fetal heart for Normal pregnancy
+  2017-10-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-21 : Urine screening for glucose for Normal pregnancy
+  2017-10-21 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-10-21 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-09-23 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-09-02 : Assessment of anxiety (procedure)
+  2017-09-02 : Medication Reconciliation (procedure)
+  2017-09-02 : Assessment of health and social care needs (procedure)
+  2017-08-26 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-29 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-07-29 : Alpha-fetoprotein test for Normal pregnancy
+  2017-07-29 : Fetal anatomy study for Normal pregnancy
+  2017-07-01 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-07-01 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-03 : Physical examination of mother for Normal pregnancy
+  2017-06-03 : Urine protein test for Normal pregnancy
+  2017-06-03 : Skin test for tuberculosis for Normal pregnancy
+  2017-06-03 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-06-03 : Rubella screening for Normal pregnancy
+  2017-06-03 : Hepatitis C antibody test for Normal pregnancy
+  2017-06-03 : Urine screening test for diabetes for Normal pregnancy
+  2017-06-03 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-06-03 : Urine culture for Normal pregnancy
+  2017-06-03 : Syphilis infection test for Normal pregnancy
+  2017-06-03 : Gonorrhea infection test for Normal pregnancy
+  2017-06-03 : Chlamydia antigen test for Normal pregnancy
+  2017-06-03 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-06-03 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-06-03 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-06-03 : Blood typing, RH typing for Normal pregnancy
+  2017-06-03 : Auscultation of the fetal heart for Normal pregnancy
+  2017-06-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-03 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-06-03 : Standard pregnancy test for Normal pregnancy
+  2017-04-08 : Removal of intrauterine device
+  2017-02-02 : Insertion of intrauterine contraceptive device
+  2016-08-27 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2016-08-27 : Assessment of substance use (procedure)
+  2016-08-27 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2016-08-27 : Depression screening (procedure)
+  2016-08-27 : Assessment of health and social care needs (procedure)
+  2016-02-05 : Insertion of intrauterine contraceptive device
+  2015-08-22 : Screening for drug abuse (procedure)
+  2015-08-22 : Assessment of substance use (procedure)
+  2015-08-22 : Assessment of anxiety (procedure)
+  2015-08-22 : Assessment of health and social care needs (procedure)
+  2014-08-16 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2014-08-16 : Assessment of substance use (procedure)
+  2014-08-16 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2014-08-16 : Depression screening (procedure)
+  2014-08-16 : Assessment of health and social care needs (procedure)
+  2014-03-06 : Movement therapy (regime/therapy)
+  2014-03-03 : Movement therapy (regime/therapy)
+  2014-02-28 : Movement therapy (regime/therapy)
+  2014-02-25 : Movement therapy (regime/therapy)
+  2014-02-22 : Movement therapy (regime/therapy)
+  2014-02-18 : Movement therapy (regime/therapy)
+  2014-02-15 : Movement therapy (regime/therapy)
+  2014-02-12 : Movement therapy (regime/therapy)
+  2014-02-09 : Movement therapy (regime/therapy)
+  2014-02-06 : Movement therapy (regime/therapy)
+  2014-01-18 : Screening for drug abuse (procedure)
+  2014-01-18 : Assessment of substance use (procedure)
+  2014-01-18 : Assessment of health and social care needs (procedure)
+  2014-01-10 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2013-08-10 : Screening for drug abuse (procedure)
+  2013-08-10 : Assessment of substance use (procedure)
+  2013-08-10 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2013-08-10 : Depression screening (procedure)
+  2013-08-10 : Screening for domestic abuse (procedure)
+  2013-08-10 : Assessment of anxiety (procedure)
+  2013-08-10 : Assessment of health and social care needs (procedure)
+  2012-08-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2012-08-04 : Depression screening (procedure)
+  2012-08-04 : Assessment of anxiety (procedure)
+  2012-08-04 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-09-25 : Influenza, seasonal, injectable, preservative free
+  2021-01-30 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-01-02 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2020-09-19 : Hep A, adult
+  2020-09-19 : Td (adult) preservative free
+  2020-09-19 : Influenza, seasonal, injectable, preservative free
+  2019-09-14 : Hep A, adult
+  2019-09-14 : Influenza, seasonal, injectable, preservative free
+  2018-09-08 : Influenza, seasonal, injectable, preservative free
+  2017-09-02 : Influenza, seasonal, injectable, preservative free
+  2016-08-27 : Influenza, seasonal, injectable, preservative free
+  2015-08-22 : Influenza, seasonal, injectable, preservative free
+  2014-01-18 : Influenza, seasonal, injectable, preservative free
+  2013-08-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2022-04-09 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2022-03-12 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2022-02-12 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2022-01-15 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2021-12-18 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2021-11-20 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2021-09-25 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2021-09-25 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2021-01-30 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2021-01-02 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2020-09-19 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2019-09-14 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2019-02-16 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2019-02-12 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-12-14 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2018-09-08 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2018-02-17 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-02-17 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2018-01-06 (Dr. Hal307 Renner328) : Encounter at GOOD SAMARITAN MEDICAL CENTER : Encounter for Normal pregnancy
+2017-12-30 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2017-12-16 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2017-11-18 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2017-10-21 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2017-09-23 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2017-09-02 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2017-08-26 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2017-07-29 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2017-07-01 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2017-06-03 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2017-04-08 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-02-02 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2017-01-30 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-11-25 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Viral sinusitis (disorder)
+2016-08-27 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2016-02-05 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2016-02-03 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2015-08-22 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2014-08-16 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2014-03-06 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-03-03 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-02-28 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-02-25 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-02-22 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-02-18 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-02-15 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-02-13 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-02-12 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-02-09 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-02-06 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-02-03 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-01-18 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2014-01-10 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Acute viral pharyngitis (disorder)
+2013-08-10 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2012-08-04 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2012-02-24 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-12-17 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL
+2011-07-30 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2010-07-24 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2009-07-18 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2009-06-13 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+2008-07-12 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2007-07-07 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2006-07-01 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2005-06-25 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2004-06-19 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2003-06-14 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2002-06-08 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2001-06-02 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Anemia (disorder)
+2001-06-02 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+2000-05-27 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+1999-05-22 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+1998-05-16 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+1997-06-09 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Hypertension
+1997-05-10 (Dr. Nannie905 Metz686) : Encounter at STEWARD MEDICAL GROUP, INC
+1996-04-20 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Normal pregnancy
+1980-12-07 (Dr. Louetta798 Thompson596) : Encounter at SIGNATURE HEALTHCARE BROCKTON HOSPITAL : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

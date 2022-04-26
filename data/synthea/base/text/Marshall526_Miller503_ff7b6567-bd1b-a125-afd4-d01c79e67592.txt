@@ -1,0 +1,375 @@
+Marshall526 Miller503
+=====================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 28
+Birth Date:          1993-09-11
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-07-27[STOPPED] : Yaz 28 Day Pack
+  2014-08-05[STOPPED] : Trinessa 28 Day Pack
+  2012-08-15[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2011-08-21[STOPPED] : Etonogestrel 68 MG Drug Implant
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-11-20 -            : Victim of intimate partner abuse (finding)
+  2021-11-20 -            : Stress (finding)
+  2021-11-20 -            : Full-time employment (finding)
+  2021-04-04 - 2021-04-20 : Viral sinusitis (disorder)
+  2018-11-17 - 2021-11-20 : Misuses drugs (finding)
+  2018-11-17 - 2021-11-20 : Limited social contact (finding)
+  2018-11-17 - 2021-11-20 : Not in labor force (finding)
+  2015-11-14 - 2018-11-17 : Full-time employment (finding)
+  2015-11-21 - 2016-06-25 : Normal pregnancy
+  2014-04-24 - 2014-05-05 : Viral sinusitis (disorder)
+  2013-12-21 - 2013-12-30 : Blighted ovum
+  2013-12-21 -            : Miscarriage in first trimester
+  2013-12-21 - 2013-12-30 : Normal pregnancy
+  2012-11-10 - 2015-11-14 : Full-time employment (finding)
+  2011-11-05 - 2012-11-10 : Stress (finding)
+  2011-11-05 - 2012-11-10 : Full-time employment (finding)
+  2011-11-05 -            : Only received primary school education (finding)
+  2006-10-07 -            : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-07-31[STOPPED] : Minor surgery care management (procedure)
+                         Activity: Recommendation to rest
+                         Activity: Recommendation to limit sexual activity
+  2015-11-21[STOPPED] : Routine antenatal care
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-11-20 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2021-11-20 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-11-20 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2021-11-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.1 %
+           - MCV [Entitic volume] by Automated count  86.5 fL
+           - MCH [Entitic mass] by Automated count    29.0 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+           - Platelets [#/volume] in Blood by Automated count 250.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 498.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2018-11-17 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    9.0 {score}
+  2018-11-17 : Humiliation, Afraid, Rape, and Kick questionnaire [HARK]
+           - Total score [HARK]                       0.0 {score}
+  2018-11-17 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2015-11-14 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2015-11-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+           - MCV [Entitic volume] by Automated count  94.8 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 223.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 455.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2012-11-10 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-11-10 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-11-20 : Total score [DAST-10]                    1.0 {score}
+  2021-11-20 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 2.0 {score}
+  2021-11-20 : Total score [HARK]                       0.0 {score}
+  2021-11-20 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 321546 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             398 Fadel Quay 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-11-20 : Tobacco smoking status NHIS              Never smoker 
+  2021-11-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2021-11-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 498.5 fL
+  2021-11-20 : Platelets [#/volume] in Blood by Automated count 250.3 10*3/uL
+  2021-11-20 : Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+  2021-11-20 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2021-11-20 : MCH [Entitic mass] by Automated count    29.0 pg
+  2021-11-20 : MCV [Entitic volume] by Automated count  86.5 fL
+  2021-11-20 : Hematocrit [Volume Fraction] of Blood by Automated count 42.1 %
+  2021-11-20 : Hemoglobin [Mass/volume] in Blood        16.5 g/dL
+  2021-11-20 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2021-11-20 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2021-11-20 : Respiratory rate                         13.0 /min
+  2021-11-20 : Heart rate                               78.0 /min
+  2021-11-20 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2021-11-20 : Body Mass Index                          28.8 kg/m2
+  2021-11-20 : Body Weight                              76.4 kg
+  2021-11-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2021-11-20 : Body Height                              162.8 cm
+  2018-11-17 : Total score [DAST-10]                    9.0 {score}
+  2018-11-17 : Total score [HARK]                       0.0 {score}
+  2018-11-17 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 0.0 {score}
+  2018-11-17 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 1 or 2 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 321546 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Otherwise unemployed but not seeking work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             398 Fadel Quay 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2018-11-17 : Tobacco smoking status NHIS              Never smoker 
+  2018-11-17 : Respiratory rate                         13.0 /min
+  2018-11-17 : Heart rate                               76.0 /min
+  2018-11-17 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2018-11-17 : Body Mass Index                          26.9 kg/m2
+  2018-11-17 : Body Weight                              71.2 kg
+  2018-11-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-11-17 : Body Height                              162.8 cm
+  2015-11-14 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2015-11-14 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Childcare 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 321546 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             398 Fadel Quay 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-11-14 : Tobacco smoking status NHIS              Never smoker 
+  2015-11-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2015-11-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 455.4 fL
+  2015-11-14 : Platelets [#/volume] in Blood by Automated count 223.4 10*3/uL
+  2015-11-14 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2015-11-14 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2015-11-14 : MCH [Entitic mass] by Automated count    31.7 pg
+  2015-11-14 : MCV [Entitic volume] by Automated count  94.8 fL
+  2015-11-14 : Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+  2015-11-14 : Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+  2015-11-14 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2015-11-14 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2015-11-14 : Respiratory rate                         13.0 /min
+  2015-11-14 : Heart rate                               90.0 /min
+  2015-11-14 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2015-11-14 : Body Mass Index                          25.3 kg/m2
+  2015-11-14 : Body Weight                              67.0 kg
+  2015-11-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-11-14 : Body Height                              162.8 cm
+  2012-11-10 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-11-10 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 3.0 {score}
+  2012-11-10 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 321546 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? Less than high school degree 
+           - What address do you live at?             398 Fadel Quay 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2012-11-10 : Tobacco smoking status NHIS              Never smoker 
+  2012-11-10 : Respiratory rate                         15.0 /min
+  2012-11-10 : Heart rate                               74.0 /min
+  2012-11-10 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2012-11-10 : Body mass index (BMI) [Percentile] Per age and gender 78.5 %
+  2012-11-10 : Body Mass Index                          24.8 kg/m2
+  2012-11-10 : Body Weight                              65.6 kg
+  2012-11-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-11-10 : Body Height                              162.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-11-20 : Screening for drug abuse (procedure)
+  2021-11-20 : Assessment of substance use (procedure)
+  2021-11-20 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-11-20 : Depression screening (procedure)
+  2021-11-20 : Screening for domestic abuse (procedure)
+  2021-11-20 : Medication Reconciliation (procedure)
+  2021-11-20 : Assessment of health and social care needs (procedure)
+  2019-07-31 : Bilateral tubal ligation
+  2018-11-17 : Screening for drug abuse (procedure)
+  2018-11-17 : Assessment of substance use (procedure)
+  2018-11-17 : Screening for domestic abuse (procedure)
+  2018-11-17 : Assessment of anxiety (procedure)
+  2018-11-17 : Assessment of health and social care needs (procedure)
+  2016-08-06 : Depression screening
+  2016-08-06 : Physical examination following birth
+  2016-08-06 : RhD passive immunization
+  2016-06-25 : Childbirth for Normal pregnancy
+  2016-06-18 : Auscultation of the fetal heart for Normal pregnancy
+  2016-06-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-04 : Auscultation of the fetal heart for Normal pregnancy
+  2016-06-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-04 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-05-07 : Auscultation of the fetal heart for Normal pregnancy
+  2016-05-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-09 : Auscultation of the fetal heart for Normal pregnancy
+  2016-04-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-04-09 : Urine screening for glucose for Normal pregnancy
+  2016-04-09 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-04-09 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-04-09 : RhD passive immunization for Normal pregnancy
+  2016-04-09 : Antenatal RhD antibody screening for Normal pregnancy
+  2016-03-12 : Auscultation of the fetal heart for Normal pregnancy
+  2016-03-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-02-13 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-16 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-16 : Alpha-fetoprotein test for Normal pregnancy
+  2016-01-16 : Fetal anatomy study for Normal pregnancy
+  2015-12-19 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-12-19 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-14 : Assessment of anxiety (procedure)
+  2015-11-21 : Physical examination of mother for Normal pregnancy
+  2015-11-21 : Urine protein test for Normal pregnancy
+  2015-11-21 : Skin test for tuberculosis for Normal pregnancy
+  2015-11-21 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-11-21 : Rubella screening for Normal pregnancy
+  2015-11-21 : Hepatitis C antibody test for Normal pregnancy
+  2015-11-21 : Urine screening test for diabetes for Normal pregnancy
+  2015-11-21 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-11-21 : Urine culture for Normal pregnancy
+  2015-11-21 : Syphilis infection test for Normal pregnancy
+  2015-11-21 : Gonorrhea infection test for Normal pregnancy
+  2015-11-21 : Chlamydia antigen test for Normal pregnancy
+  2015-11-21 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-11-21 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-11-21 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-11-21 : Blood typing, RH typing for Normal pregnancy
+  2015-11-21 : Auscultation of the fetal heart for Normal pregnancy
+  2015-11-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-21 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-11-21 : Standard pregnancy test for Normal pregnancy
+  2015-11-14 : Assessment of health and social care needs (procedure)
+  2013-12-30 : Depression screening for Normal pregnancy
+  2013-12-30 : Physical examination for Normal pregnancy
+  2013-12-30 : RhD passive immunization for Normal pregnancy
+  2013-12-21 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-12-21 : Standard pregnancy test for Normal pregnancy
+  2013-10-26 : Removal of subcutaneous contraceptive
+  2012-11-10 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2012-11-10 : Depression screening (procedure)
+  2012-11-10 : Assessment of anxiety (procedure)
+  2012-11-10 : Assessment of health and social care needs (procedure)
+  2012-08-15 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-20 : Influenza, seasonal, injectable, preservative free
+  2021-02-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-01-23 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2018-11-17 : Influenza, seasonal, injectable, preservative free
+  2015-11-14 : meningococcal MCV4P
+  2015-11-14 : Hep B, adult
+  2015-11-14 : Td (adult) preservative free
+  2015-11-14 : Influenza, seasonal, injectable, preservative free
+  2012-11-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-20 (Dr. Jan231 Block661) : Encounter at PCP231204
+2021-04-04 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Viral sinusitis (disorder)
+2021-02-13 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL
+2021-01-23 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL
+2019-07-31 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL
+2019-07-22 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL
+2018-11-17 (Dr. Jan231 Block661) : Encounter at PCP231204
+2018-07-27 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL
+2016-08-06 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL
+2016-06-25 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2016-06-18 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2016-06-04 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2016-05-07 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2016-04-09 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2016-03-12 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2016-02-13 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2016-01-16 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2015-12-19 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2015-11-21 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2015-11-14 (Dr. Jan231 Block661) : Encounter at PCP231204
+2014-08-05 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL
+2014-04-24 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Viral sinusitis (disorder)
+2013-12-30 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Blighted ovum
+2013-12-21 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL : Encounter for Normal pregnancy
+2013-10-26 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL
+2012-11-10 (Dr. Jan231 Block661) : Encounter at PCP231204
+2012-08-15 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL
+2011-11-05 (Dr. Jan231 Block661) : Encounter at PCP231204
+2011-08-21 (Dr. Lorenza655 Ziemann98) : Encounter at NOBLE HOSPITAL
+2006-10-07 (Dr. Jan231 Block661) : Encounter at PCP231204
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

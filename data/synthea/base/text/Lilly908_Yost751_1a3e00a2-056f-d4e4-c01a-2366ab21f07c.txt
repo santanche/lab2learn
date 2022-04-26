@@ -1,0 +1,387 @@
+Lilly908 Yost751
+================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 37
+Birth Date:          1984-05-16
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2021-10-17[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2021-08-29[CURRENT] : Seasonique 91 Day Pack
+  2020-09-03[STOPPED] : Natazia 28 Day Pack
+  2020-02-14[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2018-09-14[STOPPED] : Jolivette 28 Day Pack
+  2016-09-20[STOPPED] : Mirena 52 MG Intrauterine System
+  2014-10-01[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2013-10-06[STOPPED] : 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-10-27 -            : Full-time employment (finding)
+  2021-10-17 - 2021-10-24 : Acute bronchitis (disorder)
+  2021-08-04 - 2021-10-27 : Full-time employment (finding)
+  2020-02-14 - 2020-02-22 : Streptococcal sore throat (disorder)
+  2018-08-01 - 2021-08-04 : Part-time employment (finding)
+  2015-10-14 - 2015-11-05 : Viral sinusitis (disorder)
+  2015-07-29 - 2021-10-27 : Stress (finding)
+  2015-07-29 - 2018-08-01 : Full-time employment (finding)
+  2015-07-29 -            : Body mass index 30+ - obesity (finding)
+  2012-07-25 - 2015-07-29 : Full-time employment (finding)
+  2009-07-22 - 2021-10-27 : Limited social contact (finding)
+  2009-07-22 - 2012-07-25 : Part-time employment (finding)
+  2003-07-16 -            : Has a criminal record (finding)
+  2003-07-16 - 2012-07-25 : Stress (finding)
+  2003-07-16 - 2006-07-19 : Full-time employment (finding)
+  2002-07-10 - 2003-07-16 : Full-time employment (finding)
+  2002-07-10 -            : Received higher education (finding)
+  1989-05-19 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2021-10-17[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2021-10-27 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    2.0 {score}
+  2021-10-27 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-08-04 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    0.0 {score}
+  2021-08-04 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-08-04 : Lipid Panel
+           - Total Cholesterol                        268.4 mg/dL
+           - Triglycerides                            147.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      189.2 mg/dL
+           - High Density Lipoprotein Cholesterol     49.8 mg/dL
+  2018-08-01 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2018-08-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2018-08-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+           - MCV [Entitic volume] by Automated count  92.0 fL
+           - MCH [Entitic mass] by Automated count    29.1 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+           - Platelets [#/volume] in Blood by Automated count 413.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 438.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2018-08-01 : Lipid Panel
+           - Total Cholesterol                        269.1 mg/dL
+           - Triglycerides                            123.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      184.4 mg/dL
+           - High Density Lipoprotein Cholesterol     60.1 mg/dL
+  2015-07-29 : Drug Abuse Screening Test-10 [DAST-10]
+           - Total score [DAST-10]                    1.0 {score}
+  2015-07-29 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2015-07-29 : Lipid Panel
+           - Total Cholesterol                        265.5 mg/dL
+           - Triglycerides                            120.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      179.7 mg/dL
+           - High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2012-07-25 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    0.0 {score}
+  2012-07-25 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-07-25 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2012-07-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+           - MCV [Entitic volume] by Automated count  80.6 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 315.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 228.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-10-27 : Total score [DAST-10]                    2.0 {score}
+  2021-10-27 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2021-10-27 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Medicine or Any Health Care 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 6065 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             631 Schroeder Mall Suite 56 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2021-10-27 : Tobacco smoking status NHIS              Never smoker 
+  2021-10-27 : Respiratory rate                         15.0 /min
+  2021-10-27 : Heart rate                               98.0 /min
+  2021-10-27 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2021-10-27 : Body Mass Index                          28.5 kg/m2
+  2021-10-27 : Body Weight                              67.8 kg
+  2021-10-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2021-10-27 : Body Height                              154.2 cm
+  2021-08-04 : Total score [DAST-10]                    0.0 {score}
+  2021-08-04 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2021-08-04 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 6065 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             631 Schroeder Mall Suite 56 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2021-08-04 : Tobacco smoking status NHIS              Never smoker 
+  2021-08-04 : High Density Lipoprotein Cholesterol     49.8 mg/dL
+  2021-08-04 : Low Density Lipoprotein Cholesterol      189.2 mg/dL
+  2021-08-04 : Triglycerides                            147.4 mg/dL
+  2021-08-04 : Total Cholesterol                        268.4 mg/dL
+  2021-08-04 : Respiratory rate                         15.0 /min
+  2021-08-04 : Heart rate                               63.0 /min
+  2021-08-04 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2021-08-04 : Body Mass Index                          28.4 kg/m2
+  2021-08-04 : Body Weight                              67.4 kg
+  2021-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2021-08-04 : Body Height                              154.2 cm
+  2020-02-14 : Body temperature                         38.1 Cel
+  2018-08-01 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2018-08-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 4.0 {score}
+  2018-08-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? A little bit 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 6065 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Part-time or temporary work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             631 Schroeder Mall Suite 56 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2018-08-01 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2018-08-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 438.3 fL
+  2018-08-01 : Platelets [#/volume] in Blood by Automated count 413.2 10*3/uL
+  2018-08-01 : Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+  2018-08-01 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2018-08-01 : MCH [Entitic mass] by Automated count    29.1 pg
+  2018-08-01 : MCV [Entitic volume] by Automated count  92.0 fL
+  2018-08-01 : Hematocrit [Volume Fraction] of Blood by Automated count 45.2 %
+  2018-08-01 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2018-08-01 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2018-08-01 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  2018-08-01 : High Density Lipoprotein Cholesterol     60.1 mg/dL
+  2018-08-01 : Low Density Lipoprotein Cholesterol      184.4 mg/dL
+  2018-08-01 : Triglycerides                            123.2 mg/dL
+  2018-08-01 : Total Cholesterol                        269.1 mg/dL
+  2018-08-01 : Respiratory rate                         13.0 /min
+  2018-08-01 : Heart rate                               72.0 /min
+  2018-08-01 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2018-08-01 : Body Mass Index                          30.3 kg/m2
+  2018-08-01 : Body Weight                              72.1 kg
+  2018-08-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-08-01 : Body Height                              154.2 cm
+  2015-07-29 : Total score [DAST-10]                    1.0 {score}
+  2015-07-29 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2015-07-29 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 6065 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             631 Schroeder Mall Suite 56 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2015-07-29 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-29 : High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2015-07-29 : Low Density Lipoprotein Cholesterol      179.7 mg/dL
+  2015-07-29 : Triglycerides                            120.2 mg/dL
+  2015-07-29 : Total Cholesterol                        265.5 mg/dL
+  2015-07-29 : Respiratory rate                         14.0 /min
+  2015-07-29 : Heart rate                               83.0 /min
+  2015-07-29 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2015-07-29 : Body Mass Index                          30.3 kg/m2
+  2015-07-29 : Body Weight                              72.1 kg
+  2015-07-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2015-07-29 : Body Height                              154.2 cm
+  2012-07-25 : Total score [AUDIT-C]                    0.0 {score}
+  2012-07-25 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2012-07-25 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 2.0 {score}
+  2012-07-25 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Yes 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Utilities 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 6065 /a
+           - What is your main insurance?             Medicaid 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             631 Schroeder Mall Suite 56 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 3.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   Black/African American 
+           - Are you Hispanic or Latino?              No 
+  2012-07-25 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2012-07-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 228.0 fL
+  2012-07-25 : Platelets [#/volume] in Blood by Automated count 315.9 10*3/uL
+  2012-07-25 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2012-07-25 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2012-07-25 : MCH [Entitic mass] by Automated count    27.8 pg
+  2012-07-25 : MCV [Entitic volume] by Automated count  80.6 fL
+  2012-07-25 : Hematocrit [Volume Fraction] of Blood by Automated count 46.9 %
+  2012-07-25 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  2012-07-25 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2012-07-25 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2012-07-25 : Respiratory rate                         13.0 /min
+  2012-07-25 : Heart rate                               86.0 /min
+  2012-07-25 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2012-07-25 : Body Mass Index                          29.0 kg/m2
+  2012-07-25 : Body Weight                              69.1 kg
+  2012-07-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-07-25 : Body Height                              154.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-10-27 : Screening for drug abuse (procedure)
+  2021-10-27 : Assessment of substance use (procedure)
+  2021-10-27 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-10-27 : Depression screening (procedure)
+  2021-10-27 : Assessment of health and social care needs (procedure)
+  2021-08-04 : Screening for drug abuse (procedure)
+  2021-08-04 : Assessment of substance use (procedure)
+  2021-08-04 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2021-08-04 : Depression screening (procedure)
+  2021-08-04 : Medication Reconciliation (procedure)
+  2021-08-04 : Assessment of health and social care needs (procedure)
+  2018-10-10 : Insertion of subcutaneous contraceptive
+  2018-10-10 : Removal of subcutaneous contraceptive
+  2018-08-01 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2018-08-01 : Depression screening (procedure)
+  2018-08-01 : Assessment of anxiety (procedure)
+  2018-08-01 : Assessment of health and social care needs (procedure)
+  2016-09-23 : Insertion of intrauterine contraceptive device
+  2015-07-29 : Screening for drug abuse (procedure)
+  2015-07-29 : Assessment of substance use (procedure)
+  2015-07-29 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2015-07-29 : Depression screening (procedure)
+  2015-07-29 : Medication Reconciliation (procedure)
+  2015-07-29 : Assessment of health and social care needs (procedure)
+  2014-10-01 : Insertion of subcutaneous contraceptive
+  2012-07-25 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2012-07-25 : Assessment of substance use (procedure)
+  2012-07-25 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2012-07-25 : Depression screening (procedure)
+  2012-07-25 : Assessment of anxiety (procedure)
+  2012-07-25 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-10 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-10-27 : Influenza, seasonal, injectable, preservative free
+  2021-10-13 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 100 mcg/0.5mL dose
+  2021-08-04 : Influenza, seasonal, injectable, preservative free
+  2018-08-01 : Influenza, seasonal, injectable, preservative free
+  2015-07-29 : Td (adult) preservative free
+  2015-07-29 : Influenza, seasonal, injectable, preservative free
+  2012-07-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-10 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2021-10-27 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2021-10-17 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Acute bronchitis (disorder)
+2021-10-13 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2021-08-29 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2021-08-04 (Dr. Alina705 Hettinger594) : Encounter at COMMUNITY PHYSICIANS ASSOC INC
+2020-09-03 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2020-02-14 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Streptococcal sore throat (disorder)
+2018-10-10 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2018-09-14 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2018-08-01 (Dr. Alina705 Hettinger594) : Encounter at COMMUNITY PHYSICIANS ASSOC INC
+2016-09-23 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2016-09-20 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2015-10-14 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Viral sinusitis (disorder)
+2015-07-29 (Dr. Alina705 Hettinger594) : Encounter at COMMUNITY PHYSICIANS ASSOC INC
+2014-10-01 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2013-10-06 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL
+2012-07-25 (Dr. Alina705 Hettinger594) : Encounter at COMMUNITY PHYSICIANS ASSOC INC
+2009-07-22 (Dr. Alina705 Hettinger594) : Encounter at COMMUNITY PHYSICIANS ASSOC INC
+2003-07-16 (Dr. Alina705 Hettinger594) : Encounter at COMMUNITY PHYSICIANS ASSOC INC
+2002-07-10 (Dr. Alina705 Hettinger594) : Encounter at COMMUNITY PHYSICIANS ASSOC INC
+1989-05-19 (Dr. Amira620 Nienow652) : Encounter at SOUTH SHORE HOSPITAL : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

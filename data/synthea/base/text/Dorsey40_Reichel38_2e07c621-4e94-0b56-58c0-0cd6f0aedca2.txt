@@ -1,0 +1,279 @@
+Dorsey40 Reichel38
+==================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 44
+Birth Date:          1977-10-21
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-10-30[STOPPED] : Alteplase 100 MG Injection
+  2020-10-30[STOPPED] : Clopidogrel 75 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2021-11-05 -            : Victim of intimate partner abuse (finding)
+  2021-11-05 -            : Stress (finding)
+  2021-11-05 -            : Full-time employment (finding)
+  2020-10-30 -            : Stroke
+  2019-11-01 - 2021-11-05 : Full-time employment (finding)
+  2017-10-27 - 2019-11-01 : Stress (finding)
+  2017-10-27 - 2019-11-01 : Full-time employment (finding)
+  2015-01-09 - 2017-10-27 : Full-time employment (finding)
+  2015-01-09 -            : Body mass index 30+ - obesity (finding)
+  2012-01-06 - 2015-01-09 : Full-time employment (finding)
+  2009-06-12 - 2012-01-06 : Victim of intimate partner abuse (finding)
+  2009-06-12 - 2012-01-06 : Full-time employment (finding)
+  2009-01-02 - 2015-01-09 : Stress (finding)
+  2009-01-02 - 2009-06-12 : Full-time employment (finding)
+  2005-12-30 - 2009-01-02 : Full-time employment (finding)
+  2002-12-27 - 2005-12-30 : Full-time employment (finding)
+  1998-01-16 - 2005-12-30 : Stress (finding)
+  1998-01-16 - 1999-12-24 : Full-time employment (finding)
+  1995-12-15 - 2021-11-05 : Limited social contact (finding)
+  1995-12-15 -            : Received higher education (finding)
+  1994-12-09 -            : Risk activity involvement (finding)
+  1991-11-22 - 1993-12-03 : Risk activity involvement (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-11-01 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    2.0 {score}
+  2019-11-01 : Generalized anxiety disorder 7 item (GAD-7)
+           - Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-11-01 : Lipid Panel
+           - Total Cholesterol                        129.9 mg/dL
+           - Triglycerides                            121.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      73.0 mg/dL
+           - High Density Lipoprotein Cholesterol     32.6 mg/dL
+  2017-10-27 : Alcohol Use Disorder Identification Test - Consumption [AUDIT-C]
+           - Total score [AUDIT-C]                    3.0 {score}
+  2017-10-27 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-10-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+           - MCV [Entitic volume] by Automated count  91.9 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 336.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 294.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2015-01-09 : Patient Health Questionnaire 2 item (PHQ-2) [Reported]
+           - Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2015-01-09 : Lipid Panel
+           - Total Cholesterol                        197.2 mg/dL
+           - Triglycerides                            128.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      138.8 mg/dL
+           - High Density Lipoprotein Cholesterol     32.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2021-11-05 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? Yes 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Very much 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 142893 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             592 Gerlach Village Suite 25 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2021-11-05 : Tobacco smoking status NHIS              Former smoker 
+  2021-11-05 : Respiratory rate                         13.0 /min
+  2021-11-05 : Heart rate                               68.0 /min
+  2021-11-05 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2021-11-05 : Body Mass Index                          27.5 kg/m2
+  2021-11-05 : Body Weight                              95.9 kg
+  2021-11-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2021-11-05 : Body Height                              186.8 cm
+  2019-11-01 : Total score [AUDIT-C]                    2.0 {score}
+  2019-11-01 : Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] 1.0 {score}
+  2019-11-01 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 3 to 5 times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 142893 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             592 Gerlach Village Suite 25 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2019-11-01 : Tobacco smoking status NHIS              Former smoker 
+  2019-11-01 : High Density Lipoprotein Cholesterol     32.6 mg/dL
+  2019-11-01 : Low Density Lipoprotein Cholesterol      73.0 mg/dL
+  2019-11-01 : Triglycerides                            121.2 mg/dL
+  2019-11-01 : Total Cholesterol                        129.9 mg/dL
+  2019-11-01 : Respiratory rate                         15.0 /min
+  2019-11-01 : Heart rate                               75.0 /min
+  2019-11-01 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2019-11-01 : Body Mass Index                          27.5 kg/m2
+  2019-11-01 : Body Weight                              95.9 kg
+  2019-11-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-11-01 : Body Height                              186.8 cm
+  2017-10-27 : Total score [AUDIT-C]                    3.0 {score}
+  2017-10-27 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 1.0 {score}
+  2017-10-27 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Somewhat 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 142893 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             592 Gerlach Village Suite 25 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2017-10-27 : Tobacco smoking status NHIS              Former smoker 
+  2017-10-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2017-10-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 294.7 fL
+  2017-10-27 : Platelets [#/volume] in Blood by Automated count 336.6 10*3/uL
+  2017-10-27 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  2017-10-27 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2017-10-27 : MCH [Entitic mass] by Automated count    31.3 pg
+  2017-10-27 : MCV [Entitic volume] by Automated count  91.9 fL
+  2017-10-27 : Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+  2017-10-27 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2017-10-27 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2017-10-27 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2017-10-27 : Respiratory rate                         14.0 /min
+  2017-10-27 : Heart rate                               63.0 /min
+  2017-10-27 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2017-10-27 : Body Mass Index                          30.0 kg/m2
+  2017-10-27 : Body Weight                              104.8 kg
+  2017-10-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-10-27 : Body Height                              186.8 cm
+  2015-01-09 : Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] 0.0 {score}
+  2015-01-09 : Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences [PRAPARE]
+           - In the past year, have you been afraid of your partner or ex-partner? No 
+           - Do you feel physically and emotionally safe where you currently live? Yes 
+           - Are you a refugee?                       No 
+           - In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? No 
+           - Stress is when someone feels tense, nervous, anxious or can't sleep at night because their mind is troubled. How stressed are you? Not at all 
+           - How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? 5 or more times a week 
+           - Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living? No 
+           - In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? I choose not to answer this question 
+           - During the past year, what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. 142893 /a
+           - What is your main insurance?             Private insurance 
+           - What is your current work situation?     Full-time work 
+           - What is the highest level of school that you have finished? More than high school 
+           - What address do you live at?             592 Gerlach Village Suite 25 
+           - Are you worried about losing your housing? No 
+           - What is your housing situation today?    I have housing 
+           - How many family members, including yourself, do you currently live with? 6.0 {#}
+           - What language are you most comfortable speaking? English 
+           - Have you been discharged from the armed forces of the United States? No 
+           - At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? No 
+           - Which race(s) are you?                   White 
+           - Are you Hispanic or Latino?              No 
+  2015-01-09 : Tobacco smoking status NHIS              Former smoker 
+  2015-01-09 : High Density Lipoprotein Cholesterol     32.7 mg/dL
+  2015-01-09 : Low Density Lipoprotein Cholesterol      138.8 mg/dL
+  2015-01-09 : Triglycerides                            128.6 mg/dL
+  2015-01-09 : Total Cholesterol                        197.2 mg/dL
+  2015-01-09 : Respiratory rate                         13.0 /min
+  2015-01-09 : Heart rate                               66.0 /min
+  2015-01-09 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2015-01-09 : Body Mass Index                          30.0 kg/m2
+  2015-01-09 : Body Weight                              104.8 kg
+  2015-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-01-09 : Body Height                              186.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2021-11-05 : Assessment of health and social care needs (procedure)
+  2020-10-30 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance for Stroke
+  2020-10-30 : Echocardiography (procedure) for Stroke
+  2019-11-01 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2019-11-01 : Assessment of substance use (procedure)
+  2019-11-01 : Assessment of anxiety (procedure)
+  2019-11-01 : Medication Reconciliation (procedure)
+  2019-11-01 : Assessment of health and social care needs (procedure)
+  2017-10-27 : Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure)
+  2017-10-27 : Assessment of substance use (procedure)
+  2017-10-27 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2017-10-27 : Depression screening (procedure)
+  2017-10-27 : Assessment of health and social care needs (procedure)
+  2015-01-09 : Depression screening using Patient Health Questionnaire Two-Item score (procedure)
+  2015-01-09 : Depression screening (procedure)
+  2015-01-09 : Assessment of health and social care needs (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2021-11-05 : Influenza, seasonal, injectable, preservative free
+  2021-05-14 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2021-04-23 : SARS-COV-2 (COVID-19) vaccine, mRNA, spike protein, LNP, preservative free, 30 mcg/0.3mL dose
+  2019-11-01 : Hep A, adult
+  2019-11-01 : Td (adult) preservative free
+  2019-11-01 : Influenza, seasonal, injectable, preservative free
+  2017-10-27 : Hep A, adult
+  2017-10-27 : Influenza, seasonal, injectable, preservative free
+  2015-01-09 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2021-11-05 (Dr. Barry322 Koss676) : Encounter at PCP4391
+2021-05-14 (Dr. Leonie332 Hirthe744) : Encounter at WINCHESTER HOSPITAL
+2021-04-23 (Dr. Leonie332 Hirthe744) : Encounter at WINCHESTER HOSPITAL
+2020-10-30 (Dr. Leonie332 Hirthe744) : Encounter at WINCHESTER HOSPITAL
+2019-11-01 (Dr. Barry322 Koss676) : Encounter at PCP4391
+2017-10-27 (Dr. Barry322 Koss676) : Encounter at PCP4391
+2015-01-09 (Dr. Barry322 Koss676) : Encounter at PCP4391
+2012-01-06 (Dr. Barry322 Koss676) : Encounter at PCP4391
+2009-06-05 (Dr. Leonie332 Hirthe744) : Encounter at WINCHESTER HOSPITAL : Encounter for Acute bronchitis (disorder)
+2009-01-02 (Dr. Barry322 Koss676) : Encounter at PCP4391
+2005-12-30 (Dr. Barry322 Koss676) : Encounter at PCP4391
+2002-12-27 (Dr. Barry322 Koss676) : Encounter at PCP4391
+1998-01-16 (Dr. Leonie332 Hirthe744) : Encounter at WINCHESTER HOSPITAL
+1995-12-15 (Dr. Barry322 Koss676) : Encounter at PCP4391
+1994-12-09 (Dr. Barry322 Koss676) : Encounter at PCP4391
+1991-11-22 (Dr. Barry322 Koss676) : Encounter at PCP4391
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------
