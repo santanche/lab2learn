@@ -1,0 +1,886 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,SYSTEM,DESCRIPTION,TYPE,CATEGORY,REACTION1,DESCRIPTION1,SEVERITY1,REACTION2,DESCRIPTION2,SEVERITY2
+1976-12-20,,0d679725-4ff2-9d28-e523-956496f182cb,62977e95-39f8-5a22-05ad-d8faa6ac7ff8,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+2003-10-23,,f03f50be-20b1-3eae-2ed1-bb478bceb320,555181fd-9bb0-d8b8-e720-c1164a5449ce,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2003-10-23,,f03f50be-20b1-3eae-2ed1-bb478bceb320,555181fd-9bb0-d8b8-e720-c1164a5449ce,5640,Unknown,Ibuprofen,allergy,medication,270474007,Flushes/goes red (finding),MODERATE,,,
+2003-10-23,,f03f50be-20b1-3eae-2ed1-bb478bceb320,555181fd-9bb0-d8b8-e720-c1164a5449ce,7984,Unknown,Penicillin V,allergy,medication,271807003,Eruption of skin (disorder),MILD,247472004,Wheal (finding),MILD
+2003-10-23,,f03f50be-20b1-3eae-2ed1-bb478bceb320,555181fd-9bb0-d8b8-e720-c1164a5449ce,735029006,Unknown,Shellfish (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,418290006,Itching (finding),MILD
+2006-04-18,,bee50f70-32ff-1271-8104-5cd08a1da2e3,4f4562c5-68e5-598a-67ab-1434b603629d,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1991-06-25,,32597c71-e34d-77d7-9840-1281a0c2d260,5c5d344c-7778-9066-2bbf-acd7f13f2e45,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1991-06-25,,32597c71-e34d-77d7-9840-1281a0c2d260,5c5d344c-7778-9066-2bbf-acd7f13f2e45,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1991-06-25,,32597c71-e34d-77d7-9840-1281a0c2d260,5c5d344c-7778-9066-2bbf-acd7f13f2e45,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1991-06-25,,32597c71-e34d-77d7-9840-1281a0c2d260,5c5d344c-7778-9066-2bbf-acd7f13f2e45,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1991-06-25,,32597c71-e34d-77d7-9840-1281a0c2d260,5c5d344c-7778-9066-2bbf-acd7f13f2e45,442571000124108,Unknown,Tree nut (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1991-06-25,,32597c71-e34d-77d7-9840-1281a0c2d260,5c5d344c-7778-9066-2bbf-acd7f13f2e45,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+2000-10-26,,47c2ab95-1569-1afa-4550-ac83d53f0384,b274b8ac-5f96-fdb8-565b-0c2f61d69858,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1977-03-13,,c66ded88-1ef1-cdce-cc8a-12ad9b2d4b10,c8d57333-21de-4c18-d5e4-38656b4f3572,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2022-04-19,,e72cde2d-f50d-9422-bbce-b6304d902d50,ff4528ba-2855-d73c-a83b-aaa8396e2f4c,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2022-04-19,,e72cde2d-f50d-9422-bbce-b6304d902d50,ff4528ba-2855-d73c-a83b-aaa8396e2f4c,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+2022-04-19,,e72cde2d-f50d-9422-bbce-b6304d902d50,ff4528ba-2855-d73c-a83b-aaa8396e2f4c,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2022-04-19,,e72cde2d-f50d-9422-bbce-b6304d902d50,ff4528ba-2855-d73c-a83b-aaa8396e2f4c,264287008,Unknown,Animal dander (substance),allergy,environment,,,,,,
+2022-04-19,,e72cde2d-f50d-9422-bbce-b6304d902d50,ff4528ba-2855-d73c-a83b-aaa8396e2f4c,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2022-04-19,,e72cde2d-f50d-9422-bbce-b6304d902d50,ff4528ba-2855-d73c-a83b-aaa8396e2f4c,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2022-04-19,,e72cde2d-f50d-9422-bbce-b6304d902d50,ff4528ba-2855-d73c-a83b-aaa8396e2f4c,735029006,Unknown,Shellfish (substance),allergy,food,62315008,Diarrhea (finding),MILD,49727002,Cough (finding),MILD
+2022-04-19,,e72cde2d-f50d-9422-bbce-b6304d902d50,ff4528ba-2855-d73c-a83b-aaa8396e2f4c,762952008,Unknown,Peanut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+1992-01-17,,e678bdce-c1c2-bc57-7938-a4a04d089ea1,40abdc52-d517-3256-574d-a4f7690a3085,735971005,Unknown,Fish (substance),allergy,food,271807003,Eruption of skin (disorder),MILD,,,
+1988-05-17,,67296597-4a60-3627-7940-06624f311033,b64b3ccf-6bc2-f4fe-9166-462409a6d416,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1998-12-04,,b7c67b14-bc45-951f-4be5-a7942bfd533a,6f2ea60a-4e1d-e553-e82c-ccfccc1e6841,264287008,Unknown,Animal dander (substance),allergy,environment,271807003,Eruption of skin (disorder),MILD,,,
+1979-09-04,,09cff78e-95c4-0d75-83fc-e6189410d03b,aa06f895-b4a8-efd9-8e59-e092a5d26807,111088007,Unknown,Latex (substance),allergy,environment,267036007,Dyspnea (finding),MODERATE,,,
+1979-09-04,,09cff78e-95c4-0d75-83fc-e6189410d03b,aa06f895-b4a8-efd9-8e59-e092a5d26807,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1979-09-04,,09cff78e-95c4-0d75-83fc-e6189410d03b,aa06f895-b4a8-efd9-8e59-e092a5d26807,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1979-09-04,,09cff78e-95c4-0d75-83fc-e6189410d03b,aa06f895-b4a8-efd9-8e59-e092a5d26807,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+1979-09-04,,09cff78e-95c4-0d75-83fc-e6189410d03b,aa06f895-b4a8-efd9-8e59-e092a5d26807,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1979-09-04,,09cff78e-95c4-0d75-83fc-e6189410d03b,aa06f895-b4a8-efd9-8e59-e092a5d26807,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1979-09-04,,09cff78e-95c4-0d75-83fc-e6189410d03b,aa06f895-b4a8-efd9-8e59-e092a5d26807,102263004,Unknown,Eggs (edible) (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,,,
+1979-09-04,,09cff78e-95c4-0d75-83fc-e6189410d03b,aa06f895-b4a8-efd9-8e59-e092a5d26807,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1979-09-04,,09cff78e-95c4-0d75-83fc-e6189410d03b,aa06f895-b4a8-efd9-8e59-e092a5d26807,762952008,Unknown,Peanut (substance),allergy,food,62315008,Diarrhea (finding),MILD,300359004,Finding of vomiting (finding),MILD
+1969-07-25,,e789cbfd-873c-3881-4c95-54f034266753,45d022b3-912d-dbbb-2f2e-c87850704c09,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1969-07-25,,e789cbfd-873c-3881-4c95-54f034266753,45d022b3-912d-dbbb-2f2e-c87850704c09,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+2010-07-20,,5c54305e-e16f-b719-b8d8-91a188e6952a,467262f5-9aa7-1d35-e53a-50cb2dd48e05,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+2010-07-20,,5c54305e-e16f-b719-b8d8-91a188e6952a,467262f5-9aa7-1d35-e53a-50cb2dd48e05,1191,Unknown,Aspirin,allergy,medication,247472004,Wheal (finding),MODERATE,,,
+2010-07-20,,5c54305e-e16f-b719-b8d8-91a188e6952a,467262f5-9aa7-1d35-e53a-50cb2dd48e05,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MILD
+1949-08-24,,f023e1ae-9661-b677-9249-b218bc3e55a0,8766d45c-6b7a-91e7-074c-53e350788c36,735029006,Unknown,Shellfish (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,267036007,Dyspnea (finding),MILD
+2006-09-11,,3437e42c-e869-3495-928a-e25b68138365,6d2184eb-5778-3fa3-f652-c0c89b8a07d5,1191,Unknown,Aspirin,allergy,medication,,,,,,
+2006-09-11,,3437e42c-e869-3495-928a-e25b68138365,6d2184eb-5778-3fa3-f652-c0c89b8a07d5,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,111088007,Unknown,Latex (substance),allergy,environment,,,,,,
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,21626009,Allergic skin rash,MILD
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,1191,Unknown,Aspirin,allergy,medication,,,,,,
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+2016-07-12,,73bc3ea9-8c78-2322-0700-4c104c3e85d9,ebff7b08-5c39-6117-8ad9-fd80f166bd4a,762952008,Unknown,Peanut (substance),allergy,food,,,,,,
+1969-11-10,,33423273-812e-bdad-3d36-5aaf590b5984,bbf3e1f0-1a6f-47ff-bf11-6f967942f114,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1969-11-10,,33423273-812e-bdad-3d36-5aaf590b5984,bbf3e1f0-1a6f-47ff-bf11-6f967942f114,7984,Unknown,Penicillin V,allergy,medication,247472004,Wheal (finding),MILD,,,
+1969-11-10,,33423273-812e-bdad-3d36-5aaf590b5984,bbf3e1f0-1a6f-47ff-bf11-6f967942f114,3718001,Unknown,Cow's milk (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,247472004,Wheal (finding),MILD
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,111088007,Unknown,Latex (substance),allergy,environment,418290006,Itching (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,1191,Unknown,Aspirin,allergy,medication,247472004,Wheal (finding),MODERATE,21522001,Abdominal pain (finding),MODERATE
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,,,
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1962-04-17,,738a5bc6-78c7-2b05-d185-9741920b0497,4268f56d-4b96-d1c7-5fb8-4121049ef8c9,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+1956-09-24,,45244d16-af50-6ae3-0875-bb86cbe4b0c9,ca7d297b-64e1-a3d1-63e4-efd3dfb763fa,3718001,Unknown,Cow's milk (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,,,
+1963-07-18,,c254c1ea-49be-55d9-d5f2-759b529dd5bf,4257f7be-86c2-0899-8394-5dc0b79bc27d,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,21626009,Allergic skin rash,MILD
+1963-07-18,,c254c1ea-49be-55d9-d5f2-759b529dd5bf,4257f7be-86c2-0899-8394-5dc0b79bc27d,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1963-07-18,,c254c1ea-49be-55d9-d5f2-759b529dd5bf,4257f7be-86c2-0899-8394-5dc0b79bc27d,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1963-07-18,,c254c1ea-49be-55d9-d5f2-759b529dd5bf,4257f7be-86c2-0899-8394-5dc0b79bc27d,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1963-07-18,,c254c1ea-49be-55d9-d5f2-759b529dd5bf,4257f7be-86c2-0899-8394-5dc0b79bc27d,5640,Unknown,Ibuprofen,allergy,medication,247472004,Wheal (finding),MODERATE,,,
+1963-07-18,,c254c1ea-49be-55d9-d5f2-759b529dd5bf,4257f7be-86c2-0899-8394-5dc0b79bc27d,7984,Unknown,Penicillin V,allergy,medication,271807003,Eruption of skin (disorder),MILD,247472004,Wheal (finding),MILD
+2022-02-22,,e08aae52-6772-42a5-1b56-5a5f773af7dc,1bf553ea-e761-462e-f0ae-37dc94c0ba3f,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2022-02-22,,e08aae52-6772-42a5-1b56-5a5f773af7dc,1bf553ea-e761-462e-f0ae-37dc94c0ba3f,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2022-02-22,,e08aae52-6772-42a5-1b56-5a5f773af7dc,1bf553ea-e761-462e-f0ae-37dc94c0ba3f,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2022-02-22,,e08aae52-6772-42a5-1b56-5a5f773af7dc,1bf553ea-e761-462e-f0ae-37dc94c0ba3f,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2022-02-22,,e08aae52-6772-42a5-1b56-5a5f773af7dc,1bf553ea-e761-462e-f0ae-37dc94c0ba3f,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2022-02-22,,e08aae52-6772-42a5-1b56-5a5f773af7dc,1bf553ea-e761-462e-f0ae-37dc94c0ba3f,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+2007-07-01,,1ce94e1d-f3d6-882b-bb58-98f3e4d203fa,266fcf06-bc21-d287-e04a-445511d591d7,111088007,Unknown,Latex (substance),allergy,environment,418290006,Itching (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MILD
+2007-07-01,,1ce94e1d-f3d6-882b-bb58-98f3e4d203fa,266fcf06-bc21-d287-e04a-445511d591d7,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+2007-07-01,,1ce94e1d-f3d6-882b-bb58-98f3e4d203fa,266fcf06-bc21-d287-e04a-445511d591d7,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,21626009,Allergic skin rash,MILD
+2007-07-01,,1ce94e1d-f3d6-882b-bb58-98f3e4d203fa,266fcf06-bc21-d287-e04a-445511d591d7,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2007-07-01,,1ce94e1d-f3d6-882b-bb58-98f3e4d203fa,266fcf06-bc21-d287-e04a-445511d591d7,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2007-07-01,,1ce94e1d-f3d6-882b-bb58-98f3e4d203fa,266fcf06-bc21-d287-e04a-445511d591d7,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2007-07-01,,1ce94e1d-f3d6-882b-bb58-98f3e4d203fa,266fcf06-bc21-d287-e04a-445511d591d7,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2007-07-01,,1ce94e1d-f3d6-882b-bb58-98f3e4d203fa,266fcf06-bc21-d287-e04a-445511d591d7,7984,Unknown,Penicillin V,allergy,medication,402387002,Allergic angioedema (disorder),MILD,247472004,Wheal (finding),MILD
+2007-07-01,,1ce94e1d-f3d6-882b-bb58-98f3e4d203fa,266fcf06-bc21-d287-e04a-445511d591d7,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+2007-07-01,,1ce94e1d-f3d6-882b-bb58-98f3e4d203fa,266fcf06-bc21-d287-e04a-445511d591d7,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+2018-06-10,,22e3e441-2684-2856-3ac7-664150d509b0,e49b9931-76db-019e-5397-f4a3b48baaf4,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2018-06-10,,22e3e441-2684-2856-3ac7-664150d509b0,e49b9931-76db-019e-5397-f4a3b48baaf4,1191,Unknown,Aspirin,allergy,medication,,,,,,
+2018-06-10,,22e3e441-2684-2856-3ac7-664150d509b0,e49b9931-76db-019e-5397-f4a3b48baaf4,7984,Unknown,Penicillin V,allergy,medication,,,,,,
+2002-11-15,,13877085-e4f3-55d7-d7ee-89d6b5f3b5a3,3fb733d0-770a-dbf1-8d43-e725d1bed29b,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2002-11-15,,13877085-e4f3-55d7-d7ee-89d6b5f3b5a3,3fb733d0-770a-dbf1-8d43-e725d1bed29b,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2002-11-15,,13877085-e4f3-55d7-d7ee-89d6b5f3b5a3,3fb733d0-770a-dbf1-8d43-e725d1bed29b,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2002-11-15,,13877085-e4f3-55d7-d7ee-89d6b5f3b5a3,3fb733d0-770a-dbf1-8d43-e725d1bed29b,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2002-11-15,,13877085-e4f3-55d7-d7ee-89d6b5f3b5a3,3fb733d0-770a-dbf1-8d43-e725d1bed29b,3718001,Unknown,Cow's milk (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,300359004,Finding of vomiting (finding),MODERATE
+2002-11-15,,13877085-e4f3-55d7-d7ee-89d6b5f3b5a3,3fb733d0-770a-dbf1-8d43-e725d1bed29b,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2002-11-15,,13877085-e4f3-55d7-d7ee-89d6b5f3b5a3,3fb733d0-770a-dbf1-8d43-e725d1bed29b,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1992-10-10,,47fb76e0-3a7e-3e4b-b534-eeec28634c62,09d2b58b-c5ec-d84b-873e-8a41fc455aa4,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1992-10-10,,47fb76e0-3a7e-3e4b-b534-eeec28634c62,09d2b58b-c5ec-d84b-873e-8a41fc455aa4,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1994-07-28,,27efe68c-6c5c-d79b-e8ee-326ac81dd9f1,720245a9-196f-6839-c2b6-d1ad67dc4944,735029006,Unknown,Shellfish (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,418290006,Itching (finding),MILD
+1990-06-23,,1d5aac4d-5c65-6c41-a618-05b8dde3621e,f1660734-d658-4150-98c6-a3da2902fbca,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+1994-10-22,,8890e053-2f44-0d70-83d9-61ac3b5da35e,d0e99a6f-1517-087b-7383-77c91b5c6e84,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1994-10-22,,8890e053-2f44-0d70-83d9-61ac3b5da35e,d0e99a6f-1517-087b-7383-77c91b5c6e84,7984,Unknown,Penicillin V,allergy,medication,271807003,Eruption of skin (disorder),MILD,247472004,Wheal (finding),MILD
+2018-09-15,,c8d9f38a-fe45-0b77-3814-6e01a9c59702,3dc514f3-8d07-d38c-3cbe-c2d5e7f9941d,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2018-09-15,,c8d9f38a-fe45-0b77-3814-6e01a9c59702,3dc514f3-8d07-d38c-3cbe-c2d5e7f9941d,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2018-09-15,,c8d9f38a-fe45-0b77-3814-6e01a9c59702,3dc514f3-8d07-d38c-3cbe-c2d5e7f9941d,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2018-09-15,,c8d9f38a-fe45-0b77-3814-6e01a9c59702,3dc514f3-8d07-d38c-3cbe-c2d5e7f9941d,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2018-09-15,,c8d9f38a-fe45-0b77-3814-6e01a9c59702,3dc514f3-8d07-d38c-3cbe-c2d5e7f9941d,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2018-09-15,,c8d9f38a-fe45-0b77-3814-6e01a9c59702,3dc514f3-8d07-d38c-3cbe-c2d5e7f9941d,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+2018-09-15,,c8d9f38a-fe45-0b77-3814-6e01a9c59702,3dc514f3-8d07-d38c-3cbe-c2d5e7f9941d,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+2000-12-17,,e8ee0f85-558b-0c10-9ef8-c7a498983aed,ac8d1b4f-53f8-cac2-327e-ce6850210d08,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+2000-12-17,,e8ee0f85-558b-0c10-9ef8-c7a498983aed,ac8d1b4f-53f8-cac2-327e-ce6850210d08,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2000-12-17,,e8ee0f85-558b-0c10-9ef8-c7a498983aed,ac8d1b4f-53f8-cac2-327e-ce6850210d08,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2000-12-17,,e8ee0f85-558b-0c10-9ef8-c7a498983aed,ac8d1b4f-53f8-cac2-327e-ce6850210d08,264287008,Unknown,Animal dander (substance),allergy,environment,271807003,Eruption of skin (disorder),MILD,247472004,Wheal (finding),MILD
+2000-12-17,,e8ee0f85-558b-0c10-9ef8-c7a498983aed,ac8d1b4f-53f8-cac2-327e-ce6850210d08,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2000-12-17,,e8ee0f85-558b-0c10-9ef8-c7a498983aed,ac8d1b4f-53f8-cac2-327e-ce6850210d08,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2000-12-17,,e8ee0f85-558b-0c10-9ef8-c7a498983aed,ac8d1b4f-53f8-cac2-327e-ce6850210d08,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,247472004,Wheal (finding),MILD
+2000-12-17,,e8ee0f85-558b-0c10-9ef8-c7a498983aed,ac8d1b4f-53f8-cac2-327e-ce6850210d08,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+2010-07-27,,51b980c8-8a6c-0247-1de7-2c280c96cec0,f53d391a-e69c-5488-9fec-ee2a9607936b,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2010-07-27,,51b980c8-8a6c-0247-1de7-2c280c96cec0,f53d391a-e69c-5488-9fec-ee2a9607936b,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2010-07-27,,51b980c8-8a6c-0247-1de7-2c280c96cec0,f53d391a-e69c-5488-9fec-ee2a9607936b,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+2010-07-27,,51b980c8-8a6c-0247-1de7-2c280c96cec0,f53d391a-e69c-5488-9fec-ee2a9607936b,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2010-07-27,,51b980c8-8a6c-0247-1de7-2c280c96cec0,f53d391a-e69c-5488-9fec-ee2a9607936b,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2010-07-27,,51b980c8-8a6c-0247-1de7-2c280c96cec0,f53d391a-e69c-5488-9fec-ee2a9607936b,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2010-07-27,,51b980c8-8a6c-0247-1de7-2c280c96cec0,f53d391a-e69c-5488-9fec-ee2a9607936b,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2010-07-27,,51b980c8-8a6c-0247-1de7-2c280c96cec0,f53d391a-e69c-5488-9fec-ee2a9607936b,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1982-09-20,,887a5284-8e8e-66f2-3cf4-bed1f500121e,9db537c2-ab34-ddeb-af52-be35237a10be,111088007,Unknown,Latex (substance),allergy,environment,402387002,Allergic angioedema (disorder),MODERATE,,,
+1982-09-20,,887a5284-8e8e-66f2-3cf4-bed1f500121e,9db537c2-ab34-ddeb-af52-be35237a10be,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1982-09-20,,887a5284-8e8e-66f2-3cf4-bed1f500121e,9db537c2-ab34-ddeb-af52-be35237a10be,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1982-09-20,,887a5284-8e8e-66f2-3cf4-bed1f500121e,9db537c2-ab34-ddeb-af52-be35237a10be,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,267036007,Dyspnea (finding),MILD
+1982-09-20,,887a5284-8e8e-66f2-3cf4-bed1f500121e,9db537c2-ab34-ddeb-af52-be35237a10be,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1982-09-20,,887a5284-8e8e-66f2-3cf4-bed1f500121e,9db537c2-ab34-ddeb-af52-be35237a10be,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1982-09-20,,887a5284-8e8e-66f2-3cf4-bed1f500121e,9db537c2-ab34-ddeb-af52-be35237a10be,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2014-10-07,,e0e10eaf-296d-d6d5-8672-899b7f30c4cb,a6e74a23-5ac9-e60b-516d-c690d60f4b33,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+2014-10-07,,e0e10eaf-296d-d6d5-8672-899b7f30c4cb,a6e74a23-5ac9-e60b-516d-c690d60f4b33,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2014-10-07,,e0e10eaf-296d-d6d5-8672-899b7f30c4cb,a6e74a23-5ac9-e60b-516d-c690d60f4b33,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2014-10-07,,e0e10eaf-296d-d6d5-8672-899b7f30c4cb,a6e74a23-5ac9-e60b-516d-c690d60f4b33,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2014-10-07,,e0e10eaf-296d-d6d5-8672-899b7f30c4cb,a6e74a23-5ac9-e60b-516d-c690d60f4b33,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2014-10-07,,e0e10eaf-296d-d6d5-8672-899b7f30c4cb,a6e74a23-5ac9-e60b-516d-c690d60f4b33,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1965-12-16,,18bf63bc-2fd1-1b40-7852-79242029eaff,eae9ce9f-d8fa-3424-fdbf-fd10dce84e19,264287008,Unknown,Animal dander (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1965-12-16,,18bf63bc-2fd1-1b40-7852-79242029eaff,eae9ce9f-d8fa-3424-fdbf-fd10dce84e19,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1947-06-25,,c336fca2-2924-4154-1fb1-0cc6c2d55258,38edd779-e80c-5eea-6ff1-7a590e107a21,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1947-06-25,,c336fca2-2924-4154-1fb1-0cc6c2d55258,38edd779-e80c-5eea-6ff1-7a590e107a21,735029006,Unknown,Shellfish (substance),allergy,food,267036007,Dyspnea (finding),MILD,62315008,Diarrhea (finding),MILD
+1939-06-06,,0e656d94-c51e-f6ef-69e3-a01051bc9081,c772bdcf-de38-1fdf-2c39-b1c0fa70004b,5640,Unknown,Ibuprofen,allergy,medication,418290006,Itching (finding),MODERATE,,,
+1998-03-04,,0160ce89-fb67-666b-4c75-90d03e1d4227,d3b4721d-9f1d-cc79-daf8-9d2f49d49742,111088007,Unknown,Latex (substance),allergy,environment,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+1998-03-04,,0160ce89-fb67-666b-4c75-90d03e1d4227,d3b4721d-9f1d-cc79-daf8-9d2f49d49742,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1998-03-04,,0160ce89-fb67-666b-4c75-90d03e1d4227,d3b4721d-9f1d-cc79-daf8-9d2f49d49742,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,56018004,Wheezing,MILD
+1998-03-04,,0160ce89-fb67-666b-4c75-90d03e1d4227,d3b4721d-9f1d-cc79-daf8-9d2f49d49742,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1998-03-04,,0160ce89-fb67-666b-4c75-90d03e1d4227,d3b4721d-9f1d-cc79-daf8-9d2f49d49742,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1998-03-04,,0160ce89-fb67-666b-4c75-90d03e1d4227,d3b4721d-9f1d-cc79-daf8-9d2f49d49742,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1998-03-04,,0160ce89-fb67-666b-4c75-90d03e1d4227,d3b4721d-9f1d-cc79-daf8-9d2f49d49742,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1998-03-04,,0160ce89-fb67-666b-4c75-90d03e1d4227,d3b4721d-9f1d-cc79-daf8-9d2f49d49742,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1998-03-04,,0160ce89-fb67-666b-4c75-90d03e1d4227,d3b4721d-9f1d-cc79-daf8-9d2f49d49742,7984,Unknown,Penicillin V,allergy,medication,,,,,,
+2008-06-19,,e4bf70f7-a7b6-1e10-70d2-e80980fd0499,381fdd70-c2bd-1aea-4fde-9b4c18d85b3a,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1987-04-11,,18de994b-90e0-dc32-4f7c-6b1199a9c072,2b0d5421-c2a9-47d5-fe16-7c9fc43cee99,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1982-10-01,,dab89fb9-2070-bac4-851b-82b8b545a64a,b7af20a3-4517-d07e-de56-f9ce1fb4f911,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1982-10-01,,dab89fb9-2070-bac4-851b-82b8b545a64a,b7af20a3-4517-d07e-de56-f9ce1fb4f911,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1982-10-01,,dab89fb9-2070-bac4-851b-82b8b545a64a,b7af20a3-4517-d07e-de56-f9ce1fb4f911,264287008,Unknown,Animal dander (substance),allergy,environment,271807003,Eruption of skin (disorder),MILD,247472004,Wheal (finding),MILD
+1982-10-01,,dab89fb9-2070-bac4-851b-82b8b545a64a,b7af20a3-4517-d07e-de56-f9ce1fb4f911,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1982-10-01,,dab89fb9-2070-bac4-851b-82b8b545a64a,b7af20a3-4517-d07e-de56-f9ce1fb4f911,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1982-10-01,,dab89fb9-2070-bac4-851b-82b8b545a64a,b7af20a3-4517-d07e-de56-f9ce1fb4f911,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1971-02-27,,a64d1246-608a-9dcb-49ad-ea424aa90736,a8864904-d0a3-5c0c-84d6-f33b6cae2d88,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,422587007,Nausea (finding),MODERATE
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,,,
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,735029006,Unknown,Shellfish (substance),allergy,food,418290006,Itching (finding),MILD,49727002,Cough (finding),MILD
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1978-05-19,,68d91e9d-2ffe-bf44-86ba-1f2f55cb3387,bc0a0528-ef73-d793-ba97-bef339454362,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1976-05-13,,2df60d1c-5c87-92ec-c857-24d49f1c9b91,877f08e4-dd3f-0f65-d168-780605cefccb,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,402387002,Allergic angioedema (disorder),MILD,,,
+2000-04-20,,a259d333-6bb2-30f5-ecb9-d5ff168905b0,25e1e996-56f3-d113-c3ad-ec27fafc0a54,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+2000-04-20,,a259d333-6bb2-30f5-ecb9-d5ff168905b0,25e1e996-56f3-d113-c3ad-ec27fafc0a54,25037,Unknown,cefdinir,allergy,medication,39579001,Anaphylaxis (disorder),SEVERE,,,
+2000-04-20,,a259d333-6bb2-30f5-ecb9-d5ff168905b0,25e1e996-56f3-d113-c3ad-ec27fafc0a54,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,49727002,Cough (finding),MILD
+2010-09-11,,0461bb8e-c7d3-652c-868b-f3649c8c9d24,4068bdb2-f4b1-7e9a-805d-68770cad6495,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2010-09-11,,0461bb8e-c7d3-652c-868b-f3649c8c9d24,4068bdb2-f4b1-7e9a-805d-68770cad6495,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2010-09-11,,0461bb8e-c7d3-652c-868b-f3649c8c9d24,4068bdb2-f4b1-7e9a-805d-68770cad6495,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2010-09-11,,0461bb8e-c7d3-652c-868b-f3649c8c9d24,4068bdb2-f4b1-7e9a-805d-68770cad6495,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2010-09-11,,0461bb8e-c7d3-652c-868b-f3649c8c9d24,4068bdb2-f4b1-7e9a-805d-68770cad6495,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2010-09-11,,0461bb8e-c7d3-652c-868b-f3649c8c9d24,4068bdb2-f4b1-7e9a-805d-68770cad6495,3718001,Unknown,Cow's milk (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+2010-09-11,,0461bb8e-c7d3-652c-868b-f3649c8c9d24,4068bdb2-f4b1-7e9a-805d-68770cad6495,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2010-09-11,,0461bb8e-c7d3-652c-868b-f3649c8c9d24,4068bdb2-f4b1-7e9a-805d-68770cad6495,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+2010-09-11,,0461bb8e-c7d3-652c-868b-f3649c8c9d24,4068bdb2-f4b1-7e9a-805d-68770cad6495,442571000124108,Unknown,Tree nut (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+1981-01-08,,b12b496d-bd1b-75fe-a80a-191368b3cb63,faf4a033-c55d-6688-be94-135a9f9fb5da,735029006,Unknown,Shellfish (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,62315008,Diarrhea (finding),MILD
+2019-01-13,,ef36fa54-f3ac-fc46-839f-def985f4383e,739306bf-d049-c435-ba50-a304d4955190,111088007,Unknown,Latex (substance),allergy,environment,418290006,Itching (finding),MODERATE,247472004,Wheal (finding),MILD
+2019-01-13,,ef36fa54-f3ac-fc46-839f-def985f4383e,739306bf-d049-c435-ba50-a304d4955190,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+2019-01-13,,ef36fa54-f3ac-fc46-839f-def985f4383e,739306bf-d049-c435-ba50-a304d4955190,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2019-01-13,,ef36fa54-f3ac-fc46-839f-def985f4383e,739306bf-d049-c435-ba50-a304d4955190,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2019-01-13,,ef36fa54-f3ac-fc46-839f-def985f4383e,739306bf-d049-c435-ba50-a304d4955190,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2019-01-13,,ef36fa54-f3ac-fc46-839f-def985f4383e,739306bf-d049-c435-ba50-a304d4955190,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2019-01-13,,ef36fa54-f3ac-fc46-839f-def985f4383e,739306bf-d049-c435-ba50-a304d4955190,3718001,Unknown,Cow's milk (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,247472004,Wheal (finding),MILD
+2019-01-13,,ef36fa54-f3ac-fc46-839f-def985f4383e,739306bf-d049-c435-ba50-a304d4955190,762952008,Unknown,Peanut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,247472004,Wheal (finding),MODERATE
+1999-09-29,,6172d63c-3ac9-2158-8e3c-8b6b58c6b41b,efc50711-6af6-ea33-b185-c59d30ee58e9,735971005,Unknown,Fish (substance),allergy,food,271807003,Eruption of skin (disorder),MILD,,,
+1960-01-04,,572bda22-0a3e-0619-8c93-f76e83804784,89e0d62e-59d5-5615-9534-555bb6f28ff4,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,267036007,Dyspnea (finding),MILD
+1960-01-04,,572bda22-0a3e-0619-8c93-f76e83804784,89e0d62e-59d5-5615-9534-555bb6f28ff4,735971005,Unknown,Fish (substance),allergy,food,271807003,Eruption of skin (disorder),MILD,300359004,Finding of vomiting (finding),MILD
+1999-09-27,,cfe7cd0f-57de-4f43-d870-221bba80520b,a2d67caa-8ba2-e094-26ad-4153593c1cf8,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+1999-09-27,,cfe7cd0f-57de-4f43-d870-221bba80520b,a2d67caa-8ba2-e094-26ad-4153593c1cf8,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1999-09-27,,cfe7cd0f-57de-4f43-d870-221bba80520b,a2d67caa-8ba2-e094-26ad-4153593c1cf8,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1999-09-27,,cfe7cd0f-57de-4f43-d870-221bba80520b,a2d67caa-8ba2-e094-26ad-4153593c1cf8,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1999-09-27,,cfe7cd0f-57de-4f43-d870-221bba80520b,a2d67caa-8ba2-e094-26ad-4153593c1cf8,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1974-09-22,,9247e723-c35b-dc98-3071-b908dc425ab6,0cd1a1c3-2369-24a3-25a3-9a627381e008,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1974-09-22,,9247e723-c35b-dc98-3071-b908dc425ab6,0cd1a1c3-2369-24a3-25a3-9a627381e008,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+1974-09-22,,9247e723-c35b-dc98-3071-b908dc425ab6,0cd1a1c3-2369-24a3-25a3-9a627381e008,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+1974-09-22,,9247e723-c35b-dc98-3071-b908dc425ab6,0cd1a1c3-2369-24a3-25a3-9a627381e008,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1974-09-22,,9247e723-c35b-dc98-3071-b908dc425ab6,0cd1a1c3-2369-24a3-25a3-9a627381e008,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1974-09-22,,9247e723-c35b-dc98-3071-b908dc425ab6,0cd1a1c3-2369-24a3-25a3-9a627381e008,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1974-09-22,,9247e723-c35b-dc98-3071-b908dc425ab6,0cd1a1c3-2369-24a3-25a3-9a627381e008,7984,Unknown,Penicillin V,allergy,medication,,,,,,
+1974-09-22,,9247e723-c35b-dc98-3071-b908dc425ab6,0cd1a1c3-2369-24a3-25a3-9a627381e008,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1974-09-22,,9247e723-c35b-dc98-3071-b908dc425ab6,0cd1a1c3-2369-24a3-25a3-9a627381e008,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1974-09-22,,9247e723-c35b-dc98-3071-b908dc425ab6,0cd1a1c3-2369-24a3-25a3-9a627381e008,735029006,Unknown,Shellfish (substance),allergy,food,62315008,Diarrhea (finding),MILD,49727002,Cough (finding),MILD
+1999-08-14,,af68755a-79e4-36d9-f8e5-47384585969a,0330d68a-5947-5dce-3027-ab8c2f15550e,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1999-08-14,,af68755a-79e4-36d9-f8e5-47384585969a,0330d68a-5947-5dce-3027-ab8c2f15550e,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1999-08-14,,af68755a-79e4-36d9-f8e5-47384585969a,0330d68a-5947-5dce-3027-ab8c2f15550e,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1999-08-14,,af68755a-79e4-36d9-f8e5-47384585969a,0330d68a-5947-5dce-3027-ab8c2f15550e,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1999-08-14,,af68755a-79e4-36d9-f8e5-47384585969a,0330d68a-5947-5dce-3027-ab8c2f15550e,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1999-08-14,,af68755a-79e4-36d9-f8e5-47384585969a,0330d68a-5947-5dce-3027-ab8c2f15550e,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1999-08-14,,af68755a-79e4-36d9-f8e5-47384585969a,0330d68a-5947-5dce-3027-ab8c2f15550e,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+1998-11-14,,94933579-3900-8b7d-8c05-e473910e791a,75a2d79a-d53a-4ecf-4509-55f9d7b28829,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1998-11-14,,94933579-3900-8b7d-8c05-e473910e791a,75a2d79a-d53a-4ecf-4509-55f9d7b28829,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1998-11-14,,94933579-3900-8b7d-8c05-e473910e791a,75a2d79a-d53a-4ecf-4509-55f9d7b28829,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1998-11-14,,94933579-3900-8b7d-8c05-e473910e791a,75a2d79a-d53a-4ecf-4509-55f9d7b28829,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1998-11-14,,94933579-3900-8b7d-8c05-e473910e791a,75a2d79a-d53a-4ecf-4509-55f9d7b28829,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1998-11-14,,94933579-3900-8b7d-8c05-e473910e791a,75a2d79a-d53a-4ecf-4509-55f9d7b28829,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1998-11-14,,94933579-3900-8b7d-8c05-e473910e791a,75a2d79a-d53a-4ecf-4509-55f9d7b28829,3718001,Unknown,Cow's milk (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,62315008,Diarrhea (finding),MILD
+1998-11-14,,94933579-3900-8b7d-8c05-e473910e791a,75a2d79a-d53a-4ecf-4509-55f9d7b28829,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1949-12-14,,88bb7a99-2e23-086f-0a7f-a48a8ce68c48,34e976c3-3e99-569b-46d4-8e606a55e4b9,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,21626009,Allergic skin rash,MILD
+2001-12-09,,5d7a76d4-ad23-811e-13ad-d3821c4431c3,6d92c263-70c1-da1c-31af-875dd2798939,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+2001-12-09,,5d7a76d4-ad23-811e-13ad-d3821c4431c3,6d92c263-70c1-da1c-31af-875dd2798939,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2001-12-09,,5d7a76d4-ad23-811e-13ad-d3821c4431c3,6d92c263-70c1-da1c-31af-875dd2798939,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2001-12-09,,5d7a76d4-ad23-811e-13ad-d3821c4431c3,6d92c263-70c1-da1c-31af-875dd2798939,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2001-12-09,,5d7a76d4-ad23-811e-13ad-d3821c4431c3,6d92c263-70c1-da1c-31af-875dd2798939,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+2001-12-09,,5d7a76d4-ad23-811e-13ad-d3821c4431c3,6d92c263-70c1-da1c-31af-875dd2798939,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2001-12-09,,5d7a76d4-ad23-811e-13ad-d3821c4431c3,6d92c263-70c1-da1c-31af-875dd2798939,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2001-12-09,,5d7a76d4-ad23-811e-13ad-d3821c4431c3,6d92c263-70c1-da1c-31af-875dd2798939,7984,Unknown,Penicillin V,allergy,medication,247472004,Wheal (finding),MILD,,,
+2001-12-09,,5d7a76d4-ad23-811e-13ad-d3821c4431c3,6d92c263-70c1-da1c-31af-875dd2798939,442571000124108,Unknown,Tree nut (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1944-05-07,,014e204c-bd87-a7fd-0ee5-86296391a44d,c357337d-153b-59e2-aa75-eeb15774f121,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,271807003,Eruption of skin (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+1944-05-07,,014e204c-bd87-a7fd-0ee5-86296391a44d,c357337d-153b-59e2-aa75-eeb15774f121,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1942-02-03,,1ee1e127-e10b-cdb4-7a57-45e6e841d9fc,11ade2dc-06a3-c941-ba1f-b441e0a8a5f6,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1942-02-03,,1ee1e127-e10b-cdb4-7a57-45e6e841d9fc,11ade2dc-06a3-c941-ba1f-b441e0a8a5f6,1191,Unknown,Aspirin,allergy,medication,247472004,Wheal (finding),MODERATE,,,
+1942-02-03,,1ee1e127-e10b-cdb4-7a57-45e6e841d9fc,11ade2dc-06a3-c941-ba1f-b441e0a8a5f6,735971005,Unknown,Fish (substance),allergy,food,878820003,Rhinoconjunctivitis (disorder),MILD,271807003,Eruption of skin (disorder),MILD
+1994-09-08,,0c91d5e0-d9b1-70b5-b368-d8f166e46307,4d1bff51-9f1d-84e4-404f-b9ed174e7174,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,21626009,Allergic skin rash,MILD
+1994-09-08,,0c91d5e0-d9b1-70b5-b368-d8f166e46307,4d1bff51-9f1d-84e4-404f-b9ed174e7174,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1994-09-08,,0c91d5e0-d9b1-70b5-b368-d8f166e46307,4d1bff51-9f1d-84e4-404f-b9ed174e7174,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1994-09-08,,0c91d5e0-d9b1-70b5-b368-d8f166e46307,4d1bff51-9f1d-84e4-404f-b9ed174e7174,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1994-09-08,,0c91d5e0-d9b1-70b5-b368-d8f166e46307,4d1bff51-9f1d-84e4-404f-b9ed174e7174,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1994-09-08,,0c91d5e0-d9b1-70b5-b368-d8f166e46307,4d1bff51-9f1d-84e4-404f-b9ed174e7174,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,271807003,Eruption of skin (disorder),MODERATE,,,
+1994-09-08,,0c91d5e0-d9b1-70b5-b368-d8f166e46307,4d1bff51-9f1d-84e4-404f-b9ed174e7174,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1994-09-08,,0c91d5e0-d9b1-70b5-b368-d8f166e46307,4d1bff51-9f1d-84e4-404f-b9ed174e7174,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,247472004,Wheal (finding),MILD
+1994-09-08,,0c91d5e0-d9b1-70b5-b368-d8f166e46307,4d1bff51-9f1d-84e4-404f-b9ed174e7174,256355007,Unknown,Soya bean (substance),allergy,food,300359004,Finding of vomiting (finding),MODERATE,62315008,Diarrhea (finding),MILD
+2010-06-11,,f84d02a6-399a-d1f5-bdab-1d2b384db505,045dcfa5-16d0-51e4-ee4d-77ff2de60596,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,,,
+2010-06-11,,f84d02a6-399a-d1f5-bdab-1d2b384db505,045dcfa5-16d0-51e4-ee4d-77ff2de60596,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2010-06-11,,f84d02a6-399a-d1f5-bdab-1d2b384db505,045dcfa5-16d0-51e4-ee4d-77ff2de60596,264287008,Unknown,Animal dander (substance),allergy,environment,267036007,Dyspnea (finding),MILD,,,
+2010-06-11,,f84d02a6-399a-d1f5-bdab-1d2b384db505,045dcfa5-16d0-51e4-ee4d-77ff2de60596,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2010-06-11,,f84d02a6-399a-d1f5-bdab-1d2b384db505,045dcfa5-16d0-51e4-ee4d-77ff2de60596,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2010-06-11,,f84d02a6-399a-d1f5-bdab-1d2b384db505,045dcfa5-16d0-51e4-ee4d-77ff2de60596,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2010-06-11,,f84d02a6-399a-d1f5-bdab-1d2b384db505,045dcfa5-16d0-51e4-ee4d-77ff2de60596,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,422587007,Nausea (finding),MODERATE
+2010-06-11,,f84d02a6-399a-d1f5-bdab-1d2b384db505,045dcfa5-16d0-51e4-ee4d-77ff2de60596,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+2000-04-03,,1ac03c41-b422-98d8-feb1-62cfa9ed98b0,38d9fd69-2b2b-a332-ad5a-9d4798ca026f,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2000-04-03,,1ac03c41-b422-98d8-feb1-62cfa9ed98b0,38d9fd69-2b2b-a332-ad5a-9d4798ca026f,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2000-04-03,,1ac03c41-b422-98d8-feb1-62cfa9ed98b0,38d9fd69-2b2b-a332-ad5a-9d4798ca026f,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,247472004,Wheal (finding),MILD
+2000-04-03,,1ac03c41-b422-98d8-feb1-62cfa9ed98b0,38d9fd69-2b2b-a332-ad5a-9d4798ca026f,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2000-04-03,,1ac03c41-b422-98d8-feb1-62cfa9ed98b0,38d9fd69-2b2b-a332-ad5a-9d4798ca026f,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+2000-04-03,,1ac03c41-b422-98d8-feb1-62cfa9ed98b0,38d9fd69-2b2b-a332-ad5a-9d4798ca026f,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2021-09-23,,94318b32-2a00-5f78-eb56-a8023bce4ea3,5b47a3ec-e0b5-9635-66f6-76051fa93485,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2021-09-23,,94318b32-2a00-5f78-eb56-a8023bce4ea3,5b47a3ec-e0b5-9635-66f6-76051fa93485,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,76067001,Sneezing,MILD
+2021-09-23,,94318b32-2a00-5f78-eb56-a8023bce4ea3,5b47a3ec-e0b5-9635-66f6-76051fa93485,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2021-09-23,,94318b32-2a00-5f78-eb56-a8023bce4ea3,5b47a3ec-e0b5-9635-66f6-76051fa93485,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2021-09-23,,94318b32-2a00-5f78-eb56-a8023bce4ea3,5b47a3ec-e0b5-9635-66f6-76051fa93485,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2021-09-23,,94318b32-2a00-5f78-eb56-a8023bce4ea3,5b47a3ec-e0b5-9635-66f6-76051fa93485,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2021-09-23,,94318b32-2a00-5f78-eb56-a8023bce4ea3,5b47a3ec-e0b5-9635-66f6-76051fa93485,3718001,Unknown,Cow's milk (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,62315008,Diarrhea (finding),MILD
+2021-09-23,,94318b32-2a00-5f78-eb56-a8023bce4ea3,5b47a3ec-e0b5-9635-66f6-76051fa93485,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2021-09-23,,94318b32-2a00-5f78-eb56-a8023bce4ea3,5b47a3ec-e0b5-9635-66f6-76051fa93485,762952008,Unknown,Peanut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+1962-07-22,,8f721f71-543c-0bee-e1dd-2ef50012d1ec,3eaa2f59-299d-3f67-9f03-ebe389a6ac71,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1962-07-22,,8f721f71-543c-0bee-e1dd-2ef50012d1ec,3eaa2f59-299d-3f67-9f03-ebe389a6ac71,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1962-07-22,,8f721f71-543c-0bee-e1dd-2ef50012d1ec,3eaa2f59-299d-3f67-9f03-ebe389a6ac71,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1962-07-22,,8f721f71-543c-0bee-e1dd-2ef50012d1ec,3eaa2f59-299d-3f67-9f03-ebe389a6ac71,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1962-07-22,,8f721f71-543c-0bee-e1dd-2ef50012d1ec,3eaa2f59-299d-3f67-9f03-ebe389a6ac71,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,267036007,Dyspnea (finding),MILD
+1962-07-22,,8f721f71-543c-0bee-e1dd-2ef50012d1ec,3eaa2f59-299d-3f67-9f03-ebe389a6ac71,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1962-07-22,,8f721f71-543c-0bee-e1dd-2ef50012d1ec,3eaa2f59-299d-3f67-9f03-ebe389a6ac71,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1962-07-22,,8f721f71-543c-0bee-e1dd-2ef50012d1ec,3eaa2f59-299d-3f67-9f03-ebe389a6ac71,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1962-07-22,,8f721f71-543c-0bee-e1dd-2ef50012d1ec,3eaa2f59-299d-3f67-9f03-ebe389a6ac71,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1962-07-22,,8f721f71-543c-0bee-e1dd-2ef50012d1ec,3eaa2f59-299d-3f67-9f03-ebe389a6ac71,442571000124108,Unknown,Tree nut (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+2019-07-21,,54aea71b-bad4-b603-a489-adcfecaf82b5,e96d909c-16ec-5458-93ed-525998c2953d,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2019-07-21,,54aea71b-bad4-b603-a489-adcfecaf82b5,e96d909c-16ec-5458-93ed-525998c2953d,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2022-02-13,,73afd954-834c-0ba6-d755-b585b680376d,feab68fb-6532-0033-ea3b-987d3f14447f,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+2022-02-13,,73afd954-834c-0ba6-d755-b585b680376d,feab68fb-6532-0033-ea3b-987d3f14447f,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2022-02-13,,73afd954-834c-0ba6-d755-b585b680376d,feab68fb-6532-0033-ea3b-987d3f14447f,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,56018004,Wheezing,MILD
+2022-02-13,,73afd954-834c-0ba6-d755-b585b680376d,feab68fb-6532-0033-ea3b-987d3f14447f,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2022-02-13,,73afd954-834c-0ba6-d755-b585b680376d,feab68fb-6532-0033-ea3b-987d3f14447f,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2022-02-13,,73afd954-834c-0ba6-d755-b585b680376d,feab68fb-6532-0033-ea3b-987d3f14447f,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2022-02-13,,73afd954-834c-0ba6-d755-b585b680376d,feab68fb-6532-0033-ea3b-987d3f14447f,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2022-02-13,,73afd954-834c-0ba6-d755-b585b680376d,feab68fb-6532-0033-ea3b-987d3f14447f,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,247472004,Wheal (finding),MILD
+2022-02-13,,73afd954-834c-0ba6-d755-b585b680376d,feab68fb-6532-0033-ea3b-987d3f14447f,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+2014-05-26,,1af26109-7e25-e7d3-0317-3608c06960d2,43d167f8-8e28-fc2b-e99b-35861d944ce9,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2014-05-26,,1af26109-7e25-e7d3-0317-3608c06960d2,43d167f8-8e28-fc2b-e99b-35861d944ce9,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2014-05-26,,1af26109-7e25-e7d3-0317-3608c06960d2,43d167f8-8e28-fc2b-e99b-35861d944ce9,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2014-05-26,,1af26109-7e25-e7d3-0317-3608c06960d2,43d167f8-8e28-fc2b-e99b-35861d944ce9,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2014-05-26,,1af26109-7e25-e7d3-0317-3608c06960d2,43d167f8-8e28-fc2b-e99b-35861d944ce9,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2014-05-26,,1af26109-7e25-e7d3-0317-3608c06960d2,43d167f8-8e28-fc2b-e99b-35861d944ce9,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2014-05-26,,1af26109-7e25-e7d3-0317-3608c06960d2,43d167f8-8e28-fc2b-e99b-35861d944ce9,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2014-05-26,,1af26109-7e25-e7d3-0317-3608c06960d2,43d167f8-8e28-fc2b-e99b-35861d944ce9,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2014-05-26,,1af26109-7e25-e7d3-0317-3608c06960d2,43d167f8-8e28-fc2b-e99b-35861d944ce9,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+1985-09-10,,be8ee0f4-1d68-858d-28a3-8700f3326295,9101cd52-e3bc-5dea-a76a-71b3410d4a84,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1985-09-10,,be8ee0f4-1d68-858d-28a3-8700f3326295,9101cd52-e3bc-5dea-a76a-71b3410d4a84,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1985-09-10,,be8ee0f4-1d68-858d-28a3-8700f3326295,9101cd52-e3bc-5dea-a76a-71b3410d4a84,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1985-09-10,,be8ee0f4-1d68-858d-28a3-8700f3326295,9101cd52-e3bc-5dea-a76a-71b3410d4a84,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1985-09-10,,be8ee0f4-1d68-858d-28a3-8700f3326295,9101cd52-e3bc-5dea-a76a-71b3410d4a84,102263004,Unknown,Eggs (edible) (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,,,
+1985-09-10,,be8ee0f4-1d68-858d-28a3-8700f3326295,9101cd52-e3bc-5dea-a76a-71b3410d4a84,442571000124108,Unknown,Tree nut (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1985-09-10,,be8ee0f4-1d68-858d-28a3-8700f3326295,9101cd52-e3bc-5dea-a76a-71b3410d4a84,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,267036007,Dyspnea (finding),MILD
+2014-07-25,,28897c2e-5835-3ae8-ea95-28045fa48efb,30211f14-90e6-1946-2283-835c872c3397,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2014-07-25,,28897c2e-5835-3ae8-ea95-28045fa48efb,30211f14-90e6-1946-2283-835c872c3397,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2014-07-25,,28897c2e-5835-3ae8-ea95-28045fa48efb,30211f14-90e6-1946-2283-835c872c3397,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2014-07-25,,28897c2e-5835-3ae8-ea95-28045fa48efb,30211f14-90e6-1946-2283-835c872c3397,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2014-07-25,,28897c2e-5835-3ae8-ea95-28045fa48efb,30211f14-90e6-1946-2283-835c872c3397,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2014-07-25,,28897c2e-5835-3ae8-ea95-28045fa48efb,30211f14-90e6-1946-2283-835c872c3397,256355007,Unknown,Soya bean (substance),allergy,food,300359004,Finding of vomiting (finding),MODERATE,62315008,Diarrhea (finding),MILD
+2014-07-25,,28897c2e-5835-3ae8-ea95-28045fa48efb,30211f14-90e6-1946-2283-835c872c3397,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MILD
+1964-02-22,,67c3b035-63f4-10b4-5dd0-0eadfa404885,4411e25b-c41d-b1d2-87af-b8916e5d32af,111088007,Unknown,Latex (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MILD,247472004,Wheal (finding),MILD
+1964-02-22,,67c3b035-63f4-10b4-5dd0-0eadfa404885,4411e25b-c41d-b1d2-87af-b8916e5d32af,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+1964-02-22,,67c3b035-63f4-10b4-5dd0-0eadfa404885,4411e25b-c41d-b1d2-87af-b8916e5d32af,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,,,
+1964-02-22,,67c3b035-63f4-10b4-5dd0-0eadfa404885,4411e25b-c41d-b1d2-87af-b8916e5d32af,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1964-02-22,,67c3b035-63f4-10b4-5dd0-0eadfa404885,4411e25b-c41d-b1d2-87af-b8916e5d32af,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+1964-02-22,,67c3b035-63f4-10b4-5dd0-0eadfa404885,4411e25b-c41d-b1d2-87af-b8916e5d32af,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1964-02-22,,67c3b035-63f4-10b4-5dd0-0eadfa404885,4411e25b-c41d-b1d2-87af-b8916e5d32af,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1964-02-22,,67c3b035-63f4-10b4-5dd0-0eadfa404885,4411e25b-c41d-b1d2-87af-b8916e5d32af,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1964-02-22,,67c3b035-63f4-10b4-5dd0-0eadfa404885,4411e25b-c41d-b1d2-87af-b8916e5d32af,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1991-03-14,,b58bcf56-c54d-3881-0efa-ee9f7e91234d,d03e5e03-0407-43b7-230c-318a20e9f602,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1991-03-14,,b58bcf56-c54d-3881-0efa-ee9f7e91234d,d03e5e03-0407-43b7-230c-318a20e9f602,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1991-03-14,,b58bcf56-c54d-3881-0efa-ee9f7e91234d,d03e5e03-0407-43b7-230c-318a20e9f602,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+1991-03-14,,b58bcf56-c54d-3881-0efa-ee9f7e91234d,d03e5e03-0407-43b7-230c-318a20e9f602,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1991-03-14,,b58bcf56-c54d-3881-0efa-ee9f7e91234d,d03e5e03-0407-43b7-230c-318a20e9f602,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1991-03-14,,b58bcf56-c54d-3881-0efa-ee9f7e91234d,d03e5e03-0407-43b7-230c-318a20e9f602,7984,Unknown,Penicillin V,allergy,medication,271807003,Eruption of skin (disorder),MILD,,,
+1991-03-14,,b58bcf56-c54d-3881-0efa-ee9f7e91234d,d03e5e03-0407-43b7-230c-318a20e9f602,3718001,Unknown,Cow's milk (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1991-03-14,,b58bcf56-c54d-3881-0efa-ee9f7e91234d,d03e5e03-0407-43b7-230c-318a20e9f602,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1991-03-14,,b58bcf56-c54d-3881-0efa-ee9f7e91234d,d03e5e03-0407-43b7-230c-318a20e9f602,735971005,Unknown,Fish (substance),allergy,food,271807003,Eruption of skin (disorder),MILD,,,
+2015-03-03,,f89f19f4-7c77-c2da-07b7-fff32bbf5c48,47f6ae47-f4f7-b4da-74d6-3d254e8960df,111088007,Unknown,Latex (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MILD,247472004,Wheal (finding),MILD
+2015-03-03,,f89f19f4-7c77-c2da-07b7-fff32bbf5c48,47f6ae47-f4f7-b4da-74d6-3d254e8960df,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2015-03-03,,f89f19f4-7c77-c2da-07b7-fff32bbf5c48,47f6ae47-f4f7-b4da-74d6-3d254e8960df,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2015-03-03,,f89f19f4-7c77-c2da-07b7-fff32bbf5c48,47f6ae47-f4f7-b4da-74d6-3d254e8960df,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2015-03-03,,f89f19f4-7c77-c2da-07b7-fff32bbf5c48,47f6ae47-f4f7-b4da-74d6-3d254e8960df,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2015-03-03,,f89f19f4-7c77-c2da-07b7-fff32bbf5c48,47f6ae47-f4f7-b4da-74d6-3d254e8960df,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2015-03-03,,f89f19f4-7c77-c2da-07b7-fff32bbf5c48,47f6ae47-f4f7-b4da-74d6-3d254e8960df,1191,Unknown,Aspirin,allergy,medication,247472004,Wheal (finding),MODERATE,21522001,Abdominal pain (finding),MODERATE
+2015-03-03,,f89f19f4-7c77-c2da-07b7-fff32bbf5c48,47f6ae47-f4f7-b4da-74d6-3d254e8960df,442571000124108,Unknown,Tree nut (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+2020-05-25,,2c7b5ea7-6f34-2352-6165-342ff35c0a13,47e4c648-fbcf-1b96-1f43-94ec1516b6ad,111088007,Unknown,Latex (substance),allergy,environment,39579001,Anaphylaxis (disorder),SEVERE,247472004,Wheal (finding),MILD
+2020-05-25,,2c7b5ea7-6f34-2352-6165-342ff35c0a13,47e4c648-fbcf-1b96-1f43-94ec1516b6ad,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2020-05-25,,2c7b5ea7-6f34-2352-6165-342ff35c0a13,47e4c648-fbcf-1b96-1f43-94ec1516b6ad,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2020-05-25,,2c7b5ea7-6f34-2352-6165-342ff35c0a13,47e4c648-fbcf-1b96-1f43-94ec1516b6ad,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+2020-05-25,,2c7b5ea7-6f34-2352-6165-342ff35c0a13,47e4c648-fbcf-1b96-1f43-94ec1516b6ad,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2020-05-25,,2c7b5ea7-6f34-2352-6165-342ff35c0a13,47e4c648-fbcf-1b96-1f43-94ec1516b6ad,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1984-12-16,,d2fa5bff-057d-0a88-0145-d173ba8df776,3ad16cc9-252c-712a-59f6-887688a49e87,7984,Unknown,Penicillin V,allergy,medication,247472004,Wheal (finding),MILD,,,
+1984-12-16,,d2fa5bff-057d-0a88-0145-d173ba8df776,3ad16cc9-252c-712a-59f6-887688a49e87,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,300359004,Finding of vomiting (finding),MILD
+1996-12-09,,1d15fdd6-cb07-551c-fe02-278def479604,736a6789-343e-b808-31ea-c2b09263340c,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1989-07-21,,5094065a-e78e-dd00-3c84-dcd98e7cf635,148750a0-823a-1b8e-9db9-bad8f6b048c1,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1989-07-21,,5094065a-e78e-dd00-3c84-dcd98e7cf635,148750a0-823a-1b8e-9db9-bad8f6b048c1,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1989-07-21,,5094065a-e78e-dd00-3c84-dcd98e7cf635,148750a0-823a-1b8e-9db9-bad8f6b048c1,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1989-07-21,,5094065a-e78e-dd00-3c84-dcd98e7cf635,148750a0-823a-1b8e-9db9-bad8f6b048c1,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1989-07-21,,5094065a-e78e-dd00-3c84-dcd98e7cf635,148750a0-823a-1b8e-9db9-bad8f6b048c1,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1989-07-21,,5094065a-e78e-dd00-3c84-dcd98e7cf635,148750a0-823a-1b8e-9db9-bad8f6b048c1,256355007,Unknown,Soya bean (substance),allergy,food,,,,,,
+1989-07-21,,5094065a-e78e-dd00-3c84-dcd98e7cf635,148750a0-823a-1b8e-9db9-bad8f6b048c1,102263004,Unknown,Eggs (edible) (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,,,
+1989-07-21,,5094065a-e78e-dd00-3c84-dcd98e7cf635,148750a0-823a-1b8e-9db9-bad8f6b048c1,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2008-12-03,,6d6b365e-69c4-ddb3-96b1-6dc269ca6a13,6185e01e-d3b3-6d83-66d5-e3d56e311f3e,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+2008-12-03,,6d6b365e-69c4-ddb3-96b1-6dc269ca6a13,6185e01e-d3b3-6d83-66d5-e3d56e311f3e,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2008-12-03,,6d6b365e-69c4-ddb3-96b1-6dc269ca6a13,6185e01e-d3b3-6d83-66d5-e3d56e311f3e,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2008-12-03,,6d6b365e-69c4-ddb3-96b1-6dc269ca6a13,6185e01e-d3b3-6d83-66d5-e3d56e311f3e,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2008-12-03,,6d6b365e-69c4-ddb3-96b1-6dc269ca6a13,6185e01e-d3b3-6d83-66d5-e3d56e311f3e,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2008-12-03,,6d6b365e-69c4-ddb3-96b1-6dc269ca6a13,6185e01e-d3b3-6d83-66d5-e3d56e311f3e,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2008-12-03,,6d6b365e-69c4-ddb3-96b1-6dc269ca6a13,6185e01e-d3b3-6d83-66d5-e3d56e311f3e,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2008-12-03,,6d6b365e-69c4-ddb3-96b1-6dc269ca6a13,6185e01e-d3b3-6d83-66d5-e3d56e311f3e,442571000124108,Unknown,Tree nut (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1954-09-09,,059b8d86-eea8-c1fb-72d7-1e83d4ef1d61,13f11c41-bfc9-2c0d-6015-c59115d8598a,84489001,Unknown,Mold (organism),allergy,environment,56018004,Wheezing,MILD,,,
+1954-09-09,,059b8d86-eea8-c1fb-72d7-1e83d4ef1d61,13f11c41-bfc9-2c0d-6015-c59115d8598a,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1954-09-09,,059b8d86-eea8-c1fb-72d7-1e83d4ef1d61,13f11c41-bfc9-2c0d-6015-c59115d8598a,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1954-09-09,,059b8d86-eea8-c1fb-72d7-1e83d4ef1d61,13f11c41-bfc9-2c0d-6015-c59115d8598a,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2016-08-31,,42823586-1c11-6e2f-5663-ec3fbe87c585,1a0dc362-e5f0-3eab-0a7d-88946cdeff51,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2016-08-31,,42823586-1c11-6e2f-5663-ec3fbe87c585,1a0dc362-e5f0-3eab-0a7d-88946cdeff51,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2016-08-31,,42823586-1c11-6e2f-5663-ec3fbe87c585,1a0dc362-e5f0-3eab-0a7d-88946cdeff51,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2016-08-31,,42823586-1c11-6e2f-5663-ec3fbe87c585,1a0dc362-e5f0-3eab-0a7d-88946cdeff51,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+2016-08-31,,42823586-1c11-6e2f-5663-ec3fbe87c585,1a0dc362-e5f0-3eab-0a7d-88946cdeff51,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2016-08-31,,42823586-1c11-6e2f-5663-ec3fbe87c585,1a0dc362-e5f0-3eab-0a7d-88946cdeff51,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2016-08-31,,42823586-1c11-6e2f-5663-ec3fbe87c585,1a0dc362-e5f0-3eab-0a7d-88946cdeff51,7984,Unknown,Penicillin V,allergy,medication,404640003,Dizziness (finding),MILD,,,
+2016-08-31,,42823586-1c11-6e2f-5663-ec3fbe87c585,1a0dc362-e5f0-3eab-0a7d-88946cdeff51,3718001,Unknown,Cow's milk (substance),allergy,food,247472004,Wheal (finding),MILD,,,
+2016-08-31,,42823586-1c11-6e2f-5663-ec3fbe87c585,1a0dc362-e5f0-3eab-0a7d-88946cdeff51,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+2006-04-26,,e9a3966f-2a86-9f19-de3b-b70053c780cd,6ff1ff6a-58f4-d309-2ee6-7323a1962068,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2006-04-26,,e9a3966f-2a86-9f19-de3b-b70053c780cd,6ff1ff6a-58f4-d309-2ee6-7323a1962068,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2006-04-26,,e9a3966f-2a86-9f19-de3b-b70053c780cd,6ff1ff6a-58f4-d309-2ee6-7323a1962068,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2006-04-26,,e9a3966f-2a86-9f19-de3b-b70053c780cd,6ff1ff6a-58f4-d309-2ee6-7323a1962068,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2006-04-26,,e9a3966f-2a86-9f19-de3b-b70053c780cd,6ff1ff6a-58f4-d309-2ee6-7323a1962068,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2006-04-26,,e9a3966f-2a86-9f19-de3b-b70053c780cd,6ff1ff6a-58f4-d309-2ee6-7323a1962068,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2017-11-20,,877f1e6f-a1a7-84d7-736b-e1069c9265d9,c8634b6a-10ba-6ba7-e5e1-565bd1084385,111088007,Unknown,Latex (substance),allergy,environment,402387002,Allergic angioedema (disorder),MODERATE,,,
+2017-11-20,,877f1e6f-a1a7-84d7-736b-e1069c9265d9,c8634b6a-10ba-6ba7-e5e1-565bd1084385,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2017-11-20,,877f1e6f-a1a7-84d7-736b-e1069c9265d9,c8634b6a-10ba-6ba7-e5e1-565bd1084385,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2017-11-20,,877f1e6f-a1a7-84d7-736b-e1069c9265d9,c8634b6a-10ba-6ba7-e5e1-565bd1084385,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+2017-11-20,,877f1e6f-a1a7-84d7-736b-e1069c9265d9,c8634b6a-10ba-6ba7-e5e1-565bd1084385,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2017-11-20,,877f1e6f-a1a7-84d7-736b-e1069c9265d9,c8634b6a-10ba-6ba7-e5e1-565bd1084385,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2017-11-20,,877f1e6f-a1a7-84d7-736b-e1069c9265d9,c8634b6a-10ba-6ba7-e5e1-565bd1084385,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,300359004,Finding of vomiting (finding),MILD
+1984-04-10,,ca97475d-9019-4f66-e225-2391cac105cf,91f1a19d-b1cf-82d0-f865-00dccaec226f,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,,,
+1984-04-10,,ca97475d-9019-4f66-e225-2391cac105cf,91f1a19d-b1cf-82d0-f865-00dccaec226f,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1984-04-10,,ca97475d-9019-4f66-e225-2391cac105cf,91f1a19d-b1cf-82d0-f865-00dccaec226f,7984,Unknown,Penicillin V,allergy,medication,,,,,,
+1984-04-10,,ca97475d-9019-4f66-e225-2391cac105cf,91f1a19d-b1cf-82d0-f865-00dccaec226f,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+2014-01-06,,de61e896-c119-52c2-2b6e-7fd218844ebd,5c425d4e-4817-abcf-a65b-b889b6c55462,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1985-07-12,,a1e492c5-94ee-9aeb-94ac-a45b071a2200,95bf14af-2518-341d-dd0d-603dc2aaf955,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1985-07-12,,a1e492c5-94ee-9aeb-94ac-a45b071a2200,95bf14af-2518-341d-dd0d-603dc2aaf955,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1985-07-12,,a1e492c5-94ee-9aeb-94ac-a45b071a2200,95bf14af-2518-341d-dd0d-603dc2aaf955,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+1985-07-12,,a1e492c5-94ee-9aeb-94ac-a45b071a2200,95bf14af-2518-341d-dd0d-603dc2aaf955,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1985-07-12,,a1e492c5-94ee-9aeb-94ac-a45b071a2200,95bf14af-2518-341d-dd0d-603dc2aaf955,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1951-02-28,,7c08fd25-8de5-38df-2396-255bc89d9ba9,2c754b20-eed1-a37b-edf5-8626a8bb16b5,1191,Unknown,Aspirin,allergy,medication,247472004,Wheal (finding),MODERATE,,,
+1951-02-28,,7c08fd25-8de5-38df-2396-255bc89d9ba9,2c754b20-eed1-a37b-edf5-8626a8bb16b5,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2007-12-27,,2ed7e75f-8417-5b86-a182-63623adffacd,de72a5b2-02fd-c096-73d6-465504b20672,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,21626009,Allergic skin rash,MILD
+2007-12-27,,2ed7e75f-8417-5b86-a182-63623adffacd,de72a5b2-02fd-c096-73d6-465504b20672,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2007-12-27,,2ed7e75f-8417-5b86-a182-63623adffacd,de72a5b2-02fd-c096-73d6-465504b20672,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2007-12-27,,2ed7e75f-8417-5b86-a182-63623adffacd,de72a5b2-02fd-c096-73d6-465504b20672,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2007-12-27,,2ed7e75f-8417-5b86-a182-63623adffacd,de72a5b2-02fd-c096-73d6-465504b20672,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2007-12-27,,2ed7e75f-8417-5b86-a182-63623adffacd,de72a5b2-02fd-c096-73d6-465504b20672,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+2007-12-27,,2ed7e75f-8417-5b86-a182-63623adffacd,de72a5b2-02fd-c096-73d6-465504b20672,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1940-11-20,,42eae677-a732-3a5d-fda1-a998297a9795,d3db5596-7243-4f6a-ca61-b0d13b2fa206,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1940-11-20,,42eae677-a732-3a5d-fda1-a998297a9795,d3db5596-7243-4f6a-ca61-b0d13b2fa206,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1940-11-20,,42eae677-a732-3a5d-fda1-a998297a9795,d3db5596-7243-4f6a-ca61-b0d13b2fa206,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1940-11-20,,42eae677-a732-3a5d-fda1-a998297a9795,d3db5596-7243-4f6a-ca61-b0d13b2fa206,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1940-11-20,,42eae677-a732-3a5d-fda1-a998297a9795,d3db5596-7243-4f6a-ca61-b0d13b2fa206,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1940-11-20,,42eae677-a732-3a5d-fda1-a998297a9795,d3db5596-7243-4f6a-ca61-b0d13b2fa206,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1940-11-20,,42eae677-a732-3a5d-fda1-a998297a9795,d3db5596-7243-4f6a-ca61-b0d13b2fa206,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1941-02-03,,6ca1355d-40e5-cd12-4377-ac2adcd6ac17,7905a9cf-0f21-9200-a7f2-9532657f1bd0,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,56018004,Wheezing,MILD
+1941-02-03,,6ca1355d-40e5-cd12-4377-ac2adcd6ac17,7905a9cf-0f21-9200-a7f2-9532657f1bd0,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1941-05-29,,dcc378fb-71b2-b3d8-9b16-e56c078681bf,2629417d-0764-b7f9-2991-cd2ade08903e,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,271807003,Eruption of skin (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+1941-05-29,,dcc378fb-71b2-b3d8-9b16-e56c078681bf,2629417d-0764-b7f9-2991-cd2ade08903e,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+2019-12-27,,931f71c6-cdc1-7ee3-1120-0d10a6b8a975,6d7c54a1-ef92-690e-f5b1-acd1abbdf6ab,7984,Unknown,Penicillin V,allergy,medication,,,,,,
+1986-12-13,,9e82cd23-e00b-77c2-bf55-d661e37a5099,4c830334-d97c-470a-5cd4-1da2d55a1be0,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1979-06-20,,881db259-6bff-3eee-afa8-bf02bea22e0d,b668f67a-6db4-a664-a40d-823201a3d1b4,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1979-06-20,,881db259-6bff-3eee-afa8-bf02bea22e0d,b668f67a-6db4-a664-a40d-823201a3d1b4,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,422587007,Nausea (finding),MODERATE
+1984-04-16,,17a9abd9-10dc-e261-54b7-5c441f9cb756,6167a919-bdff-ddf6-f633-eb7b53cce484,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,56018004,Wheezing,MILD
+1984-04-16,,17a9abd9-10dc-e261-54b7-5c441f9cb756,6167a919-bdff-ddf6-f633-eb7b53cce484,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1984-04-16,,17a9abd9-10dc-e261-54b7-5c441f9cb756,6167a919-bdff-ddf6-f633-eb7b53cce484,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1984-04-16,,17a9abd9-10dc-e261-54b7-5c441f9cb756,6167a919-bdff-ddf6-f633-eb7b53cce484,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1984-04-16,,17a9abd9-10dc-e261-54b7-5c441f9cb756,6167a919-bdff-ddf6-f633-eb7b53cce484,735029006,Unknown,Shellfish (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,418290006,Itching (finding),MILD
+1984-04-16,,17a9abd9-10dc-e261-54b7-5c441f9cb756,6167a919-bdff-ddf6-f633-eb7b53cce484,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1983-05-10,,ef7f75fd-ad8c-b725-ebb6-ecdf4fa484cd,032dd2b4-6945-273a-7923-0f1c3c3d1026,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1983-05-10,,ef7f75fd-ad8c-b725-ebb6-ecdf4fa484cd,032dd2b4-6945-273a-7923-0f1c3c3d1026,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1983-05-10,,ef7f75fd-ad8c-b725-ebb6-ecdf4fa484cd,032dd2b4-6945-273a-7923-0f1c3c3d1026,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1983-05-10,,ef7f75fd-ad8c-b725-ebb6-ecdf4fa484cd,032dd2b4-6945-273a-7923-0f1c3c3d1026,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1983-05-10,,ef7f75fd-ad8c-b725-ebb6-ecdf4fa484cd,032dd2b4-6945-273a-7923-0f1c3c3d1026,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1983-05-10,,ef7f75fd-ad8c-b725-ebb6-ecdf4fa484cd,032dd2b4-6945-273a-7923-0f1c3c3d1026,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1983-05-10,,ef7f75fd-ad8c-b725-ebb6-ecdf4fa484cd,032dd2b4-6945-273a-7923-0f1c3c3d1026,3718001,Unknown,Cow's milk (substance),allergy,food,247472004,Wheal (finding),MILD,,,
+1983-05-10,,ef7f75fd-ad8c-b725-ebb6-ecdf4fa484cd,032dd2b4-6945-273a-7923-0f1c3c3d1026,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2004-02-03,,f65223d9-e8c1-b283-9511-b681577b6f08,f717fd7a-643c-186b-d457-2acc0beceb8f,111088007,Unknown,Latex (substance),allergy,environment,418290006,Itching (finding),MODERATE,247472004,Wheal (finding),MILD
+2004-02-03,,f65223d9-e8c1-b283-9511-b681577b6f08,f717fd7a-643c-186b-d457-2acc0beceb8f,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,21626009,Allergic skin rash,MILD
+2004-02-03,,f65223d9-e8c1-b283-9511-b681577b6f08,f717fd7a-643c-186b-d457-2acc0beceb8f,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2004-02-03,,f65223d9-e8c1-b283-9511-b681577b6f08,f717fd7a-643c-186b-d457-2acc0beceb8f,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+2004-02-03,,f65223d9-e8c1-b283-9511-b681577b6f08,f717fd7a-643c-186b-d457-2acc0beceb8f,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2004-02-03,,f65223d9-e8c1-b283-9511-b681577b6f08,f717fd7a-643c-186b-d457-2acc0beceb8f,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,271807003,Eruption of skin (disorder),MODERATE,,,
+2004-02-03,,f65223d9-e8c1-b283-9511-b681577b6f08,f717fd7a-643c-186b-d457-2acc0beceb8f,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2004-02-03,,f65223d9-e8c1-b283-9511-b681577b6f08,f717fd7a-643c-186b-d457-2acc0beceb8f,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2004-02-03,,f65223d9-e8c1-b283-9511-b681577b6f08,f717fd7a-643c-186b-d457-2acc0beceb8f,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,422587007,Nausea (finding),MODERATE
+2002-04-04,,d774dc0c-f58d-aafa-cca4-3634c3cfbb1e,c8d280e2-e18b-f781-0a17-2655af05c566,7984,Unknown,Penicillin V,allergy,medication,247472004,Wheal (finding),MILD,,,
+2002-04-04,,d774dc0c-f58d-aafa-cca4-3634c3cfbb1e,c8d280e2-e18b-f781-0a17-2655af05c566,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2018-12-17,,28911653-c9ef-e5a8-61a5-668dbb48f58f,9da3298c-a224-a320-584c-4a176318f64f,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2018-12-17,,28911653-c9ef-e5a8-61a5-668dbb48f58f,9da3298c-a224-a320-584c-4a176318f64f,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2018-12-17,,28911653-c9ef-e5a8-61a5-668dbb48f58f,9da3298c-a224-a320-584c-4a176318f64f,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+2018-12-17,,28911653-c9ef-e5a8-61a5-668dbb48f58f,9da3298c-a224-a320-584c-4a176318f64f,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2018-12-17,,28911653-c9ef-e5a8-61a5-668dbb48f58f,9da3298c-a224-a320-584c-4a176318f64f,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2018-12-17,,28911653-c9ef-e5a8-61a5-668dbb48f58f,9da3298c-a224-a320-584c-4a176318f64f,7984,Unknown,Penicillin V,allergy,medication,,,,,,
+2018-12-17,,28911653-c9ef-e5a8-61a5-668dbb48f58f,9da3298c-a224-a320-584c-4a176318f64f,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2015-11-07,,6884a50b-2060-67ff-0863-51569e687cc2,412d1fda-cef1-58be-53e7-7bdc80f67c49,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2015-11-07,,6884a50b-2060-67ff-0863-51569e687cc2,412d1fda-cef1-58be-53e7-7bdc80f67c49,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2015-11-07,,6884a50b-2060-67ff-0863-51569e687cc2,412d1fda-cef1-58be-53e7-7bdc80f67c49,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+2015-11-07,,6884a50b-2060-67ff-0863-51569e687cc2,412d1fda-cef1-58be-53e7-7bdc80f67c49,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2015-11-07,,6884a50b-2060-67ff-0863-51569e687cc2,412d1fda-cef1-58be-53e7-7bdc80f67c49,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2015-11-07,,6884a50b-2060-67ff-0863-51569e687cc2,412d1fda-cef1-58be-53e7-7bdc80f67c49,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+2015-11-07,,6884a50b-2060-67ff-0863-51569e687cc2,412d1fda-cef1-58be-53e7-7bdc80f67c49,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2015-11-07,,6884a50b-2060-67ff-0863-51569e687cc2,412d1fda-cef1-58be-53e7-7bdc80f67c49,735029006,Unknown,Shellfish (substance),allergy,food,418290006,Itching (finding),MILD,,,
+2015-11-07,,6884a50b-2060-67ff-0863-51569e687cc2,412d1fda-cef1-58be-53e7-7bdc80f67c49,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MILD
+1983-06-07,,1ec45867-c221-b37b-c0c9-ca3482df6008,92adbaaf-4de7-b5db-fac0-19b087143832,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,,,
+1983-06-07,,1ec45867-c221-b37b-c0c9-ca3482df6008,92adbaaf-4de7-b5db-fac0-19b087143832,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1983-06-07,,1ec45867-c221-b37b-c0c9-ca3482df6008,92adbaaf-4de7-b5db-fac0-19b087143832,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1983-06-07,,1ec45867-c221-b37b-c0c9-ca3482df6008,92adbaaf-4de7-b5db-fac0-19b087143832,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1983-06-07,,1ec45867-c221-b37b-c0c9-ca3482df6008,92adbaaf-4de7-b5db-fac0-19b087143832,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1983-06-07,,1ec45867-c221-b37b-c0c9-ca3482df6008,92adbaaf-4de7-b5db-fac0-19b087143832,7984,Unknown,Penicillin V,allergy,medication,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MILD
+1983-06-07,,1ec45867-c221-b37b-c0c9-ca3482df6008,92adbaaf-4de7-b5db-fac0-19b087143832,762952008,Unknown,Peanut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,247472004,Wheal (finding),MODERATE
+1988-09-17,,488b2ef8-a56c-5a2d-2bc9-b498a948ce93,f19b6e69-1aba-74eb-8e1a-70a39f91d296,3718001,Unknown,Cow's milk (substance),allergy,food,247472004,Wheal (finding),MILD,,,
+2009-02-28,,80885734-1f10-1830-d1d6-3a4acb0d0ef5,07746d78-086d-e72d-6ba8-c58123d479f8,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2009-02-28,,80885734-1f10-1830-d1d6-3a4acb0d0ef5,07746d78-086d-e72d-6ba8-c58123d479f8,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2009-02-28,,80885734-1f10-1830-d1d6-3a4acb0d0ef5,07746d78-086d-e72d-6ba8-c58123d479f8,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2009-02-28,,80885734-1f10-1830-d1d6-3a4acb0d0ef5,07746d78-086d-e72d-6ba8-c58123d479f8,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2009-02-28,,80885734-1f10-1830-d1d6-3a4acb0d0ef5,07746d78-086d-e72d-6ba8-c58123d479f8,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2009-02-28,,80885734-1f10-1830-d1d6-3a4acb0d0ef5,07746d78-086d-e72d-6ba8-c58123d479f8,3718001,Unknown,Cow's milk (substance),allergy,food,247472004,Wheal (finding),MILD,,,
+1990-10-09,,3586af67-b822-c17a-0beb-09cfd848903a,fe2061f2-923e-473b-7cc4-2cbc724676ff,111088007,Unknown,Latex (substance),allergy,environment,267036007,Dyspnea (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1990-10-09,,3586af67-b822-c17a-0beb-09cfd848903a,fe2061f2-923e-473b-7cc4-2cbc724676ff,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1990-10-09,,3586af67-b822-c17a-0beb-09cfd848903a,fe2061f2-923e-473b-7cc4-2cbc724676ff,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1990-10-09,,3586af67-b822-c17a-0beb-09cfd848903a,fe2061f2-923e-473b-7cc4-2cbc724676ff,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1990-10-09,,3586af67-b822-c17a-0beb-09cfd848903a,fe2061f2-923e-473b-7cc4-2cbc724676ff,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1990-10-09,,3586af67-b822-c17a-0beb-09cfd848903a,fe2061f2-923e-473b-7cc4-2cbc724676ff,256355007,Unknown,Soya bean (substance),allergy,food,,,,,,
+2006-02-18,,5cb4bcbe-7c2d-5b2e-198e-b1cc1126e94e,ab61c782-05e8-05d3-ea3f-056fecc51b99,1191,Unknown,Aspirin,allergy,medication,,,,,,
+2006-02-18,,5cb4bcbe-7c2d-5b2e-198e-b1cc1126e94e,ab61c782-05e8-05d3-ea3f-056fecc51b99,735029006,Unknown,Shellfish (substance),allergy,food,62315008,Diarrhea (finding),MILD,,,
+1988-05-20,,111eda20-774e-b8bf-f396-c76615d7ecaa,70dadfd4-94c0-8d55-3ab8-2de02b87e2c1,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1993-12-17,,ffb18140-91de-27cf-d030-e5e05b6ab528,1a4389fd-e5e0-68f6-5621-38791fff9229,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1991-01-28,,2ab4bc78-41b0-6c49-2b16-4357f18bf21e,c0498c9f-be36-d788-e986-a741df022b44,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,271807003,Eruption of skin (disorder),MODERATE,,,
+1991-01-28,,2ab4bc78-41b0-6c49-2b16-4357f18bf21e,c0498c9f-be36-d788-e986-a741df022b44,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1991-01-28,,2ab4bc78-41b0-6c49-2b16-4357f18bf21e,c0498c9f-be36-d788-e986-a741df022b44,7984,Unknown,Penicillin V,allergy,medication,,,,,,
+1991-01-28,,2ab4bc78-41b0-6c49-2b16-4357f18bf21e,c0498c9f-be36-d788-e986-a741df022b44,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+2002-10-29,,132bae4f-e6f9-f3ee-61b5-321666737715,7ce19801-c463-a279-ed32-6bc66f902146,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+2002-10-29,,132bae4f-e6f9-f3ee-61b5-321666737715,7ce19801-c463-a279-ed32-6bc66f902146,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,76067001,Sneezing,MILD
+2002-10-29,,132bae4f-e6f9-f3ee-61b5-321666737715,7ce19801-c463-a279-ed32-6bc66f902146,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2002-10-29,,132bae4f-e6f9-f3ee-61b5-321666737715,7ce19801-c463-a279-ed32-6bc66f902146,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2002-10-29,,132bae4f-e6f9-f3ee-61b5-321666737715,7ce19801-c463-a279-ed32-6bc66f902146,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2015-03-22,,b253dfe5-d72e-5b0f-6fe5-39e53ad5ab7d,01e782dc-3e8f-783c-aee4-d76898f9c98c,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+2015-03-22,,b253dfe5-d72e-5b0f-6fe5-39e53ad5ab7d,01e782dc-3e8f-783c-aee4-d76898f9c98c,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2015-03-22,,b253dfe5-d72e-5b0f-6fe5-39e53ad5ab7d,01e782dc-3e8f-783c-aee4-d76898f9c98c,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2015-03-22,,b253dfe5-d72e-5b0f-6fe5-39e53ad5ab7d,01e782dc-3e8f-783c-aee4-d76898f9c98c,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2015-03-22,,b253dfe5-d72e-5b0f-6fe5-39e53ad5ab7d,01e782dc-3e8f-783c-aee4-d76898f9c98c,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2015-03-22,,b253dfe5-d72e-5b0f-6fe5-39e53ad5ab7d,01e782dc-3e8f-783c-aee4-d76898f9c98c,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2015-03-22,,b253dfe5-d72e-5b0f-6fe5-39e53ad5ab7d,01e782dc-3e8f-783c-aee4-d76898f9c98c,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2015-03-22,,b253dfe5-d72e-5b0f-6fe5-39e53ad5ab7d,01e782dc-3e8f-783c-aee4-d76898f9c98c,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1973-07-08,,37a3581e-b918-8778-6f96-664d263d100e,8a445aed-7731-8d84-c2c8-ec74a7315c7c,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1973-07-08,,37a3581e-b918-8778-6f96-664d263d100e,8a445aed-7731-8d84-c2c8-ec74a7315c7c,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1973-07-08,,37a3581e-b918-8778-6f96-664d263d100e,8a445aed-7731-8d84-c2c8-ec74a7315c7c,7984,Unknown,Penicillin V,allergy,medication,271807003,Eruption of skin (disorder),MILD,,,
+1971-05-22,,961a8a29-8760-4419-df35-0cdd09e6ea0e,bbd4ba9d-61c4-b231-a596-9a6bedbfc2c0,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,,,
+1971-05-22,,961a8a29-8760-4419-df35-0cdd09e6ea0e,bbd4ba9d-61c4-b231-a596-9a6bedbfc2c0,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1971-05-22,,961a8a29-8760-4419-df35-0cdd09e6ea0e,bbd4ba9d-61c4-b231-a596-9a6bedbfc2c0,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1971-05-22,,961a8a29-8760-4419-df35-0cdd09e6ea0e,bbd4ba9d-61c4-b231-a596-9a6bedbfc2c0,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1971-05-22,,961a8a29-8760-4419-df35-0cdd09e6ea0e,bbd4ba9d-61c4-b231-a596-9a6bedbfc2c0,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1971-05-22,,961a8a29-8760-4419-df35-0cdd09e6ea0e,bbd4ba9d-61c4-b231-a596-9a6bedbfc2c0,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,247472004,Wheal (finding),MILD
+1971-05-22,,961a8a29-8760-4419-df35-0cdd09e6ea0e,bbd4ba9d-61c4-b231-a596-9a6bedbfc2c0,735971005,Unknown,Fish (substance),allergy,food,271807003,Eruption of skin (disorder),MILD,,,
+1971-05-22,,961a8a29-8760-4419-df35-0cdd09e6ea0e,bbd4ba9d-61c4-b231-a596-9a6bedbfc2c0,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1961-02-27,,33e66b8a-143f-6470-b313-1e6523dac937,f47630a3-505a-9cf2-818c-d86b6a396489,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1961-02-27,,33e66b8a-143f-6470-b313-1e6523dac937,f47630a3-505a-9cf2-818c-d86b6a396489,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1961-02-27,,33e66b8a-143f-6470-b313-1e6523dac937,f47630a3-505a-9cf2-818c-d86b6a396489,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1961-02-27,,33e66b8a-143f-6470-b313-1e6523dac937,f47630a3-505a-9cf2-818c-d86b6a396489,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1961-02-27,,33e66b8a-143f-6470-b313-1e6523dac937,f47630a3-505a-9cf2-818c-d86b6a396489,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1961-02-27,,33e66b8a-143f-6470-b313-1e6523dac937,f47630a3-505a-9cf2-818c-d86b6a396489,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1961-02-27,,33e66b8a-143f-6470-b313-1e6523dac937,f47630a3-505a-9cf2-818c-d86b6a396489,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1961-02-27,,33e66b8a-143f-6470-b313-1e6523dac937,f47630a3-505a-9cf2-818c-d86b6a396489,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,,,
+1961-02-27,,33e66b8a-143f-6470-b313-1e6523dac937,f47630a3-505a-9cf2-818c-d86b6a396489,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MILD
+2019-08-18,,11c85df9-4085-afce-75ba-3e62f0c77609,0bcdfc37-6a29-7096-f368-65de5a955aa0,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1954-01-15,,321484d2-6140-2130-7597-ae0f58ad680b,9b1791ab-460c-c609-677f-e9d8f91eccb1,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1934-01-07,,e701b7aa-3e75-84cc-ccda-98184bf0d59d,79ee9945-ea58-3655-3c1c-9c227e892a0e,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,,,
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1994-08-01,,cf4c1720-b1bc-5685-b58a-2c9ce40d898a,2df8213b-ee55-8022-a5b6-eb942a3b1032,762952008,Unknown,Peanut (substance),allergy,food,49727002,Cough (finding),MILD,56018004,Wheezing (finding),MILD
+2006-09-21,,1515b54e-0e79-39ea-eb2c-c8cbb6890ed8,657f71e5-d325-2d9c-b9f3-0789fd86a300,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1999-09-30,,433c510b-3005-33d3-978d-d4c666527dd1,14cce719-cd58-621f-aad9-b97f4c6aed5b,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+1999-09-30,,433c510b-3005-33d3-978d-d4c666527dd1,14cce719-cd58-621f-aad9-b97f4c6aed5b,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1999-09-30,,433c510b-3005-33d3-978d-d4c666527dd1,14cce719-cd58-621f-aad9-b97f4c6aed5b,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1999-09-30,,433c510b-3005-33d3-978d-d4c666527dd1,14cce719-cd58-621f-aad9-b97f4c6aed5b,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1999-09-30,,433c510b-3005-33d3-978d-d4c666527dd1,14cce719-cd58-621f-aad9-b97f4c6aed5b,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1999-09-30,,433c510b-3005-33d3-978d-d4c666527dd1,14cce719-cd58-621f-aad9-b97f4c6aed5b,3718001,Unknown,Cow's milk (substance),allergy,food,247472004,Wheal (finding),MILD,,,
+1999-09-30,,433c510b-3005-33d3-978d-d4c666527dd1,14cce719-cd58-621f-aad9-b97f4c6aed5b,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1999-09-30,,433c510b-3005-33d3-978d-d4c666527dd1,14cce719-cd58-621f-aad9-b97f4c6aed5b,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1999-09-30,,433c510b-3005-33d3-978d-d4c666527dd1,14cce719-cd58-621f-aad9-b97f4c6aed5b,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MILD
+1999-09-30,,433c510b-3005-33d3-978d-d4c666527dd1,14cce719-cd58-621f-aad9-b97f4c6aed5b,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,267036007,Dyspnea (finding),MILD
+1954-07-14,,7c008211-7b94-2906-9707-61ee646bd152,2dddc71c-73d1-11b7-fce3-b663e770610e,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+1954-07-14,,7c008211-7b94-2906-9707-61ee646bd152,2dddc71c-73d1-11b7-fce3-b663e770610e,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1954-07-14,,7c008211-7b94-2906-9707-61ee646bd152,2dddc71c-73d1-11b7-fce3-b663e770610e,264287008,Unknown,Animal dander (substance),allergy,environment,,,,,,
+1954-07-14,,7c008211-7b94-2906-9707-61ee646bd152,2dddc71c-73d1-11b7-fce3-b663e770610e,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1954-07-14,,7c008211-7b94-2906-9707-61ee646bd152,2dddc71c-73d1-11b7-fce3-b663e770610e,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1954-07-14,,7c008211-7b94-2906-9707-61ee646bd152,2dddc71c-73d1-11b7-fce3-b663e770610e,762952008,Unknown,Peanut (substance),allergy,food,267036007,Dyspnea (finding),MILD,,,
+1962-04-08,,c3b5e1e3-388b-2b5a-c1c9-01f76d29d7d5,6560a4e7-e53e-e1dd-eace-c3d4c2275aac,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1965-04-21,,1306bd74-6160-6ee2-a696-d45cc776b388,d6016772-3d8b-2dcb-295e-8edbf04233d9,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1976-11-08,,a27a7fba-3080-d190-22bd-786b6462a8d3,9204b895-d5f2-8537-9e31-f2f639f2e616,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+1976-11-08,,a27a7fba-3080-d190-22bd-786b6462a8d3,9204b895-d5f2-8537-9e31-f2f639f2e616,84489001,Unknown,Mold (organism),allergy,environment,56018004,Wheezing,MILD,,,
+1976-11-08,,a27a7fba-3080-d190-22bd-786b6462a8d3,9204b895-d5f2-8537-9e31-f2f639f2e616,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1976-11-08,,a27a7fba-3080-d190-22bd-786b6462a8d3,9204b895-d5f2-8537-9e31-f2f639f2e616,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1976-11-08,,a27a7fba-3080-d190-22bd-786b6462a8d3,9204b895-d5f2-8537-9e31-f2f639f2e616,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1976-11-08,,a27a7fba-3080-d190-22bd-786b6462a8d3,9204b895-d5f2-8537-9e31-f2f639f2e616,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1976-11-08,,a27a7fba-3080-d190-22bd-786b6462a8d3,9204b895-d5f2-8537-9e31-f2f639f2e616,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1976-11-08,,a27a7fba-3080-d190-22bd-786b6462a8d3,9204b895-d5f2-8537-9e31-f2f639f2e616,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1976-11-08,,a27a7fba-3080-d190-22bd-786b6462a8d3,9204b895-d5f2-8537-9e31-f2f639f2e616,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+1976-11-08,,a27a7fba-3080-d190-22bd-786b6462a8d3,9204b895-d5f2-8537-9e31-f2f639f2e616,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,56018004,Wheezing (finding),MILD
+2009-01-20,,8a73edf2-386e-2588-8985-55f8e3f72a53,6849b29c-23fc-505c-d05f-8553fc8b8f55,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+2009-01-20,,8a73edf2-386e-2588-8985-55f8e3f72a53,6849b29c-23fc-505c-d05f-8553fc8b8f55,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2009-01-20,,8a73edf2-386e-2588-8985-55f8e3f72a53,6849b29c-23fc-505c-d05f-8553fc8b8f55,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2009-01-20,,8a73edf2-386e-2588-8985-55f8e3f72a53,6849b29c-23fc-505c-d05f-8553fc8b8f55,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2009-01-20,,8a73edf2-386e-2588-8985-55f8e3f72a53,6849b29c-23fc-505c-d05f-8553fc8b8f55,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2009-01-20,,8a73edf2-386e-2588-8985-55f8e3f72a53,6849b29c-23fc-505c-d05f-8553fc8b8f55,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1960-11-13,,1246da76-8a9c-b15b-215a-972a70262f4e,85c709dd-9197-bf01-5df6-fce873100761,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1974-10-30,,6e858262-ee80-c964-324b-7c8b92e92709,78a55313-cde0-a37d-cbb7-e6ffcce97da5,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1974-10-30,,6e858262-ee80-c964-324b-7c8b92e92709,78a55313-cde0-a37d-cbb7-e6ffcce97da5,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+2003-06-26,,b9bb7ab6-a11d-c9bc-356a-5eafb90b8de5,2b8f5833-bded-08f7-8f0c-f9088b4ba9ef,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+2003-06-26,,b9bb7ab6-a11d-c9bc-356a-5eafb90b8de5,2b8f5833-bded-08f7-8f0c-f9088b4ba9ef,256355007,Unknown,Soya bean (substance),allergy,food,62315008,Diarrhea (finding),MILD,,,
+2004-07-09,,c03f2ee3-04b5-a311-c8a9-5931ec535238,495f86c5-e351-e896-340f-143698df5ac8,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1994-11-11,,9d66bd9d-8d49-1aa0-e7a4-13a763cd006d,e50905a6-6f6a-773b-04e0-5871500c0f93,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+2005-03-29,,843b5545-d2a0-7b39-50f8-b3cd0af045c2,4c7500b0-844a-e52b-536a-e3302ad90f17,1191,Unknown,Aspirin,allergy,medication,,,,,,
+2005-03-29,,843b5545-d2a0-7b39-50f8-b3cd0af045c2,4c7500b0-844a-e52b-536a-e3302ad90f17,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+2008-03-31,,539c3e81-6e8d-a040-c369-494e58d55c4f,1611de6e-e355-a899-05ae-a9ebabe5aeaa,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2008-03-31,,539c3e81-6e8d-a040-c369-494e58d55c4f,1611de6e-e355-a899-05ae-a9ebabe5aeaa,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2008-03-31,,539c3e81-6e8d-a040-c369-494e58d55c4f,1611de6e-e355-a899-05ae-a9ebabe5aeaa,264287008,Unknown,Animal dander (substance),allergy,environment,267036007,Dyspnea (finding),MILD,,,
+2008-03-31,,539c3e81-6e8d-a040-c369-494e58d55c4f,1611de6e-e355-a899-05ae-a9ebabe5aeaa,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2008-03-31,,539c3e81-6e8d-a040-c369-494e58d55c4f,1611de6e-e355-a899-05ae-a9ebabe5aeaa,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2008-03-31,,539c3e81-6e8d-a040-c369-494e58d55c4f,1611de6e-e355-a899-05ae-a9ebabe5aeaa,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+2008-03-31,,539c3e81-6e8d-a040-c369-494e58d55c4f,1611de6e-e355-a899-05ae-a9ebabe5aeaa,256355007,Unknown,Soya bean (substance),allergy,food,300359004,Finding of vomiting (finding),MODERATE,,,
+1960-03-24,,ff34b909-0ce6-1d5e-6b6d-9b96c75f08bb,b730934e-aa6e-c4cf-9982-5c6bc1a00690,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1960-03-24,,ff34b909-0ce6-1d5e-6b6d-9b96c75f08bb,b730934e-aa6e-c4cf-9982-5c6bc1a00690,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1959-09-10,,ad217e40-e909-ccae-f267-84f121522543,bae35f72-3f27-aef8-8c4d-e3d290bc97e7,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,247472004,Wheal (finding),MODERATE,,,
+1959-09-10,,ad217e40-e909-ccae-f267-84f121522543,bae35f72-3f27-aef8-8c4d-e3d290bc97e7,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+1966-03-24,,bb116fdb-9046-c006-b0d2-8197f685cbf1,3ac1fe8f-25cf-bb17-986a-e3f45ca7de46,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1966-03-24,,bb116fdb-9046-c006-b0d2-8197f685cbf1,3ac1fe8f-25cf-bb17-986a-e3f45ca7de46,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+2004-09-29,,c00f2e2e-fa78-4325-5421-9f3b3ea83be8,7c344317-4d49-c433-dc0b-68c39d38c17d,111088007,Unknown,Latex (substance),allergy,environment,,,,,,
+2004-09-29,,c00f2e2e-fa78-4325-5421-9f3b3ea83be8,7c344317-4d49-c433-dc0b-68c39d38c17d,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+2004-09-29,,c00f2e2e-fa78-4325-5421-9f3b3ea83be8,7c344317-4d49-c433-dc0b-68c39d38c17d,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2004-09-29,,c00f2e2e-fa78-4325-5421-9f3b3ea83be8,7c344317-4d49-c433-dc0b-68c39d38c17d,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2004-09-29,,c00f2e2e-fa78-4325-5421-9f3b3ea83be8,7c344317-4d49-c433-dc0b-68c39d38c17d,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2004-09-29,,c00f2e2e-fa78-4325-5421-9f3b3ea83be8,7c344317-4d49-c433-dc0b-68c39d38c17d,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2004-09-29,,c00f2e2e-fa78-4325-5421-9f3b3ea83be8,7c344317-4d49-c433-dc0b-68c39d38c17d,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2004-09-29,,c00f2e2e-fa78-4325-5421-9f3b3ea83be8,7c344317-4d49-c433-dc0b-68c39d38c17d,3718001,Unknown,Cow's milk (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,247472004,Wheal (finding),MILD
+2009-10-23,,8d9db15b-95ef-fd12-4845-8f1e6c7646c2,d5b887a7-37b1-e44b-9baa-116f5fdb6bf2,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2009-10-23,,8d9db15b-95ef-fd12-4845-8f1e6c7646c2,d5b887a7-37b1-e44b-9baa-116f5fdb6bf2,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2009-10-23,,8d9db15b-95ef-fd12-4845-8f1e6c7646c2,d5b887a7-37b1-e44b-9baa-116f5fdb6bf2,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+2009-10-23,,8d9db15b-95ef-fd12-4845-8f1e6c7646c2,d5b887a7-37b1-e44b-9baa-116f5fdb6bf2,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2009-10-23,,8d9db15b-95ef-fd12-4845-8f1e6c7646c2,d5b887a7-37b1-e44b-9baa-116f5fdb6bf2,1191,Unknown,Aspirin,allergy,medication,,,,,,
+2009-10-23,,8d9db15b-95ef-fd12-4845-8f1e6c7646c2,d5b887a7-37b1-e44b-9baa-116f5fdb6bf2,3718001,Unknown,Cow's milk (substance),allergy,food,247472004,Wheal (finding),MILD,,,
+2009-10-23,,8d9db15b-95ef-fd12-4845-8f1e6c7646c2,d5b887a7-37b1-e44b-9baa-116f5fdb6bf2,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1976-02-29,,038d9e4f-42f5-5fe6-b5d6-67fe7d80e9bc,6b7b1303-d0a2-c64a-342c-0c2a976b22c1,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1976-02-29,,038d9e4f-42f5-5fe6-b5d6-67fe7d80e9bc,6b7b1303-d0a2-c64a-342c-0c2a976b22c1,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1943-11-10,,c001cc71-272b-fdcd-0375-0ee4fa3754c0,f665b290-efca-7a7e-640e-291a23cae50f,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1943-11-10,,c001cc71-272b-fdcd-0375-0ee4fa3754c0,f665b290-efca-7a7e-640e-291a23cae50f,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1990-07-27,,ab291674-cf7d-dd96-91bc-2215565ebb37,947a568c-135b-b3e9-3bb4-7f9fbc898bf9,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1990-07-27,,ab291674-cf7d-dd96-91bc-2215565ebb37,947a568c-135b-b3e9-3bb4-7f9fbc898bf9,5640,Unknown,Ibuprofen,allergy,medication,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1990-07-27,,ab291674-cf7d-dd96-91bc-2215565ebb37,947a568c-135b-b3e9-3bb4-7f9fbc898bf9,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1987-09-03,,8f48f33c-2ba1-82cf-dbad-c3e9b3805cc9,d8fb60ce-0302-9c5e-54a2-308208ee902c,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1987-09-03,,8f48f33c-2ba1-82cf-dbad-c3e9b3805cc9,d8fb60ce-0302-9c5e-54a2-308208ee902c,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1987-09-03,,8f48f33c-2ba1-82cf-dbad-c3e9b3805cc9,d8fb60ce-0302-9c5e-54a2-308208ee902c,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1987-09-03,,8f48f33c-2ba1-82cf-dbad-c3e9b3805cc9,d8fb60ce-0302-9c5e-54a2-308208ee902c,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1987-09-03,,8f48f33c-2ba1-82cf-dbad-c3e9b3805cc9,d8fb60ce-0302-9c5e-54a2-308208ee902c,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1987-09-03,,8f48f33c-2ba1-82cf-dbad-c3e9b3805cc9,d8fb60ce-0302-9c5e-54a2-308208ee902c,3718001,Unknown,Cow's milk (substance),allergy,food,247472004,Wheal (finding),MILD,,,
+1987-09-03,,8f48f33c-2ba1-82cf-dbad-c3e9b3805cc9,d8fb60ce-0302-9c5e-54a2-308208ee902c,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1993-07-08,,6e7c6c83-7b85-093e-0cd5-fdc1cc173d79,0e17dff4-9003-6fc3-867f-0386aad9318f,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2009-07-05,,543253e0-1469-299b-e792-298224de6b4d,ae125c2f-8fbc-2b73-c893-ec2ea679d2c8,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2009-07-05,,543253e0-1469-299b-e792-298224de6b4d,ae125c2f-8fbc-2b73-c893-ec2ea679d2c8,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2009-07-05,,543253e0-1469-299b-e792-298224de6b4d,ae125c2f-8fbc-2b73-c893-ec2ea679d2c8,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2009-07-05,,543253e0-1469-299b-e792-298224de6b4d,ae125c2f-8fbc-2b73-c893-ec2ea679d2c8,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1998-11-09,,c0958221-fd29-b7be-7029-a3e16c9e48ad,c65d4a3b-dca3-a764-c16c-30327ec0fb1c,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1998-11-09,,c0958221-fd29-b7be-7029-a3e16c9e48ad,c65d4a3b-dca3-a764-c16c-30327ec0fb1c,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1998-11-09,,c0958221-fd29-b7be-7029-a3e16c9e48ad,c65d4a3b-dca3-a764-c16c-30327ec0fb1c,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1998-11-09,,c0958221-fd29-b7be-7029-a3e16c9e48ad,c65d4a3b-dca3-a764-c16c-30327ec0fb1c,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+1998-11-09,,c0958221-fd29-b7be-7029-a3e16c9e48ad,c65d4a3b-dca3-a764-c16c-30327ec0fb1c,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1998-11-09,,c0958221-fd29-b7be-7029-a3e16c9e48ad,c65d4a3b-dca3-a764-c16c-30327ec0fb1c,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1998-11-09,,c0958221-fd29-b7be-7029-a3e16c9e48ad,c65d4a3b-dca3-a764-c16c-30327ec0fb1c,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,247472004,Wheal (finding),MILD
+1998-11-09,,c0958221-fd29-b7be-7029-a3e16c9e48ad,c65d4a3b-dca3-a764-c16c-30327ec0fb1c,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2013-03-20,,716bb3a0-b4f1-1c8b-b27d-e7c93c359034,861fec3f-2960-64ea-e584-36998bab33f6,111088007,Unknown,Latex (substance),allergy,environment,402387002,Allergic angioedema (disorder),MODERATE,,,
+2013-03-20,,716bb3a0-b4f1-1c8b-b27d-e7c93c359034,861fec3f-2960-64ea-e584-36998bab33f6,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,21626009,Allergic skin rash,MILD
+2013-03-20,,716bb3a0-b4f1-1c8b-b27d-e7c93c359034,861fec3f-2960-64ea-e584-36998bab33f6,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2013-03-20,,716bb3a0-b4f1-1c8b-b27d-e7c93c359034,861fec3f-2960-64ea-e584-36998bab33f6,264287008,Unknown,Animal dander (substance),allergy,environment,271807003,Eruption of skin (disorder),MILD,267036007,Dyspnea (finding),MILD
+2013-03-20,,716bb3a0-b4f1-1c8b-b27d-e7c93c359034,861fec3f-2960-64ea-e584-36998bab33f6,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2013-03-20,,716bb3a0-b4f1-1c8b-b27d-e7c93c359034,861fec3f-2960-64ea-e584-36998bab33f6,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2013-03-20,,716bb3a0-b4f1-1c8b-b27d-e7c93c359034,861fec3f-2960-64ea-e584-36998bab33f6,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MILD
+1987-06-04,,0fc5d8b3-f984-9082-cc34-22eee88870dc,faabe122-4243-3f69-09f4-216d92e2032d,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+1987-06-04,,0fc5d8b3-f984-9082-cc34-22eee88870dc,faabe122-4243-3f69-09f4-216d92e2032d,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+1987-06-04,,0fc5d8b3-f984-9082-cc34-22eee88870dc,faabe122-4243-3f69-09f4-216d92e2032d,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1987-06-04,,0fc5d8b3-f984-9082-cc34-22eee88870dc,faabe122-4243-3f69-09f4-216d92e2032d,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1987-06-04,,0fc5d8b3-f984-9082-cc34-22eee88870dc,faabe122-4243-3f69-09f4-216d92e2032d,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1987-06-04,,0fc5d8b3-f984-9082-cc34-22eee88870dc,faabe122-4243-3f69-09f4-216d92e2032d,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1987-06-04,,0fc5d8b3-f984-9082-cc34-22eee88870dc,faabe122-4243-3f69-09f4-216d92e2032d,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+1975-01-10,,9582ccbf-9ab4-deb3-bd53-f3b4fdb635f4,7a77ab57-bbee-f38e-651d-cfd293125a37,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+1975-01-10,,9582ccbf-9ab4-deb3-bd53-f3b4fdb635f4,7a77ab57-bbee-f38e-651d-cfd293125a37,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+1957-06-05,,eccdb5b9-d6f1-f2a3-a6c7-352a98ad957d,f0ad34c0-d994-c57b-d46c-6f54aaef281c,5640,Unknown,Ibuprofen,allergy,medication,,,,,,
+1957-06-05,,eccdb5b9-d6f1-f2a3-a6c7-352a98ad957d,f0ad34c0-d994-c57b-d46c-6f54aaef281c,762952008,Unknown,Peanut (substance),allergy,food,62315008,Diarrhea (finding),MILD,56018004,Wheezing (finding),MILD
+1969-08-09,,46db5924-f004-1c82-afb4-30bd853c4d01,24bca2ec-18a8-d80f-5400-35137907a19a,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1969-08-09,,46db5924-f004-1c82-afb4-30bd853c4d01,24bca2ec-18a8-d80f-5400-35137907a19a,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1969-08-09,,46db5924-f004-1c82-afb4-30bd853c4d01,24bca2ec-18a8-d80f-5400-35137907a19a,264287008,Unknown,Animal dander (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1969-08-09,,46db5924-f004-1c82-afb4-30bd853c4d01,24bca2ec-18a8-d80f-5400-35137907a19a,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1969-08-09,,46db5924-f004-1c82-afb4-30bd853c4d01,24bca2ec-18a8-d80f-5400-35137907a19a,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1969-08-09,,46db5924-f004-1c82-afb4-30bd853c4d01,24bca2ec-18a8-d80f-5400-35137907a19a,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1979-11-02,,4243e9f2-7972-e942-4329-6605fda4bd39,ed0e3196-991f-35b6-e279-e8ec3d46addc,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+1991-02-28,,bf36d717-8c6c-05ed-d0dd-0e0549b573f5,5e953b30-0d25-b1f3-0a88-5ce02b4965f1,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1991-02-28,,bf36d717-8c6c-05ed-d0dd-0e0549b573f5,5e953b30-0d25-b1f3-0a88-5ce02b4965f1,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1991-02-28,,bf36d717-8c6c-05ed-d0dd-0e0549b573f5,5e953b30-0d25-b1f3-0a88-5ce02b4965f1,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1991-02-28,,bf36d717-8c6c-05ed-d0dd-0e0549b573f5,5e953b30-0d25-b1f3-0a88-5ce02b4965f1,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1991-02-28,,bf36d717-8c6c-05ed-d0dd-0e0549b573f5,5e953b30-0d25-b1f3-0a88-5ce02b4965f1,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1991-02-28,,bf36d717-8c6c-05ed-d0dd-0e0549b573f5,5e953b30-0d25-b1f3-0a88-5ce02b4965f1,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,247472004,Wheal (finding),MILD
+1991-02-28,,bf36d717-8c6c-05ed-d0dd-0e0549b573f5,5e953b30-0d25-b1f3-0a88-5ce02b4965f1,102263004,Unknown,Eggs (edible) (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,,,
+1991-02-28,,bf36d717-8c6c-05ed-d0dd-0e0549b573f5,5e953b30-0d25-b1f3-0a88-5ce02b4965f1,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1946-11-21,,714a0894-31ec-672c-2329-5e6b5e9db0fb,3d8e88dc-95af-2f39-b849-371fcf3bf22d,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1946-11-21,,714a0894-31ec-672c-2329-5e6b5e9db0fb,3d8e88dc-95af-2f39-b849-371fcf3bf22d,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,49727002,Cough (finding),MILD
+1983-07-17,,1421d7d2-1b3e-320f-5c2d-0be1bc19cb2a,6ad71c80-7ddf-4d89-76cf-de05df62340c,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1980-12-21,,36b5b097-780e-7c71-a8eb-5b6dd4e1ff90,973177e0-42d9-b560-41cd-8b2321575eea,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1980-12-21,,36b5b097-780e-7c71-a8eb-5b6dd4e1ff90,973177e0-42d9-b560-41cd-8b2321575eea,5640,Unknown,Ibuprofen,allergy,medication,418290006,Itching (finding),MODERATE,,,
+1971-02-27,,12db4810-ccef-b88a-aaad-d4c769f93826,de54411f-7ccd-fd28-ce0a-38aa756d3e8d,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+1971-02-27,,12db4810-ccef-b88a-aaad-d4c769f93826,de54411f-7ccd-fd28-ce0a-38aa756d3e8d,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1971-02-27,,12db4810-ccef-b88a-aaad-d4c769f93826,de54411f-7ccd-fd28-ce0a-38aa756d3e8d,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1971-02-27,,12db4810-ccef-b88a-aaad-d4c769f93826,de54411f-7ccd-fd28-ce0a-38aa756d3e8d,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1971-02-27,,12db4810-ccef-b88a-aaad-d4c769f93826,de54411f-7ccd-fd28-ce0a-38aa756d3e8d,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1971-02-27,,12db4810-ccef-b88a-aaad-d4c769f93826,de54411f-7ccd-fd28-ce0a-38aa756d3e8d,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1971-02-27,,12db4810-ccef-b88a-aaad-d4c769f93826,de54411f-7ccd-fd28-ce0a-38aa756d3e8d,3718001,Unknown,Cow's milk (substance),allergy,food,,,,,,
+1971-02-27,,12db4810-ccef-b88a-aaad-d4c769f93826,de54411f-7ccd-fd28-ce0a-38aa756d3e8d,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1971-02-27,,12db4810-ccef-b88a-aaad-d4c769f93826,de54411f-7ccd-fd28-ce0a-38aa756d3e8d,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+1997-01-16,,776e930d-ce43-f176-9fbd-161cb7f99f73,81d27016-f8ee-072b-0db1-06754b9df3ab,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,,,
+1997-01-16,,776e930d-ce43-f176-9fbd-161cb7f99f73,81d27016-f8ee-072b-0db1-06754b9df3ab,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1997-01-16,,776e930d-ce43-f176-9fbd-161cb7f99f73,81d27016-f8ee-072b-0db1-06754b9df3ab,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1997-01-16,,776e930d-ce43-f176-9fbd-161cb7f99f73,81d27016-f8ee-072b-0db1-06754b9df3ab,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1997-01-16,,776e930d-ce43-f176-9fbd-161cb7f99f73,81d27016-f8ee-072b-0db1-06754b9df3ab,7984,Unknown,Penicillin V,allergy,medication,,,,,,
+1997-01-16,,776e930d-ce43-f176-9fbd-161cb7f99f73,81d27016-f8ee-072b-0db1-06754b9df3ab,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1997-01-16,,776e930d-ce43-f176-9fbd-161cb7f99f73,81d27016-f8ee-072b-0db1-06754b9df3ab,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1997-01-16,,776e930d-ce43-f176-9fbd-161cb7f99f73,81d27016-f8ee-072b-0db1-06754b9df3ab,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1965-04-19,,8245b4e5-df79-b1ec-5619-a1c16a01a7a7,0fb8514f-9ccb-6ed2-a9e7-fca9695ca128,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+1965-04-19,,8245b4e5-df79-b1ec-5619-a1c16a01a7a7,0fb8514f-9ccb-6ed2-a9e7-fca9695ca128,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,21626009,Allergic skin rash,MILD
+1965-04-19,,8245b4e5-df79-b1ec-5619-a1c16a01a7a7,0fb8514f-9ccb-6ed2-a9e7-fca9695ca128,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1965-04-19,,8245b4e5-df79-b1ec-5619-a1c16a01a7a7,0fb8514f-9ccb-6ed2-a9e7-fca9695ca128,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1965-04-19,,8245b4e5-df79-b1ec-5619-a1c16a01a7a7,0fb8514f-9ccb-6ed2-a9e7-fca9695ca128,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1965-04-19,,8245b4e5-df79-b1ec-5619-a1c16a01a7a7,0fb8514f-9ccb-6ed2-a9e7-fca9695ca128,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1965-04-19,,8245b4e5-df79-b1ec-5619-a1c16a01a7a7,0fb8514f-9ccb-6ed2-a9e7-fca9695ca128,762952008,Unknown,Peanut (substance),allergy,food,56018004,Wheezing (finding),MILD,300359004,Finding of vomiting (finding),MILD
+2011-04-15,,74a29c74-4033-a73d-d642-384ef42374a3,2c86a3e5-616e-36a8-ba79-babd57f76597,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2011-04-15,,74a29c74-4033-a73d-d642-384ef42374a3,2c86a3e5-616e-36a8-ba79-babd57f76597,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2011-04-15,,74a29c74-4033-a73d-d642-384ef42374a3,2c86a3e5-616e-36a8-ba79-babd57f76597,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2011-04-15,,74a29c74-4033-a73d-d642-384ef42374a3,2c86a3e5-616e-36a8-ba79-babd57f76597,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+2011-04-15,,74a29c74-4033-a73d-d642-384ef42374a3,2c86a3e5-616e-36a8-ba79-babd57f76597,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2011-04-15,,74a29c74-4033-a73d-d642-384ef42374a3,2c86a3e5-616e-36a8-ba79-babd57f76597,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,,,
+2011-04-15,,74a29c74-4033-a73d-d642-384ef42374a3,2c86a3e5-616e-36a8-ba79-babd57f76597,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2011-04-15,,74a29c74-4033-a73d-d642-384ef42374a3,2c86a3e5-616e-36a8-ba79-babd57f76597,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,418290006,Itching (finding),MILD
+1978-06-29,,52da6d8f-c192-3c8e-ee9c-4ed7511dd1fc,11166303-4560-49c2-bbc9-2cb069e0150c,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1978-06-29,,52da6d8f-c192-3c8e-ee9c-4ed7511dd1fc,11166303-4560-49c2-bbc9-2cb069e0150c,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2018-02-17,,3ec580ea-269f-5f47-5eca-93615dcb7edc,b8655179-0a60-226f-82c2-5ef197e6ece2,84489001,Unknown,Mold (organism),allergy,environment,56018004,Wheezing,MILD,21626009,Allergic skin rash,MILD
+1957-11-07,,58cef59a-5f23-106a-5b0f-daa07d48a0de,41d0b393-1b7d-e936-a57a-191bb252abb0,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1957-11-07,,58cef59a-5f23-106a-5b0f-daa07d48a0de,41d0b393-1b7d-e936-a57a-191bb252abb0,256355007,Unknown,Soya bean (substance),allergy,food,,,,,,
+1966-01-14,,50eb704c-cc71-96d9-7f9b-8204fa9d95b2,cf272be4-703b-23b7-ca98-8aab4688e96f,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+2004-12-25,,552d5628-bccf-47b7-f782-db1ae58b4369,fb6b2dcc-2fce-300b-b5d3-45dd0dd40bc7,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+2021-01-17,,cabbd3ea-9a9b-cbf1-92b4-71ee81dbb62a,6041d71a-e0b2-274e-4c10-f6cbb165ce57,111088007,Unknown,Latex (substance),allergy,environment,418290006,Itching (finding),MODERATE,247472004,Wheal (finding),MILD
+2021-01-17,,cabbd3ea-9a9b-cbf1-92b4-71ee81dbb62a,6041d71a-e0b2-274e-4c10-f6cbb165ce57,84489001,Unknown,Mold (organism),allergy,environment,56018004,Wheezing,MILD,,,
+2021-01-17,,cabbd3ea-9a9b-cbf1-92b4-71ee81dbb62a,6041d71a-e0b2-274e-4c10-f6cbb165ce57,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2021-01-17,,cabbd3ea-9a9b-cbf1-92b4-71ee81dbb62a,6041d71a-e0b2-274e-4c10-f6cbb165ce57,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+2021-01-17,,cabbd3ea-9a9b-cbf1-92b4-71ee81dbb62a,6041d71a-e0b2-274e-4c10-f6cbb165ce57,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2021-01-17,,cabbd3ea-9a9b-cbf1-92b4-71ee81dbb62a,6041d71a-e0b2-274e-4c10-f6cbb165ce57,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2021-01-17,,cabbd3ea-9a9b-cbf1-92b4-71ee81dbb62a,6041d71a-e0b2-274e-4c10-f6cbb165ce57,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+2021-01-17,,cabbd3ea-9a9b-cbf1-92b4-71ee81dbb62a,6041d71a-e0b2-274e-4c10-f6cbb165ce57,102263004,Unknown,Eggs (edible) (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,247472004,Wheal (finding),MODERATE
+2021-01-17,,cabbd3ea-9a9b-cbf1-92b4-71ee81dbb62a,6041d71a-e0b2-274e-4c10-f6cbb165ce57,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2021-01-17,,cabbd3ea-9a9b-cbf1-92b4-71ee81dbb62a,6041d71a-e0b2-274e-4c10-f6cbb165ce57,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+2009-01-30,,0c563771-20b3-6c5c-3147-6c0c540f8d34,b4cd6b88-a3b1-e396-01c9-6ce4dadf44c5,111088007,Unknown,Latex (substance),allergy,environment,418290006,Itching (finding),MODERATE,247472004,Wheal (finding),MILD
+2009-01-30,,0c563771-20b3-6c5c-3147-6c0c540f8d34,b4cd6b88-a3b1-e396-01c9-6ce4dadf44c5,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2009-01-30,,0c563771-20b3-6c5c-3147-6c0c540f8d34,b4cd6b88-a3b1-e396-01c9-6ce4dadf44c5,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2009-01-30,,0c563771-20b3-6c5c-3147-6c0c540f8d34,b4cd6b88-a3b1-e396-01c9-6ce4dadf44c5,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2009-01-30,,0c563771-20b3-6c5c-3147-6c0c540f8d34,b4cd6b88-a3b1-e396-01c9-6ce4dadf44c5,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+2009-01-30,,0c563771-20b3-6c5c-3147-6c0c540f8d34,b4cd6b88-a3b1-e396-01c9-6ce4dadf44c5,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2009-01-30,,0c563771-20b3-6c5c-3147-6c0c540f8d34,b4cd6b88-a3b1-e396-01c9-6ce4dadf44c5,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2009-01-30,,0c563771-20b3-6c5c-3147-6c0c540f8d34,b4cd6b88-a3b1-e396-01c9-6ce4dadf44c5,1191,Unknown,Aspirin,allergy,medication,,,,,,
+2009-01-30,,0c563771-20b3-6c5c-3147-6c0c540f8d34,b4cd6b88-a3b1-e396-01c9-6ce4dadf44c5,735971005,Unknown,Fish (substance),allergy,food,271807003,Eruption of skin (disorder),MILD,,,
+2012-01-26,,6ab23b11-c812-cbf8-f23f-dd5d5315f9eb,322643e4-1c17-e80e-8e3a-d4e99bfd94e8,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2012-01-26,,6ab23b11-c812-cbf8-f23f-dd5d5315f9eb,322643e4-1c17-e80e-8e3a-d4e99bfd94e8,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2012-01-26,,6ab23b11-c812-cbf8-f23f-dd5d5315f9eb,322643e4-1c17-e80e-8e3a-d4e99bfd94e8,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2012-01-26,,6ab23b11-c812-cbf8-f23f-dd5d5315f9eb,322643e4-1c17-e80e-8e3a-d4e99bfd94e8,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2012-01-26,,6ab23b11-c812-cbf8-f23f-dd5d5315f9eb,322643e4-1c17-e80e-8e3a-d4e99bfd94e8,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2012-01-26,,6ab23b11-c812-cbf8-f23f-dd5d5315f9eb,322643e4-1c17-e80e-8e3a-d4e99bfd94e8,29046,Unknown,Lisinopril,intolerance,medication,49727002,Cough (finding),MODERATE,,,
+2012-01-26,,6ab23b11-c812-cbf8-f23f-dd5d5315f9eb,322643e4-1c17-e80e-8e3a-d4e99bfd94e8,7984,Unknown,Penicillin V,allergy,medication,402387002,Allergic angioedema (disorder),MILD,247472004,Wheal (finding),MILD
+2012-01-26,,6ab23b11-c812-cbf8-f23f-dd5d5315f9eb,322643e4-1c17-e80e-8e3a-d4e99bfd94e8,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+2012-01-26,,6ab23b11-c812-cbf8-f23f-dd5d5315f9eb,322643e4-1c17-e80e-8e3a-d4e99bfd94e8,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+2012-01-26,,6ab23b11-c812-cbf8-f23f-dd5d5315f9eb,322643e4-1c17-e80e-8e3a-d4e99bfd94e8,442571000124108,Unknown,Tree nut (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+2017-10-10,,b00915f5-e656-31e3-b22e-d050e08b1a03,f29d6414-a87f-84a1-de94-e5cebe4fe16f,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1946-05-13,,e93ebeeb-fdf8-2391-7650-988fc11217ca,8d763ac3-6e49-f227-9410-9b2833fbc90d,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+1946-05-13,,e93ebeeb-fdf8-2391-7650-988fc11217ca,8d763ac3-6e49-f227-9410-9b2833fbc90d,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1946-05-13,,e93ebeeb-fdf8-2391-7650-988fc11217ca,8d763ac3-6e49-f227-9410-9b2833fbc90d,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1946-05-13,,e93ebeeb-fdf8-2391-7650-988fc11217ca,8d763ac3-6e49-f227-9410-9b2833fbc90d,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1946-05-13,,e93ebeeb-fdf8-2391-7650-988fc11217ca,8d763ac3-6e49-f227-9410-9b2833fbc90d,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+1998-04-16,,a182e9e8-ca76-85fe-18f1-3c747b4750f9,eb154141-4ff8-a3f8-b97f-deb1e6f07db5,111088007,Unknown,Latex (substance),allergy,environment,418290006,Itching (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1998-04-16,,a182e9e8-ca76-85fe-18f1-3c747b4750f9,eb154141-4ff8-a3f8-b97f-deb1e6f07db5,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2017-07-09,,70a574b3-eddf-abcb-9a64-1e6e27d13f02,34637b38-4544-8d38-79fd-2f0f3cb9604b,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2017-07-09,,70a574b3-eddf-abcb-9a64-1e6e27d13f02,34637b38-4544-8d38-79fd-2f0f3cb9604b,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+2017-07-09,,70a574b3-eddf-abcb-9a64-1e6e27d13f02,34637b38-4544-8d38-79fd-2f0f3cb9604b,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2017-07-09,,70a574b3-eddf-abcb-9a64-1e6e27d13f02,34637b38-4544-8d38-79fd-2f0f3cb9604b,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+2017-07-09,,70a574b3-eddf-abcb-9a64-1e6e27d13f02,34637b38-4544-8d38-79fd-2f0f3cb9604b,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2017-07-09,,70a574b3-eddf-abcb-9a64-1e6e27d13f02,34637b38-4544-8d38-79fd-2f0f3cb9604b,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2017-07-09,,70a574b3-eddf-abcb-9a64-1e6e27d13f02,34637b38-4544-8d38-79fd-2f0f3cb9604b,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+2017-07-09,,70a574b3-eddf-abcb-9a64-1e6e27d13f02,34637b38-4544-8d38-79fd-2f0f3cb9604b,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+1990-02-03,,34c8af66-110a-aced-0b81-613aa7de20a9,70f6ddb6-6a01-bbab-e203-8a1ab69401b8,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1990-02-03,,34c8af66-110a-aced-0b81-613aa7de20a9,70f6ddb6-6a01-bbab-e203-8a1ab69401b8,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1990-02-03,,34c8af66-110a-aced-0b81-613aa7de20a9,70f6ddb6-6a01-bbab-e203-8a1ab69401b8,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1990-02-03,,34c8af66-110a-aced-0b81-613aa7de20a9,70f6ddb6-6a01-bbab-e203-8a1ab69401b8,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1990-02-03,,34c8af66-110a-aced-0b81-613aa7de20a9,70f6ddb6-6a01-bbab-e203-8a1ab69401b8,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1990-02-03,,34c8af66-110a-aced-0b81-613aa7de20a9,70f6ddb6-6a01-bbab-e203-8a1ab69401b8,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1990-02-03,,34c8af66-110a-aced-0b81-613aa7de20a9,70f6ddb6-6a01-bbab-e203-8a1ab69401b8,102263004,Unknown,Eggs (edible) (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,247472004,Wheal (finding),MODERATE
+1990-02-03,,34c8af66-110a-aced-0b81-613aa7de20a9,70f6ddb6-6a01-bbab-e203-8a1ab69401b8,735971005,Unknown,Fish (substance),allergy,food,878820003,Rhinoconjunctivitis (disorder),MILD,271807003,Eruption of skin (disorder),MILD
+1990-02-03,,34c8af66-110a-aced-0b81-613aa7de20a9,70f6ddb6-6a01-bbab-e203-8a1ab69401b8,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2013-10-14,,61d973cd-ea96-a302-a8f2-994f2bcaefe3,320a4ad2-2f91-3e03-7b50-f4743be29260,84489001,Unknown,Mold (organism),allergy,environment,56018004,Wheezing,MILD,,,
+2013-10-14,,61d973cd-ea96-a302-a8f2-994f2bcaefe3,320a4ad2-2f91-3e03-7b50-f4743be29260,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2013-10-14,,61d973cd-ea96-a302-a8f2-994f2bcaefe3,320a4ad2-2f91-3e03-7b50-f4743be29260,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+2013-10-14,,61d973cd-ea96-a302-a8f2-994f2bcaefe3,320a4ad2-2f91-3e03-7b50-f4743be29260,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2013-10-14,,61d973cd-ea96-a302-a8f2-994f2bcaefe3,320a4ad2-2f91-3e03-7b50-f4743be29260,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2013-10-14,,61d973cd-ea96-a302-a8f2-994f2bcaefe3,320a4ad2-2f91-3e03-7b50-f4743be29260,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2013-10-14,,61d973cd-ea96-a302-a8f2-994f2bcaefe3,320a4ad2-2f91-3e03-7b50-f4743be29260,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+2013-10-14,,61d973cd-ea96-a302-a8f2-994f2bcaefe3,320a4ad2-2f91-3e03-7b50-f4743be29260,735971005,Unknown,Fish (substance),allergy,food,878820003,Rhinoconjunctivitis (disorder),MILD,271807003,Eruption of skin (disorder),MILD
+1997-05-11,,de51f260-fc01-ba16-e063-9754410a729a,3034e15a-2aa1-bdb7-10b1-e7e31c11b19f,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2003-12-20,,20703ef5-6cdf-df13-e036-dbca03589807,333788fd-819c-7dcf-80a7-beec7bc6cbc9,111088007,Unknown,Latex (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MILD,271807003,Eruption of skin (disorder),MILD
+2003-12-20,,20703ef5-6cdf-df13-e036-dbca03589807,333788fd-819c-7dcf-80a7-beec7bc6cbc9,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,271807003,Eruption of skin (disorder),MODERATE,402387002,Allergic angioedema (disorder),MILD
+2003-12-20,,20703ef5-6cdf-df13-e036-dbca03589807,333788fd-819c-7dcf-80a7-beec7bc6cbc9,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1973-05-17,,ad05f09f-a24e-4339-4887-8f81842bf340,dca4042e-4673-c868-0d94-17529270cd0c,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+2001-04-18,,ed8a6a2b-da94-9dd5-4071-f0f198392fa8,5bb456a3-31da-7fbb-7ef1-69c3bbd1c207,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+2001-04-18,,ed8a6a2b-da94-9dd5-4071-f0f198392fa8,5bb456a3-31da-7fbb-7ef1-69c3bbd1c207,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2001-04-18,,ed8a6a2b-da94-9dd5-4071-f0f198392fa8,5bb456a3-31da-7fbb-7ef1-69c3bbd1c207,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+2001-04-18,,ed8a6a2b-da94-9dd5-4071-f0f198392fa8,5bb456a3-31da-7fbb-7ef1-69c3bbd1c207,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2001-04-18,,ed8a6a2b-da94-9dd5-4071-f0f198392fa8,5bb456a3-31da-7fbb-7ef1-69c3bbd1c207,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2001-04-18,,ed8a6a2b-da94-9dd5-4071-f0f198392fa8,5bb456a3-31da-7fbb-7ef1-69c3bbd1c207,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1982-03-05,,6848563e-af7c-71d2-db0f-21d58b9dddbb,f15c993b-b0bf-a975-e80d-e7151baf0782,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,21626009,Allergic skin rash,MILD
+1982-03-05,,6848563e-af7c-71d2-db0f-21d58b9dddbb,f15c993b-b0bf-a975-e80d-e7151baf0782,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1982-03-05,,6848563e-af7c-71d2-db0f-21d58b9dddbb,f15c993b-b0bf-a975-e80d-e7151baf0782,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1982-03-05,,6848563e-af7c-71d2-db0f-21d58b9dddbb,f15c993b-b0bf-a975-e80d-e7151baf0782,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1982-03-05,,6848563e-af7c-71d2-db0f-21d58b9dddbb,f15c993b-b0bf-a975-e80d-e7151baf0782,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1982-03-05,,6848563e-af7c-71d2-db0f-21d58b9dddbb,f15c993b-b0bf-a975-e80d-e7151baf0782,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1982-03-05,,6848563e-af7c-71d2-db0f-21d58b9dddbb,f15c993b-b0bf-a975-e80d-e7151baf0782,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,49727002,Cough (finding),MILD
+1982-03-05,,6848563e-af7c-71d2-db0f-21d58b9dddbb,f15c993b-b0bf-a975-e80d-e7151baf0782,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1996-01-07,,2b7f1733-b575-269e-39d0-a96df81c410d,d801bd77-ff50-efe7-f78b-2109b49d26ba,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1996-01-07,,2b7f1733-b575-269e-39d0-a96df81c410d,d801bd77-ff50-efe7-f78b-2109b49d26ba,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,56018004,Wheezing,MILD
+1996-01-07,,2b7f1733-b575-269e-39d0-a96df81c410d,d801bd77-ff50-efe7-f78b-2109b49d26ba,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1996-01-07,,2b7f1733-b575-269e-39d0-a96df81c410d,d801bd77-ff50-efe7-f78b-2109b49d26ba,264287008,Unknown,Animal dander (substance),allergy,environment,,,,,,
+1996-01-07,,2b7f1733-b575-269e-39d0-a96df81c410d,d801bd77-ff50-efe7-f78b-2109b49d26ba,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1996-01-07,,2b7f1733-b575-269e-39d0-a96df81c410d,d801bd77-ff50-efe7-f78b-2109b49d26ba,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1996-01-07,,2b7f1733-b575-269e-39d0-a96df81c410d,d801bd77-ff50-efe7-f78b-2109b49d26ba,3718001,Unknown,Cow's milk (substance),allergy,food,247472004,Wheal (finding),MILD,56018004,Wheezing (finding),MILD
+1996-01-07,,2b7f1733-b575-269e-39d0-a96df81c410d,d801bd77-ff50-efe7-f78b-2109b49d26ba,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+1996-01-07,,2b7f1733-b575-269e-39d0-a96df81c410d,d801bd77-ff50-efe7-f78b-2109b49d26ba,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1983-08-25,,3c05c77d-95f6-8556-5c6e-51af6a77e6fb,d5440383-ebe0-b024-02a8-05b7880a21d0,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+1983-08-25,,3c05c77d-95f6-8556-5c6e-51af6a77e6fb,d5440383-ebe0-b024-02a8-05b7880a21d0,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1983-08-25,,3c05c77d-95f6-8556-5c6e-51af6a77e6fb,d5440383-ebe0-b024-02a8-05b7880a21d0,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,267036007,Dyspnea (finding),MILD
+1983-08-25,,3c05c77d-95f6-8556-5c6e-51af6a77e6fb,d5440383-ebe0-b024-02a8-05b7880a21d0,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1983-08-25,,3c05c77d-95f6-8556-5c6e-51af6a77e6fb,d5440383-ebe0-b024-02a8-05b7880a21d0,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1983-08-25,,3c05c77d-95f6-8556-5c6e-51af6a77e6fb,d5440383-ebe0-b024-02a8-05b7880a21d0,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1983-08-25,,3c05c77d-95f6-8556-5c6e-51af6a77e6fb,d5440383-ebe0-b024-02a8-05b7880a21d0,3718001,Unknown,Cow's milk (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,300359004,Finding of vomiting (finding),MODERATE
+1975-01-30,,6e358dc2-bb23-bff5-f9fa-5d687f2d21d3,9ee4a910-a216-61ca-1b8f-67380ddfa43b,1191,Unknown,Aspirin,allergy,medication,247472004,Wheal (finding),MODERATE,,,
+1975-01-30,,6e358dc2-bb23-bff5-f9fa-5d687f2d21d3,9ee4a910-a216-61ca-1b8f-67380ddfa43b,7984,Unknown,Penicillin V,allergy,medication,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MILD
+1975-01-30,,6e358dc2-bb23-bff5-f9fa-5d687f2d21d3,9ee4a910-a216-61ca-1b8f-67380ddfa43b,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+2017-03-29,,49714bc2-76cf-9eb4-457c-f36d710ad603,980b92d4-e849-477d-2686-4cd98c648c10,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2017-03-31,,7ef40f0f-4940-212c-76ec-6d40268df002,fcdb0879-d16b-e216-94bc-24c6910543cb,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,21626009,Allergic skin rash,MILD
+2017-03-31,,7ef40f0f-4940-212c-76ec-6d40268df002,fcdb0879-d16b-e216-94bc-24c6910543cb,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2017-03-31,,7ef40f0f-4940-212c-76ec-6d40268df002,fcdb0879-d16b-e216-94bc-24c6910543cb,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+2017-03-31,,7ef40f0f-4940-212c-76ec-6d40268df002,fcdb0879-d16b-e216-94bc-24c6910543cb,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2017-03-31,,7ef40f0f-4940-212c-76ec-6d40268df002,fcdb0879-d16b-e216-94bc-24c6910543cb,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2017-03-31,,7ef40f0f-4940-212c-76ec-6d40268df002,fcdb0879-d16b-e216-94bc-24c6910543cb,3718001,Unknown,Cow's milk (substance),allergy,food,300359004,Finding of vomiting (finding),MODERATE,247472004,Wheal (finding),MILD
+2017-03-31,,7ef40f0f-4940-212c-76ec-6d40268df002,fcdb0879-d16b-e216-94bc-24c6910543cb,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+2017-03-31,,7ef40f0f-4940-212c-76ec-6d40268df002,fcdb0879-d16b-e216-94bc-24c6910543cb,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1964-12-29,,79f696da-0599-e47a-d718-0d21d6f0edcc,a07d4aa1-9295-3f8d-e104-a574987018b3,1191,Unknown,Aspirin,allergy,medication,247472004,Wheal (finding),MODERATE,21522001,Abdominal pain (finding),MODERATE
+1964-12-29,,79f696da-0599-e47a-d718-0d21d6f0edcc,a07d4aa1-9295-3f8d-e104-a574987018b3,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+1988-06-30,,76a493db-e37c-57c8-02d5-67c6518f9a50,b90fd240-e6ed-15ed-b662-0869fce873ad,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2007-02-02,,14926a7c-3a05-375c-fa96-88bb922504ee,2cf58deb-fe89-a781-4aa6-1111875d2fe8,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+2007-02-02,,14926a7c-3a05-375c-fa96-88bb922504ee,2cf58deb-fe89-a781-4aa6-1111875d2fe8,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2007-02-02,,14926a7c-3a05-375c-fa96-88bb922504ee,2cf58deb-fe89-a781-4aa6-1111875d2fe8,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2007-02-02,,14926a7c-3a05-375c-fa96-88bb922504ee,2cf58deb-fe89-a781-4aa6-1111875d2fe8,264287008,Unknown,Animal dander (substance),allergy,environment,271807003,Eruption of skin (disorder),MILD,247472004,Wheal (finding),MILD
+2007-02-02,,14926a7c-3a05-375c-fa96-88bb922504ee,2cf58deb-fe89-a781-4aa6-1111875d2fe8,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2007-02-02,,14926a7c-3a05-375c-fa96-88bb922504ee,2cf58deb-fe89-a781-4aa6-1111875d2fe8,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2007-02-02,,14926a7c-3a05-375c-fa96-88bb922504ee,2cf58deb-fe89-a781-4aa6-1111875d2fe8,3718001,Unknown,Cow's milk (substance),allergy,food,62315008,Diarrhea (finding),MILD,247472004,Wheal (finding),MILD
+2007-02-02,,14926a7c-3a05-375c-fa96-88bb922504ee,2cf58deb-fe89-a781-4aa6-1111875d2fe8,256355007,Unknown,Soya bean (substance),allergy,food,62315008,Diarrhea (finding),MILD,,,
+2007-02-02,,14926a7c-3a05-375c-fa96-88bb922504ee,2cf58deb-fe89-a781-4aa6-1111875d2fe8,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2007-02-02,,14926a7c-3a05-375c-fa96-88bb922504ee,2cf58deb-fe89-a781-4aa6-1111875d2fe8,762952008,Unknown,Peanut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+2008-11-23,,74e0e505-9e75-787c-5b31-94c88c9dbd41,5b124a89-e278-f10e-2f28-c8dbf7f5355f,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2008-11-23,,74e0e505-9e75-787c-5b31-94c88c9dbd41,5b124a89-e278-f10e-2f28-c8dbf7f5355f,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2008-11-23,,74e0e505-9e75-787c-5b31-94c88c9dbd41,5b124a89-e278-f10e-2f28-c8dbf7f5355f,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2008-11-23,,74e0e505-9e75-787c-5b31-94c88c9dbd41,5b124a89-e278-f10e-2f28-c8dbf7f5355f,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2008-11-23,,74e0e505-9e75-787c-5b31-94c88c9dbd41,5b124a89-e278-f10e-2f28-c8dbf7f5355f,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2008-11-23,,74e0e505-9e75-787c-5b31-94c88c9dbd41,5b124a89-e278-f10e-2f28-c8dbf7f5355f,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+2008-11-23,,74e0e505-9e75-787c-5b31-94c88c9dbd41,5b124a89-e278-f10e-2f28-c8dbf7f5355f,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2008-11-23,,74e0e505-9e75-787c-5b31-94c88c9dbd41,5b124a89-e278-f10e-2f28-c8dbf7f5355f,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,62315008,Diarrhea (finding),MILD
+1961-12-23,,c87c5bf6-bb53-11f1-5fc2-7c49c7b008d8,3de81cb4-5024-04ad-ee6b-8e2590f5e1fc,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,,,
+1961-12-23,,c87c5bf6-bb53-11f1-5fc2-7c49c7b008d8,3de81cb4-5024-04ad-ee6b-8e2590f5e1fc,102263004,Unknown,Eggs (edible) (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,300359004,Finding of vomiting (finding),MODERATE
+1957-11-26,,60e3d9c1-21f0-1577-5661-317e25385911,be8610bc-eddf-da6b-aff7-f6721908e169,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1957-11-26,,60e3d9c1-21f0-1577-5661-317e25385911,be8610bc-eddf-da6b-aff7-f6721908e169,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1957-11-26,,60e3d9c1-21f0-1577-5661-317e25385911,be8610bc-eddf-da6b-aff7-f6721908e169,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1957-11-26,,60e3d9c1-21f0-1577-5661-317e25385911,be8610bc-eddf-da6b-aff7-f6721908e169,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1957-11-26,,60e3d9c1-21f0-1577-5661-317e25385911,be8610bc-eddf-da6b-aff7-f6721908e169,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1982-09-13,,60721b08-43c5-cee9-30fd-d6698edb53c3,91e49619-64de-5d76-7956-071876b73394,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2008-11-23,,09761537-fd74-1423-fe71-7c855df0c341,e206efdb-ead4-8d29-74dd-10389bd79b18,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2008-11-23,,09761537-fd74-1423-fe71-7c855df0c341,e206efdb-ead4-8d29-74dd-10389bd79b18,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2008-11-23,,09761537-fd74-1423-fe71-7c855df0c341,e206efdb-ead4-8d29-74dd-10389bd79b18,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+2008-11-23,,09761537-fd74-1423-fe71-7c855df0c341,e206efdb-ead4-8d29-74dd-10389bd79b18,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2008-11-23,,09761537-fd74-1423-fe71-7c855df0c341,e206efdb-ead4-8d29-74dd-10389bd79b18,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2008-11-23,,09761537-fd74-1423-fe71-7c855df0c341,e206efdb-ead4-8d29-74dd-10389bd79b18,256355007,Unknown,Soya bean (substance),allergy,food,300359004,Finding of vomiting (finding),MODERATE,,,
+2008-11-23,,09761537-fd74-1423-fe71-7c855df0c341,e206efdb-ead4-8d29-74dd-10389bd79b18,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1983-12-24,,d7ba04a8-2191-1386-a4a5-a9ca043c30ea,f989f993-7c88-22fd-3fd9-0e5275f8a755,111088007,Unknown,Latex (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MILD,247472004,Wheal (finding),MILD
+1983-12-24,,d7ba04a8-2191-1386-a4a5-a9ca043c30ea,f989f993-7c88-22fd-3fd9-0e5275f8a755,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1983-12-24,,d7ba04a8-2191-1386-a4a5-a9ca043c30ea,f989f993-7c88-22fd-3fd9-0e5275f8a755,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1983-12-24,,d7ba04a8-2191-1386-a4a5-a9ca043c30ea,f989f993-7c88-22fd-3fd9-0e5275f8a755,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1983-12-24,,d7ba04a8-2191-1386-a4a5-a9ca043c30ea,f989f993-7c88-22fd-3fd9-0e5275f8a755,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1983-12-24,,d7ba04a8-2191-1386-a4a5-a9ca043c30ea,f989f993-7c88-22fd-3fd9-0e5275f8a755,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1983-12-24,,d7ba04a8-2191-1386-a4a5-a9ca043c30ea,f989f993-7c88-22fd-3fd9-0e5275f8a755,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1943-05-03,,f05a1936-2225-aab2-6a30-b860b6c75744,da5dee33-3d69-ef8f-6eee-782fb646df95,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1955-10-11,,393030d3-4eb2-9ecd-a4c3-4770ea39da00,dde687f8-9882-0e1c-d9ed-cf2c5e41a672,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1955-10-11,,393030d3-4eb2-9ecd-a4c3-4770ea39da00,dde687f8-9882-0e1c-d9ed-cf2c5e41a672,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MODERATE
+1994-07-11,,6f5224f5-8c33-5611-4a61-f792ee96cf3d,a9035e01-7f7f-4703-290f-15a6e7cecd58,111088007,Unknown,Latex (substance),allergy,environment,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MILD
+1994-07-11,,6f5224f5-8c33-5611-4a61-f792ee96cf3d,a9035e01-7f7f-4703-290f-15a6e7cecd58,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
+1985-06-30,,05ae5966-cb9d-68e7-5fff-22b1115cde0c,8282c889-3c6f-cf28-9321-13db9fd5f69e,7984,Unknown,Penicillin V,allergy,medication,267036007,Dyspnea (finding),MILD,247472004,Wheal (finding),MILD
+1922-07-04,,5defca62-3335-1c62-b9d4-f4a4e97d8b17,46834b50-768c-fb77-4616-11f0af400b9e,29046,Unknown,Lisinopril,intolerance,medication,,,,,,
