@@ -1,5 +1,5 @@
 # lab2learn
-Lab environment for Jupyter applications.
+Lab environment for data science applications.
 
 ## Running these labs
 

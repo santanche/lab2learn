@@ -1,1 +1,6 @@
+title: lab2learn
+
 theme: minima
+
+header_pages:
+ - readme.md
