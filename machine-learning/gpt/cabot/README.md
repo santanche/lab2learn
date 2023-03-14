@@ -1,4 +1,4 @@
-# Cabot Book
+# Richard Cabot Case and ChatGPT
 
 > Cabot, R. C. (1906). *Case teaching in medicine*. D. C. Heath & co. [online](https://hdl.handle.net/2027/uc1.b4210627)
 
@@ -20,8 +20,10 @@ A liquor dealer, 47 years old, is seen December 15, 1904. His father died at 67 
 
 7. Diagnosis? Prognosis? Treatment?
 
-Diagnosis: Hepatic cirrhosis, ruptured esophageal varix, secondary anemia, passive congestion of stomach.
+**Diagnosis: Hepatic cirrhosis, ruptured esophageal varix, secondary anemia, passive congestion of stomach.**
+
 Prognosis: Probably one to two years to live.
+
 Treatment: Stop liquor, treat anemia, regular diet. Possibly Talma's operation.
 
 ![Case 1 - Cabot](cabot-case01-presentation.png)
@@ -58,4 +60,4 @@ Based on the physical examination, the presence of tenderness on pressure over t
 
 Based on the blood test results, the liquor dealer has anemia, and the red cell count is low. Further investigation is required to identify the cause of the anemia, which could be due to blood loss from the gastrointestinal tract.
 
-In conclusion, the liquor dealer is presenting with symptoms that suggest an upper gastrointestinal bleeding, possibly due to cirrhosis, and further diagnostic tests are needed to identify the cause and extent of the problem.
+**In conclusion, the liquor dealer is presenting with symptoms that suggest an upper gastrointestinal bleeding, possibly due to cirrhosis, and further diagnostic tests are needed to identify the cause and extent of the problem.**
