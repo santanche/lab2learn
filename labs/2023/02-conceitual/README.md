@@ -1,5 +1,5 @@
-# Modelagem Conceitual
-*Lab de Bancos de Dados em 11/08/2023*
+# Modelagem Conceitual de Refeições em um Restaurante
+*Laboratório 2 de Bancos de Dados em 11/08/2023*
 
 ## Cenário
 
