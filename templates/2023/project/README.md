@@ -1,26 +1,25 @@
-# Template para Entrega do Trabalho
+# Modelo de Apresentação dos Projetos
 
 No repositório do projeto, deve haver um arquivo com dados básicos do projeto e da equipe na raiz, uma pasta para cada etapa de entrega, conforme templates a seguir:
 
-* [Entrega Parcial](parcial/)
-* [Entrega Prévia](previa/)
-* [Entrega Final](final/)
-
-# Estrutura de Arquivos e Pastas
+* [Projeto 1](project-1/)
+* [Projeto 2](project-2/)
+* [Projeto Final](project-final/)
 
 A seguir é apresentada a estrutura de pastas esperada no repositório do projeto:
 
 ~~~
-├── README.md  <- apresentação do projeto
+├── README.md      <- apresentação do projeto
 │
-├── parcial       <- entrega parcial
+├── project-1      <- primeira entrega - modelo conceitual e lógico
 │
-├── previa        <- entrega prévia
+├── project-2      <- segunda entrega - implementação e consultas parciais 
 │
-└── final         <- entrega final
+└── project-final  <- entrega final
 ~~~
 
-# Modelo o arquivo `README.md` que fica na raiz
+# Modelo para Apresentação do Grupo e Trabalho
+> *arquivo `README.md` que fica na raiz*
 
 # Projeto `<Título do Projeto>`
 
@@ -32,8 +31,6 @@ A seguir é apresentada a estrutura de pastas esperada no repositório do projet
 * `<nome completo>` - `<RA>`
 * `<nome completo>` - `<RA>`
 
-# Etapas
+## Resumo do Projeto
+> Texto resumindo o projeto.
 
-* [Entrega Parcial](parcial/)
-* [Entrega Prévia](previa/)
-* [Entrega Final](final/)
