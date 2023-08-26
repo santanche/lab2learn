@@ -5,9 +5,7 @@ Estrutura de pastas:
 ~~~
 ├── README.md  <- arquivo apresentando a tarefa
 │
-├── images     <- arquivos de imagens usadas no documento
-│
-└── workflows  <- arquivos de workflows
+└──images     <- arquivos de imagens usadas no documento
 ~~~
 
 # Equipe `<nome da equipe>`
