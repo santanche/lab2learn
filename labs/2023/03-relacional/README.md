@@ -16,3 +16,5 @@ As porções estão dispostas em potes com quantidades fixas e os alunos as esco
 ## Laboratório
 
 Mapeie o seu modelo conceitual do Laboratório 2 para um modelo relacional. Nesse modelo deve constar o esquema das relações, com as chaves primárias e estrangeiras. A especificação de tipos de atributos é opcional.
+
+No processo de mapeamento, pode ser feita uma revisão do modelo conceitual ER ou do UML (basta um). O modelo original ou revisado será apresentado na tarefa, conforme explicado no template.
