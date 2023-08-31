@@ -1,0 +1,565 @@
+cgn,CG_Subgroup,FCID_Code,FCID_Desc
+,,0,Not an EPA Food Commodity
+1,1AB,101050000,"Beet, garden, roots"
+1,1AB,101050001,"Beet, garden, roots-babyfood"
+1,1A,101052000,"Beet, sugar"
+1,1A,101052001,"Beet, sugar-babyfood"
+1,1A,101053000,"Beet, sugar, molasses"
+1,1A,101053001,"Beet, sugar, molasses-babyfood"
+1,1AB,101067000,Burdock
+1,1AB,101078000,Carrot
+1,1AB,101078001,Carrot-babyfood
+1,1AB,101079000,"Carrot, juice"
+1,1AB,101084000,Celeriac
+1,1AB,101100000,"Chicory, roots"
+1,1AB,101168000,"Ginseng, dried"
+1,1AB,101190000,Horseradish
+1,1AB,101250000,"Parsley, turnip rooted"
+1,1AB,101251000,Parsnip
+1,1AB,101251001,Parsnip-babyfood
+1,1AB,101314000,"Radish, roots"
+1,1AB,101316000,"Radish, Oriental, roots"
+1,1AB,101327000,Rutabaga
+1,1AB,101331000,"Salsify, roots"
+1,1AB,101388000,"Turnip, roots"
+1,1CD,103015000,"Arrowroot, flour"
+1,1CD,103015001,"Arrowroot, flour-babyfood"
+1,1CD,103017000,"Artichoke, Jerusalem"
+1,1CD,103082000,Cassava
+1,1CD,103082001,Cassava-babyfood
+1,1CD,103139000,"Dasheen, corm"
+1,1CD,103166000,Ginger
+1,1CD,103166001,Ginger-babyfood
+1,1CD,103167000,"Ginger, dried"
+1,1C,103296000,"Potato, chips"
+1,1C,103297000,"Potato, dry (granules/ flakes)"
+1,1C,103297001,"Potato, dry (granules/ flakes)-babyfood"
+1,1C,103298000,"Potato, flour"
+1,1C,103298001,"Potato, flour-babyfood"
+1,1C,103299000,"Potato, tuber, w/peel"
+1,1C,103299001,"Potato, tuber, w/peel-babyfood"
+1,1C,103300000,"Potato, tuber, w/o peel"
+1,1C,103300001,"Potato, tuber, w/o peel-babyfood"
+1,1CD,103366000,Sweet potato
+1,1CD,103366001,Sweet potato-babyfood
+1,1CD,103371000,"Tanier, corm"
+1,1CD,103387000,Turmeric
+1,1CD,103406000,"Yam, true"
+1,1CD,103407000,Yam bean
+2,2,200051000,"Beet, garden, tops"
+2,2,200101000,"Chicory, tops"
+2,2,200140000,"Dasheen, leaves"
+2,2,200317000,"Radish, Oriental, tops"
+2,2,200332000,"Salsify, tops"
+3,3A,301165000,"Garlic, bulb"
+3,3A,301165001,"Garlic, bulb-babyfood"
+3,3A,301237000,"Onion, bulb"
+3,3A,301237001,"Onion, bulb-babyfood"
+3,3A,301238000,"Onion, bulb, dried"
+3,3A,301238001,"Onion, bulb, dried-babyfood"
+3,3A,301338000,"Shallot, bulb"
+3,3B,302103000,"Chive, fresh leaves"
+3,3B,302198000,Leek
+3,3B,302239000,"Onion, green"
+3,3B,302338500,"Shallot, fresh leaves"
+4,4A,401005000,"Amaranth, leafy"
+4,4A,401104000,"Chrysanthemum, garland"
+4,4A,401118000,"Cilantro, leaves"
+4,4A,401118001,"Cilantro, leaves-babyfood"
+4,4A,401138000,"Dandelion, leaves"
+4,4A,401144000,Dillweed
+4,4A,401150000,Endive
+4,4A,401204000,"Lettuce, head"
+4,4A,401205000,"Lettuce, leaf"
+4,4A,401248000,"Parsley, leaves"
+4,4A,401313000,Radicchio
+4,4A,401355000,Spinach
+4,4A,401355001,Spinach-babyfood
+4,4A,401367000,Swiss chard
+4,4B,402018000,Arugula
+4,4B,402062000,"Broccoli, Chinese"
+4,4B,402063000,Broccoli raab
+4,4B,402070000,"Cabbage, Chinese, bok choy"
+4,4B,402117000,Collards
+4,4B,402133000,"Cress, garden"
+4,4B,402134000,"Cress, upland"
+4,4B,402194000,Kale
+4,4B,402229000,Mustard greens
+4,4B,402315000,"Radish, tops"
+4,4B,402318000,Rape greens
+4,4B,402389000,"Turnip, greens"
+4,4B,402398000,Watercress
+5,5,500061000,Broccoli
+5,5,500061001,Broccoli-babyfood
+5,5,500064000,Brussels sprouts
+5,5,500069000,Cabbage
+5,5,500071000,"Cabbage, Chinese, napa"
+5,5,500072000,"Cabbage, Chinese, mustard"
+5,5,500083000,Cauliflower
+6,6,600347000,"Soybean, seed"
+6,6,600348000,"Soybean, flour"
+6,6,600348001,"Soybean, flour-babyfood"
+6,6,600349000,"Soybean, soy milk"
+6,6,600349001,"Soybean, soy milk-babyfood or infant formula"
+6,6,600350000,"Soybean, oil"
+6,6,600350001,"Soybean, oil-babyfood"
+6,6A,601043000,"Bean, snap, succulent"
+6,6A,601043001,"Bean, snap, succulent-babyfood"
+6,6A,601257000,"Pea, edible podded, succulent"
+6,6AB,601349500,"Soybean, vegetable"
+6,6B,602031000,"Bean, broad, succulent"
+6,6B,602033000,"Bean, cowpea, succulent"
+6,6B,602037000,"Bean, lima, succulent"
+6,6B,602255000,"Pea, succulent"
+6,6B,602255001,"Pea, succulent-babyfood"
+6,6B,602259000,"Pea, pigeon, succulent"
+6,6C,603030000,"Bean, black, seed"
+6,6C,603032000,"Bean, broad, seed"
+6,6C,603034000,"Bean, cowpea, seed"
+6,6C,603035000,"Bean,  great northern, seed"
+6,6C,603036000,"Bean, kidney, seed"
+6,6C,603038000,"Bean, lima, seed"
+6,6C,603039000,"Bean, mung, seed"
+6,6C,603040000,"Bean, navy, seed"
+6,6C,603041000,"Bean, pink, seed"
+6,6C,603042000,"Bean, pinto, seed"
+6,6C,603098000,"Chickpea, seed"
+6,6C,603098001,"Chickpea, seed-babyfood"
+6,6C,603099000,"Chickpea, flour"
+6,6C,603182000,"Guar, seed"
+6,6C,603182001,"Guar, seed-babyfood"
+6,6C,603203000,"Lentil, seed"
+6,6C,603256000,"Pea, dry"
+6,6C,603256001,"Pea, dry-babyfood"
+6,6C,603258000,"Pea, pigeon, seed"
+8,8,801173500,Goji berry
+8,8A,801374000,Tomatillo
+8,8A,801375000,Tomato
+8,8A,801375001,Tomato-babyfood
+8,8A,801376000,"Tomato, paste"
+8,8A,801376001,"Tomato, paste-babyfood"
+8,8A,801377000,"Tomato, puree"
+8,8A,801377001,"Tomato, puree-babyfood"
+8,8A,801378000,"Tomato, dried"
+8,8A,801378001,"Tomato, dried-babyfood"
+8,8A,801379000,"Tomato, juice"
+8,8A,801380000,Tree Tomato
+8,8BC,802148000,Eggplant
+8,8BC,802234000,Okra
+8,8B,802270000,"Pepper, bell"
+8,8B,802270001,"Pepper, bell-babyfood"
+8,8B,802271000,"Pepper, bell, dried"
+8,8B,802271001,"Pepper, bell, dried-babyfood"
+8,8BC,802272000,"Pepper, nonbell"
+8,8BC,802272001,"Pepper, nonbell-babyfood"
+8,8BC,802273000,"Pepper, nonbell, dried"
+9,9A,901075000,Cantaloupe
+9,9A,901187000,Honeydew melon
+9,9A,901399000,Watermelon
+9,9A,901400000,"Watermelon, juice"
+9,9B,902021000,Balsam pear
+9,9B,902088000,"Chayote, fruit"
+9,9B,902102000,Chinese waxgourd
+9,9B,902135000,Cucumber
+9,9B,902308000,Pumpkin
+9,9B,902309000,"Pumpkin, seed"
+9,9B,902356000,"Squash, summer"
+9,9B,902356001,"Squash, summer-babyfood"
+9,9B,902357000,"Squash, winter"
+9,9B,902357001,"Squash, winter-babyfood"
+10,10A,1001106000,Citron
+10,10A,1001107000,Citrus hybrids
+10,10A,1001108000,"Citrus, oil"
+10,10A,1001240000,Orange
+10,10A,1001241000,"Orange, juice"
+10,10A,1001241001,"Orange, juice-babyfood"
+10,10A,1001242000,"Orange, peel"
+10,10A,1001369000,Tangerine
+10,10A,1001370000,"Tangerine, juice"
+10,10B,1002197000,Kumquat
+10,10B,1002199000,Lemon
+10,10B,1002200000,"Lemon, juice"
+10,10B,1002200001,"Lemon, juice-babyfood"
+10,10B,1002201000,"Lemon, peel"
+10,10B,1002206000,Lime
+10,10B,1002207000,"Lime, juice"
+10,10B,1002207001,"Lime, juice-babyfood"
+10,10C,1003180000,Grapefruit
+10,10C,1003181000,"Grapefruit, juice"
+10,10C,1003307000,Pummelo
+11,11,1100007000,"Apple, fruit with peel"
+11,11,1100008000,"Apple, peeled fruit"
+11,11,1100008001,"Apple, peeled fruit-babyfood"
+11,11,1100009000,"Apple, dried"
+11,11,1100009001,"Apple, dried-babyfood"
+11,11,1100010000,"Apple, juice"
+11,11,1100010001,"Apple, juice-babyfood"
+11,11,1100011000,"Apple, sauce"
+11,11,1100011001,"Apple, sauce-babyfood"
+11,11,1100129000,Crabapple
+11,11,1100210000,Loquat
+11,11,1100266000,Pear
+11,11,1100266001,Pear-babyfood
+11,11,1100267000,"Pear, dried"
+11,11,1100268000,"Pear, juice"
+11,11,1100268001,"Pear, juice-babyfood"
+11,11,1100310000,Quince
+12,12A,1201090000,Cherry
+12,12A,1201090001,Cherry-babyfood
+12,12A,1201091000,"Cherry, juice"
+12,12A,1201091001,"Cherry, juice-babyfood"
+12,12B,1202012000,Apricot
+12,12B,1202012001,Apricot-babyfood
+12,12B,1202013000,"Apricot, dried"
+12,12B,1202014000,"Apricot, juice"
+12,12B,1202014001,"Apricot, juice-babyfood"
+12,12B,1202230000,Nectarine
+12,12B,1202260000,Peach
+12,12B,1202260001,Peach-babyfood
+12,12B,1202261000,"Peach, dried"
+12,12B,1202261001,"Peach, dried-babyfood"
+12,12B,1202262000,"Peach, juice"
+12,12B,1202262001,"Peach, juice-babyfood"
+12,12C,1203285000,Plum
+12,12C,1203285001,Plum-babyfood
+12,12C,1203286000,"Plum, prune, fresh"
+12,12C,1203286001,"Plum, prune, fresh-babyfood"
+12,12C,1203287000,"Plum, prune, dried"
+12,12C,1203287001,"Plum, prune, dried-babyfood"
+12,12C,1203288000,"Plum, prune, juice"
+12,12C,1203288001,"Plum, prune, juice-babyfood"
+13,13A,1301055000,Blackberry
+13,13A,1301056000,"Blackberry, juice"
+13,13A,1301056001,"Blackberry, juice-babyfood"
+13,13A,1301058000,Boysenberry
+13,13A,1301208000,Loganberry
+13,13A,1301320000,Raspberry
+13,13A,1301320001,Raspberry-babyfood
+13,13A,1301321000,"Raspberry, juice"
+13,13A,1301321001,"Raspberry, juice-babyfood"
+13,13B,1302057000,Blueberry
+13,13B,1302057001,Blueberry-babyfood
+13,13B,1302136000,Currant
+13,13B,1302137000,"Currant, dried"
+13,13BC,1302149000,Elderberry
+13,13BDEF,1302174000,Gooseberry
+13,13B,1302191000,Huckleberry
+13,13C,1303227000,Mulberry
+13,13DF,1304175000,Grape
+13,13DF,1304176000,"Grape, juice"
+13,13DF,1304176001,"Grape, juice-babyfood"
+13,13DF,1304178000,"Grape, raisin"
+13,13DF,1304179000,"Grape, wine and sherry"
+13,13DE,1304195000,"Kiwifruit, fuzzy"
+13,13GH,1307130000,Cranberry
+13,13GH,1307130001,Cranberry-babyfood
+13,13GH,1307131000,"Cranberry, dried"
+13,13GH,1307132000,"Cranberry, juice"
+13,13GH,1307132001,"Cranberry, juice-babyfood"
+13,13G,1307359000,Strawberry
+13,13G,1307359001,Strawberry-babyfood
+13,13G,1307360000,"Strawberry, juice"
+13,13G,1307360001,"Strawberry, juice-babyfood"
+14,14,1400003000,Almond
+14,14,1400003001,Almond-babyfood
+14,14,1400004000,"Almond, oil"
+14,14,1400004001,"Almond, oil-babyfood"
+14,14,1400059000,Brazil nut
+14,14,1400068000,Butternut
+14,14,1400081000,Cashew
+14,14,1400092000,Chestnut
+14,14,1400111000,"Coconut, meat"
+14,14,1400111001,"Coconut, meat-babyfood"
+14,14,1400112000,"Coconut, dried"
+14,14,1400113000,"Coconut, milk"
+14,14,1400114000,"Coconut, oil"
+14,14,1400114001,"Coconut, oil-babyfood"
+14,14,1400155000,Hazelnut
+14,14,1400156000,"Hazelnut, oil"
+14,14,1400185000,Hickory nut
+14,14,1400213000,Macadamia nut
+14,14,1400269000,Pecan
+14,14,1400278000,Pine nut
+14,14,1400282000,Pistachio
+14,14,1400391000,Walnut
+15,15,1500025000,"Barley, pearled barley"
+15,15,1500025001,"Barley, pearled barley-babyfood"
+15,15,1500026000,"Barley, flour"
+15,15,1500026001,"Barley, flour-babyfood"
+15,15,1500027000,"Barley, bran"
+15,15,1500065000,Buckwheat
+15,15,1500066000,"Buckwheat, flour"
+15,15,1500120000,"Corn, field, flour"
+15,15,1500120001,"Corn, field, flour-babyfood"
+15,15,1500121000,"Corn, field, meal"
+15,15,1500121001,"Corn, field, meal-babyfood"
+15,15,1500122000,"Corn, field, bran"
+15,15,1500123000,"Corn, field, starch"
+15,15,1500123001,"Corn, field, starch-babyfood"
+15,15,1500124000,"Corn, field, syrup"
+15,15,1500124001,"Corn, field, syrup-babyfood"
+15,15,1500125000,"Corn, field, oil"
+15,15,1500125001,"Corn, field, oil-babyfood"
+15,15,1500126000,"Corn, pop"
+15,15,1500127000,"Corn, sweet"
+15,15,1500127001,"Corn, sweet-babyfood"
+15,15,1500226000,"Millet, grain"
+15,15,1500231000,"Oat, bran"
+15,15,1500232000,"Oat, flour"
+15,15,1500232001,"Oat, flour-babyfood"
+15,15,1500233000,"Oat, groats/rolled oats"
+15,15,1500233001,"Oat, groats/rolled oats-babyfood"
+15,15,1500323000,"Rice, white"
+15,15,1500323001,"Rice, white-babyfood"
+15,15,1500324000,"Rice, brown"
+15,15,1500324001,"Rice, brown-babyfood"
+15,15,1500325000,"Rice, flour"
+15,15,1500325001,"Rice, flour-babyfood"
+15,15,1500326000,"Rice, bran"
+15,15,1500326001,"Rice, bran-babyfood"
+15,15,1500328000,"Rye, grain"
+15,15,1500329000,"Rye, flour"
+15,15,1500344000,"Sorghum, grain"
+15,15,1500345000,"Sorghum, syrup"
+15,15,1500381000,"Triticale, flour"
+15,15,1500381001,"Triticale, flour-babyfood"
+15,15,1500401000,"Wheat, grain"
+15,15,1500401001,"Wheat, grain-babyfood"
+15,15,1500402000,"Wheat, flour"
+15,15,1500402001,"Wheat, flour-babyfood"
+15,15,1500403000,"Wheat, germ"
+15,15,1500404000,"Wheat, bran"
+15,15,1500405000,Wild rice
+18,18,1800002000,"Alfalfa, seed"
+19,19A,1901028000,"Basil, fresh leaves"
+19,19A,1901028001,"Basil, fresh leaves-babyfood"
+19,19A,1901029000,"Basil, dried leaves"
+19,19A,1901029001,"Basil, dried leaves-babyfood"
+19,19A,1901102500,"Chive, dried leaves"
+19,19A,1901184000,"Herbs, other"
+19,19A,1901184001,"Herbs, other-babyfood"
+19,19A,1901202000,Lemongrass
+19,19A,1901220000,Marjoram
+19,19A,1901220001,Marjoram-babyfood
+19,19A,1901249000,"Parsley, dried leaves"
+19,19A,1901249001,"Parsley, dried leaves-babyfood"
+19,19A,1901334000,Savory
+19,19B,1902105000,Cinnamon
+19,19B,1902105001,Cinnamon-babyfood
+19,19B,1902119000,"Coriander, seed"
+19,19B,1902119001,"Coriander, seed-babyfood"
+19,19B,1902143000,"Dill, seed"
+19,19B,1902274000,"Pepper, black and white"
+19,19B,1902274001,"Pepper, black and white-babyfood"
+19,19B,1902354000,"Spices, other"
+19,19B,1902354001,"Spices, other-babyfood"
+20,20A,2001162900,"Flax, seed"
+20,20A,2001163000,"Flax seed, oil"
+20,20A,2001319000,"Rapeseed, oil"
+20,20A,2001319001,"Rapeseed, oil-babyfood"
+20,20A,2001336000,"Sesame, seed"
+20,20A,2001336001,"Sesame, seed-babyfood"
+20,20A,2001337000,"Sesame, oil"
+20,20A,2001337001,"Sesame, oil-babyfood"
+20,20B,2002330000,"Safflower, oil"
+20,20B,2002330001,"Safflower, oil-babyfood"
+20,20B,2002364000,"Sunflower, seed"
+20,20B,2002365000,"Sunflower, oil"
+20,20B,2002365001,"Sunflower, oil-babyfood"
+20,20C,2003128000,"Cottonseed, oil"
+20,20C,2003128001,"Cottonseed, oil-babyfood"
+21,21,2100228000,Mushroom
+22,22A,2201001500,Agave
+22,22A,2201019000,Asparagus
+22,22A,2201022000,"Bamboo, shoots"
+22,22A,2201073000,Cactus
+22,22A,2201087000,Celtuce
+22,22A,2201152000,"Fennel, Florence"
+22,22A,2201196000,Kohlrabi
+22,22A,2201243000,"Palm heart, leaves"
+22,22B,2202076000,Cardoon
+22,22B,2202085000,Celery
+22,22B,2202085001,Celery-babyfood
+22,22B,2202086000,"Celery, juice"
+22,22B,2202322000,Rhubarb
+23,23A,2301001000,Acerola
+23,23A,2301235000,Olive
+23,23A,2301236000,"Olive, oil"
+23,23B,2302077000,Carob
+23,23B,2302153000,Fig
+23,23B,2302154000,"Fig, dried"
+23,23B,2302183000,Guava
+23,23B,2302183001,Guava-babyfood
+23,23B,2302358000,Starfruit
+23,23B,2302368000,Tamarind
+23,23C,2303000500,Acai berry
+23,23C,2303141000,Date
+23,23B,2303151000,Feijoa
+24,24C,2401019500,Atemoya
+24,24A,2401074000,Canistel
+24,24A,2401211000,Lychee
+24,24A,2401212000,"Lychee, dried"
+24,24A,2401351000,Spanish lime
+24,24B,2402020000,Avocado
+24,24B,2402023000,Banana
+24,24B,2402023001,Banana-babyfood
+24,24B,2402024000,"Banana, dried"
+24,24B,2402024001,"Banana, dried-babyfood"
+24,24B,2402215000,Mango
+24,24B,2402215001,Mango-babyfood
+24,24B,2402216000,"Mango, dried"
+24,24B,2402217000,"Mango, juice"
+24,24B,2402217001,"Mango, juice-babyfood"
+24,24B,2402245000,Papaya
+24,24B,2402245001,Papaya-babyfood
+24,24B,2402246000,"Papaya, dried"
+24,24B,2402247000,"Papaya, juice"
+24,24B,2402254000,Pawpaw
+24,24B,2402277000,Persimmon
+24,24B,2402283000,Plantain
+24,24B,2402284000,"Plantain, dried"
+24,24B,2402289000,Pomegranate
+24,24B,2402290000,"Pomegranate, juice"
+24,24C,2403060000,Breadfruit
+24,24C,2403089000,Cherimoya
+24,24C,2403193000,Jackfruit
+24,24C,2403209000,Longan
+24,24C,2403214000,Mamey apple
+24,24C,2403279000,Pineapple
+24,24C,2403279001,Pineapple-babyfood
+24,24C,2403280000,"Pineapple, dried"
+24,24C,2403281000,"Pineapple, juice"
+24,24C,2403281001,"Pineapple, juice-babyfood"
+24,24C,2403333000,"Sapote, Mamey"
+24,24C,2403346000,Soursop
+24,24C,2403361000,Sugar apple
+24,24D,2404050206,Dragon fruit
+24,24D,2404062904,Prickly pear fruit
+24,24E,2405252000,Passionfruit
+24,24E,2405252001,Passionfruit-babyfood
+24,24E,2405253000,"Passionfruit, juice"
+24,24E,2405253001,"Passionfruit, juice-babyfood"
+31,31,3100044000,"Beef, meat"
+31,31,3100044001,"Beef, meat-babyfood"
+31,31,3100045000,"Beef, meat, dried"
+31,31,3100046000,"Beef, meat byproducts"
+31,31,3100046001,"Beef, meat byproducts-babyfood"
+31,31,3100047000,"Beef, fat"
+31,31,3100047001,"Beef, fat-babyfood"
+31,31,3100048000,"Beef, kidney"
+31,31,3100049000,"Beef, liver"
+31,31,3100049001,"Beef, liver-babyfood"
+32,32,3200169000,"Goat, meat"
+32,32,3200170000,"Goat, meat byproducts"
+32,32,3200171000,"Goat, fat"
+32,32,3200172000,"Goat, kidney"
+32,32,3200173000,"Goat, liver"
+33,33,3300189000,"Horse, meat"
+34,34,3400290000,"Pork, meat"
+34,34,3400290001,"Pork, meat-babyfood"
+34,34,3400291000,"Pork, skin"
+34,34,3400292000,"Pork, meat byproducts"
+34,34,3400292001,"Pork, meat byproducts-babyfood"
+34,34,3400293000,"Pork, fat"
+34,34,3400293001,"Pork, fat-babyfood"
+34,34,3400294000,"Pork, kidney"
+34,34,3400295000,"Pork, liver"
+35,35,3500339000,"Sheep, meat"
+35,35,3500339001,"Sheep, meat-babyfood"
+35,35,3500340000,"Sheep, meat byproducts"
+35,35,3500341000,"Sheep, fat"
+35,35,3500341001,"Sheep, fat-babyfood"
+35,35,3500342000,"Sheep, kidney"
+35,35,3500343000,"Sheep, liver"
+36,36,3600222000,"Milk, fat"
+36,36,3600222001,"Milk, fat-baby food/infant formula"
+36,36,3600223000,"Milk, nonfat solids"
+36,36,3600223001,"Milk, nonfat solids-baby food/infant formula"
+36,36,3600224000,"Milk, water"
+36,36,3600224001,"Milk, water-babyfood/infant formula"
+36,36,3600225001,"Milk, sugar (lactose)-baby food/infant formula"
+37,37,3700222501,"Milk, human"
+38,38,3800221000,"Meat, game"
+39,39,3900312000,"Rabbit, meat"
+40,40,4000093000,"Chicken, meat"
+40,40,4000093001,"Chicken, meat-babyfood"
+40,40,4000094000,"Chicken, liver"
+40,40,4000095000,"Chicken, meat byproducts"
+40,40,4000095001,"Chicken, meat byproducts-babyfood"
+40,40,4000096000,"Chicken, fat"
+40,40,4000096001,"Chicken, fat-babyfood"
+40,40,4000097000,"Chicken, skin"
+40,40,4000097001,"Chicken, skin-babyfood"
+50,50,5000382000,"Turkey, meat"
+50,50,5000382001,"Turkey, meat-babyfood"
+50,50,5000383000,"Turkey, liver"
+50,50,5000383001,"Turkey, liver-babyfood"
+50,50,5000384000,"Turkey, meat byproducts"
+50,50,5000384001,"Turkey, meat byproducts-babyfood"
+50,50,5000385000,"Turkey, fat"
+50,50,5000385001,"Turkey, fat-babyfood"
+50,50,5000386000,"Turkey, skin"
+50,50,5000386001,"Turkey, skin-babyfood"
+60,60,6000301000,"Poultry, other, meat"
+60,60,6000302000,"Poultry, other, liver"
+60,60,6000303000,"Poultry, other, meat byproducts"
+60,60,6000304000,"Poultry, other, fat"
+60,60,6000305000,"Poultry, other, skin"
+70,70,7000145000,"Egg, whole"
+70,70,7000145001,"Egg, whole-babyfood"
+70,70,7000146000,"Egg, white"
+70,70,7000146001,"Egg, white (solids)-babyfood"
+70,70,7000147000,"Egg, yolk"
+70,70,7000147001,"Egg, yolk-babyfood"
+80,80,8000157000,Fish-freshwater finfish
+80,80,8000158000,"Fish-freshwater finfish, farm raised"
+80,80,8000159000,"Fish-saltwater finfish, tuna"
+80,80,8000160000,"Fish-saltwater finfish, other"
+80,80,8000161000,"Fish-shellfish, crustacean"
+80,80,8000162000,"Fish-shellfish, mollusc"
+86,86A,8601000000,"Water, direct, all sources"
+86,86A,8601100000,"Water, direct, tap"
+86,86A,8601200000,"Water, direct, bottled"
+86,86A,8601300000,"Water, direct, other"
+86,86A,8601400000,"Water, direct, source-NS"
+86,86B,8602000000,"Water, indirect, all sources"
+86,86B,8602100000,"Water, indirect, tap"
+86,86B,8602200000,"Water, indirect, bottled"
+86,86B,8602300000,"Water, indirect, other"
+86,86B,8602400000,"Water, indirect, source-NS"
+95,O,9500006000,"Amaranth, grain"
+95,O,9500016000,"Artichoke, globe"
+95,O,9500054000,Belgium endive
+95,O,9500109000,"Cocoa bean, chocolate"
+95,O,9500110000,"Cocoa bean, powder"
+95,O,9500115000,"Coffee, roasted bean"
+95,O,9500116000,"Coffee, instant"
+95,O,9500177000,"Grape, leaves"
+95,O,9500186000,Honey
+95,O,9500186001,Honey-babyfood
+95,O,9500186100,Bee pollen
+95,O,9500188000,Hop
+95,O,9500218000,"Maple, sugar"
+95,O,9500219000,Maple syrup
+95,O,9500244000,"Palm, oil"
+95,O,9500244001,"Palm, oil-babyfood"
+95,O,9500263000,Peanut
+95,O,9500264000,"Peanut, butter"
+95,O,9500265000,"Peanut, oil"
+95,O,9500275000,Peppermint
+95,O,9500276000,"Peppermint, oil"
+95,O,9500306000,"Psyllium, seed"
+95,O,9500311000,"Quinoa, grain"
+95,O,9500335000,Seaweed
+95,O,9500335001,Seaweed-babyfood
+95,O,9500352000,Spearmint
+95,O,9500353000,"Spearmint, oil"
+95,O,9500362000,"Sugarcane, sugar"
+95,O,9500362001,"Sugarcane, sugar-babyfood"
+95,O,9500363000,"Sugarcane, molasses"
+95,O,9500363001,"Sugarcane, molasses-babyfood"
+95,O,9500372000,"Tea, dried"
+95,O,9500373000,"Tea, instant"
+95,O,9500373500,"Teff, flour"
+95,O,9500390000,Vinegar
+95,O,9500397000,Water chestnut
