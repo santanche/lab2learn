@@ -13,17 +13,17 @@ Details about how to clone this environment in your machine can is presented [he
 #### Via [MyBinder.org](http://mybinder.org/) (instance of the project jupyterhub/[binderhub](https://github.com/jupyterhub/binderhub))
 
 * Última versão testada e estável:
-  [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/v00.80_SQL?urlpath=tree)
 
-  - [![launch @ gke.mybinder.org][badge-jupyter-gke-mybinder-org]](https://gke.mybinder.org/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  - [![launch @ gke.mybinder.org][badge-jupyter-gke-mybinder-org]](https://gke.mybinder.org/v2/gh/santanche/lab2learn/v00.80_SQL?urlpath=tree)
 
-  - [![launch @ ovh.mybinder.org][badge-jupyter-ovh-mybinder-org]](https://ovh.mybinder.org/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  - [![launch @ ovh.mybinder.org][badge-jupyter-ovh-mybinder-org]](https://ovh.mybinder.org/v2/gh/santanche/lab2learn/v00.80_SQL?urlpath=tree)
 
-  - [![launch @ gesis.org][badge-jupyter-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  - [![launch @ gesis.org][badge-jupyter-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/santanche/lab2learn/v00.80_SQL?urlpath=tree)
 
-  - [![launch @ pangeo.org][badge-jupyter-pangeo-io]](https://binder.pangeo.io/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  - [![launch @ pangeo.org][badge-jupyter-pangeo-io]](https://binder.pangeo.io/v2/gh/santanche/lab2learn/v00.80_SQL?urlpath=tree)
 
-  [AWS Pangeo Binder](https://aws-uswest2-binder.pangeo.io/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  [AWS Pangeo Binder](https://aws-uswest2-binder.pangeo.io/v2/gh/santanche/lab2learn/v00.80_SQL?urlpath=tree)
 
 * Última versão disponível:
   [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/master?urlpath=tree)
