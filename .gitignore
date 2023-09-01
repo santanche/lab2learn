@@ -105,4 +105,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# LibreOffice
+
+.~lock.*#
+
+# Too Big File in Fook Intake
+
 data/food-intake/consumption/Commodity_CSFFM_Intake_0510.csv
