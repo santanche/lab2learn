@@ -104,3 +104,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+data/food-intake/consumption/Commodity_CSFFM_Intake_0510.csv
