@@ -4,6 +4,8 @@
 * [Codebook](https://fcid.foodrisk.org/docs/WWEIA-FCID_0510_Background-Codebooks-ControlStats.pdf): 2005-2010 What We Eat In America – Food Commodity Intake Database (WWEIA-FCID 0510)
 * [Databases](https://fcid.foodrisk.org/dbc/)
 
+## [Summary of Tables (Portuguese)](fcid-tables.pdf)
+
 | Table | File | Description |
 | ----- | ---- | ----------- |
 | FCID Recipe Database | [Recipes_WWEIA_FCID_0510.csv](https://fcid.foodrisk.org/dbc/csv2014Q4/Recipes_WWEIA_FCID_0510.csv) | U.S. EPA recipe database to translate WWEIA food consumption to consumption of agricultural food commodities |
@@ -29,6 +31,12 @@
 ~~~
 
 # Table Schemas
+
+## Recipes (`basics/FCID_Code_Description.csv`)
+
+U.S. EPA FCID commodity codes
+
+U.S. EPA Crop Groups and Sub-groups
 
 ## Recipes (`recipes/Recipes_WWEIA_FCID_0510.csv`)
 
