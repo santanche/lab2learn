@@ -1,0 +1,151 @@
+name,type,gender,height,weight,gbc,gs,pbc,sp
+Lossack Slossir,biological,male,1.88,109.72,0.8,14,5.1,3.5
+Hasp Talch,biological,male,1.75,73.62,0.8,14,4.9,3
+Lesprash Rindrad,biological,male,1.88,96.5,0.8,13,4.7,3.2
+Halceff Gock,biological,male,1.82,99.81,0.8,15,4.6,3.1
+Moddeche Splud ,biological,male,1.77,93.6,0.8,14,5,3.6
+Oshor Geactong,biological,male,1.71,69.04,1.6,17,5.4,3.9
+Glitcolch Threbbalgo,biological,male,1.75,83.43,1.2,14,4.6,3.4
+Giemmedd Ark,biological,male,1.74,76.19,0.8,15,5,3.4
+Nesp Natho,biological,male,1.7,79.8,0.8,14,4.4,2.9
+Mapmo Ondrath ,biological,male,1.61,70.94,0.4,15,4.9,3.1
+Dall Raubbatt,biological,male,1.81,84.64,0.8,15,5.4,3.7
+Far Beggipt,biological,male,1.82,96.95,0.8,16,4.8,3.4
+Thash Sem,biological,male,1.65,75.81,0.4,14,4.8,3
+Whoor Sin,biological,male,1.76,85.93,0.4,11,4.3,3
+Whathizz Whoppell ,biological,male,1.76,84.57,0.8,12,5.8,4
+Quallught Theeght,biological,male,1.72,78.1,1.6,15,5.7,4.4
+Spriss Anne,biological,male,1.84,88.92,1.6,13,5.4,3.9
+Gaucke Ang,biological,male,1.62,78.42,1.2,14,5.1,3.5
+Roppo Treesp,biological,male,1.77,84.36,1.2,17,5.7,3.8
+Bassell Tarken ,biological,male,1.73,82.75,1.2,15,5.1,3.8
+Splaglon Quombaund,biological,male,1.73,78.98,0.8,17,5.4,3.4
+Shreeckterp Shell,biological,male,1.76,89.69,1.6,15,5.1,3.7
+Ramp Dutt,biological,male,1.68,67.66,0.8,10,4.6,3.6
+Meglurk Boff,biological,male,1.91,103.76,2,17,5.1,3.3
+Lont Jackorl ,biological,male,1.72,73.48,0.8,19,4.8,3.4
+Allay Derrusp,biological,female,1.5,46.31,0.8,16,5,3
+Asp Thelk,biological,female,1.66,64.1,1.6,16,5,3.4
+Hagg Fobbar,biological,female,1.61,59.44,0.8,15,5.2,3.5
+Aisp Natroth,biological,female,1.64,58.14,0.8,14,5.2,3.4
+Veck Ackot ,biological,female,1.57,58.87,0.8,16,4.7,3.2
+Soddar Chor,biological,female,1.68,71.12,0.8,16,4.8,3.1
+Backom Gadduff,biological,female,1.6,52.15,1.6,15,5.4,3.4
+Shagrapt Ellang,biological,female,1.67,74.88,0.4,15,5.2,4.1
+Shorpest Herhock,biological,female,1.57,50.66,0.8,14,5.5,4.2
+Morgosh Bottorld ,biological,female,1.62,47.24,0.4,15,4.9,3.1
+Shalviggeeck Strant,biological,female,1.73,75.56,0.8,12,5,3.2
+Aight Man,biological,female,1.57,48.19,0.8,13,5.5,3.5
+Eavonk Blutwagg,biological,female,1.61,58.11,0.4,15,4.9,3.1
+Pett Gemmauth,biological,female,1.5,46.12,0.8,13,4.4,3
+Deckatt Thommesh ,biological,female,1.48,44.54,0.8,15,5.1,3.4
+Her Shashaink,biological,female,1.54,57.57,1.2,13,5,3.5
+Reslochald Pind,biological,female,1.78,68.61,1.2,13,4.5,2.3
+Thash Thir,biological,female,1.58,52.52,0.8,13,4.4,3.2
+Reashazz Bert,biological,female,1.57,48.93,2.4,16,5,3.5
+Ass Cleggarp ,biological,female,1.6,66.04,1.6,19,5.1,3.8
+Moddosh Nalchieck,biological,female,1.58,63.29,1.2,14,4.8,3
+Soont Rott,biological,female,1.57,55.69,0.8,16,5.1,3.8
+Chonglothull Riddopp,biological,female,1.69,71.39,0.8,14,4.6,3.2
+Rommerch Turth,biological,female,1.66,65.79,0.8,15,5.3,3.7
+Wen Dreth ,biological,female,1.68,67.42,0.8,14,5,3.3
+Boss Bluckrast,chemical,male,1.73,87.25,5.6,47,7,3.2
+Slidding Robbirt,chemical,male,1.75,83.66,6,45,6.4,3.2
+Screckoolsh Deng,chemical,male,1.85,93.82,6,49,6.9,3.1
+Paun Lerbassun,chemical,male,1.71,79.48,5.2,40,5.5,2.3
+Relleest Cattierl ,chemical,male,1.74,70.01,6,46,6.5,2.8
+Sungisp Tush,chemical,male,1.74,85.05,5.2,45,5.7,2.8
+Sarhack Grend,chemical,male,1.88,96.57,6.4,47,6.3,3.3
+Spretheemp Borl,chemical,male,1.82,88.47,4,33,4.9,2.4
+Porreck Hissorth,chemical,male,1.76,93.07,5.2,46,6.6,2.9
+Charld Seckash ,chemical,male,1.77,92.61,5.6,39,5.2,2.7
+Mor Bellank,chemical,male,1.79,87.5,4,35,5,2
+Pampight Floffor,chemical,male,1.75,89.58,6,42,5.9,3
+Copt Flespross,chemical,male,1.71,83.38,4,40,6,2.2
+Chald Renneer,chemical,male,1.67,74.32,5.6,47,6.1,2.9
+Ness Choss ,chemical,male,1.63,73.98,5.2,36,5.6,2.9
+Bar Toggoppo,chemical,male,1.73,78.08,5.6,44,6.7,3.1
+Crabbar Wherth,chemical,male,1.83,88.02,6,45,5.6,3
+Gablank Toll,chemical,male,1.66,76.48,4,41,5.8,2.7
+Crerk Mepmosp,chemical,male,1.68,73.12,6,45,6.2,2.2
+Cheglesk Wert ,chemical,male,1.71,74.69,4.4,39,5.6,2.5
+Mankorp Sheveerld,chemical,male,1.78,85.69,7.2,48,5.9,3.2
+Strash Sappe,chemical,male,1.73,84.85,5.2,40,6.1,2.8
+On Oggon,chemical,male,1.83,94.83,6,49,6.3,2.5
+Quain Queck,chemical,male,1.76,87.1,4.8,47,6.1,2.8
+Strumress Saggutt ,chemical,male,1.85,95.86,5.2,43,6.4,2.9
+Arg Perconk,chemical,female,1.64,60.18,5.6,44,6.6,3
+Beashithadd Chuckemp,chemical,female,1.44,38.5,5.6,48,6.8,2.8
+Gestra Spreeck,chemical,female,1.59,62.84,6.8,50,6.7,3
+Nabbe Glossod,chemical,female,1.56,62.34,6,45,6,2.9
+Spotchetreet Fick ,chemical,female,1.58,56.52,4,35,5.7,2.6
+Chilpass Mash,chemical,female,1.66,63.62,4.4,38,5.5,2.4
+Galsh Shark,chemical,female,1.55,49.12,4,37,5.5,2.4
+Choglisk Rech,chemical,female,1.7,68.14,4.8,39,5.8,2.7
+Spren Nelt,chemical,female,1.53,53.99,6.4,51,6,2.7
+Doffoock Abball ,chemical,female,1.62,63.27,6,45,5.4,3
+Allork Quoss,chemical,female,1.61,56.98,6.4,45,6,3.4
+Gorld Horrar,chemical,female,1.62,60,6,47,6.7,3.1
+Goor Peshugg,chemical,female,1.53,59.17,5.2,44,6.3,2.3
+Nur Slabblir,chemical,female,1.61,58.44,5.2,41,5.6,3
+Serld Ressorsh ,chemical,female,1.54,49.77,5.2,40,5.5,2.5
+Gobba Roulfor,chemical,female,1.71,66.23,4.8,44,5.5,2.6
+Dapmar Tennand,chemical,female,1.7,72.06,5.6,46,6.1,3
+Merfocher Clabbosh,chemical,female,1.53,51.98,4.8,40,5.8,2.6
+Lorg Nachlenk,chemical,female,1.63,60.39,4,33,5,2.3
+Twonk Butcalch ,chemical,female,1.61,58.49,5.2,42,5.6,2.7
+Rosk Dald,chemical,female,1.71,69.88,4.8,42,5.7,3
+Ruve Nemp,chemical,female,1.68,63.05,5.2,42,5.7,2.9
+Sechand Flashass,chemical,female,1.64,62.9,5.2,43,6.2,2.9
+Hom Chackopp,chemical,female,1.68,81.96,4.4,30,5.1,2.5
+Reshmoth Sauck ,chemical,female,1.67,67.64,5.2,41,5.7,2.8
+Boff Noggozz,technological,male,1.65,75.12,10,60,6.3,3.3
+Steshmelt Caffausp,technological,male,1.78,91.2,7.6,51,5.8,2.7
+Rolpell Apt,technological,male,1.74,78.66,8.4,59,7.1,3
+Sot Ockett,technological,male,1.71,82.29,7.2,56,6.3,2.9
+Ronk Nolsh ,technological,male,1.7,76.99,8.8,58,6.5,3
+Therross Guttilk,technological,male,1.69,74.08,8.4,66,7.6,3
+Shotchosh Choss,technological,male,1.74,86.05,6.8,45,4.9,2.5
+Varfammoth Rockold,technological,male,1.8,87.15,7.2,63,7.3,2.9
+Depposs Harrass,technological,male,1.81,89.9,7.2,58,6.7,2.5
+Gebbonnulsh Ross ,technological,male,1.78,95.04,10,61,7.2,3.6
+Clurnelk Gluch,technological,male,1.81,90.16,8,51,6.5,3.2
+Thatton Toochash,technological,male,1.77,89.85,7.6,53,6.4,2.7
+Splat Heck,technological,male,1.87,88.58,8.4,55,6.8,3
+Abbauggleesh Biddoy,technological,male,1.7,74.82,8,50,5.7,2.5
+Daggeelt Seespreght ,technological,male,1.81,81.58,9.6,51,5.8,2.8
+Peppeck Choght,technological,male,1.66,70.42,9.2,53,6.4,3.2
+Alluck Povo,technological,male,1.73,83.7,7.2,55,6.5,3
+Siffash Rangrer,technological,male,1.85,100.1,8.8,67,7.7,3.8
+Angaith Benksar,technological,male,1.73,83.15,9.2,69,7.7,2.6
+Bar Brun ,technological,male,1.75,89.11,6,50,6,2.2
+Tack Glenksorg,technological,male,1.76,83.73,9.2,57,6.9,3.2
+Shoggass Thennor,technological,male,1.79,94.14,8,49,5.6,2.8
+Mun Borkass,technological,male,1.77,80.38,8,67,7.7,2.8
+Meer Thept,technological,male,1.72,73.98,7.2,49,6.3,2.7
+Pavo Mer ,technological,male,1.84,98.07,8.4,57,6.7,3.3
+Tucrezz Harfaush,technological,female,1.65,65.8,7.2,60,7.2,3.2
+Annorsh Bend,technological,female,1.64,65.61,7.2,48,6.2,2.8
+Terra Lier,technological,female,1.59,63.27,7.2,49,6.1,3
+Bottar Twoapmopp,technological,female,1.56,58.96,8.4,56,6.4,2.8
+Speght Threck ,technological,female,1.55,53.26,6.4,58,7.2,3
+Hottor Sar,technological,female,1.61,62.37,7.6,61,7.4,2.8
+Drocheld Tackelhech,technological,female,1.58,62.77,8,64,7.9,3.8
+Shochan Blappieght,technological,female,1.68,64.08,8.8,56,6.4,2.8
+Nornall Shalk,technological,female,1.59,56.12,6,51,6.3,2.8
+Bollost Bitten ,technological,female,1.69,66.04,5.6,56,6.1,2.6
+Thuckaipperk Lurbelsh,technological,female,1.51,49.81,9.2,61,7.7,3
+Choll Larrall,technological,female,1.64,72.33,9.6,56,6.3,3.4
+Pleddart Rushoff,technological,female,1.65,69.14,7.2,55,6.4,3.1
+Sheppont Thraff,technological,female,1.56,64.15,7.2,48,6,3
+Chash Fraffem ,technological,female,1.68,67.02,8.4,54,6.9,3.1
+Throuflurresh Robbloff,technological,female,1.62,59.65,9.6,56,6.7,3.1
+Lursh Hang,technological,female,1.77,71.22,9.2,51,6.9,3.1
+Tebbor Netwon,technological,female,1.71,71.19,7.6,51,5.8,2.7
+Almatton Lump,technological,female,1.61,65.24,9.2,59,6.8,3.2
+Gass Robmuch ,technological,female,1.55,44.77,10,57,6.7,3.3
+Therthe Mind,technological,female,1.52,57.31,9.2,52,6.7,3
+Dathierg Meggar,technological,female,1.63,60.88,7.6,50,6.3,2.5
+Chapt Screppour,technological,female,1.54,53.63,8,52,6.5,3
+Sobly Naffang,technological,female,1.58,65.92,9.2,54,6.2,3.4
+Olfost Nass ,technological,female,1.43,41.19,7.2,51,5.9,3
