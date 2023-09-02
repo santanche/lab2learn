@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="" description="">
+	<nodes>
+		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="Recipes" position="(46.875, 14.375)" />
+		<node id="1" name="Select Rows" qualified_name="Orange.widgets.data.owselectrows.OWSelectRows" project_name="Orange3" version="" title="Select One Food" position="(194.375, 15.0)" />
+		<node id="2" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Data Table" position="(619.375, 26.25)" />
+		<node id="3" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(496.25, 25.0)" />
+		<node id="4" name="Merge Data" qualified_name="Orange.widgets.data.owmergedata.OWMergeData" project_name="Orange3" version="" title="Add Food Description" position="(355.0, 23.75)" />
+		<node id="5" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="Food Description" position="(194.375, 113.125)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="1" source_node_id="3" sink_node_id="2" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="2" source_node_id="1" sink_node_id="4" source_channel="Matching Data" sink_channel="Data" enabled="true" source_channel_id="matching_data" sink_channel_id="data" />
+		<link id="3" source_node_id="5" sink_node_id="4" source_channel="Data" sink_channel="Extra Data" enabled="true" source_channel_id="data" sink_channel_id="extra_data" />
+		<link id="4" source_node_id="4" sink_node_id="3" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+	</links>
+	<annotations>
+		<text id="0" type="text/markdown" rect="(7.5, -116.375, 220.0, 51.75)" font-family="Ubuntu" font-size="16">**Mexican style beef stew**
+Food Code: 27111300</text>
+		<arrow id="1" start="(138.75, -65.625)" end="(184.375, -17.5)" fill="#C1272D" />
+	</annotations>
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'VarPath', 'name': 'basedir', 'relpath': 'recipes/Recipes_WWEIA_FCID_0510.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 2, 'value': 'Categorical'}, {'start': 2, 'stop': 3, 'value': 'Numeric'}, {'start': 3, 'stop': 7, 'value': 'Categorical'}, {'start': 7, 'stop': 8, 'value': 'Numeric'}, {'start': 8, 'stop': 11, 'value': 'Categorical'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': '/home/santanche/git/lab2learn/workflow/orange/food-intake/recipes', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x03\x1a\x00\x00\x01G\x00\x00\x04e\x00\x00\x02\xaf\x00\x00\x03\x1a\x00\x00\x01l\x00\x00\x04e\x00\x00\x02\xaf\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x03\x1a\x00\x00\x01l\x00\x00\x04e\x00\x00\x02\xaf', '__version__': 3}</properties>
+		<properties node_id="1" format="pickle">gASVMQIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBBwdXJn
+ZV9hdHRyaWJ1dGVzlImMDXB1cmdlX2NsYXNzZXOUiYwTc2F2ZWRXaWRnZXRHZW9tZXRyeZRDQgHZ
+0MsAAwAAAAAClAAAASEAAATrAAAC1QAAApQAAAFGAAAE6wAAAtUAAAAAAAAAAAeAAAAClAAAAUYA
+AATrAAAC1ZSMEHVwZGF0ZV9vbl9jaGFuZ2WUiIwLX192ZXJzaW9uX1+USwKMEGNvbnRleHRfc2V0
+dGluZ3OUXZSMFW9yYW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVl
+c5R9lCiMCmNvbmRpdGlvbnOUXZQoKIwJRm9vZF9Db2RllEsBSwBdlIwIMjcxMTEzMDCUYXSUKIwI
+TW9kX0NvZGWUSwFLAF2UjAEwlGF0lGVoCEsCdYwKYXR0cmlidXRlc5R9lChoFEsBaBhLAYwOSW5n
+cmVkaWVudF9OdW2USwKMCUZDSURfQ29kZZRLAYwNQ29va2VkX1N0YXR1c5RLAYwJRm9vZF9Gb3Jt
+lEsBjA5Db29raW5nX01ldGhvZJRLAYwQQ29tbW9kaXR5X1dlaWdodJRLAowOQ1NGSUlfOTQ5OF9J
+TkSUSwGMDldXRUlBXzk5MDRfSU5ElEsBjA5XV0VJQV8wNTEwX0lORJRLAXWMBW1ldGFzlH2UdWJh
+dS4=
+</properties>
+		<properties node_id="2" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01m\x00\x00\x023\x00\x00\x06\x0e\x00\x00\x04\x17\x00\x00\x01m\x00\x00\x02X\x00\x00\x06\x0e\x00\x00\x04\x17\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x01m\x00\x00\x02X\x00\x00\x06\x0e\x00\x00\x04\x17', 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [], 'columns': []}, 'stored_sort': [], '__version__': 1}</properties>
+		<properties node_id="3" format="pickle">gASVygMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAq0AAACw
+AAAFBAAAAywAAAKtAAAA1QAABQQAAAMsAAAAAAAAAAAHgAAAAq0AAADVAAAFBAAAAyyUjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZQojBVv
+cmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2YWx1ZXOUfZQojBFkb21h
+aW5fcm9sZV9oaW50c5R9lCiMCE1vZF9Db2RllEsBhpSMCWF2YWlsYWJsZZRLAIaUjA5DU0ZJSV85
+NDk4X0lORJRLAYaUaBVLAYaUjA5XV0VJQV85OTA0X0lORJRLAYaUaBVLAoaUjA5XV0VJQV8wNTEw
+X0lORJRLAYaUaBVLA4aUjANjZ26USwGGlGgVSwSGlIwLQ0dfU3ViZ3JvdXCUSwGGlGgVSwWGlIwJ
+Rm9vZF9Db2RllEsBhpSMCWF0dHJpYnV0ZZRLAIaUjAlGQ0lEX0NvZGWUSwGGlGgoSwGGlIwNQ29v
+a2VkX1N0YXR1c5RLAYaUaChLAoaUjAlGb29kX0Zvcm2USwGGlGgoSwOGlIwOQ29va2luZ19NZXRo
+b2SUSwGGlGgoSwSGlIwQQ29tbW9kaXR5X1dlaWdodJRLAoaUaChLBYaUjA5JbmdyZWRpZW50X051
+bZRLAoaUaChLBoaUjAlGQ0lEX0Rlc2OUSwGGlGgoSweGlHVK/v///4aUaAdLAXWMCmF0dHJpYnV0
+ZXOUfZQoaCZLAWgTSwFoOUsCaCpLAWgtSwFoMEsBaDNLAWg2SwJoF0sBaBpLAWgdSwFoIEsBaCNL
+AWg8SwF1jAVtZXRhc5R9lHViaAwpgZR9lChoD32UKGgRfZQoaBNLAYaUaBVLAIaUaBdLAYaUaBVL
+AYaUaBpLAYaUaBVLAoaUaB1LAYaUaBVLA4aUaCZLAYaUaChLAIaUaCpLAYaUaChLAYaUaC1LAYaU
+aChLAoaUaDBLAYaUaChLA4aUaDNLAYaUaChLBIaUaDZLAoaUaChLBYaUaDlLAoaUaChLBoaUdUr+
+////hpRoB0sBdWhAfZQoaCZLAWgTSwFoOUsCaCpLAWgtSwFoMEsBaDNLAWg2SwJoF0sBaBpLAWgd
+SwF1aEJ9lHViZXUu
+</properties>
+		<properties node_id="4" format="pickle">gASVJgIAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiMB21lcmdp
+bmeUSwCME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAABCgAAAGLAAAGGAAAAp4AAAQo
+AAABiwAABhgAAAKeAAAAAAAAAAAHgAAABCgAAAGLAAAGGAAAAp6UjAtfX3ZlcnNpb25fX5RLAowQ
+Y29udGV4dF9zZXR0aW5nc5RdlIwVb3Jhbmdld2lkZ2V0LnNldHRpbmdzlIwHQ29udGV4dJSTlCmB
+lH2UKIwGdmFsdWVzlH2UKIwKYXR0cl9wYWlyc5RdlF2UKIwJRkNJRF9Db2RllEtlhpSMCUZDSURf
+Q29kZZRLZYaUZWFoBksCdYwKdmFyaWFibGVzMZR9lCiMCUZvb2RfQ29kZZRLZYwITW9kX0NvZGWU
+S2WMDkluZ3JlZGllbnRfTnVtlEtmaBNLZYwNQ29va2VkX1N0YXR1c5RLZYwJRm9vZF9Gb3JtlEtl
+jA5Db29raW5nX01ldGhvZJRLZYwQQ29tbW9kaXR5X1dlaWdodJRLZowOQ1NGSUlfOTQ5OF9JTkSU
+S2WMDldXRUlBXzk5MDRfSU5ElEtljA5XV0VJQV8wNTEwX0lORJRLZXWMCnZhcmlhYmxlczKUfZQo
+jANjZ26US2WMC0NHX1N1Ymdyb3VwlEtlaBVLZYwJRkNJRF9EZXNjlEtldXViYXUu
+</properties>
+		<properties node_id="5" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'VarPath', 'name': 'basedir', 'relpath': 'basics/FCID_Code_Description.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 4, 'value': 'Categorical'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': '/home/santanche/git/lab2learn/workflow/orange/food-intake/basics', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x03\xb2\x00\x00\x01\x9b\x00\x00\x04\xfd\x00\x00\x02\xde\x00\x00\x03\xb2\x00\x00\x01\x9b\x00\x00\x04\xfd\x00\x00\x02\xde\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x03\xb2\x00\x00\x01\x9b\x00\x00\x04\xfd\x00\x00\x02\xde', '__version__': 3}</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>

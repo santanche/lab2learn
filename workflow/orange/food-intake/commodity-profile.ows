@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="" description="">
+	<nodes>
+		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="Commodity Profile" position="(85.29411764705884, 57.64705882352942)" />
+		<node id="1" name="Data Table" qualified_name="Orange.widgets.data.owtable.OWTable" project_name="Orange3" version="" title="Present Table" position="(211.61764705882356, 49.911764705882355)" />
+		<node id="2" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="Scatter Plot" position="(215.11764705882356, 172.91176470588235)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="1" source_node_id="0" sink_node_id="2" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+	</links>
+	<annotations>
+		<text id="0" type="text/plain" rect="(283.52941176470574, 51.52941176470592, 150.0, 103.0)" font-family="Ubuntu" font-size="16">Os produtos mais populares são aqueles que mais aparecem nas receitas?</text>
+		<arrow id="1" start="(295.2941176470588, 150.58823529411765)" end="(252.9411764705882, 174.7058823529412)" fill="#C1272D" />
+	</annotations>
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'VarPath', 'name': 'basedir', 'relpath': 'computed/commodity-profile.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 4, 'value': 'Categorical'}, {'start': 4, 'stop': 9, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''}), ({'type': 'VarPath', 'name': 'basedir', 'relpath': 'computed/consumption-profile.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 4, 'value': 'Categorical'}, {'start': 4, 'stop': 9, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': '/home/santanche/git/lab2learn/workflow/orange/food-intake/computed', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x03\x1a\x00\x00\x01l\x00\x00\x04e\x00\x00\x02\xaf\x00\x00\x03\x1a\x00\x00\x01l\x00\x00\x04e\x00\x00\x02\xaf\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x03\x1a\x00\x00\x01l\x00\x00\x04e\x00\x00\x02\xaf', '__version__': 3}</properties>
+		<properties node_id="1" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x07\xc6\x00\x00\x00\xd3\x00\x00\x0e\xb7\x00\x00\x03\xb1\x00\x00\x07\xc6\x00\x00\x00\xf8\x00\x00\x0e\xb7\x00\x00\x03\xb1\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x07\xc6\x00\x00\x00\xf8\x00\x00\x0e\xb7\x00\x00\x03\xb1', 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [], 'columns': []}, 'stored_sort': [], '__version__': 1}</properties>
+		<properties node_id="2" format="pickle">gASVLQQAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMC2F1dG9fc2FtcGxllIiMEmNvbnRyb2xBcmVh
+VmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAAJ/AAABEgAABoEAAANX
+AAACfwAAATcAAAaBAAADVwAAAAAAAAAAB4AAAAJ/AAABNwAABoEAAANXlIwJc2VsZWN0aW9ulE6M
+EXRvb2x0aXBfc2hvd3NfYWxslIiMD3Zpc3VhbF9zZXR0aW5nc5R9lIwFZ3JhcGiUfZQojAthbHBo
+YV92YWx1ZZRLgIwNY2xhc3NfZGVuc2l0eZSJjBFqaXR0ZXJfY29udGludW91c5SJjAtqaXR0ZXJf
+c2l6ZZRLAIwTbGFiZWxfb25seV9zZWxlY3RlZJSJjBZvcnRob25vcm1hbF9yZWdyZXNzaW9ulImM
+C3BvaW50X3dpZHRolEsKjAlzaG93X2dyaWSUiYwLc2hvd19sZWdlbmSUiIwNc2hvd19yZWdfbGlu
+ZZSJdYwLX192ZXJzaW9uX1+USwWMEGNvbnRleHRfc2V0dGluZ3OUXZQojBVvcmFuZ2V3aWRnZXQu
+c2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2YWx1ZXOUfZQojAphdHRyX2NvbG9ylIwKUE9Q
+VUxBUklUWZRLZoaUjAphdHRyX2xhYmVslE5K/v///4aUjAphdHRyX3NoYXBllE5K/v///4aUjAlh
+dHRyX3NpemWUTkr+////hpSMBmF0dHJfeJRoIUtmhpSMBmF0dHJfeZSMB1JFQ0lQRVOUS2aGlGgK
+fZRoFksFdYwKYXR0cmlidXRlc5R9lCiMCUZDSURfQ09ERZRLAYwJRkNJRF9ERVNDlEsBjANDR06U
+SwGMC0NHX1NVQkdST1VQlEsBjApQT1BVTEFSSVRZlEsCjApJTlRBS0VfU1VNlEsCjApJTlRBS0Vf
+QVZHlEsCjA1JTlRBS0VfQldfQVZHlEsCjAdSRUNJUEVTlEsCdYwFbWV0YXOUfZR1YmgbKYGUfZQo
+aB59lCiMCmF0dHJfY29sb3KUTkr+////hpSMCmF0dHJfbGFiZWyUTkr+////hpSMCmF0dHJfc2hh
+cGWUTkr+////hpSMCWF0dHJfc2l6ZZROSv7///+GlIwGYXR0cl94lIwLQ09OU1VNUFRJT06US2aG
+lIwGYXR0cl95lIwNUEFSVElDSVBBVElPTpRLZoaUjAVncmFwaJR9lGgWSwV1aC99lCiMCUZDSURf
+Q09ERZRLAYwJRkNJRF9ERVNDlEsBjANDR06USwGMC0NHX1NVQkdST1VQlEsBaEhLAowKSU5UQUtF
+X1NVTZRLAowKSU5UQUtFX0FWR5RLAowNSU5UQUtFX0JXX0FWR5RLAmhLSwJ1aDp9lHViZXUu
+</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>

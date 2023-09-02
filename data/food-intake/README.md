@@ -32,12 +32,6 @@
 
 # Table Schemas
 
-## Recipes (`basics/FCID_Code_Description.csv`)
-
-U.S. EPA FCID commodity codes
-
-U.S. EPA Crop Groups and Sub-groups
-
 ## Recipes (`recipes/Recipes_WWEIA_FCID_0510.csv`)
 
 | Field | Name | Description |
