@@ -8,6 +8,37 @@ Get started with this lab simply by cloning this repository within your own Jupy
 
 Details about how to clone this environment in your machine can is presented [here](setup.md).
 
+## Jupyter and BeakerX
+
+Java and SQL Notebooks run over [BeakerX](http://beakerx.com/). The links below run the Jupyter platform with BearkerX. There are two versions:
+
+* Latest tested and stable version [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  * should always work since runs over a release already mounted and tested
+* Latest version available [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/master?urlpath=tree)
+  * mounts the latest commit - has the latest repository updates, but sometimes still needs a test
+
+You can mount a Jupyter BeakerX kernels yourself in a Docker image. See instructions at [BeakerX](http://beakerx.com/). If you already have Docker installed on your machine, this statement will run BeakerX in Docker:
+
+`docker run -p 8888:8888 beakerx/beakerx`
+
+You can map your local lab2learn drive with the mapping:
+
+`docker run -p 8888:8888 -v /home/your_home/git/lab2learn/:/home/beakerx/lab2learn beakerx/beakerx`
+
+The local path in the example (first path) considers the home of a Linux OS. Replace with a proper path in your OS. In Linux, replace your_home with your home directory.
+
+In the console, the Jupyter will show a Web address to run
+
+~~~
+http://7daa79d4ba87:8888/?token=b4831e2674e915aaqf3231aa8810f9d3c8ujjaf917cnx7594&token=b4831e2674e915aaqf3231aa8810f9d3c8ujjaf917cnx7594
+~~~
+
+Replace the first part by localhost as:
+
+~~~
+http://localhost:8888/?token=b4831e2674e915aaqf3231aa8810f9d3c8ujjaf917cnx7594&token=b4831e2674e915aaqf3231aa8810f9d3c8ujjaf917cnx7594
+~~~
+
 ### Launching via Cloud Services
 
 #### Via [MyBinder.org](http://mybinder.org/) (instance of the project jupyterhub/[binderhub](https://github.com/jupyterhub/binderhub))
@@ -44,6 +75,8 @@ Details about how to clone this environment in your machine can is presented [he
   [![Binder](https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/santanche/lab2learn)
 
 # Portuguese Version (Versão em Português)
+
+# Exercícios 
 
 # Roteiro Estradas - Modelagem/Álgebra/SQL
 *Sala e Laboratório BD em 20/09/2019*
