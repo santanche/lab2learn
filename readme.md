@@ -12,7 +12,7 @@ Details about how to clone this environment in your machine can is presented [he
 
 Java and SQL Notebooks run over [BeakerX](http://beakerx.com/). The links below run the Jupyter platform with BearkerX. There are two versions:
 
-* Latest tested and stable version [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+* Latest tested and stable version [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/v01.00_SQL?urlpath=tree)
   * should always work since runs over a release already mounted and tested
 * Latest version available [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/master?urlpath=tree)
   * mounts the latest commit - has the latest repository updates, but sometimes still needs a test
@@ -44,17 +44,17 @@ http://localhost:8888/?token=b4831e2674e915aaqf3231aa8810f9d3c8ujjaf917cnx7594&t
 #### Via [MyBinder.org](http://mybinder.org/) (instance of the project jupyterhub/[binderhub](https://github.com/jupyterhub/binderhub))
 
 * Última versão testada e estável:
-  [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/v01.00_SQL?urlpath=tree)
 
-  - [![launch @ gke.mybinder.org][badge-jupyter-gke-mybinder-org]](https://gke.mybinder.org/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  - [![launch @ gke.mybinder.org][badge-jupyter-gke-mybinder-org]](https://gke.mybinder.org/v2/gh/santanche/lab2learn/v01.00_SQL?urlpath=tree)
 
-  - [![launch @ ovh.mybinder.org][badge-jupyter-ovh-mybinder-org]](https://ovh.mybinder.org/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  - [![launch @ ovh.mybinder.org][badge-jupyter-ovh-mybinder-org]](https://ovh.mybinder.org/v2/gh/santanche/lab2learn/v01.00_SQL?urlpath=tree)
 
-  - [![launch @ gesis.org][badge-jupyter-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  - [![launch @ gesis.org][badge-jupyter-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/santanche/lab2learn/v01.00_SQL?urlpath=tree)
 
-  - [![launch @ pangeo.org][badge-jupyter-pangeo-io]](https://binder.pangeo.io/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  - [![launch @ pangeo.org][badge-jupyter-pangeo-io]](https://binder.pangeo.io/v2/gh/santanche/lab2learn/v01.00_SQL?urlpath=tree)
 
-  [AWS Pangeo Binder](https://aws-uswest2-binder.pangeo.io/v2/gh/santanche/lab2learn/v00.90_SQL?urlpath=tree)
+  [AWS Pangeo Binder](https://aws-uswest2-binder.pangeo.io/v2/gh/santanche/lab2learn/v01.00_SQL?urlpath=tree)
 
 * Última versão disponível:
   [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/santanche/lab2learn/master?urlpath=tree)
