@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab02 - Modelagem Conceitual de Refeições em um Restaurante
+# Modelo para Apresentação do Lab03 - Modelagem Relacional de Refeições em um Restaurante
 
 Estrutura de pastas:
 
