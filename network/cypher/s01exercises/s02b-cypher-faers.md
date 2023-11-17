@@ -23,7 +23,7 @@ CREATE (:Drug {code: line.code, name: line.name})
 Muitas operações serão realizadas usando-se o código da droga como chave, portanto, é interessante a criação de um índice sobre ele:
 
 ~~~cypher
-CREATE INDEX ON :Drug(code)
+CREATE INDEX FOR (d:Drug) ON (d.code)
 ~~~
 
 Vale a pena olhar o resultado, mas recomendamos que você limite o número de nós a ser apresentados usando a cláusula `LIMIT`:
@@ -42,7 +42,7 @@ CREATE (:Pathology { code: line.code, name: line.name})
 ~~~
 
 ~~~cypher
-CREATE INDEX ON :Pathology(code)
+CREATE INDEX FOR (p:Pathology) ON (p.code)
 ~~~
 
 ## `LOAD` com `MATCH`
@@ -59,8 +59,8 @@ CREATE (d)-[:Treats {person: line.idperson}]->(p)
 Veja o resultado:
 
 ~~~cypher
-MATCH (d)-[:Treats]->(p)
-RETURN d, p
+MATCH (d)-[t:Treats]->(p)
+RETURN d, t, p
 LIMIT 50
 ~~~
 
@@ -92,7 +92,7 @@ Vamos inspecionar as relações que têm peso maior que cinquenta:
 ~~~cypher
 MATCH (d)-[t:Treats]->(p)
 WHERE t.weight > 50
-RETURN d,p
+RETURN d, t, p
 ~~~
 
 … e aquelas com peso maior que vinte:
@@ -100,7 +100,7 @@ RETURN d,p
 ~~~cypher
 MATCH (d)-[t:Treats]->(p)
 WHERE t.weight > 20
-RETURN d,p
+RETURN d, t, p
 ~~~
 
 ## Projeção
@@ -117,8 +117,8 @@ ON MATCH SET r.weight=r.weight+1
 
 Visualizando o resultado:
 ~~~cypher
-MATCH (d1:Drug)<-[:Relates]->(d2:Drug)
-RETURN d1, d2
+MATCH (d1:Drug)<-[r:Relates]->(d2:Drug)
+RETURN d1, r, d2
 LIMIT 20
 ~~~
 
