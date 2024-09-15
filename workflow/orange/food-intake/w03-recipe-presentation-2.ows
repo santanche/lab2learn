@@ -18,7 +18,7 @@ Food Code: 27111300</text>
 	</annotations>
 	<thumbnail />
 	<node_properties>
-		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'VarPath', 'name': 'basedir', 'relpath': 'recipes/Recipes_WWEIA_FCID_0510.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 2, 'value': 'Categorical'}, {'start': 2, 'stop': 3, 'value': 'Numeric'}, {'start': 3, 'stop': 7, 'value': 'Categorical'}, {'start': 7, 'stop': 8, 'value': 'Numeric'}, {'start': 8, 'stop': 11, 'value': 'Categorical'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': '/home/santanche/git/lab2learn/workflow/orange/food-intake/recipes', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x03\x1a\x00\x00\x01G\x00\x00\x04e\x00\x00\x02\xaf\x00\x00\x03\x1a\x00\x00\x01l\x00\x00\x04e\x00\x00\x02\xaf\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x03\x1a\x00\x00\x01l\x00\x00\x04e\x00\x00\x02\xaf', '__version__': 3}</properties>
+		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'VarPath', 'name': 'basedir', 'relpath': 'recipes/Recipes_WWEIA_FCID_0510.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 2, 'value': 'Categorical'}, {'start': 2, 'stop': 3, 'value': 'Numeric'}, {'start': 3, 'stop': 7, 'value': 'Categorical'}, {'start': 7, 'stop': 8, 'value': 'Numeric'}, {'start': 8, 'stop': 11, 'value': 'Categorical'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': '/home/santanche/git/lab2learn/workflow/orange/food-intake/recipes', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\n\xa3\x00\x00\x01\x9d\x00\x00\x0b\xee\x00\x00\x03\x05\x00\x00\n\xa3\x00\x00\x01\xc2\x00\x00\x0b\xee\x00\x00\x03\x05\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\n\xa3\x00\x00\x01\xc2\x00\x00\x0b\xee\x00\x00\x03\x05', '__version__': 3}</properties>
 		<properties node_id="1" format="pickle">gASVMQIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBBwdXJn
 ZV9hdHRyaWJ1dGVzlImMDXB1cmdlX2NsYXNzZXOUiYwTc2F2ZWRXaWRnZXRHZW9tZXRyeZRDQgHZ
 0MsAAwAAAAAClAAAASEAAATrAAAC1QAAApQAAAFGAAAE6wAAAtUAAAAAAAAAAAeAAAAClAAAAUYA
@@ -31,10 +31,10 @@ lEsBjA5Db29raW5nX01ldGhvZJRLAYwQQ29tbW9kaXR5X1dlaWdodJRLAowOQ1NGSUlfOTQ5OF9J
 TkSUSwGMDldXRUlBXzk5MDRfSU5ElEsBjA5XV0VJQV8wNTEwX0lORJRLAXWMBW1ldGFzlH2UdWJh
 dS4=
 </properties>
-		<properties node_id="2" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x01\xd0\x00\x00\x01\xad\x00\x00\x05\xb6\x00\x00\x03\x91\x00\x00\x01\xd0\x00\x00\x01\xd2\x00\x00\x05\xb6\x00\x00\x03\x91\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x01\xd0\x00\x00\x01\xd2\x00\x00\x05\xb6\x00\x00\x03\x91', 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [], 'columns': []}, 'stored_sort': [], '__version__': 1}</properties>
-		<properties node_id="3" format="pickle">gASVpAIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
-cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAq0AAADV
-AAAFBAAAAywAAAKtAAAA1QAABQQAAAMsAAAAAAAAAAAHgAAAAq0AAADVAAAFBAAAAyyUjBJ1c2Vf
+		<properties node_id="2" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': False, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x07\xc6\x00\x00\x01\xad\x00\x00\x0b\xac\x00\x00\x03\x91\x00\x00\x07\xc6\x00\x00\x01\xd2\x00\x00\x0b\xac\x00\x00\x03\x91\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x07\xc6\x00\x00\x01\xd2\x00\x00\x0b\xac\x00\x00\x03\x91', 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [], 'columns': []}, 'stored_sort': [], '__version__': 1}</properties>
+		<properties node_id="3" format="pickle">gASVNQMAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAB8YAAACw
+AAAKHQAAAywAAAfGAAAA1QAACh0AAAMsAAAAAAAAAAAHgAAAB8YAAADVAAAKHQAAAyyUjBJ1c2Vf
 aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9y
 YW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMEWRvbWFp
 bl9yb2xlX2hpbnRzlH2UKIwITW9kX0NvZGWUSwGGlIwJYXZhaWxhYmxllEsAhpSMDkNTRklJXzk0
@@ -43,8 +43,10 @@ SU5ElEsBhpRoFUsDhpSMCUZvb2RfQ29kZZRLAYaUjAlhdHRyaWJ1dGWUSwCGlIwJRkNJRF9Db2Rl
 lEsBhpRoIksBhpSMDUNvb2tlZF9TdGF0dXOUSwGGlGgiSwKGlIwJRm9vZF9Gb3JtlEsBhpRoIksD
 hpSMDkNvb2tpbmdfTWV0aG9klEsBhpRoIksEhpSMEENvbW1vZGl0eV9XZWlnaHSUSwKGlGgiSwWG
 lIwOSW5ncmVkaWVudF9OdW2USwKGlGgiSwaGlHVK/v///4aUaAdLAXWMCmF0dHJpYnV0ZXOUfZQo
-aCBLAWgTSwFoM0sCaCRLAWgnSwFoKksBaC1LAWgwSwJoF0sBaBpLAWgdSwF1jAVtZXRhc5R9lHVi
-YXUu
+jAlGb29kX0NvZGWUSwGMCE1vZF9Db2RllEsBjA5JbmdyZWRpZW50X051bZRLAowJRkNJRF9Db2Rl
+lEsBjA1Db29rZWRfU3RhdHVzlEsBjAlGb29kX0Zvcm2USwGMDkNvb2tpbmdfTWV0aG9klEsBjBBD
+b21tb2RpdHlfV2VpZ2h0lEsCjA5DU0ZJSV85NDk4X0lORJRLAYwOV1dFSUFfOTkwNF9JTkSUSwGM
+DldXRUlBXzA1MTBfSU5ElEsBdYwFbWV0YXOUfZR1YmF1Lg==
 </properties>
 	</node_properties>
 	<session_state>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <scheme version="2.0" title="" description="">
 	<nodes>
-		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="CSV File Import" position="(150, 150)" />
+		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="Commodity Profile" position="(150, 150)" />
 		<node id="1" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(312.66666666666663, 151.33333333333334)" />
 		<node id="2" name="k-Means" qualified_name="Orange.widgets.unsupervised.owkmeans.OWKMeans" project_name="Orange3" version="" title="k-Means" position="(462.66666666666663, 151.33333333333334)" />
 		<node id="3" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="Scatter Plot" position="(612.6666666666666, 151.33333333333334)" />
@@ -14,7 +14,7 @@
 	<annotations />
 	<thumbnail />
 	<node_properties>
-		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'VarPath', 'name': 'basedir', 'relpath': 'computed/commodity-profile.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 4, 'value': 'Categorical'}, {'start': 4, 'stop': 9, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': '/home/santanche/git/lab2learn/workflow/orange/food-intake/computed', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\xf7\x00\x00\x01l\x00\x00\x04B\x00\x00\x02\xaf\x00\x00\x02\xf7\x00\x00\x01l\x00\x00\x04B\x00\x00\x02\xaf\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x02\xf7\x00\x00\x01l\x00\x00\x04B\x00\x00\x02\xaf', '__version__': 3}</properties>
+		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'VarPath', 'name': 'basedir', 'relpath': 'computed/commodity-profile.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 4, 'value': 'Categorical'}, {'start': 4, 'stop': 9, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': '/home/santanche/git/lab2learn/workflow/orange/food-intake/computed', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x07\xc6\x00\x00\x01G\x00\x00\t\x11\x00\x00\x02\xaf\x00\x00\x07\xc6\x00\x00\x01l\x00\x00\t\x11\x00\x00\x02\xaf\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x07\xc6\x00\x00\x01l\x00\x00\t\x11\x00\x00\x02\xaf', '__version__': 3}</properties>
 		<properties node_id="1" format="pickle">gASVTgIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
 cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAApgAAAD5
 AAAE7wAAA3UAAAKYAAABHgAABO8AAAN1AAAAAAAAAAAHgAAAApgAAAEeAAAE7wAAA3WUjBJ1c2Vf
@@ -28,19 +28,20 @@ lGglSwOGlHVK/v///4aUaAdLAXWMCmF0dHJpYnV0ZXOUfZQoaB1LAWggSwFoKksBaC1LAWgnSwJo
 E0sCaBpLAmgXSwJoI0sCdYwFbWV0YXOUfZR1YmF1Lg==
 </properties>
 		<properties node_id="2" format="literal">{'auto_commit': True, 'controlAreaVisible': True, 'k': 3, 'k_from': 2, 'k_to': 8, 'max_iterations': 300, 'n_init': 10, 'normalize': True, 'optimize_k': False, 'savedWidgetGeometry': None, 'selection': None, 'smart_init': 0, '__version__': 2}</properties>
-		<properties node_id="3" format="pickle">gASVyQIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMC2F1dG9fc2FtcGxllIiMEmNvbnRyb2xBcmVh
-VmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAAIdAAAA0wAABkkAAAOg
-AAACHQAAAPgAAAZJAAADoAAAAAAAAAAAB4AAAAIdAAAA+AAABkkAAAOglIwJc2VsZWN0aW9ulE6M
+		<properties node_id="3" format="pickle">gASV+AIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMC2F1dG9fc2FtcGxllIiMEmNvbnRyb2xBcmVh
+VmlzaWJsZZSIjBNzYXZlZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAAfGAAAA0wAAC/IAAAOg
+AAAHxgAAAPgAAAvyAAADoAAAAAAAAAAAB4AAAAfGAAAA+AAAC/IAAAOglIwJc2VsZWN0aW9ulE6M
 EXRvb2x0aXBfc2hvd3NfYWxslIiMD3Zpc3VhbF9zZXR0aW5nc5R9lIwFZ3JhcGiUfZQojAthbHBo
 YV92YWx1ZZRLgIwNY2xhc3NfZGVuc2l0eZSJjBFqaXR0ZXJfY29udGludW91c5SIjAtqaXR0ZXJf
 c2l6ZZRLAIwTbGFiZWxfb25seV9zZWxlY3RlZJSJjBZvcnRob25vcm1hbF9yZWdyZXNzaW9ulImM
-C3BvaW50X3dpZHRolEsKjAlzaG93X2dyaWSUiYwLc2hvd19sZWdlbmSUiIwNc2hvd19yZWdfbGlu
-ZZSJdYwLX192ZXJzaW9uX1+USwWMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9yYW5nZXdpZGdldC5z
-ZXR0aW5nc5SMB0NvbnRleHSUk5QpgZR9lCiMBnZhbHVlc5R9lCiMCmF0dHJfY29sb3KUjAdDbHVz
-dGVylEtlhpSMCmF0dHJfbGFiZWyUTkr+////hpSMCmF0dHJfc2hhcGWUjANDR06US2WGlIwJYXR0
-cl9zaXpllE5K/v///4aUjAZhdHRyX3iUjApQT1BVTEFSSVRZlEtmhpSMBmF0dHJfeZSMB1JFQ0lQ
-RVOUS2aGlGgKfZRoFksFdYwKYXR0cmlidXRlc5R9lChoLksCaCtLAmgmSwGMC0NHX1NVQkdST1VQ
-lEsBdYwFbWV0YXOUfZQoaCFLAYwKU2lsaG91ZXR0ZZRLAnV1YmF1Lg==
+C3BvaW50X3dpZHRolEsKjAxzaG93X2VsbGlwc2WUiYwJc2hvd19ncmlklImMC3Nob3dfbGVnZW5k
+lIiMDXNob3dfcmVnX2xpbmWUiXWMC19fdmVyc2lvbl9flEsFjBBjb250ZXh0X3NldHRpbmdzlF2U
+jBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2YWx1ZXOUfZQojAph
+dHRyX2NvbG9ylIwHQ2x1c3RlcpRLZYaUjAphdHRyX2xhYmVslE5K/v///4aUjAphdHRyX3NoYXBl
+lIwDQ0dOlEtlhpSMCWF0dHJfc2l6ZZROSv7///+GlIwGYXR0cl94lIwKUE9QVUxBUklUWZRLZoaU
+jAZhdHRyX3mUjAdSRUNJUEVTlEtmhpRoCn2UaBdLBXWMCmF0dHJpYnV0ZXOUfZQojAdSRUNJUEVT
+lEsCjApQT1BVTEFSSVRZlEsCjANDR06USwGMC0NHX1NVQkdST1VQlEsBdYwFbWV0YXOUfZQojAdD
+bHVzdGVylEsBjApTaWxob3VldHRllEsCdXViYXUu
 </properties>
 	</node_properties>
 	<session_state>
