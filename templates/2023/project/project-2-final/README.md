@@ -84,7 +84,7 @@ ARMÁRIO(_Código_, Tamanho, Ocupante)
 
 título do arquivo/base | link | breve descrição
 ----- | ----- | -----
-`<título do arquivo/base>` | `<link para arquivo/base>` | `<breve descrição do arquivo/base>`
+`<título da base>` | `<link para arquivo/base>` | `<breve descrição da base>`
 
 > Os arquivos finais do dataset publicado devem ser colocados na pasta `data`, em subpasta `processed`. Outros arquivos serão colocados em subpastas conforme seu papel (externo, interim, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
 > Coloque arquivos que não estejam disponíveis online e sejam acessados pelo notebook. Relacionais (usualmente CSV), XML, JSON e CSV ou triplas para grafos.
@@ -108,9 +108,6 @@ sns.distplot(df.Hemoglobin);
 plt.show();
 ~~~
 
-> Se usar Orange para alguma análise, você pode apresentar uma captura do workflow, como o exemplo a seguir e descrevê-lo:
-![Workflow no Orange](images/orange-zombie-meals-prediction.png)
-
 > Coloque um link para o arquivo do notebook, programas ou workflows que executam as operações que você apresentar.
 
 > Aqui devem ser apresentadas as operações de construção do dataset:
@@ -120,7 +117,7 @@ plt.show();
 * tratamento de dados
 * transformação de dados para facilitar análise e pesquisa
 
-> Se for notebook, ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src` (por exemplo, arquivos do Orange ou Cytoscape). Se as operações envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
+> Se for notebook, ele estará dentro da pasta `notebook`. Se por alguma razão o código não for executável no Jupyter, coloque na pasta `src`. Se as operações envolverem queries executadas atraves de uma interface de um SGBD não executável no Jupyter, como o Cypher, apresente na forma de markdown.
 
 ## Evolução do Projeto
 > Relatório de evolução, descrevendo as evoluções na modelagem do projeto, dificuldades enfrentadas, mudanças de rumo, melhorias e lições aprendidas. Referências aos diagramas, modelos e recortes de mudanças são bem-vindos.
@@ -131,7 +128,7 @@ plt.show();
 
 > Apresente os resultados da forma mais rica possível, com gráficos e tabelas. Mesmo que o seu código rode online em um notebook, copie para esta parte a figura estática. A referência a código e links para execução online pode ser feita aqui ou na seção de detalhamento do projeto (o que for mais pertinente).
 
-> Liste aqui as perguntas de pesquisa/análise e respectivas análises. Nem todas as perguntas precisam de queries que as implementam. É possível haver perguntas em que a solução é apenas descrita para demonstrar o potencial da base. Abaixo são ilustradas três perguntas, mas pode ser um número maior a critério da equipe.
+> Liste aqui as perguntas de pesquisa/análise e respectivas análises. Nem todas as perguntas precisam de queries que as implementam. É possível haver perguntas em que a solução é apenas descrita para demonstrar o potencial da base. Abaixo são ilustradas quatro perguntas, mas pode ser um número maior a critério da equipe. Se for adotado o mínimo de quatro perguntas, devem ser duas associadas a base relacional e duas de grafos.
 >
 ### Perguntas/Análise com Resposta Implementada
 
@@ -157,6 +154,12 @@ plt.show();
 >   * Explicação sucinta da análise que será feita e conjunto de queries que
 >     responde à pergunta.
 
+#### Pergunta/Análise 4
+> * Pergunta 4
+>   
+>   * Explicação sucinta da análise que será feita e conjunto de queries que
+>     responde à pergunta.
+
 ### Perguntas/Análise Propostas mas Não Implementadas
 
 #### Pergunta/Análise 1
@@ -171,6 +174,11 @@ plt.show();
 
 #### Pergunta/Análise 3
 > * Pergunta 3
+>   
+>   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
+
+#### Pergunta/Análise 4
+> * Pergunta 4
 >   
 >   * Explicação em linhas gerais de como a base pode ser usada para responder esta pergunta e a sua relevância.
 
