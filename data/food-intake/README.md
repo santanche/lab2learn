@@ -15,7 +15,9 @@
 │
 ├── consumption <- food consumption statistics tables
 │
-└── profile     <- tables summarizing data of other tables
+├── profile     <- tables summarizing data of other tables
+│
+└── grouped     <- data categorized and grouped for clustering analysis
 ~~~
 
 ## Summary
