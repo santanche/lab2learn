@@ -1,0 +1,33 @@
+services:
+  foodb-db-manager:
+    image: mysql:8.0.33
+    ports: 
+      - "3307:3306"
+    volumes:
+      - foodb-import:/import
+      - foodb-export:/export
+      - foodb-db:/var/lib/mysql
+    command: --default-authentication-plugin=mysql_native_password
+    restart: on-failure:5
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+
+volumes:
+  foodb-import:
+    driver: "local"
+    driver_opts:
+      type: "none"
+      device: "/home/user/data/mysql/foodb/db-docker-mapped-folders/import"
+      o: "bind" 
+  foodb-export:
+    driver: "local"
+    driver_opts:
+      type: "none"
+      device: "/home/user/data/mysql/foodb/db-docker-mapped-folders/export"
+      o: "bind" 
+  foodb-db:
+    driver: "local"
+    driver_opts:
+      type: "none"
+      device: "/home/user/data/mysql/foodb/db-docker-mapped-folders/db"
+      o: "bind" 
