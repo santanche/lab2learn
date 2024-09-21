@@ -35,8 +35,9 @@
 | **Recipes** | | |
 | Recipes | [Recipes_WWEIA_FCID_0510.csv](https://fcid.foodrisk.org/dbc/csv2014Q4/Recipes_WWEIA_FCID_0510.csv) | U.S. EPA recipe database to translate WWEIA food consumption to consumption of agricultural food commodities |
 | Recipes Partial | Recipes_WWEIA_FCID_0510-cropped.csv | Same table with less tuples (cropped) - 6,184 tuples |
-| **Consumption** | | |
+| **Demographics** | | |
 | Demographics | [Demographics_WWEIA_0510.csv](https://fcid.foodrisk.org/dbc/csv2014Q4/WWEIA_Demo_0510.csv) | Demographic data of participants |
+| **Consumption** | | |
 | Consumption | [Commodity_CSFFM_Intake_0510.csv](https://fcid.foodrisk.org/dbc/csv2014Q4/Commodity_CSFFM_Intake_0510.csv) | Commodity specific consumption by WWEIA respondent sequence number (SEQN), day code (DAYCODE), food form (FF), cooking method (CM), and cooked status (CS) |
 | Consumption Partial | Commodity_CSFFM_Intake_0510-cropped.csv | Same table with less tuples (cropped) - 100,000 tuples |
 | **Profile** | | |
