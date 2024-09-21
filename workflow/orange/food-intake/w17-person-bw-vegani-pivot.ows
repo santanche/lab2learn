@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="Pivoting Intake/BW Veg-Animal Groups" description="">
+	<nodes>
+		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="Intake Veg-Animal" position="(88.0, 75.0)" />
+		<node id="1" name="Pivot Table" qualified_name="Orange.widgets.data.owpivot.OWPivot" project_name="Orange3" version="" title="Pivot Table" position="(282.0, 76.0)" />
+		<node id="2" name="Save Data" qualified_name="Orange.widgets.data.owsave.OWSave" project_name="Orange3" version="" title="Save Data" position="(625.0, 75.0)" />
+		<node id="3" name="Select Columns" qualified_name="Orange.widgets.data.owselectcolumns.OWSelectAttributes" project_name="Orange3" version="" title="Select Columns" position="(455.0, 77.0)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="1" source_node_id="1" sink_node_id="3" source_channel="Pivot Table" sink_channel="Data" enabled="true" source_channel_id="pivot_table" sink_channel_id="data" />
+		<link id="2" source_node_id="3" sink_node_id="2" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+	</links>
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'VarPath', 'name': 'basedir', 'relpath': 'grouped/intake-bw-vegani.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 2, 'value': 'Categorical'}, {'start': 2, 'stop': 3, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''}), ({'type': 'VarPath', 'name': 'basedir', 'relpath': 'grouped/intake-vegani.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 2, 'value': 'Categorical'}, {'start': 2, 'stop': 3, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''}), ({'type': 'VarPath', 'name': 'basedir', 'relpath': 'grouped/recipe-subgroups.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 2, 'value': 'Categorical'}, {'start': 2, 'stop': 3, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''}), ({'type': 'VarPath', 'name': 'basedir', 'relpath': 'transposed/recipe-subgroups.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 2, 'value': 'Categorical'}, {'start': 2, 'stop': 3, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': '/home/santanche/git/lab2learn/workflow/orange/food-intake/grouped', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\t\xf0\x00\x00\x01Z\x00\x00\x0b;\x00\x00\x02\x9d\x00\x00\t\xf0\x00\x00\x01Z\x00\x00\x0b;\x00\x00\x02\x9d\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\t\xf0\x00\x00\x01Z\x00\x00\x0b;\x00\x00\x02\x9d', '__version__': 3}</properties>
+		<properties node_id="1" format="pickle">gASVYgIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lImMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZl
+ZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAAmpAAAA4QAADiEAAAMSAAAJqQAAAQYAAA4hAAAD
+EgAAAAAAAAAAB4AAAAmpAAABBgAADiEAAAMSlIwRc2VsX2FnZ19mdW5jdGlvbnOUj5QoSwKQjAlz
+ZWxlY3Rpb26Uj5SMC19fdmVyc2lvbl9flEsCjBBjb250ZXh0X3NldHRpbmdzlF2UKIwVb3Jhbmdl
+d2lkZ2V0LnNldHRpbmdzlIwHQ29udGV4dJSTlCmBlH2UKIwGdmFsdWVzlH2UKIwLY29sX2ZlYXR1
+cmWUjAp2ZWdfYW5pbWFslEtlhpSMC3Jvd19mZWF0dXJllIwEc2VxbpRLZYaUjAt2YWxfZmVhdHVy
+ZZSMCWludGFrZV9id5RLZoaUaAlLAnWMCmF0dHJpYnV0ZXOUfZQoaBdLAWgUSwFoGksCdYwFbWV0
+YXOUfZR1YmgOKYGUfZQoaBF9lChoE4wKVkVHX0FOSU1BTJRLZYaUaBaMBFNFUU6US2WGlGgZjAZJ
+TlRBS0WUS2aGlGgJSwJ1aBx9lCiMBFNFUU6USwGMClZFR19BTklNQUyUSwGMBklOVEFLRZRLAnVo
+Hn2UdWJoDimBlH2UKGgRfZQojAtjb2xfZmVhdHVyZZROSv7///+GlIwLcm93X2ZlYXR1cmWUaCtL
+ZYaUjAt2YWxfZmVhdHVyZZRoK0tlhpRoCUsCdWgcfZQoaCtLAWgsSwJ1aB59lHViZXUu
+</properties>
+		<properties node_id="2" format="literal">{'add_type_annotations': False, 'auto_save': False, 'controlAreaVisible': True, 'filter': 'Comma-separated values (*.csv)', 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x0c\x9a\x00\x00\x017\x00\x00\r\xfc\x00\x00\x01\xef\x00\x00\x0c\x9a\x00\x00\x01\\\x00\x00\r\xfc\x00\x00\x01\xef\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x0c\x9a\x00\x00\x01\\\x00\x00\r\xfc\x00\x00\x01\xef', 'stored_name': 'intake-bw-vegani-pivot.csv', 'stored_path': 'grouped', '__version__': 3}</properties>
+		<properties node_id="3" format="pickle">gASVNgIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNpZ25v
+cmVfbmV3X2ZlYXR1cmVzlImME3NhdmVkV2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAACbcAAAEn
+AAANPgAAA34AAAm3AAABJwAADT4AAAN+AAAAAAAAAAAHgAAACbcAAAEnAAANPgAAA36UjBJ1c2Vf
+aW5wdXRfZmVhdHVyZXOUiYwLX192ZXJzaW9uX1+USwGMEGNvbnRleHRfc2V0dGluZ3OUXZQojBVv
+cmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2YWx1ZXOUfZQojBFkb21h
+aW5fcm9sZV9oaW50c5R9lCiMCUFnZ3JlZ2F0ZZRLAYaUjAlhdmFpbGFibGWUSwCGlIwEc2VxbpRL
+AYaUjAlhdHRyaWJ1dGWUSwCGlIwBQZRLAoaUaBlLAYaUjAFWlEsChpRoGUsChpR1Sv7///+GlGgH
+SwF1jAphdHRyaWJ1dGVzlH2UKGgXSwFoE0sBaBtLAmgeSwJ1jAVtZXRhc5R9lHViaAwpgZR9lCho
+D32UKGgRfZQoaBNLAYaUaBVLAIaUjARTRVFOlEsBhpRoGUsAhpRoG0sChpRoGUsBhpRoHksChpRo
+GUsChpR1Sv7///+GlGgHSwF1aCJ9lCiMBFNFUU6USwGMCUFnZ3JlZ2F0ZZRLAWgbSwJoHksCdWgk
+fZR1YmV1Lg==
+</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>

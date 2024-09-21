@@ -12,6 +12,8 @@
 ├── basics      <- basic description tables
 │
 ├── recipes     <- recipes related tables
+|
+├── consumption <- participants related tables
 │
 ├── consumption <- food consumption statistics tables
 │
@@ -161,6 +163,70 @@ Cada tupla é um item que é parte de uma receita. Cada receita - todas as tupla
 | Food_Form | forma alimentar | Forma do Produto Alimentar |
 | Cooking_Method | método de cozimento do ingrediente na receita | Método de Cozimento do Produto na Receita |
 | Commodity_Weight | participação (em percentual) do ingrediente no peso da receita | |
+
+## Demographic Data
+
+### Demographic Data (English)
+
+| Field | Description | Details |
+| ----- | ----------- | ------- |
+| SEQN | Respondent ID | |
+| SDDSRVYR | The two-year NHANES data release cycle number | |
+| RIDSTATR | Interview/Examination Status | |
+| RIDEXMON | Exam six month time period | |
+| RIAGENDR | Gender | |
+| RIDAGEYR | Age at the time of the screening interview,  in years | |
+| RIDAGEMN | Age at the time of the household screening interview,  in months | |
+| RIDEXPRG | Pregnancy Status at Exam | |
+| RIDAGEEX | Age at the Mobile Examination Center (MEC) examination,  in months | |
+| RIDRETH1 | Race/Ethnicity | |
+| SDMVPSU | Masked Variance Pseudo-PSU | |
+| SDMVSTRA | Masked Variance Pseudo-Stratum | |
+| DMDHHSIZ | Total number of people in the household | |
+| YEAR_SURVEY | NHANES-WWEIA Survey Cycle | Renamed from original NHANES: YEAR |
+| BMXWT | Bodyweight,  in kilograms (kg) | |
+| BMXHT | Standing Height (cm) | Target: 2 years -150 years. |
+| BMXRECUM | Recumbent Length (cm) | Target: 0 MONTHS - 47 MONTHS. |
+| BMXBMI | Body Mass Index (kg/m^2) | Target : 2 years-150 years. |
+| BMXWT_IMPUTE | Imputed and non-imputed value for Bodyweight (kg) | Contains imputed and non-imputed value for Bodyweight (kg). Missing value of bodyweight BMXWT) is imputed by weighted average of BMXWT value from same sex, age and ethnicity. Non-missing value is the same as the non-missing value of BMXWT. |
+| BMXHT_IMPUTE | Imputed and non-imputed values for height (cm) | Contains imputed and non-imputed values for height (cm). CDC does not report standing height for less than 2 years old. Recumbent length was used for less than 2 years old. Missing value of height is imputed by weighted average of height from same sex, age and ethnicity. |
+| bmxbmi_impute | Imputed and non-imputed value for BMI | Contains imputed and non-imputed value for BMI. | Missing value of BMI is imputed by the following equation: = BMXWT_IMPUTE/(BMXHT_IMPUTE/100)^2; Unit: (kg/m2) |
+| RHQ200 | {Are you/Is Surrogate Parent} now breast feeding a child? | |
+| WTDRD1 | Dietary day one sample weight | |
+| WT6_DAY1 | Dietary day one sample weight; 6-year weighting from 3 survey cycles | 2005-2010 (= WTDRD1 ÷ 3) |
+| WTDR2D | Dietary two-day sample weight | |
+| WT6_2DAY | Dietary two-day sample weight; 6-year weighting from 3 survey cycles | 2005-20010 (= WTDR2D ÷ 3) |
+
+### Dados Demográficos (Portuguese)
+
+| Campo | Descrição |
+| ----- | --------- |
+| SEQN | ID do entrevistado |
+| SDDSRVYR | Número do ciclo de divulgação de dados do NHANES de dois anos |
+| RIDSTATR | Status da entrevista/exame |
+| RIDEXMON | Período de seis meses do exame |
+| RIAGENDR | Sexo (1 = masculino; 2 = feminino) |
+| RIDAGEYR | Idade no momento da entrevista de triagem,  em anos |
+| RIDAGEMN | Idade no momento da entrevista de triagem domiciliar,  em meses |
+| RIDEXPRG | Status da gravidez no exame |
+| RIDAGEEX | Idade no exame do Mobile Examination Center (MEC), em meses |
+| RIDRETH1 | Raça/Etnia |
+| SDMVPSU | Pseudo-PSU de variância mascarada |
+| SDMVSTRA | Pseudo-estrato de variância mascarada |
+| DMDHHSIZ | Número total de pessoas no domicílio |
+| YEAR_SURVEY | Ciclo da pesquisa NHANES-WWEIA; renomeado do original do NHANES: YEAR |
+| BMXWT | Peso corporal, em quilogramas (kg) |
+| BMXHT | Altura em pé (cm) |
+| BMXRECUM | Comprimento reclinado (cm) |
+| BMXBMI | Índice de massa corporal (kg/m^2) |
+| BMXWT_IMPUTE | Valor imputado e não imputado para peso corporal (kg) |
+| BMXHT_IMPUTE | Valores imputados e não imputados para altura (cm) |
+| bmxbmi_impute | Valor imputado e não imputado para IMC |
+| RHQ200 | {Você/Uma mãe substituta} está amamentando agora uma criança? |
+| WTDRD1 | Peso da amostra do primeiro dia da dieta |
+| WT6_DAY1 | Peso da amostra do primeiro dia da dieta; ponderação de 6 anos de 3 ciclos de pesquisa |
+| WTDR2D | Peso da amostra de dois dias da dieta |
+| WT6_2DAY | Peso da amostra de dois dias da dieta; ponderação de 6 anos de 3 ciclos de pesquisa |
 
 ## Consumption
 

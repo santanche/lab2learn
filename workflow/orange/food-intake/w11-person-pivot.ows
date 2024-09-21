@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="Pivot Persons Intake Grouping" description="">
+	<nodes>
+		<node id="0" name="CSV File Import" qualified_name="Orange.widgets.data.owcsvimport.OWCSVFileImport" project_name="Orange3" version="" title="Persons Subgroups" position="(88.0, 75.0)" />
+		<node id="1" name="Pivot Table" qualified_name="Orange.widgets.data.owpivot.OWPivot" project_name="Orange3" version="" title="Pivot Table" position="(260.0, 76.0)" />
+		<node id="2" name="Save Data" qualified_name="Orange.widgets.data.owsave.OWSave" project_name="Orange3" version="" title="Save Data" position="(446.0, 77.0)" />
+	</nodes>
+	<links>
+		<link id="0" source_node_id="0" sink_node_id="1" source_channel="Data" sink_channel="Data" enabled="true" source_channel_id="data" sink_channel_id="data" />
+		<link id="1" source_node_id="1" sink_node_id="2" source_channel="Pivot Table" sink_channel="Data" enabled="true" source_channel_id="pivot_table" sink_channel_id="data" />
+	</links>
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'VarPath', 'name': 'basedir', 'relpath': 'grouped/intake-subgroups.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 2, 'value': 'Categorical'}, {'start': 2, 'stop': 3, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''}), ({'type': 'VarPath', 'name': 'basedir', 'relpath': 'grouped/recipe-subgroups.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 2, 'value': 'Categorical'}, {'start': 2, 'stop': 3, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''}), ({'type': 'VarPath', 'name': 'basedir', 'relpath': 'transposed/recipe-subgroups.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 2, 'value': 'Categorical'}, {'start': 2, 'stop': 3, 'value': 'Numeric'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': '/home/santanche/git/lab2learn/workflow/orange/food-intake/grouped', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x03\x1a\x00\x00\x01z\x00\x00\x04e\x00\x00\x02\xbd\x00\x00\x03\x1a\x00\x00\x01z\x00\x00\x04e\x00\x00\x02\xbd\x00\x00\x00\x01\x00\x00\x00\x00\x07\x80\x00\x00\x03\x1a\x00\x00\x01z\x00\x00\x04e\x00\x00\x02\xbd', '__version__': 3}</properties>
+		<properties node_id="1" format="pickle">gASVRAIAAAAAAAB9lCiMC2F1dG9fY29tbWl0lImMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZl
+ZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAAGEAAABFgAABfwAAAMiAAABhAAAARYAAAX8AAAD
+IgAAAAEAAAAAB4AAAAGEAAABFgAABfwAAAMilIwRc2VsX2FnZ19mdW5jdGlvbnOUj5QoSwKQjAlz
+ZWxlY3Rpb26Uj5SMC19fdmVyc2lvbl9flEsCjBBjb250ZXh0X3NldHRpbmdzlF2UKIwVb3Jhbmdl
+d2lkZ2V0LnNldHRpbmdzlIwHQ29udGV4dJSTlCmBlH2UKIwGdmFsdWVzlH2UKIwLY29sX2ZlYXR1
+cmWUjAtjZ19zdWJncm91cJRLZYaUjAtyb3dfZmVhdHVyZZSMBHNlcW6US2WGlIwLdmFsX2ZlYXR1
+cmWUjAZpbnRha2WUS2aGlGgJSwJ1jAphdHRyaWJ1dGVzlH2UKIwEc2VxbpRLAYwLY2dfc3ViZ3Jv
+dXCUSwGMBmludGFrZZRLAnWMBW1ldGFzlH2UdWJoDimBlH2UKGgRfZQojAtjb2xfZmVhdHVyZZSM
+C0NHX1NVQkdST1VQlEtlhpSMC3Jvd19mZWF0dXJllIwJRk9PRF9DT0RFlEtlhpSMC3ZhbF9mZWF0
+dXJllIwGTlVNQkVSlEtmhpRoCUsCdWgcfZQojAlGT09EX0NPREWUSwGMC0NHX1NVQkdST1VQlEsB
+jAZOVU1CRVKUSwJ1aCF9lHViZXUu
+</properties>
+		<properties node_id="2" format="literal">{'add_type_annotations': False, 'auto_save': False, 'controlAreaVisible': True, 'filter': 'Comma-separated values (*.csv)', 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x0c\x9a\x00\x00\x017\x00\x00\r\xff\x00\x00\x01\xef\x00\x00\x0c\x9a\x00\x00\x01\\\x00\x00\r\xff\x00\x00\x01\xef\x00\x00\x00\x00\x00\x00\x00\x00\x07\x80\x00\x00\x0c\x9a\x00\x00\x01\\\x00\x00\r\xff\x00\x00\x01\xef', 'stored_name': 'intake-subgroups-pivot.csv', 'stored_path': '/home/santanche/git/lab2learn/data/food-intake/grouped', '__version__': 3}</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>
