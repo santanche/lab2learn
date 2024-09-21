@@ -109,6 +109,6 @@ venv.bak/
 
 .~lock.*#
 
-# Too Big File in Fook Intake
+# Orange
 
-data/food-intake/consumption/Commodity_CSFFM_Intake_0510.csv
+*.ows.swp.p

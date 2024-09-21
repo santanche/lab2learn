@@ -62,11 +62,7 @@ FROM Intake I, Demographics D
 WHERE I.SeqN = D.SeqN
 GROUP BY D.RIDAGEYR, I.FCID_Code;
 
-SELECT Age, Avg_Intake_BW
-FROM Intake_Age_Product
-WHERE FCID_Code = '103296000';
-
-\copy (SELECT Age, Avg_Intake_BW FROM Intake_Age_Product WHERE FCID_Code = '103296000') TO '/home/grouped/potato-by-age.csv' DELIMITER ',' CSV HEADER;
+---
 
 DROP VIEW IF EXISTS Intake_Age_Person;
 
@@ -80,7 +76,20 @@ ORDER BY I.FCID_Code, Age;
 
 docker exec -it docker-food-intake-db-1 bash
 psql -U postgres food_intake
-\copy (SELECT * FROM Intake_Age_Person) TO '/home/grouped/product-intake.csv' DELIMITER ',' CSV HEADER;
-\copy (SELECT * FROM Intake_Age_Person WHERE FCID_Code = '103296000') TO '/home/grouped/potato-intake.csv' DELIMITER ',' CSV HEADER;
+\copy (SELECT * FROM Intake_Age_Person) TO '/home/grouped/product-intake-age.csv' DELIMITER ',' CSV HEADER;
 
+---
+
+CREATE VIEW Intake_Person_Demo AS
+SELECT I.FCID_Code, D.RIDAGEYR Age, D.RIAGENDR Gender, D.RIDRETH1 Ethnicity, D.BMXHT_IMPUTE Height, D.BMXWT_IMPUTE Bodyweight, I.Intake_BW
+FROM Intake I, Demographics D
+WHERE I.SeqN = D.SeqN
+ORDER BY I.FCID_Code, Age;
+
+---
+
+docker exec -it docker-food-intake-db-1 bash
+psql -U postgres food_intake
+\copy (SELECT * FROM Intake_Person_Demo) TO '/home/grouped/intake-person-demo.csv' DELIMITER ',' CSV HEADER;
+\copy (SELECT * FROM Intake_Person_Demo WHERE FCID_Code = '103296000') TO '/home/grouped/intake-person-demo(potato-chips).csv' DELIMITER ',' CSV HEADER;
 ---

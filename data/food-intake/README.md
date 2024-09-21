@@ -180,7 +180,7 @@ Cada tupla é um item que é parte de uma receita. Cada receita - todas as tupla
 | RIDAGEMN | Age at the time of the household screening interview,  in months | |
 | RIDEXPRG | Pregnancy Status at Exam | |
 | RIDAGEEX | Age at the Mobile Examination Center (MEC) examination,  in months | |
-| RIDRETH1 | Race/Ethnicity | |
+| RIDRETH1 | Race/Ethnicity | 1 = Mexican American; 2 = Other Hispanic; 3 = Non-Hispanic White; 4 = Non-Hispanic Black; 5 = Other Race - Including Multi-Racial |
 | SDMVPSU | Masked Variance Pseudo-PSU | |
 | SDMVSTRA | Masked Variance Pseudo-Stratum | |
 | DMDHHSIZ | Total number of people in the household | |
@@ -200,34 +200,47 @@ Cada tupla é um item que é parte de uma receita. Cada receita - todas as tupla
 
 ### Dados Demográficos (Portuguese)
 
-| Campo | Descrição |
-| ----- | --------- |
-| SEQN | ID do entrevistado |
-| SDDSRVYR | Número do ciclo de divulgação de dados do NHANES de dois anos |
-| RIDSTATR | Status da entrevista/exame |
-| RIDEXMON | Período de seis meses do exame |
-| RIAGENDR | Sexo (1 = masculino; 2 = feminino) |
-| RIDAGEYR | Idade no momento da entrevista de triagem,  em anos |
-| RIDAGEMN | Idade no momento da entrevista de triagem domiciliar,  em meses |
-| RIDEXPRG | Status da gravidez no exame |
-| RIDAGEEX | Idade no exame do Mobile Examination Center (MEC), em meses |
-| RIDRETH1 | Raça/Etnia |
-| SDMVPSU | Pseudo-PSU de variância mascarada |
-| SDMVSTRA | Pseudo-estrato de variância mascarada |
-| DMDHHSIZ | Número total de pessoas no domicílio |
-| YEAR_SURVEY | Ciclo da pesquisa NHANES-WWEIA; renomeado do original do NHANES: YEAR |
-| BMXWT | Peso corporal, em quilogramas (kg) |
-| BMXHT | Altura em pé (cm) |
-| BMXRECUM | Comprimento reclinado (cm) |
-| BMXBMI | Índice de massa corporal (kg/m^2) |
-| BMXWT_IMPUTE | Valor imputado e não imputado para peso corporal (kg) |
-| BMXHT_IMPUTE | Valores imputados e não imputados para altura (cm) |
-| bmxbmi_impute | Valor imputado e não imputado para IMC |
-| RHQ200 | {Você/Uma mãe substituta} está amamentando agora uma criança? |
-| WTDRD1 | Peso da amostra do primeiro dia da dieta |
-| WT6_DAY1 | Peso da amostra do primeiro dia da dieta; ponderação de 6 anos de 3 ciclos de pesquisa |
-| WTDR2D | Peso da amostra de dois dias da dieta |
-| WT6_2DAY | Peso da amostra de dois dias da dieta; ponderação de 6 anos de 3 ciclos de pesquisa |
+| Campo | Descrição | Chave para a Tabela ou Valor |
+| ----- | --------- | ---------------------------- |
+| SEQN | ID do entrevistado | |
+| SDDSRVYR | Número do ciclo de divulgação de dados do NHANES de dois anos | |
+| RIDSTATR | Status da entrevista/exame | |
+| RIDEXMON | Período de seis meses do exame | |
+| RIAGENDR | Sexo | 1 = masculino; 2 = feminino |
+| RIDAGEYR | Idade no momento da entrevista de triagem, em anos | |
+| RIDAGEMN | Idade no momento da entrevista de triagem domiciliar, em meses | |
+| RIDEXPRG | Status da gravidez no exame | |
+| RIDAGEEX | Idade no exame do Mobile Examination Center (MEC), em meses | |
+| RIDRETH1 | Raça/Etnia | 1 = Mexicano-americano; 2 = Outro hispânico; 3 = Branco não hispânico; 4 = Negro não hispânico; 5 = Outra raça - incluindo multirracial |
+| SDMVPSU | Pseudo-PSU de variância mascarada | |
+| SDMVSTRA | Pseudo-estrato de variância mascarada | |
+| DMDHHSIZ | Número total de pessoas no domicílio | |
+| YEAR_SURVEY | Ciclo da pesquisa NHANES-WWEIA; renomeado do original do NHANES: YEAR | |
+| BMXWT | Peso corporal, em quilogramas (kg) | |
+| BMXHT | Altura em pé (cm) | |
+| BMXRECUM | Comprimento reclinado (cm) | |
+| BMXBMI | Índice de massa corporal (kg/m^2) | |
+| BMXWT_IMPUTE | Valor imputado e não imputado para peso corporal (kg) | |
+| BMXHT_IMPUTE | Valores imputados e não imputados para altura (cm) | |
+| bmxbmi_impute | Valor imputado e não imputado para IMC | |
+| RHQ200 | {Você/Uma mãe substituta} está amamentando agora uma criança? | |
+| WTDRD1 | Peso da amostra do primeiro dia da dieta | |
+| WT6_DAY1 | Peso da amostra do primeiro dia da dieta; ponderação de 6 anos de 3 ciclos de pesquisa | |
+| WTDR2D | Peso da amostra de dois dias da dieta | |
+| WT6_2DAY | Peso da amostra de dois dias da dieta; ponderação de 6 anos de 3 ciclos de pesquisa | |
+
+### Ethnicity (Etnia/Raça)
+
+Relaciona código de raça/etnia com sua descrição.
+
+| ethnicity_code | ethnicity_description |
+| -------------- | --------------------- |
+| 1 | Mexican American |
+| 2 | Other Hispanic |
+| 3 | Non-Hispanic White |
+| 4 | Non-Hispanic Black |
+| 5 | Other Race - Including Multi-Racial |
+
 
 ## Consumption
 
