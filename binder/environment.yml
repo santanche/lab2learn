@@ -1,7 +1,8 @@
-name: beakerx-environment
+name: beakerx
+channels:
+  - conda-forge
+  - defaults
+  - conda-forge/label/broken
 dependencies:
-  - python=3.8
-  - pip
-  - pip:
-    - beakerx
-    - beakerx_kernel_java
+  - ipywidgets
+  - beakerx
