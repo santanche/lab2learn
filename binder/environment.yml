@@ -2,4 +2,5 @@ name: beakerx
 channels:
   - conda-forge
 dependencies:
+  - pip
   - numpy
