@@ -1,8 +1,5 @@
 name: beakerx
 channels:
   - conda-forge
-  - defaults
-  - conda-forge/label/broken
 dependencies:
-  - ipywidgets
-  - beakerx
+  - numpy
