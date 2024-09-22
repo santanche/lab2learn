@@ -1,5 +1,9 @@
-name: beakerx
+name: beakerx-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
+  - python=3.8
+  - pip
+  - beakerx
+  - pip:
+    - beakerx_kernel_java
