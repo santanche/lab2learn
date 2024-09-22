@@ -1,6 +1,6 @@
-name: beakerx
+name: lab2learn
 channels:
   - conda-forge
 dependencies:
-  - ipywidgets
+  - python=3.11
   - beakerx
