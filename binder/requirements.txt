@@ -1,0 +1,2 @@
+beakerx
+beakerx_kernel_java
