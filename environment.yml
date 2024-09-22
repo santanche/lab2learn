@@ -1,4 +1,4 @@
-name: lab2learn
+name: example-environment
 channels:
   - conda-forge
 dependencies:
@@ -12,4 +12,3 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - beakerx
