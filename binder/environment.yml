@@ -4,6 +4,6 @@ channels:
 dependencies:
   - python=3.8
   - pip
-  - beakerx
+  - beakerx=1.2.0
   - pip:
     - beakerx_kernel_java
