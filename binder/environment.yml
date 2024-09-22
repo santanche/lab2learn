@@ -4,4 +4,7 @@ channels:
 dependencies:
   - python=3.11
   - numpy
+  - psutil
+  - toolz
+  - matplotlib
   - beakerx
