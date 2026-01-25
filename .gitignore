@@ -104,3 +104,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# LibreOffice
+
+.~lock.*#
+
+# Orange
+
+*.ows.swp.p

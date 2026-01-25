@@ -1,0 +1,84 @@
+CGN,CGL,Crop_Group_Description,Veg_Animal
+1,1,Root and Tuber Vegetables,V
+1,1A,Root Vegetables,V
+1,1B,Root Vegetables (except sugar beet),V
+1,1C,Tuberous and Corm Vegetables,V
+2,2,Leaves of Root and Tuber Vegetables,V
+3,3,Bulb Vegetables,V
+3,3A,Garlic/Onion,V
+3,3B,Other Bulb Vegetables,V
+4,4,Leafy Vegetables,V
+4,4A,Leafy Greens,V
+4,4B,Brassica Leafy Greens,V
+5,5,Brassica Head and Stem Vegetables,V
+6,6,Legume Vegetables (Succulent or Dried),V
+6,6A,Edible-pod Legume Vegetables,V
+6,6B,Succulent shelled peas and beans,V
+6,6C,Dried Shelled Pea/Bean (except soybean),V
+8,8,Fruiting Vegetables,V
+8,8A,Tomato,V
+8,8B,Bell Pepper,V
+8,8C,Other Fruiting Vegetables,V
+9,9,Cucurbit Vegetables,V
+9,9A,Melons,V
+9,9B,Squash/Cucumbers,V
+10,10,Citrus Fruits,V
+10,10A,Orange,V
+10,10B,Lemon/Lime,V
+10,10C,Grapefruit,V
+11,11,Pome Fruits,V
+12,12,Stone Fruits,V
+12,12A,Cherry,V
+12,12B,Apricot/Peach,V
+12,12C,Plum,V
+13,13,Berries,V
+13,13A,Berries: Caneberry,V
+13,13B,Berries: Bushberry,V
+13,13C,Berries: Large Shrub/tree berry,V
+13,13D,Berries: Small fruit vine climbing,V
+13,13E,Berries: Small fruit vine climbing (except grape),V
+13,13F,Berries: Small fruit vine climbing (except kiwi),V
+13,13G,Berries: Low growing berry,V
+13,13H,Berries: Low growing berry (except strawberry),V
+14,14,Tree Nuts,V
+15,15,Cereal Grains,V
+18,18,Non-grass animal feeds,V
+19,19,Herbs and Spices,V
+19,19A,Herbs,V
+19,19B,Spices,V
+20,20,Oilseeds,V
+20,20A,Rapeseed,V
+20,20B,Sunflower,V
+20,20C,Cottonseed,V
+21,21,Mushroom,V
+22,22,"Stalk, Stem, and Leafy Petiole Vegetables",V
+22,22A,Stalk and Stem Vegetables,V
+22,22B,Leafy Petiole Vegetables,V
+23,23,"Tropical and Subtropical Fruit, Edible Peel",V
+23,23A,"Tropical and Subtropical, Small Fruit, Edible Peel",V
+23,23B,"Tropical and Subtropical, Medium to Large Fruit, Edible Peel",V
+23,23C,"Tropical and Subtropical Palm Fruit, Edible Peel",V
+24,24,"Tropical and Subtropical Fruit, Inedible Peel",V
+24,24A,"Tropical and Subtropical, Small Fruit, Inedible Peel",V
+24,24B,"Tropical and Subtropical, Medium to Large Fruit, Smooth, Inedible Peel",V
+24,24C,"Tropical and Subtropical, Medium to Large Fruit, Rough or Hairy, Inedible Peel",V
+24,24D,"Tropical and Subtropical, Inedible Peel, Cactus",V
+24,24E,"Tropical and Subtropical, Inedible Peel, Vine",V
+31,31,Beef,A
+32,32,Goat,A
+33,33,Horse,A
+34,34,Pork,A
+35,35,Sheep,A
+36,36,Milk,A
+37,37,"Milk, Human",A
+38,38,Game,A
+39,39,Rabbit,A
+40,40,Chicken,A
+50,50,Turkey,A
+60,60,Poultry (other),A
+70,70,Egg,A
+80,80,Fish,A
+86,86,Water,V
+86,86A,Direct Water,V
+86,86B,Indirect Water,V
+95,O,Other,A

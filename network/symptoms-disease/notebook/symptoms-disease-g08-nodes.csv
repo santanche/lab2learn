@@ -1,0 +1,1919 @@
+NAME,MESH
+Keloid,A10
+Bacterial Infections,C01
+Bacteremia,C01
+Gram-Negative Bacterial Infections,C01
+Brucellosis,C01
+Helicobacter Infections,C01
+Staphylococcal Infections,C01
+Staphylococcal Skin Infections,C01
+Pneumococcal Infections,C01
+Staphylococcal Skin Infections,C01
+Infection,C01
+Communicable Diseases,C01
+Appendicitis,C01
+Peritonitis,C01
+AIDS-Related Opportunistic Infections,C01
+Respiratory Tract Infections,C01
+Sepsis,C01
+Bacteremia,C01
+Staphylococcal Skin Infections,C01
+Urinary Tract Infections,C01
+Dengue,C02
+Hepatitis B,C02
+Hepatitis B,C02
+Hepatitis C,C02
+AIDS-Related Opportunistic Infections,C02
+Caliciviridae Infections,C02
+Dengue,C02
+Hepatitis C,C02
+Dengue,C02
+Measles,C02
+Severe Acute Respiratory Syndrome,C02
+HIV Infections,C02
+Acquired Immunodeficiency Syndrome,C02
+AIDS-Related Opportunistic Infections,C02
+HIV Seropositivity,C02
+HIV Infections,C02
+Acquired Immunodeficiency Syndrome,C02
+HIV Seropositivity,C02
+Acquired Immunodeficiency Syndrome,C02
+AIDS-Related Opportunistic Infections,C03
+Entamoebiasis,C03
+Malaria,C03
+Basal Cell Nevus Syndrome,C04
+Polycystic Ovary Syndrome,C04
+Pancreatic Cyst,C04
+Hamartoma,C04
+Pallister-Hall Syndrome,C04
+Tuberous Sclerosis,C04
+Leukemia,C04
+Lymphangioleiomyomatosis,C04
+Lymphoma,C04
+Hodgkin Disease,C04
+Wilms Tumor,C04
+Denys-Drash Syndrome,C04
+WAGR Syndrome,C04
+Pulmonary Blastoma,C04
+Gastrointestinal Stromal Tumors,C04
+Myxoma,C04
+Osteosarcoma,C04
+Fibrosarcoma,C04
+Leiomyoma,C04
+Lymphangioleiomyomatosis,C04
+Sarcoma,C04
+Fibrosarcoma,C04
+Hemangiosarcoma,C04
+Osteosarcoma,C04
+Neuroectodermal Tumors,C04
+Glioma,C04
+Astrocytoma,C04
+Glioblastoma,C04
+Neuroblastoma,C04
+Retinoblastoma,C04
+Vipoma,C04
+Melanoma,C04
+Neurilemmoma,C04
+Adenoma,C04
+ACTH-Secreting Pituitary Adenoma,C04
+Mesothelioma,C04
+Carcinoma,C04
+Adenocarcinoma,C04
+Adrenocortical Carcinoma,C04
+Gastrinoma,C04
+Vipoma,C04
+Cholangiocarcinoma,C04
+Basal Cell Nevus Syndrome,C04
+Prostatic Intraepithelial Neoplasia,C04
+Basal Cell Nevus Syndrome,C04
+Mesothelioma,C04
+Glioma,C04
+Astrocytoma,C04
+Glioblastoma,C04
+Neuroblastoma,C04
+Retinoblastoma,C04
+Leydig Cell Tumor,C04
+Meningioma,C04
+Neurofibromatoses,C04
+Neurofibromatosis 1,C04
+Neurilemmoma,C04
+Neuroectodermal Tumors,C04
+Glioma,C04
+Astrocytoma,C04
+Glioblastoma,C04
+Neuroblastoma,C04
+Retinoblastoma,C04
+Melanoma,C04
+Neurilemmoma,C04
+Multiple Myeloma,C04
+Hemangiosarcoma,C04
+Meningioma,C04
+Melanoma,C04
+Nevus,C04
+Abdominal Neoplasms,C04
+Bone Neoplasms,C04
+Breast Neoplasms,C04
+Digestive System Neoplasms,C04
+Bile Duct Neoplasms,C04
+Gallbladder Neoplasms,C04
+Gastrointestinal Neoplasms,C04
+Intestinal Neoplasms,C04
+Cecal Neoplasms,C04
+Colorectal Neoplasms,C04
+Colonic Neoplasms,C04
+Rectal Neoplasms,C04
+Stomach Neoplasms,C04
+Liver Neoplasms,C04
+Pancreatic Neoplasms,C04
+Gastrinoma,C04
+Vipoma,C04
+Adrenocortical Carcinoma,C04
+Multiple Endocrine Neoplasia,C04
+Multiple Endocrine Neoplasia Type 2b,C04
+Ovarian Neoplasms,C04
+Pancreatic Neoplasms,C04
+Gastrinoma,C04
+Vipoma,C04
+Parathyroid Neoplasms,C04
+Pituitary Neoplasms,C04
+ACTH-Secreting Pituitary Adenoma,C04
+Leydig Cell Tumor,C04
+Retinoblastoma,C04
+Head and Neck Neoplasms,C04
+Salivary Gland Neoplasms,C04
+Tongue Neoplasms,C04
+Parathyroid Neoplasms,C04
+Hematologic Neoplasms,C04
+Brain Neoplasms,C04
+Pallister-Hall Syndrome,C04
+Pituitary Neoplasms,C04
+Meningioma,C04
+Sebaceous Gland Neoplasms,C04
+Soft Tissue Neoplasms,C04
+Lung Neoplasms,C04
+Pulmonary Blastoma,C04
+Fallopian Tube Neoplasms,C04
+Uterine Neoplasms,C04
+Endometrial Neoplasms,C04
+Uterine Cervical Neoplasms,C04
+Vulvar Neoplasms,C04
+Prostatic Neoplasms,C04
+Leydig Cell Tumor,C04
+Kidney Neoplasms,C04
+Wilms Tumor,C04
+Denys-Drash Syndrome,C04
+WAGR Syndrome,C04
+Urinary Bladder Neoplasms,C04
+Multiple Endocrine Neoplasia,C04
+Multiple Endocrine Neoplasia Type 2b,C04
+Tuberous Sclerosis,C04
+Neoplasm Metastasis,C04
+Basal Cell Nevus Syndrome,C04
+Li-Fraumeni Syndrome,C04
+Multiple Endocrine Neoplasia,C04
+Multiple Endocrine Neoplasia Type 2b,C04
+Tuberous Sclerosis,C04
+Wilms Tumor,C04
+Denys-Drash Syndrome,C04
+WAGR Syndrome,C04
+Neurofibromatoses,C04
+Neurofibromatosis 1,C04
+Precancerous Conditions,C04
+Xeroderma Pigmentosum,C04
+Acro-Osteolysis,C05
+Basal Cell Nevus Syndrome,C05
+Dwarfism,C05
+Cockayne Syndrome,C05
+Congenital Hypothyroidism,C05
+Craniofacial Dysostosis,C05
+Hallermann's Syndrome,C05
+Hypertelorism,C05
+Mandibulofacial Dysostosis,C05
+Klippel-Feil Syndrome,C05
+Orofaciodigital Syndromes,C05
+Rubinstein-Taybi Syndrome,C05
+Synostosis,C05
+Antley-Bixler Syndrome Phenotype,C05
+Craniosynostoses,C05
+Acrocephalosyndactylia,C05
+Syndactyly,C05
+Acrocephalosyndactylia,C05
+Marfan Syndrome,C05
+Osteochondrodysplasias,C05
+Cleidocranial Dysplasia,C05
+Osteogenesis Imperfecta,C05
+Osteosclerosis,C05
+Congenital Hypothyroidism,C05
+Osteoporosis,C05
+Pseudohypoparathyroidism,C05
+Pseudopseudohypoparathyroidism,C05
+Rickets,C05
+Bone Neoplasms,C05
+Bone Resorption,C05
+Osteolysis,C05
+Acro-Osteolysis,C05
+Osteitis Deformans,C05
+Osteochondritis Dissecans,C05
+Osteonecrosis,C05
+Femur Head Necrosis,C05
+Spinal Diseases,C05
+Kyphosis,C05
+Scoliosis,C05
+Tietze's Syndrome,C05
+Cleft Palate,C05
+Pierre Robin Syndrome,C05
+Basal Cell Nevus Syndrome,C05
+Joint Diseases,C05
+Ankylosis,C05
+Arthritis,C05
+Gout,C05
+Osteoarthritis,C05
+Joint Instability,C05
+Synovitis,C05
+Muscular Diseases,C05
+Mitochondrial Myopathies,C05
+Mitochondrial Encephalomyopathies,C05
+MELAS Syndrome,C05
+Muscle Spasticity,C05
+Muscle Weakness,C05
+Muscular Dystrophies,C05
+Distal Myopathies,C05
+Myotonic Dystrophy,C05
+Myositis,C05
+Dermatomyositis,C05
+Myositis Ossificans,C05
+Dermatomyositis,C05
+Myotonic Disorders,C05
+Myotonia Congenita,C05
+Myotonic Dystrophy,C05
+Hypokalemic Periodic Paralysis,C05
+Craniofacial Abnormalities,C05
+DiGeorge Syndrome,C05
+Cleidocranial Dysplasia,C05
+Craniofacial Dysostosis,C05
+Hallermann's Syndrome,C05
+Hypertelorism,C05
+Mandibulofacial Dysostosis,C05
+Craniosynostoses,C05
+Acrocephalosyndactylia,C05
+Macrocephaly,C05
+Cleft Palate,C05
+Pierre Robin Syndrome,C05
+Microcephaly,C05
+Noonan Syndrome,C05
+Orofaciodigital Syndromes,C05
+Craniosynostoses,C05
+Acrocephalosyndactylia,C05
+Rubinstein-Taybi Syndrome,C05
+Silver-Russell Syndrome,C05
+Klippel-Feil Syndrome,C05
+Arachnodactyly,C05
+Polydactyly,C05
+Pallister-Hall Syndrome,C05
+Syndactyly,C05
+Acrocephalosyndactylia,C05
+Synostosis,C05
+Antley-Bixler Syndrome Phenotype,C05
+Craniosynostoses,C05
+Acrocephalosyndactylia,C05
+Syndactyly,C05
+Acrocephalosyndactylia,C05
+Gout,C05
+Osteoarthritis,C05
+Bile Duct Neoplasms,C06
+Cholestasis,C06
+Alagille Syndrome,C06
+Bile Duct Neoplasms,C06
+Gallbladder Neoplasms,C06
+Cholelithiasis,C06
+Gallstones,C06
+Gallbladder Diseases,C06
+Cholecystitis,C06
+Gallstones,C06
+Gallbladder Neoplasms,C06
+Hirschsprung Disease,C06
+Tracheoesophageal Fistula,C06
+Digestive System Neoplasms,C06
+Bile Duct Neoplasms,C06
+Gallbladder Neoplasms,C06
+Gastrointestinal Neoplasms,C06
+Gastrointestinal Stromal Tumors,C06
+Intestinal Neoplasms,C06
+Cecal Neoplasms,C06
+Colorectal Neoplasms,C06
+Colonic Neoplasms,C06
+Rectal Neoplasms,C06
+Stomach Neoplasms,C06
+Liver Neoplasms,C06
+Pancreatic Neoplasms,C06
+Gastrinoma,C06
+Vipoma,C06
+Gastrointestinal Diseases,C06
+Tracheoesophageal Fistula,C06
+Appendicitis,C06
+Colitis,C06
+Enterocolitis,C06
+Inflammatory Bowel Diseases,C06
+Crohn Disease,C06
+Mucositis,C06
+Gastrointestinal Hemorrhage,C06
+Peptic Ulcer Hemorrhage,C06
+Gastrointestinal Neoplasms,C06
+Gastrointestinal Stromal Tumors,C06
+Intestinal Neoplasms,C06
+Cecal Neoplasms,C06
+Colorectal Neoplasms,C06
+Colonic Neoplasms,C06
+Rectal Neoplasms,C06
+Stomach Neoplasms,C06
+Intestinal Diseases,C06
+Appendicitis,C06
+Cecal Neoplasms,C06
+Colitis,C06
+Colorectal Neoplasms,C06
+Colonic Neoplasms,C06
+Megacolon,C06
+Hirschsprung Disease,C06
+Duodenal Diseases,C06
+Peptic Ulcer,C06
+Duodenal Ulcer,C06
+Enterocolitis,C06
+Inflammatory Bowel Diseases,C06
+Crohn Disease,C06
+Intestinal Neoplasms,C06
+Cecal Neoplasms,C06
+Colorectal Neoplasms,C06
+Colonic Neoplasms,C06
+Rectal Neoplasms,C06
+Intestinal Pseudo-Obstruction,C06
+Intestinal Perforation,C06
+Malabsorption Syndromes,C06
+Celiac Disease,C06
+Lactose Intolerance,C06
+Anus Diseases,C06
+Colorectal Neoplasms,C06
+Rectal Neoplasms,C06
+Peptic Ulcer,C06
+Duodenal Ulcer,C06
+Stomach Ulcer,C06
+Stomach Diseases,C06
+Peptic Ulcer,C06
+Stomach Ulcer,C06
+Stomach Neoplasms,C06
+Liver Diseases,C06
+Alagille Syndrome,C06
+Drug-Induced Liver Injury,C06
+Fatty Liver,C06
+Liver Failure,C06
+Hepatic Veno-Occlusive Disease,C06
+Hepatitis,C06
+Hepatitis B,C06
+Hepatitis C,C06
+Hepatomegaly,C06
+Liver Cirrhosis,C06
+Liver Neoplasms,C06
+Zellweger Syndrome,C06
+Pancreatic Diseases,C06
+Cystic Fibrosis,C06
+Exocrine Pancreatic Insufficiency,C06
+Pancreatic Cyst,C06
+Pancreatic Neoplasms,C06
+Gastrinoma,C06
+Vipoma,C06
+Pancreatitis,C06
+Peritonitis,C06
+Cleft Palate,C07
+Pierre Robin Syndrome,C07
+Basal Cell Nevus Syndrome,C07
+Behcet Syndrome,C07
+Cleft Lip,C07
+Mouth Abnormalities,C07
+Cleft Lip,C07
+Cleft Palate,C07
+Salivary Gland Neoplasms,C07
+Tongue Neoplasms,C07
+Mucositis,C07
+Oral Submucous Fibrosis,C07
+Salivary Gland Neoplasms,C07
+Tongue Neoplasms,C07
+Cleft Palate,C07
+Pierre Robin Syndrome,C07
+Mouth Abnormalities,C07
+Cleft Lip,C07
+Cleft Palate,C07
+Tooth Abnormalities,C07
+Tooth Abnormalities,C07
+Asthma,C08
+Bronchial Hyperreactivity,C08
+Bronchiectasis,C08
+Kartagener Syndrome,C08
+Ciliary Motility Disorders,C08
+Kartagener Syndrome,C08
+Lung Diseases,C08
+Cystic Fibrosis,C08
+Persistent Fetal Circulation Syndrome,C08
+Idiopathic Pulmonary Fibrosis,C08
+Asbestosis,C08
+Asthma,C08
+Pulmonary Emphysema,C08
+Asbestosis,C08
+Bronchopulmonary Dysplasia,C08
+Lung Neoplasms,C08
+Pneumonia,C08
+Pulmonary Alveolar Proteinosis,C08
+Pulmonary Embolism,C08
+Pulmonary Fibrosis,C08
+Idiopathic Pulmonary Fibrosis,C08
+Pulmonary Veno-Occlusive Disease,C08
+Hyaline Membrane Disease,C08
+Choanal Atresia,C08
+Sinusitis,C08
+Rhinitis,C08
+Pleural Diseases,C08
+Pneumothorax,C08
+Apnea,C08
+Cough,C08
+Hyperventilation,C08
+Hyaline Membrane Disease,C08
+Respiratory Insufficiency,C08
+Respiratory Hypersensitivity,C08
+Asthma,C08
+Respiratory System Abnormalities,C08
+Choanal Atresia,C08
+Kartagener Syndrome,C08
+Tracheoesophageal Fistula,C08
+Respiratory Tract Infections,C08
+Pneumonia,C08
+Rhinitis,C08
+Severe Acute Respiratory Syndrome,C08
+Sinusitis,C08
+Lung Neoplasms,C08
+Thoracic Diseases,C08
+Tracheoesophageal Fistula,C08
+Ciliary Motility Disorders,C09
+Kartagener Syndrome,C09
+Ear Diseases,C09
+Deafness,C09
+Choanal Atresia,C09
+Sinusitis,C09
+Rhinitis,C09
+Multiple Sclerosis,C10
+Multiple System Atrophy,C10
+Central Nervous System Diseases,C10
+Brain Diseases,C10
+Amblyopia,C10
+Basal Ganglia Diseases,C10
+Huntington Disease,C10
+Multiple System Atrophy,C10
+Striatonigral Degeneration,C10
+Pantothenate Kinase-Associated Neurodegeneration,C10
+Parkinsonian Disorders,C10
+Lewy Body Disease,C10
+Parkinson Disease,C10
+Tourette Syndrome,C10
+Cerebral Palsy,C10
+Galactosemias,C10
+Hereditary Central Nervous System Demyelinating Diseases,C10
+Homocystinuria,C10
+Hyperlysinemias,C10
+Glycogen Storage Disease Type II,C10
+Maple Syrup Urine Disease,C10
+MELAS Syndrome,C10
+Oculocerebrorenal Syndrome,C10
+Mevalonate Kinase Deficiency,C10
+Zellweger Syndrome,C10
+Phenylketonurias,C10
+Carbamoyl-Phosphate Synthase I Deficiency Disease,C10
+Citrullinemia,C10
+Ornithine Carbamoyltransferase Deficiency Disease,C10
+Mitochondrial Encephalomyopathies,C10
+Brain Injuries,C10
+Brain Neoplasms,C10
+Pallister-Hall Syndrome,C10
+Pituitary Neoplasms,C10
+Cerebellar Diseases,C10
+Cerebellar Ataxia,C10
+Spinocerebellar Ataxias,C10
+Ataxia Telangiectasia,C10
+Machado-Joseph Disease,C10
+Dandy-Walker Syndrome,C10
+Spinocerebellar Degenerations,C10
+Spinocerebellar Ataxias,C10
+Machado-Joseph Disease,C10
+Brain Ischemia,C10
+Cerebral Infarction,C10
+MELAS Syndrome,C10
+Intracranial Aneurysm,C10
+Intracranial Arteriovenous Malformations,C10
+Cerebral Hemorrhage,C10
+Stroke,C10
+Cerebral Infarction,C10
+Dementia,C10
+Alzheimer Disease,C10
+Creutzfeldt-Jakob Syndrome,C10
+Frontotemporal Dementia,C10
+Pick Disease of the Brain,C10
+Huntington Disease,C10
+Lewy Body Disease,C10
+Epilepsy,C10
+Unverricht-Lundborg Syndrome,C10
+Seizures,C10
+Migraine Disorders,C10
+Dandy-Walker Syndrome,C10
+Hypothalamic Diseases,C10
+Bardet-Biedl Syndrome,C10
+Pallister-Hall Syndrome,C10
+Pituitary Neoplasms,C10
+Hyperprolactinemia,C10
+Pituitary ACTH Hypersecretion,C10
+Pituitary Neoplasms,C10
+ACTH-Secreting Pituitary Adenoma,C10
+Dandy-Walker Syndrome,C10
+Hereditary Central Nervous System Demyelinating Diseases,C10
+Pantothenate Kinase-Associated Neurodegeneration,C10
+Creutzfeldt-Jakob Syndrome,C10
+Movement Disorders,C10
+Angelman Syndrome,C10
+Chorea,C10
+Huntington Disease,C10
+Dystonic Disorders,C10
+Essential Tremor,C10
+Multiple System Atrophy,C10
+Striatonigral Degeneration,C10
+Pantothenate Kinase-Associated Neurodegeneration,C10
+Parkinsonian Disorders,C10
+Lewy Body Disease,C10
+Parkinson Disease,C10
+Tic Disorders,C10
+Tourette Syndrome,C10
+Amyotrophic Lateral Sclerosis,C10
+Spinal Muscular Atrophies of Childhood,C10
+Spinocerebellar Degenerations,C10
+Spinocerebellar Ataxias,C10
+Machado-Joseph Disease,C10
+Smith-Magenis Syndrome,C10
+Facial Nerve Diseases,C10
+Duane Retraction Syndrome,C10
+Ophthalmoplegia,C10
+Optic Nerve Diseases,C10
+Optic Atrophy,C10
+Optic Disk Drusen,C10
+Cogan Syndrome,C10
+Multiple Sclerosis,C10
+Hereditary Central Nervous System Demyelinating Diseases,C10
+Nervous System Malformations,C10
+Acrocallosal Syndrome,C10
+Intracranial Arteriovenous Malformations,C10
+Dandy-Walker Syndrome,C10
+Charcot-Marie-Tooth Disease,C10
+Malformations of Cortical Development,C10
+Lissencephaly,C10
+Classical Lissencephalies and Subcortical Band Heterotopias,C10
+Macrocephaly,C10
+Microcephaly,C10
+Classical Lissencephalies and Subcortical Band Heterotopias,C10
+Periventricular Nodular Heterotopia,C10
+Tuberous Sclerosis,C10
+Neural Tube Defects,C10
+Meningomyelocele,C10
+Spinal Dysraphism,C10
+Spina Bifida Cystica,C10
+Brain Neoplasms,C10
+Pallister-Hall Syndrome,C10
+Pituitary Neoplasms,C10
+Meningioma,C10
+Neurocutaneous Syndromes,C10
+Ataxia Telangiectasia,C10
+Neurofibromatoses,C10
+Neurofibromatosis 1,C10
+Tuberous Sclerosis,C10
+Neurodegenerative Diseases,C10
+Cockayne Syndrome,C10
+Hereditary Central Nervous System Demyelinating Diseases,C10
+Charcot-Marie-Tooth Disease,C10
+Huntington Disease,C10
+Myotonia Congenita,C10
+Myotonic Dystrophy,C10
+Neurofibromatoses,C10
+Neurofibromatosis 1,C10
+Neuronal Ceroid-Lipofuscinoses,C10
+Pantothenate Kinase-Associated Neurodegeneration,C10
+Rett Syndrome,C10
+Spinal Muscular Atrophies of Childhood,C10
+Spinocerebellar Degenerations,C10
+Spinocerebellar Ataxias,C10
+Machado-Joseph Disease,C10
+Tourette Syndrome,C10
+Tuberous Sclerosis,C10
+Unverricht-Lundborg Syndrome,C10
+Lewy Body Disease,C10
+Motor Neuron Disease,C10
+Amyotrophic Lateral Sclerosis,C10
+Spinal Muscular Atrophies of Childhood,C10
+Multiple System Atrophy,C10
+Striatonigral Degeneration,C10
+Parkinson Disease,C10
+Tauopathies,C10
+Alzheimer Disease,C10
+Amyotrophic Lateral Sclerosis,C10
+Frontotemporal Dementia,C10
+Ataxia,C10
+Cerebellar Ataxia,C10
+Spinocerebellar Ataxias,C10
+Ataxia Telangiectasia,C10
+Machado-Joseph Disease,C10
+Athetosis,C10
+Chorea,C10
+Dystonia,C10
+Myoclonus,C10
+Tremor,C10
+Language Development Disorders,C10
+Speech Disorders,C10
+Learning Disorders,C10
+Syncope,C10
+Memory Disorders,C10
+Cri-du-Chat Syndrome,C10
+De Lange Syndrome,C10
+Down Syndrome,C10
+Coffin-Lowry Syndrome,C10
+Fragile X Syndrome,C10
+Glycogen Storage Disease Type IIb,C10
+Mucopolysaccharidosis II,C10
+Rett Syndrome,C10
+Prader-Willi Syndrome,C10
+Rubinstein-Taybi Syndrome,C10
+WAGR Syndrome,C10
+Williams Syndrome,C10
+Neurogenic Inflammation,C10
+Muscle Spasticity,C10
+Muscle Hypotonia,C10
+Muscle Weakness,C10
+Muscular Atrophy,C10
+Tetany,C10
+Pain,C10
+Back Pain,C10
+Headache,C10
+Ophthalmoplegia,C10
+Seizures,C10
+Deafness,C10
+Hyperalgesia,C10
+Amblyopia,C10
+Blindness,C10
+Color Vision Defects,C10
+Neuromuscular Diseases,C10
+Motor Neuron Disease,C10
+Amyotrophic Lateral Sclerosis,C10
+Spinal Muscular Atrophies of Childhood,C10
+Spinal Muscular Atrophies of Childhood,C10
+Muscular Diseases,C10
+Muscular Dystrophies,C10
+Distal Myopathies,C10
+Myotonic Dystrophy,C10
+Mitochondrial Myopathies,C10
+Mitochondrial Encephalomyopathies,C10
+MELAS Syndrome,C10
+Myositis,C10
+Dermatomyositis,C10
+Dermatomyositis,C10
+Myotonic Disorders,C10
+Myotonia Congenita,C10
+Myotonic Dystrophy,C10
+Hypokalemic Periodic Paralysis,C10
+Peripheral Nervous System Diseases,C10
+Sciatic Neuropathy,C10
+Neurofibromatosis 1,C10
+Charcot-Marie-Tooth Disease,C10
+Neurotoxicity Syndromes,C10
+Alcohol Withdrawal Delirium,C10
+Restless Legs Syndrome,C10
+Dyssomnias,C10
+Restless Legs Syndrome,C10
+Restless Legs Syndrome,C10
+Craniocerebral Trauma,C10
+Brain Injuries,C10
+Cogan Syndrome,C11
+Fuchs' Endothelial Dystrophy,C11
+Corneal Opacity,C11
+Keratitis,C11
+Keratoconus,C11
+Eye Abnormalities,C11
+WAGR Syndrome,C11
+Anophthalmos,C11
+Blepharophimosis,C11
+Coloboma,C11
+Ectopia Lentis,C11
+Microphthalmos,C11
+Albinism,C11
+WAGR Syndrome,C11
+Choroideremia,C11
+Fuchs' Endothelial Dystrophy,C11
+Duane Retraction Syndrome,C11
+Gyrate Atrophy,C11
+Leber Congenital Amaurosis,C11
+Retinitis Pigmentosa,C11
+Retinoblastoma,C11
+Blepharophimosis,C11
+Aphakia,C11
+Cataract,C11
+Ectopia Lentis,C11
+Glaucoma,C11
+Duane Retraction Syndrome,C11
+Ophthalmoplegia,C11
+Optic Nerve Diseases,C11
+Low Tension Glaucoma,C11
+Optic Atrophy,C11
+Optic Disk Drusen,C11
+Exophthalmos,C11
+Graves Disease,C11
+Refractive Errors,C11
+Anisometropia,C11
+Hyperopia,C11
+Myopia,C11
+Retinal Diseases,C11
+Diabetic Retinopathy,C11
+Leber Congenital Amaurosis,C11
+Retinal Degeneration,C11
+Macular Degeneration,C11
+Retinal Drusen,C11
+Retinal Dystrophies,C11
+Retinitis Pigmentosa,C11
+Retinal Detachment,C11
+Retinoblastoma,C11
+Retinal Vein Occlusion,C11
+Choroid Diseases,C11
+Choroidal Neovascularization,C11
+Choroideremia,C11
+Gyrate Atrophy,C11
+WAGR Syndrome,C11
+Uveitis,C11
+Behcet Syndrome,C11
+Amblyopia,C11
+Blindness,C11
+Color Vision Defects,C11
+Night Blindness,C11
+Prostatic Neoplasms,C12
+Leydig Cell Tumor,C12
+Infertility,C12
+Hypospadias,C12
+Prostatic Neoplasms,C12
+Erectile Dysfunction,C12
+Cryptorchidism,C12
+Cryptorchidism,C12
+Disorders of Sex Development,C12
+Hyperandrogenism,C12
+Androgen-Insensitivity Syndrome,C12
+Denys-Drash Syndrome,C12
+Frasier Syndrome,C12
+Kallmann Syndrome,C12
+WAGR Syndrome,C12
+Hyperandrogenism,C12
+Gonadal Dysgenesis,C12
+Klinefelter Syndrome,C12
+Hypospadias,C12
+Prostatic Neoplasms,C12
+Leydig Cell Tumor,C12
+Kidney Neoplasms,C12
+Wilms Tumor,C12
+Denys-Drash Syndrome,C12
+WAGR Syndrome,C12
+Urinary Bladder Neoplasms,C12
+Urologic Diseases,C12
+Kidney Diseases,C12
+Diabetes Insipidus,C12
+Diabetic Nephropathies,C12
+Fanconi Syndrome,C12
+Polycystic Kidney Diseases,C12
+Kidney Neoplasms,C12
+Wilms Tumor,C12
+Denys-Drash Syndrome,C12
+WAGR Syndrome,C12
+Glomerulonephritis,C12
+Lupus Nephritis,C12
+Nephrocalcinosis,C12
+Nephrolithiasis,C12
+Nephrosis,C12
+Nephrotic Syndrome,C12
+Renal Insufficiency,C12
+Frasier Syndrome,C12
+Dent Disease,C12
+Fanconi Syndrome,C12
+Liddle Syndrome,C12
+Oculocerebrorenal Syndrome,C12
+Pseudohypoaldosteronism,C12
+Uremia,C12
+Zellweger Syndrome,C12
+Urinary Bladder Diseases,C12
+Urinary Bladder Neoplasms,C12
+Vesico-Ureteral Reflux,C12
+Urinary Tract Infections,C12
+Hematuria,C12
+Proteinuria,C12
+Albuminuria,C12
+Urinary Incontinence,C12
+Nephrolithiasis,C12
+Female Urogenital Diseases,C13
+Fallopian Tube Neoplasms,C13
+Polycystic Ovary Syndrome,C13
+Ovarian Neoplasms,C13
+Primary Ovarian Insufficiency,C13
+Endometriosis,C13
+Infertility,C13
+Endometrial Hyperplasia,C13
+Uterine Cervical Neoplasms,C13
+Uterine Neoplasms,C13
+Endometrial Neoplasms,C13
+Uterine Cervical Neoplasms,C13
+Vaginal Diseases,C13
+Vulvar Neoplasms,C13
+Disorders of Sex Development,C13
+Hyperandrogenism,C13
+Androgen-Insensitivity Syndrome,C13
+Denys-Drash Syndrome,C13
+Frasier Syndrome,C13
+Kallmann Syndrome,C13
+WAGR Syndrome,C13
+Hyperandrogenism,C13
+Gonadal Dysgenesis,C13
+Klinefelter Syndrome,C13
+Hypospadias,C13
+Fallopian Tube Neoplasms,C13
+Ovarian Neoplasms,C13
+Uterine Neoplasms,C13
+Endometrial Neoplasms,C13
+Uterine Cervical Neoplasms,C13
+Vulvar Neoplasms,C13
+Kidney Neoplasms,C13
+Wilms Tumor,C13
+Denys-Drash Syndrome,C13
+WAGR Syndrome,C13
+Urinary Bladder Neoplasms,C13
+Urologic Diseases,C13
+Kidney Diseases,C13
+Diabetes Insipidus,C13
+Diabetic Nephropathies,C13
+Fanconi Syndrome,C13
+Polycystic Kidney Diseases,C13
+Kidney Neoplasms,C13
+Wilms Tumor,C13
+Denys-Drash Syndrome,C13
+WAGR Syndrome,C13
+Glomerulonephritis,C13
+Lupus Nephritis,C13
+Nephrocalcinosis,C13
+Nephrolithiasis,C13
+Nephrosis,C13
+Nephrotic Syndrome,C13
+Renal Insufficiency,C13
+Frasier Syndrome,C13
+Dent Disease,C13
+Fanconi Syndrome,C13
+Liddle Syndrome,C13
+Oculocerebrorenal Syndrome,C13
+Pseudohypoaldosteronism,C13
+Uremia,C13
+Zellweger Syndrome,C13
+Urinary Bladder Diseases,C13
+Urinary Bladder Neoplasms,C13
+Vesico-Ureteral Reflux,C13
+Urinary Tract Infections,C13
+Hematuria,C13
+Proteinuria,C13
+Albuminuria,C13
+Urinary Incontinence,C13
+Nephrolithiasis,C13
+Pregnancy Complications,C13
+Fetal Death,C13
+Fetal Diseases,C13
+Hydrops Fetalis,C13
+Fetal Growth Retardation,C13
+Pre-Eclampsia,C13
+Premature Birth,C13
+DiGeorge Syndrome,C14
+Alagille Syndrome,C14
+Arrhythmogenic Right Ventricular Dysplasia,C14
+Kartagener Syndrome,C14
+Heart Septal Defects,C14
+Marfan Syndrome,C14
+Noonan Syndrome,C14
+Tetralogy of Fallot,C14
+Transposition of Great Vessels,C14
+Intracranial Arteriovenous Malformations,C14
+Intracranial Arteriovenous Malformations,C14
+Heart Diseases,C14
+Sick Sinus Syndrome,C14
+Atrial Fibrillation,C14
+Bradycardia,C14
+Brugada Syndrome,C14
+Heart Block,C14
+Atrioventricular Block,C14
+Bundle-Branch Block,C14
+Sick Sinus Syndrome,C14
+Sinoatrial Block,C14
+Long QT Syndrome,C14
+Andersen Syndrome,C14
+Romano-Ward Syndrome,C14
+Wolff-Parkinson-White Syndrome,C14
+Tachycardia,C14
+Torsades de Pointes,C14
+Ventricular Fibrillation,C14
+Cardiomegaly,C14
+Cardiomyopathies,C14
+Arrhythmogenic Right Ventricular Dysplasia,C14
+Diabetic Cardiomyopathies,C14
+Glycogen Storage Disease Type IIb,C14
+Myocardial Reperfusion Injury,C14
+DiGeorge Syndrome,C14
+Arrhythmogenic Right Ventricular Dysplasia,C14
+Kartagener Syndrome,C14
+Heart Septal Defects,C14
+Marfan Syndrome,C14
+Noonan Syndrome,C14
+Tetralogy of Fallot,C14
+Transposition of Great Vessels,C14
+Heart Failure,C14
+Heart Valve Diseases,C14
+Aortic Valve Stenosis,C14
+Williams Syndrome,C14
+Mitral Valve Prolapse,C14
+Pulmonary Valve Stenosis,C14
+Myocardial Ischemia,C14
+Acute Coronary Syndrome,C14
+Angina Pectoris,C14
+Acute Coronary Syndrome,C14
+Microvascular Angina,C14
+Coronary Disease,C14
+Coronary Aneurysm,C14
+Coronary Artery Disease,C14
+Coronary Stenosis,C14
+Coronary Restenosis,C14
+Myocardial Infarction,C14
+Myocardial Stunning,C14
+Myocardial Reperfusion Injury,C14
+Myocardial Stunning,C14
+Aortic Valve Stenosis,C14
+Pulmonary Valve Stenosis,C14
+Vascular Diseases,C14
+Aneurysm,C14
+Aortic Aneurysm,C14
+Coronary Aneurysm,C14
+Intracranial Aneurysm,C14
+Angioedema,C14
+Hereditary Angioedema Type III,C14
+Aortic Aneurysm,C14
+Arteriosclerosis,C14
+Atherosclerosis,C14
+Coronary Artery Disease,C14
+Intracranial Arteriovenous Malformations,C14
+Arteritis,C14
+Brain Ischemia,C14
+Cerebral Infarction,C14
+MELAS Syndrome,C14
+Intracranial Aneurysm,C14
+Intracranial Arteriovenous Malformations,C14
+Cerebral Hemorrhage,C14
+Stroke,C14
+Cerebral Infarction,C14
+Diabetic Angiopathies,C14
+Diabetic Retinopathy,C14
+Pulmonary Embolism,C14
+Thromboembolism,C14
+Venous Thromboembolism,C14
+Thrombosis,C14
+Thromboembolism,C14
+Venous Thromboembolism,C14
+Retinal Vein Occlusion,C14
+Multiple Myeloma,C14
+Hepatic Veno-Occlusive Disease,C14
+Hyperemia,C14
+Hypertension,C14
+Hypotension,C14
+Myocardial Ischemia,C14
+Acute Coronary Syndrome,C14
+Angina Pectoris,C14
+Acute Coronary Syndrome,C14
+Microvascular Angina,C14
+Coronary Disease,C14
+Coronary Aneurysm,C14
+Coronary Artery Disease,C14
+Coronary Stenosis,C14
+Coronary Restenosis,C14
+Myocardial Infarction,C14
+Myocardial Stunning,C14
+Myocardial Reperfusion Injury,C14
+Myocardial Stunning,C14
+Peripheral Vascular Diseases,C14
+Pulmonary Veno-Occlusive Disease,C14
+Reperfusion Injury,C14
+Myocardial Reperfusion Injury,C14
+Retinal Vein Occlusion,C14
+Ataxia Telangiectasia,C14
+Vasculitis,C14
+Arteritis,C14
+Behcet Syndrome,C14
+Cogan Syndrome,C14
+Mucocutaneous Lymph Node Syndrome,C14
+Hematologic Diseases,C15
+Fanconi Anemia,C15
+alpha-Thalassemia,C15
+Blood Coagulation Disorders,C15
+Afibrinogenemia,C15
+Bernard-Soulier Syndrome,C15
+Factor VII Deficiency,C15
+Factor XI Deficiency,C15
+Hemophilia A,C15
+Hemophilia B,C15
+Hypoprothrombinemias,C15
+Protein C Deficiency,C15
+Thrombasthenia,C15
+von Willebrand Diseases,C15
+Coagulation Protein Disorders,C15
+Afibrinogenemia,C15
+Factor VII Deficiency,C15
+Factor XI Deficiency,C15
+Hemophilia A,C15
+Hemophilia B,C15
+Hypoprothrombinemias,C15
+von Willebrand Diseases,C15
+Disseminated Intravascular Coagulation,C15
+Protein S Deficiency,C15
+Purpura Fulminans,C15
+Hydrops Fetalis,C15
+Blood Platelet Disorders,C15
+Bernard-Soulier Syndrome,C15
+Thrombasthenia,C15
+Thrombocytopenia,C15
+von Willebrand Diseases,C15
+Blood Protein Disorders,C15
+Agammaglobulinemia,C15
+Dysgammaglobulinemia,C15
+IgA Deficiency,C15
+Hypergammaglobulinemia,C15
+Mevalonate Kinase Deficiency,C15
+Hypoproteinemia,C15
+Multiple Myeloma,C15
+Protein C Deficiency,C15
+Protein S Deficiency,C15
+Bone Marrow Diseases,C15
+Fanconi Anemia,C15
+Myelodysplastic Syndromes,C15
+Myeloproliferative Disorders,C15
+Polycythemia Vera,C15
+Hematologic Neoplasms,C15
+alpha-Thalassemia,C15
+Hydrops Fetalis,C15
+Hemorrhagic Disorders,C15
+Afibrinogenemia,C15
+Bernard-Soulier Syndrome,C15
+Disseminated Intravascular Coagulation,C15
+Factor VII Deficiency,C15
+Factor XI Deficiency,C15
+Hemophilia A,C15
+Hemophilia B,C15
+Multiple Myeloma,C15
+Hypoprothrombinemias,C15
+Thrombasthenia,C15
+von Willebrand Diseases,C15
+Eosinophilia,C15
+Hypereosinophilic Syndrome,C15
+Leukocytosis,C15
+Agranulocytosis,C15
+Neutropenia,C15
+Lymphopenia,C15
+Pelger-Huet Anomaly,C15
+Methemoglobinemia,C15
+Pancytopenia,C15
+Polycythemia,C15
+Disseminated Intravascular Coagulation,C15
+Protein C Deficiency,C15
+Protein S Deficiency,C15
+Lymphatic Diseases,C15
+DiGeorge Syndrome,C15
+Lymphedema,C15
+Lymphoproliferative Disorders,C15
+Agammaglobulinemia,C15
+Autoimmune Lymphoproliferative Syndrome,C15
+Lymphangioleiomyomatosis,C15
+Lymphoma,C15
+Hodgkin Disease,C15
+Mucocutaneous Lymph Node Syndrome,C15
+Congenital Abnormalities,C16
+DiGeorge Syndrome,C16
+Alagille Syndrome,C16
+Angelman Syndrome,C16
+Bardet-Biedl Syndrome,C16
+Basal Cell Nevus Syndrome,C16
+Bloom Syndrome,C16
+Branchio-Oto-Renal Syndrome,C16
+Cockayne Syndrome,C16
+Cri-du-Chat Syndrome,C16
+De Lange Syndrome,C16
+Down Syndrome,C16
+Ectodermal Dysplasia,C16
+Neurocutaneous Syndromes,C16
+Incontinentia Pigmenti,C16
+Marfan Syndrome,C16
+Oculocerebrorenal Syndrome,C16
+Orofaciodigital Syndromes,C16
+Pallister-Hall Syndrome,C16
+Prader-Willi Syndrome,C16
+Rubinstein-Taybi Syndrome,C16
+Silver-Russell Syndrome,C16
+Smith-Lemli-Opitz Syndrome,C16
+Smith-Magenis Syndrome,C16
+Wolf-Hirschhorn Syndrome,C16
+Zellweger Syndrome,C16
+DiGeorge Syndrome,C16
+Alagille Syndrome,C16
+Arrhythmogenic Right Ventricular Dysplasia,C16
+Kartagener Syndrome,C16
+Heart Septal Defects,C16
+Long QT Syndrome,C16
+Andersen Syndrome,C16
+Romano-Ward Syndrome,C16
+Marfan Syndrome,C16
+Noonan Syndrome,C16
+Tetralogy of Fallot,C16
+Transposition of Great Vessels,C16
+Wolff-Parkinson-White Syndrome,C16
+Intracranial Arteriovenous Malformations,C16
+Intracranial Arteriovenous Malformations,C16
+Chromosome Disorders,C16
+DiGeorge Syndrome,C16
+Angelman Syndrome,C16
+Branchio-Oto-Renal Syndrome,C16
+Cri-du-Chat Syndrome,C16
+De Lange Syndrome,C16
+Down Syndrome,C16
+Prader-Willi Syndrome,C16
+Rubinstein-Taybi Syndrome,C16
+Fragile X Syndrome,C16
+Orofaciodigital Syndromes,C16
+Klinefelter Syndrome,C16
+Silver-Russell Syndrome,C16
+Smith-Magenis Syndrome,C16
+WAGR Syndrome,C16
+Williams Syndrome,C16
+Wolf-Hirschhorn Syndrome,C16
+Hirschsprung Disease,C16
+Eye Abnormalities,C16
+WAGR Syndrome,C16
+Anophthalmos,C16
+Blepharophimosis,C16
+Coloboma,C16
+Ectopia Lentis,C16
+Microphthalmos,C16
+DiGeorge Syndrome,C16
+Craniofacial Abnormalities,C16
+DiGeorge Syndrome,C16
+Cleidocranial Dysplasia,C16
+Craniofacial Dysostosis,C16
+Hallermann's Syndrome,C16
+Hypertelorism,C16
+Mandibulofacial Dysostosis,C16
+Craniosynostoses,C16
+Acrocephalosyndactylia,C16
+Macrocephaly,C16
+Cleft Palate,C16
+Pierre Robin Syndrome,C16
+Microcephaly,C16
+Noonan Syndrome,C16
+Orofaciodigital Syndromes,C16
+Craniosynostoses,C16
+Acrocephalosyndactylia,C16
+Rubinstein-Taybi Syndrome,C16
+Klippel-Feil Syndrome,C16
+Arachnodactyly,C16
+Polydactyly,C16
+Pallister-Hall Syndrome,C16
+Syndactyly,C16
+Acrocephalosyndactylia,C16
+Synostosis,C16
+Antley-Bixler Syndrome Phenotype,C16
+Craniosynostoses,C16
+Acrocephalosyndactylia,C16
+Syndactyly,C16
+Acrocephalosyndactylia,C16
+Nervous System Malformations,C16
+Acrocallosal Syndrome,C16
+Intracranial Arteriovenous Malformations,C16
+Dandy-Walker Syndrome,C16
+Charcot-Marie-Tooth Disease,C16
+Malformations of Cortical Development,C16
+Lissencephaly,C16
+Classical Lissencephalies and Subcortical Band Heterotopias,C16
+Macrocephaly,C16
+Microcephaly,C16
+Classical Lissencephalies and Subcortical Band Heterotopias,C16
+Periventricular Nodular Heterotopia,C16
+Tuberous Sclerosis,C16
+Neural Tube Defects,C16
+Meningomyelocele,C16
+Spinal Dysraphism,C16
+Spina Bifida Cystica,C16
+Respiratory System Abnormalities,C16
+Choanal Atresia,C16
+Kartagener Syndrome,C16
+Kartagener Syndrome,C16
+Skin Abnormalities,C16
+Dyskeratosis Congenita,C16
+Ectodermal Dysplasia,C16
+Neurocutaneous Syndromes,C16
+Ichthyosis,C16
+Incontinentia Pigmenti,C16
+Port-Wine Stain,C16
+Xeroderma Pigmentosum,C16
+Cleft Palate,C16
+Pierre Robin Syndrome,C16
+Mouth Abnormalities,C16
+Cleft Lip,C16
+Cleft Palate,C16
+Tooth Abnormalities,C16
+Cryptorchidism,C16
+Disorders of Sex Development,C16
+Hyperandrogenism,C16
+Androgen-Insensitivity Syndrome,C16
+Denys-Drash Syndrome,C16
+Frasier Syndrome,C16
+Kallmann Syndrome,C16
+WAGR Syndrome,C16
+Hyperandrogenism,C16
+Gonadal Dysgenesis,C16
+Klinefelter Syndrome,C16
+Hypospadias,C16
+Fetal Diseases,C16
+Hydrops Fetalis,C16
+Fetal Growth Retardation,C16
+Alagille Syndrome,C16
+alpha-Thalassemia,C16
+Fanconi Anemia,C16
+Ataxia Telangiectasia,C16
+Autoimmune Lymphoproliferative Syndrome,C16
+Afibrinogenemia,C16
+Bernard-Soulier Syndrome,C16
+Factor VII Deficiency,C16
+Factor XI Deficiency,C16
+Hemophilia A,C16
+Hemophilia B,C16
+Hypoprothrombinemias,C16
+Protein C Deficiency,C16
+Thrombasthenia,C16
+von Willebrand Diseases,C16
+Brugada Syndrome,C16
+Chromosome Disorders,C16
+DiGeorge Syndrome,C16
+Angelman Syndrome,C16
+Branchio-Oto-Renal Syndrome,C16
+Cri-du-Chat Syndrome,C16
+De Lange Syndrome,C16
+Down Syndrome,C16
+Prader-Willi Syndrome,C16
+Rubinstein-Taybi Syndrome,C16
+Fragile X Syndrome,C16
+Orofaciodigital Syndromes,C16
+Klinefelter Syndrome,C16
+Silver-Russell Syndrome,C16
+Smith-Magenis Syndrome,C16
+WAGR Syndrome,C16
+Williams Syndrome,C16
+Wolf-Hirschhorn Syndrome,C16
+Cystic Fibrosis,C16
+Dwarfism,C16
+Cockayne Syndrome,C16
+Congenital Hypothyroidism,C16
+Silver-Russell Syndrome,C16
+Albinism,C16
+Piebaldism,C16
+WAGR Syndrome,C16
+Choroideremia,C16
+Fuchs' Endothelial Dystrophy,C16
+Duane Retraction Syndrome,C16
+Gyrate Atrophy,C16
+Retinitis Pigmentosa,C16
+Frasier Syndrome,C16
+Androgen-Insensitivity Syndrome,C16
+Choroideremia,C16
+Dent Disease,C16
+Dyskeratosis Congenita,C16
+Glycogen Storage Disease Type IIb,C16
+Hemophilia B,C16
+Classical Lissencephalies and Subcortical Band Heterotopias,C16
+Coffin-Lowry Syndrome,C16
+Fragile X Syndrome,C16
+Mucopolysaccharidosis II,C16
+Rett Syndrome,C16
+Oculocerebrorenal Syndrome,C16
+Ornithine Carbamoyltransferase Deficiency Disease,C16
+X-Linked Combined Immunodeficiency Diseases,C16
+alpha-Thalassemia,C16
+Hydrops Fetalis,C16
+Hereditary Autoinflammatory Diseases,C16
+Familial Mediterranean Fever,C16
+Mevalonate Kinase Deficiency,C16
+Cockayne Syndrome,C16
+Hereditary Central Nervous System Demyelinating Diseases,C16
+Charcot-Marie-Tooth Disease,C16
+Huntington Disease,C16
+Coffin-Lowry Syndrome,C16
+Fragile X Syndrome,C16
+Mucopolysaccharidosis II,C16
+Rett Syndrome,C16
+Myotonia Congenita,C16
+Myotonic Dystrophy,C16
+Neurofibromatoses,C16
+Neurofibromatosis 1,C16
+Neuronal Ceroid-Lipofuscinoses,C16
+Pantothenate Kinase-Associated Neurodegeneration,C16
+Rett Syndrome,C16
+Spinal Muscular Atrophies of Childhood,C16
+Spinocerebellar Degenerations,C16
+Spinocerebellar Ataxias,C16
+Machado-Joseph Disease,C16
+Tourette Syndrome,C16
+Tuberous Sclerosis,C16
+Unverricht-Lundborg Syndrome,C16
+Kallmann Syndrome,C16
+Kartagener Syndrome,C16
+Marfan Syndrome,C16
+Albinism,C16
+Piebaldism,C16
+Homocystinuria,C16
+Hyperlysinemias,C16
+Maple Syrup Urine Disease,C16
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency,C16
+Phenylketonurias,C16
+Carbamoyl-Phosphate Synthase I Deficiency Disease,C16
+Citrullinemia,C16
+Ornithine Carbamoyltransferase Deficiency Disease,C16
+Oculocerebrorenal Syndrome,C16
+Galactosemias,C16
+Hereditary Central Nervous System Demyelinating Diseases,C16
+Homocystinuria,C16
+Hyperlysinemias,C16
+Glycogen Storage Disease Type II,C16
+Maple Syrup Urine Disease,C16
+MELAS Syndrome,C16
+Oculocerebrorenal Syndrome,C16
+Mevalonate Kinase Deficiency,C16
+Zellweger Syndrome,C16
+Phenylketonurias,C16
+Carbamoyl-Phosphate Synthase I Deficiency Disease,C16
+Citrullinemia,C16
+Ornithine Carbamoyltransferase Deficiency Disease,C16
+Galactosemias,C16
+Glycogen Storage Disease Type II,C16
+Glycogen Storage Disease Type IIb,C16
+Lactose Intolerance,C16
+Mucopolysaccharidosis II,C16
+Mucopolysaccharidosis III,C16
+Mucopolysaccharidosis IV,C16
+Cytochrome-c Oxidase Deficiency,C16
+Crigler-Najjar Syndrome,C16
+Gilbert Disease,C16
+Hyperlipoproteinemia Type II,C16
+Hyperlipoproteinemia Type IV,C16
+Hypoalphalipoproteinemias,C16
+Lecithin Acyltransferase Deficiency,C16
+Hypobetalipoproteinemias,C16
+Neuronal Ceroid-Lipofuscinoses,C16
+Smith-Lemli-Opitz Syndrome,C16
+Aspartylglucosaminuria,C16
+Glycogen Storage Disease Type II,C16
+Mucopolysaccharidosis II,C16
+Mucopolysaccharidosis III,C16
+Mucopolysaccharidosis IV,C16
+Hypokalemic Periodic Paralysis,C16
+Pseudohypoparathyroidism,C16
+Pseudopseudohypoparathyroidism,C16
+Mevalonate Kinase Deficiency,C16
+Zellweger Syndrome,C16
+Progeria,C16
+Gout,C16
+Dent Disease,C16
+Fanconi Syndrome,C16
+Liddle Syndrome,C16
+Oculocerebrorenal Syndrome,C16
+Pseudohypoaldosteronism,C16
+Antley-Bixler Syndrome Phenotype,C16
+Smith-Lemli-Opitz Syndrome,C16
+Muscular Dystrophies,C16
+Distal Myopathies,C16
+Myotonic Dystrophy,C16
+Basal Cell Nevus Syndrome,C16
+Li-Fraumeni Syndrome,C16
+Multiple Endocrine Neoplasia,C16
+Multiple Endocrine Neoplasia Type 2b,C16
+Tuberous Sclerosis,C16
+Wilms Tumor,C16
+Denys-Drash Syndrome,C16
+WAGR Syndrome,C16
+Neurofibromatoses,C16
+Neurofibromatosis 1,C16
+Osteogenesis Imperfecta,C16
+Pelger-Huet Anomaly,C16
+Albinism,C16
+Piebaldism,C16
+Cutis Laxa,C16
+Darier Disease,C16
+Dyskeratosis Congenita,C16
+Ectodermal Dysplasia,C16
+Neurocutaneous Syndromes,C16
+Erythrokeratodermia Variabilis,C16
+Incontinentia Pigmenti,C16
+Porokeratosis,C16
+Xeroderma Pigmentosum,C16
+Werner Syndrome,C16
+Cystic Fibrosis,C16
+Ichthyosis,C16
+Bronchopulmonary Dysplasia,C16
+Hyaline Membrane Disease,C16
+Persistent Fetal Circulation Syndrome,C16
+X-Linked Combined Immunodeficiency Diseases,C16
+Tietze's Syndrome,C17
+Keloid,C17
+Osteogenesis Imperfecta,C17
+Cutis Laxa,C17
+Dermatomyositis,C17
+Homocystinuria,C17
+Lupus Nephritis,C17
+Marfan Syndrome,C17
+Mucopolysaccharidosis II,C17
+Mucopolysaccharidosis III,C17
+Mucopolysaccharidosis IV,C17
+Noonan Syndrome,C17
+Skin Diseases,C17
+Acne Vulgaris,C17
+Breast Diseases,C17
+Breast Neoplasms,C17
+Dermatitis,C17
+Drug Eruptions,C17
+Eczema,C17
+Dermatomyositis,C17
+Erythema,C17
+Erythrokeratodermia Variabilis,C17
+Exanthema,C17
+Facial Dermatoses,C17
+Acne Vulgaris,C17
+Hair Diseases,C17
+Folliculitis,C17
+Hirsutism,C17
+Hypotrichosis,C17
+Alopecia,C17
+Alopecia Areata,C17
+Keratosis,C17
+Darier Disease,C17
+Erythrokeratodermia Variabilis,C17
+Ichthyosis,C17
+Porokeratosis,C17
+Photosensitivity Disorders,C17
+Xeroderma Pigmentosum,C17
+Cafe-au-Lait Spots,C17
+Hyperpigmentation,C17
+Acanthosis Nigricans,C17
+Hypopigmentation,C17
+Albinism,C17
+Piebaldism,C17
+Incontinentia Pigmenti,C17
+Xeroderma Pigmentosum,C17
+Pruritus,C17
+Pyoderma Gangrenosum,C17
+Acne Vulgaris,C17
+Sebaceous Gland Neoplasms,C17
+Skin Abnormalities,C17
+Dyskeratosis Congenita,C17
+Ectodermal Dysplasia,C17
+Neurocutaneous Syndromes,C17
+Ichthyosis,C17
+Incontinentia Pigmenti,C17
+Port-Wine Stain,C17
+Xeroderma Pigmentosum,C17
+Eczema,C17
+Albinism,C17
+Piebaldism,C17
+Cutis Laxa,C17
+Darier Disease,C17
+Dyskeratosis Congenita,C17
+Ectodermal Dysplasia,C17
+Neurocutaneous Syndromes,C17
+Erythrokeratodermia Variabilis,C17
+Hereditary Autoinflammatory Diseases,C17
+Incontinentia Pigmenti,C17
+Porokeratosis,C17
+Xeroderma Pigmentosum,C17
+Staphylococcal Skin Infections,C17
+Lipodystrophy,C17
+Lichenoid Eruptions,C17
+Parapsoriasis,C17
+Psoriasis,C17
+Behcet Syndrome,C17
+Mucocutaneous Lymph Node Syndrome,C17
+Pyoderma Gangrenosum,C17
+Urticaria,C17
+Angioedema,C17
+Hereditary Angioedema Type III,C17
+Sebaceous Gland Neoplasms,C17
+Pyoderma Gangrenosum,C17
+Metabolic Diseases,C18
+Acidosis,C18
+Galactosemias,C18
+Hereditary Central Nervous System Demyelinating Diseases,C18
+Homocystinuria,C18
+Hyperlysinemias,C18
+Glycogen Storage Disease Type II,C18
+Maple Syrup Urine Disease,C18
+MELAS Syndrome,C18
+Oculocerebrorenal Syndrome,C18
+Mevalonate Kinase Deficiency,C18
+Zellweger Syndrome,C18
+Phenylketonurias,C18
+Carbamoyl-Phosphate Synthase I Deficiency Disease,C18
+Citrullinemia,C18
+Ornithine Carbamoyltransferase Deficiency Disease,C18
+Mitochondrial Encephalomyopathies,C18
+Nephrocalcinosis,C18
+Hypocalcemia,C18
+Tetany,C18
+Pseudohypoparathyroidism,C18
+Pseudopseudohypoparathyroidism,C18
+Rickets,C18
+DNA Repair-Deficiency Disorders,C18
+Ataxia Telangiectasia,C18
+Bloom Syndrome,C18
+Cockayne Syndrome,C18
+Fanconi Anemia,C18
+Li-Fraumeni Syndrome,C18
+Werner Syndrome,C18
+Xeroderma Pigmentosum,C18
+Diabetes Mellitus,C18
+Hyperglycemia,C18
+Glucose Intolerance,C18
+Hyperinsulinism,C18
+Insulin Resistance,C18
+Metabolic Syndrome X,C18
+Hypoglycemia,C18
+Lipid Metabolism Disorders,C18
+Dyslipidemias,C18
+Hyperlipidemias,C18
+Hypercholesterolemia,C18
+Hyperlipoproteinemias,C18
+Hyperlipoproteinemia Type II,C18
+Hyperlipoproteinemia Type IV,C18
+Hypertriglyceridemia,C18
+Hyperlipoproteinemia Type IV,C18
+Hypoalphalipoproteinemias,C18
+Lecithin Acyltransferase Deficiency,C18
+Hypobetalipoproteinemias,C18
+Smith-Lemli-Opitz Syndrome,C18
+Lipodystrophy,C18
+Neuronal Ceroid-Lipofuscinoses,C18
+Xanthomatosis,C18
+Malabsorption Syndromes,C18
+Celiac Disease,C18
+Lactose Intolerance,C18
+Metabolic Syndrome X,C18
+Albinism,C18
+Piebaldism,C18
+Homocystinuria,C18
+Hyperlysinemias,C18
+Maple Syrup Urine Disease,C18
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency,C18
+Phenylketonurias,C18
+Carbamoyl-Phosphate Synthase I Deficiency Disease,C18
+Citrullinemia,C18
+Ornithine Carbamoyltransferase Deficiency Disease,C18
+Oculocerebrorenal Syndrome,C18
+Galactosemias,C18
+Hereditary Central Nervous System Demyelinating Diseases,C18
+Homocystinuria,C18
+Hyperlysinemias,C18
+Glycogen Storage Disease Type II,C18
+Maple Syrup Urine Disease,C18
+MELAS Syndrome,C18
+Oculocerebrorenal Syndrome,C18
+Mevalonate Kinase Deficiency,C18
+Zellweger Syndrome,C18
+Phenylketonurias,C18
+Carbamoyl-Phosphate Synthase I Deficiency Disease,C18
+Citrullinemia,C18
+Ornithine Carbamoyltransferase Deficiency Disease,C18
+Galactosemias,C18
+Glycogen Storage Disease Type II,C18
+Glycogen Storage Disease Type IIb,C18
+Lactose Intolerance,C18
+Mucopolysaccharidosis II,C18
+Mucopolysaccharidosis III,C18
+Mucopolysaccharidosis IV,C18
+Crigler-Najjar Syndrome,C18
+Gilbert Disease,C18
+Hyperlipoproteinemia Type II,C18
+Hyperlipoproteinemia Type IV,C18
+Hypoalphalipoproteinemias,C18
+Lecithin Acyltransferase Deficiency,C18
+Hypobetalipoproteinemias,C18
+Neuronal Ceroid-Lipofuscinoses,C18
+Smith-Lemli-Opitz Syndrome,C18
+Aspartylglucosaminuria,C18
+Glycogen Storage Disease Type II,C18
+Mucopolysaccharidosis II,C18
+Mucopolysaccharidosis III,C18
+Mucopolysaccharidosis IV,C18
+Hypokalemic Periodic Paralysis,C18
+Pseudohypoparathyroidism,C18
+Pseudopseudohypoparathyroidism,C18
+Mevalonate Kinase Deficiency,C18
+Zellweger Syndrome,C18
+Progeria,C18
+Gout,C18
+Dent Disease,C18
+Fanconi Syndrome,C18
+Liddle Syndrome,C18
+Oculocerebrorenal Syndrome,C18
+Pseudohypoaldosteronism,C18
+Antley-Bixler Syndrome Phenotype,C18
+Smith-Lemli-Opitz Syndrome,C18
+Mitochondrial Diseases,C18
+Carbamoyl-Phosphate Synthase I Deficiency Disease,C18
+Cytochrome-c Oxidase Deficiency,C18
+Mitochondrial Myopathies,C18
+Mitochondrial Encephalomyopathies,C18
+MELAS Syndrome,C18
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency,C18
+Amyloidosis,C18
+Amyotrophic Lateral Sclerosis,C18
+Frontotemporal Dementia,C18
+Lipodystrophy,C18
+Hypocalcemia,C18
+Hyponatremia,C18
+Deficiency Diseases,C18
+Rickets,C18
+Magnesium Deficiency,C18
+Obesity,C18
+Prader-Willi Syndrome,C18
+Adrenal Gland Diseases,C19
+Adrenocortical Carcinoma,C19
+Adrenocortical Carcinoma,C19
+Adrenocortical Hyperfunction,C19
+Cushing Syndrome,C19
+Diabetes Mellitus,C19
+Diabetic Angiopathies,C19
+Diabetic Retinopathy,C19
+Diabetic Cardiomyopathies,C19
+Diabetic Nephropathies,C19
+Dwarfism,C19
+Congenital Hypothyroidism,C19
+Adrenocortical Carcinoma,C19
+Multiple Endocrine Neoplasia,C19
+Multiple Endocrine Neoplasia Type 2b,C19
+Ovarian Neoplasms,C19
+Pancreatic Neoplasms,C19
+Gastrinoma,C19
+Vipoma,C19
+Parathyroid Neoplasms,C19
+Pituitary Neoplasms,C19
+ACTH-Secreting Pituitary Adenoma,C19
+Leydig Cell Tumor,C19
+Disorders of Sex Development,C19
+Hyperandrogenism,C19
+Androgen-Insensitivity Syndrome,C19
+Denys-Drash Syndrome,C19
+Frasier Syndrome,C19
+Kallmann Syndrome,C19
+WAGR Syndrome,C19
+Hyperandrogenism,C19
+Gonadal Dysgenesis,C19
+Klinefelter Syndrome,C19
+Hypogonadism,C19
+Eunuchism,C19
+Kallmann Syndrome,C19
+Klinefelter Syndrome,C19
+Polycystic Ovary Syndrome,C19
+Ovarian Neoplasms,C19
+Primary Ovarian Insufficiency,C19
+Cryptorchidism,C19
+Leydig Cell Tumor,C19
+Hyperparathyroidism,C19
+Hypoparathyroidism,C19
+DiGeorge Syndrome,C19
+Parathyroid Neoplasms,C19
+Diabetes Insipidus,C19
+Hyperprolactinemia,C19
+Pituitary ACTH Hypersecretion,C19
+Pituitary Neoplasms,C19
+ACTH-Secreting Pituitary Adenoma,C19
+Goiter,C19
+Graves Disease,C19
+Graves Disease,C19
+Hypothyroidism,C19
+Congenital Hypothyroidism,C19
+Autoimmune Diseases,C20
+Multiple Sclerosis,C20
+Autoimmune Lymphoproliferative Syndrome,C20
+Graves Disease,C20
+Lupus Nephritis,C20
+Hydrops Fetalis,C20
+Graft vs Host Disease,C20
+Hypersensitivity,C20
+Drug Hypersensitivity,C20
+Drug Eruptions,C20
+Anaphylaxis,C20
+Respiratory Hypersensitivity,C20
+Asthma,C20
+Urticaria,C20
+Angioedema,C20
+Hereditary Angioedema Type III,C20
+Immune Complex Diseases,C20
+Immunologic Deficiency Syndromes,C20
+Agammaglobulinemia,C20
+Ataxia Telangiectasia,C20
+Common Variable Immunodeficiency,C20
+Dysgammaglobulinemia,C20
+IgA Deficiency,C20
+HIV Infections,C20
+Acquired Immunodeficiency Syndrome,C20
+AIDS-Related Opportunistic Infections,C20
+HIV Seropositivity,C20
+Lymphopenia,C20
+X-Linked Combined Immunodeficiency Diseases,C20
+Hypergammaglobulinemia,C20
+Mevalonate Kinase Deficiency,C20
+Lymphoproliferative Disorders,C20
+Autoimmune Lymphoproliferative Syndrome,C20
+Lymphangioleiomyomatosis,C20
+Lymphoma,C20
+Hodgkin Disease,C20
+Multiple Myeloma,C20
+Multiple Myeloma,C20
+Alopecia,C23
+Atrophy,C23
+Muscular Atrophy,C23
+Gallstones,C23
+Tracheoesophageal Fistula,C23
+Cardiomegaly,C23
+Hepatomegaly,C23
+Splenomegaly,C23
+Intestinal Polyps,C23
+Colonic Polyps,C23
+Sick Sinus Syndrome,C23
+Atrial Fibrillation,C23
+Bradycardia,C23
+Heart Block,C23
+Atrioventricular Block,C23
+Bundle-Branch Block,C23
+Sick Sinus Syndrome,C23
+Sinoatrial Block,C23
+Long QT Syndrome,C23
+Andersen Syndrome,C23
+Romano-Ward Syndrome,C23
+Tachycardia,C23
+Torsades de Pointes,C23
+Ventricular Fibrillation,C23
+Chromosome Aberrations,C23
+Chromosome Breakage,C23
+Fetal Death,C23
+Emphysema,C23
+Keloid,C23
+Growth Disorders,C23
+Fetal Growth Retardation,C23
+Gastrointestinal Hemorrhage,C23
+Peptic Ulcer Hemorrhage,C23
+Hematuria,C23
+Cerebral Hemorrhage,C23
+Purpura Fulminans,C23
+Hyperammonemia,C23
+Hyperbilirubinemia,C23
+Hyperuricemia,C23
+Inflammation,C23
+Neurogenic Inflammation,C23
+Sepsis,C23
+Bacteremia,C23
+Ischemia,C23
+Leukocytosis,C23
+Amenorrhea,C23
+Choroidal Neovascularization,C23
+Muscle Weakness,C23
+Osteonecrosis,C23
+Femur Head Necrosis,C23
+Neoplasm Metastasis,C23
+Nerve Degeneration,C23
+Reperfusion Injury,C23
+Myocardial Reperfusion Injury,C23
+Obesity,C23
+Hydrops Fetalis,C23
+Hypergammaglobulinemia,C23
+Ataxia,C23
+Cerebellar Ataxia,C23
+Athetosis,C23
+Chorea,C23
+Dystonia,C23
+Myoclonus,C23
+Tremor,C23
+Language Development Disorders,C23
+Speech Disorders,C23
+Learning Disorders,C23
+Syncope,C23
+Memory Disorders,C23
+Muscle Spasticity,C23
+Muscle Hypotonia,C23
+Muscle Weakness,C23
+Muscular Atrophy,C23
+Tetany,C23
+Pain,C23
+Back Pain,C23
+Headache,C23
+Ophthalmoplegia,C23
+Seizures,C23
+Deafness,C23
+Hyperalgesia,C23
+Amblyopia,C23
+Blindness,C23
+Color Vision Defects,C23
+Pain,C23
+Back Pain,C23
+Angina Pectoris,C23
+Acute Coronary Syndrome,C23
+Headache,C23
+Apnea,C23
+Cough,C23
+Hyperventilation,C23
+Cafe-au-Lait Spots,C23
+Pruritus,C23
+Purpura Fulminans,C23
+Urinary Incontinence,C23
+Proteinuria,C23
+Albuminuria,C23
+Hirsutism,C23
+Asbestosis,C24
+Drug Hypersensitivity,C25
+Drug Eruptions,C25
+Drug-Induced Liver Injury,C25
+Poisoning,C25
+Drug-Induced Liver Injury,C25
+Neurotoxicity Syndromes,C25
+Alcohol Withdrawal Delirium,C25
+Substance-Related Disorders,C25
+Alcohol Withdrawal Delirium,C25
+Alcoholism,C25
+Amphetamine-Related Disorders,C25
+Opioid-Related Disorders,C25
+Substance Withdrawal Syndrome,C25
+Alcohol Withdrawal Delirium,C25
+Burns,C26
+Craniocerebral Trauma,C26
+Brain Injuries,C26
+Femoral Fractures,C26
+Femoral Fractures,C26
+Craniocerebral Trauma,C26
+Brain Injuries,C26
+Obesity,E01
+Memory Disorders,F01
+Pain,F02
+Anxiety Disorders,F03
+Obsessive-Compulsive Disorder,F03
+Panic Disorder,F03
+Cognition Disorders,F03
+Huntington Disease,F03
+Dementia,F03
+Alzheimer Disease,F03
+Creutzfeldt-Jakob Syndrome,F03
+Frontotemporal Dementia,F03
+Pick Disease of the Brain,F03
+Huntington Disease,F03
+Lewy Body Disease,F03
+Anorexia Nervosa,F03
+Bulimia Nervosa,F03
+Attention Deficit Disorder with Hyperactivity,F03
+Asperger Syndrome,F03
+Autistic Disorder,F03
+Learning Disorders,F03
+Developmental Disabilities,F03
+Learning Disorders,F03
+Motor Skills Disorders,F03
+Stereotypic Movement Disorder,F03
+Tic Disorders,F03
+Tourette Syndrome,F03
+Mood Disorders,F03
+Bipolar Disorder,F03
+Depressive Disorder,F03
+Neurotic Disorders,F03
+Antisocial Personality Disorder,F03
+Psychotic Disorders,F03
+Schizophrenia,F03
+Disorders of Sex Development,F03
+Erectile Dysfunction,F03
+Dyssomnias,F03
+Restless Legs Syndrome,F03
+Restless Legs Syndrome,F03
+Substance-Related Disorders,F03
+Alcohol Withdrawal Delirium,F03
+Alcoholism,F03
+Amphetamine-Related Disorders,F03
+Opioid-Related Disorders,F03
+Substance Withdrawal Syndrome,F03
+Alcohol Withdrawal Delirium,F03
+Chromosome Breakage,G05
+Chromosome Aberrations,G05
+Chromosome Breakage,G05
+Obesity,G07
+Insulin Resistance,G07
+Bone Resorption,G11
+Osteolysis,G11
+Pain,G11

@@ -1,3 +1,46 @@
+# Template para Entrega do Trabalho
+
+No repositório do projeto, deve haver um arquivo com dados básicos do projeto e da equipe na raiz, uma pasta para cada etapa de entrega, conforme templates a seguir:
+
+* [Entrega Parcial](parcial/)
+* [Laboratório 8 + Projeto](lab08-projeto/)
+* [Entrega Prévia](previa/)
+* [Entrega Final](final/)
+
+# Estrutura de Arquivos e Pastas
+
+A seguir é apresentada a estrutura de pastas esperada no repositório do projeto:
+
+~~~
+├── README.md  <- apresentação do projeto
+│
+├── parcial       <- entrega parcial
+│
+├── lab08-projeto <- entrega referente ao lab08 sobre redes
+│
+├── previa        <- entrega prévia
+│
+└── final         <- entrega final
+~~~
+
+# Modelo o arquivo `README.md` que fica na raiz
+
+# Projeto `<Título do Projeto>`
+
+# Equipe `<nome da equipe>` - `<sigla da equipe>`
+* `<nome completo>` - `<RA>`
+* `<nome completo>` - `<RA>`
+* `<nome completo>` - `<RA>`
+
+# Etapas
+
+* [Entrega Parcial](parcial/)
+* [Laboratório 8 + Projeto](lab08-projeto/)
+* [Entrega Prévia](previa/)
+* [Entrega Final](final/)
+
+<hr>
+
 # Template para Entrega dos Laboratórios Individuais
 
 # Templates de Laboratórios
@@ -9,6 +52,8 @@ Cada laboratório tem seu template que está especificado dentro da respectiva p
 * [Laboratório 3](lab03/)
 * [Laboratório 4](lab04/)
 * [Laboratório 5](lab05/)
+* [Laboratório 6](lab06/)
+* [Laboratório 7](lab07/)
 
 Abaixo são dadas orientações gerais para todos os laboratórios.
 

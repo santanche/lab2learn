@@ -1,0 +1,27 @@
+services:
+  food-intake-db:
+    image: postgres
+    volumes:
+      - food-intake-data:/var/lib/postgresql/data
+      - food-intake-impexp:/home
+    restart: on-failure:5
+    shm_size: 128mb
+    environment:
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5431:5432"
+
+volumes:
+  food-intake-data:
+    driver: "local"
+    driver_opts:
+      type: "none"
+      device: "/home/user/data/pgsql/docker"
+      o: "bind" 
+  food-intake-impexp:
+    driver: "local"
+    driver_opts:
+      type: "none"
+      device: "/home/user/data/pgsql/impexp"
+      o: "bind" 
+

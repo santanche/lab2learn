@@ -1,0 +1,242 @@
+Hyacinth68 Kessler503
+=====================
+Race:                Black
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1984-05-16
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1986-02-07[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1985-04-11[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  1985-04-11[STOPPED] : Cefaclor 250 MG Oral Capsule
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1987-05-16 -            : Febrile neutropenia (disorder)
+  1987-05-16 -            : Acute myeloid leukemia, disease (disorder)
+  1986-02-07 - 1986-02-14 : Acute bronchitis (disorder)
+  1985-04-11 - 1985-07-24 : Otitis media
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1986-02-07[STOPPED] : Respiratory therapy
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  1987-05-27 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Acute myeloid leukemia, disease (disorder) 
+  1984-05-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+           - MCV [Entitic volume] by Automated count  85.5 fL
+           - MCH [Entitic mass] by Automated count    29.2 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 173.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 384.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1987-05-27 : Cause of Death [US Standard Certificate of Death] Acute myeloid leukemia, disease (disorder) 
+  1987-05-16 : Body Temperature                         102.7 [degF]
+  1987-05-16 : Neutrophils [#/volume] in Blood by Automated count 345.3 10*3/uL
+  1987-04-22 : Tobacco smoking status NHIS              Never smoker 
+  1987-04-22 : Respiratory rate                         13.0 /min
+  1987-04-22 : Heart rate                               85.0 /min
+  1987-04-22 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  1987-04-22 : Body mass index (BMI) [Percentile] Per age and gender 41.0 %
+  1987-04-22 : Body Mass Index                          15.5 kg/m2
+  1987-04-22 : Head Occipital-frontal circumference     50.5 cm
+  1987-04-22 : Weight-for-length Per age and sex        47.1 %
+  1987-04-22 : Body Weight                              15.0 kg
+  1987-04-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1987-04-22 : Body Height                              98.5 cm
+  1986-10-22 : Tobacco smoking status NHIS              Never smoker 
+  1986-10-22 : Respiratory rate                         15.0 /min
+  1986-10-22 : Heart rate                               88.0 /min
+  1986-10-22 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  1986-10-22 : Body mass index (BMI) [Percentile] Per age and gender 31.1 %
+  1986-10-22 : Body Mass Index                          15.5 kg/m2
+  1986-10-22 : Head Occipital-frontal circumference     49.9 cm
+  1986-10-22 : Weight-for-length Per age and sex        44.8 %
+  1986-10-22 : Body Weight                              13.7 kg
+  1986-10-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1986-10-22 : Body Height                              94.2 cm
+  1986-04-23 : Tobacco smoking status NHIS              Never smoker 
+  1986-04-23 : Respiratory rate                         15.0 /min
+  1986-04-23 : Heart rate                               88.0 /min
+  1986-04-23 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  1986-04-23 : Head Occipital-frontal circumference     49.1 cm
+  1986-04-23 : Weight-for-length Per age and sex        26.1 %
+  1986-04-23 : Body Weight                              12.3 kg
+  1986-04-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1986-04-23 : Body Height                              89.6 cm
+  1986-02-12 : Tobacco smoking status NHIS              Never smoker 
+  1986-02-12 : Respiratory rate                         15.0 /min
+  1986-02-12 : Heart rate                               70.0 /min
+  1986-02-12 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  1986-02-12 : Head Occipital-frontal circumference     48.6 cm
+  1986-02-12 : Weight-for-length Per age and sex        31.7 %
+  1986-02-12 : Body Weight                              11.8 kg
+  1986-02-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1986-02-12 : Body Height                              86.8 cm
+  1985-10-23 : Tobacco smoking status NHIS              Never smoker 
+  1985-10-23 : Respiratory rate                         12.0 /min
+  1985-10-23 : Heart rate                               98.0 /min
+  1985-10-23 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  1985-10-23 : Head Occipital-frontal circumference     48.0 cm
+  1985-10-23 : Weight-for-length Per age and sex        33.6 %
+  1985-10-23 : Body Weight                              11.2 kg
+  1985-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1985-10-23 : Body Height                              83.7 cm
+  1985-07-24 : Tobacco smoking status NHIS              Never smoker 
+  1985-07-24 : Respiratory rate                         16.0 /min
+  1985-07-24 : Heart rate                               90.0 /min
+  1985-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  1985-07-24 : Head Occipital-frontal circumference     47.3 cm
+  1985-07-24 : Weight-for-length Per age and sex        41.1 %
+  1985-07-24 : Body Weight                              10.5 kg
+  1985-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1985-07-24 : Body Height                              80.4 cm
+  1985-04-24 : Tobacco smoking status NHIS              Never smoker 
+  1985-04-24 : Respiratory rate                         13.0 /min
+  1985-04-24 : Heart rate                               88.0 /min
+  1985-04-24 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  1985-04-24 : Head Occipital-frontal circumference     46.5 cm
+  1985-04-24 : Weight-for-length Per age and sex        34.4 %
+  1985-04-24 : Body Weight                              9.7 kg
+  1985-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1985-04-24 : Body Height                              76.7 cm
+  1985-01-23 : Tobacco smoking status NHIS              Never smoker 
+  1985-01-23 : Respiratory rate                         14.0 /min
+  1985-01-23 : Heart rate                               90.0 /min
+  1985-01-23 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  1985-01-23 : Head Occipital-frontal circumference     45.3 cm
+  1985-01-23 : Weight-for-length Per age and sex        24.2 %
+  1985-01-23 : Body Weight                              8.6 kg
+  1985-01-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1985-01-23 : Body Height                              72.5 cm
+  1984-10-24 : Tobacco smoking status NHIS              Never smoker 
+  1984-10-24 : Respiratory rate                         14.0 /min
+  1984-10-24 : Heart rate                               76.0 /min
+  1984-10-24 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  1984-10-24 : Head Occipital-frontal circumference     43.7 cm
+  1984-10-24 : Weight-for-length Per age and sex        11.9 %
+  1984-10-24 : Body Weight                              7.2 kg
+  1984-10-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1984-10-24 : Body Height                              67.5 cm
+  1984-08-22 : Tobacco smoking status NHIS              Never smoker 
+  1984-08-22 : Respiratory rate                         13.0 /min
+  1984-08-22 : Heart rate                               63.0 /min
+  1984-08-22 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  1984-08-22 : Head Occipital-frontal circumference     42.2 cm
+  1984-08-22 : Weight-for-length Per age and sex        5.3 %
+  1984-08-22 : Body Weight                              6.1 kg
+  1984-08-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1984-08-22 : Body Height                              63.5 cm
+  1984-06-20 : Tobacco smoking status NHIS              Never smoker 
+  1984-06-20 : Respiratory rate                         15.0 /min
+  1984-06-20 : Heart rate                               62.0 /min
+  1984-06-20 : Blood Pressure
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  1984-06-20 : Head Occipital-frontal circumference     39.9 cm
+  1984-06-20 : Weight-for-length Per age and sex        3.7 %
+  1984-06-20 : Body Weight                              4.7 kg
+  1984-06-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1984-06-20 : Body Height                              58.3 cm
+  1984-05-16 : Tobacco smoking status NHIS              Never smoker 
+  1984-05-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  1984-05-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 384.2 fL
+  1984-05-16 : Platelets [#/volume] in Blood by Automated count 173.8 10*3/uL
+  1984-05-16 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  1984-05-16 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  1984-05-16 : MCH [Entitic mass] by Automated count    29.2 pg
+  1984-05-16 : MCV [Entitic volume] by Automated count  85.5 fL
+  1984-05-16 : Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+  1984-05-16 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  1984-05-16 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  1984-05-16 : Leukocytes [#/volume] in Blood by Automated count 7.3 10*3/uL
+  1984-05-16 : Respiratory rate                         16.0 /min
+  1984-05-16 : Heart rate                               61.0 /min
+  1984-05-16 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  1984-05-16 : Head Occipital-frontal circumference     36.9 cm
+  1984-05-16 : Weight-for-length Per age and sex        1.5 %
+  1984-05-16 : Body Weight                              3.9 kg
+  1984-05-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1984-05-16 : Body Height                              54.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1987-05-16 : Death in hospital (event) for Acute myeloid leukemia, disease (disorder)
+  1987-05-16 : Chemotherapy (procedure) for Acute myeloid leukemia, disease (disorder)
+  1986-02-12 : Medication Reconciliation (procedure)
+  1985-07-24 : Medication Reconciliation (procedure)
+  1985-04-24 : Medication Reconciliation (procedure)
+  1984-10-24 : Medication Reconciliation (procedure)
+  1984-06-20 : Medication Reconciliation (procedure)
+  1984-05-16 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1987-04-22 : Influenza, seasonal, injectable, preservative free
+  1986-02-12 : Influenza, seasonal, injectable, preservative free
+  1985-07-24 : MMR
+  1985-07-24 : varicella
+  1985-07-24 : Hib (PRP-OMP)
+  1985-01-23 : Hep B, adolescent or pediatric
+  1985-01-23 : Influenza, seasonal, injectable, preservative free
+  1985-01-23 : IPV
+  1984-10-24 : IPV
+  1984-10-24 : Hib (PRP-OMP)
+  1984-08-22 : IPV
+  1984-08-22 : Hib (PRP-OMP)
+  1984-06-20 : Hep B, adolescent or pediatric
+  1984-05-16 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1987-05-27 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC : Encounter for Acute myeloid leukemia, disease (disorder)
+1987-05-16 (Dr. Damaris45 Borer986) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Acute myeloid leukemia, disease (disorder)
+1987-04-22 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+1986-10-22 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+1986-04-23 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+1986-02-07 (Dr. Damaris45 Borer986) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Acute bronchitis (disorder)
+1986-02-12 (Dr. Damaris45 Borer986) : Encounter at HALLMARK HEALTH SYSTEM
+1985-10-23 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+1985-07-24 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+1985-04-24 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+1985-04-11 (Dr. Damaris45 Borer986) : Encounter at HALLMARK HEALTH SYSTEM : Encounter for Otitis media
+1985-01-23 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+1984-10-24 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+1984-08-22 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+1984-06-20 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+1984-05-16 (Dr. Reyna401 VonRueden376) : Encounter at HALLMARK HEALTH MEDICAL ASSOCIATES INC
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------
