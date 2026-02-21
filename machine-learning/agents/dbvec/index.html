@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pub/Sub Multi-Agent System</title>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div id="root"></div>
+    
+    <script type="text/babel">
+        const { useState, useRef } = React;
+
+        const PubSubAgentSystem = () => {
+          const [agents, setAgents] = useState([]);
+          const [dataSources, setDataSources] = useState([]);
+          const [userQuestion, setUserQuestion] = useState('');
+          const [finalResult, setFinalResult] = useState('');
+          const [nerResult, setNerResult] = useState('');
+          const [logs, setLogs] = useState('');
+          const [isExecuting, setIsExecuting] = useState(false);
+          const [saveResults, setSaveResults] = useState(false);
+          const fileInputRef = useRef(null);
+
+          const models = [
+            "phi4-mini",
+            "MedAIBase/MedGemma1.5:4b",
+            "deepseek-coder:1.3b",
+            "samrawal/bert-base-uncased_clinical-ner",
+            "OpenMed/OpenMed-NER-AnatomyDetect-BioPatient-108M",
+            "SQL"
+          ];
+
+          const addLog = (message, type = 'info') => {
+            const timestamp = new Date().toLocaleTimeString();
+            const prefix = type === 'error' ? '❌' : type === 'success' ? '✅' : type === 'agent' ? '🤖' : type === 'bus' ? '📡' : 'ℹ️';
+            setLogs(prev => `${prev}[${timestamp}] ${prefix} ${message}\n`);
+          };
+
+          const addAgent = () => {
+            const newAgent = {
+              id: Date.now(),
+              title: `Agent ${agents.length + 1}`,
+              prompt: '',
+              model: 'phi4-mini',
+              subscribeTopic: '',
+              publishTopic: '',
+              showResult: false
+            };
+            setAgents([...agents, newAgent]);
+          };
+
+          const removeAgent = (id) => {
+            setAgents(agents.filter(agent => agent.id !== id));
+          };
+
+          const updateAgent = (id, field, value) => {
+            setAgents(agents.map(agent => 
+              agent.id === id ? { ...agent, [field]: value } : agent
+            ));
+          };
+
+          const addDataSource = () => {
+            const newDataSource = {
+              id: Date.now(),
+              label: `Data${dataSources.length + 1}`,
+              content: '',
+              subscribeTopic: ''
+            };
+            setDataSources([...dataSources, newDataSource]);
+          };
+
+          const removeDataSource = (id) => {
+            setDataSources(dataSources.filter(ds => ds.id !== id));
+          };
+
+          const updateDataSource = (id, field, value) => {
+            setDataSources(dataSources.map(ds => 
+              ds.id === id ? { ...ds, [field]: value } : ds
+            ));
+          };
+
+          const handleFileUpload = async (id, event) => {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = (e) => {
+              const fileContent = e.target.result;
+              setDataSources(dataSources.map(ds => {
+                if (ds.id === id) {
+                  const existingContent = ds.content || '';
+                  const separator = existingContent ? '\n\n--- Uploaded File ---\n\n' : '';
+                  return { ...ds, content: existingContent + separator + fileContent };
+                }
+                return ds;
+              }));
+            };
+            reader.readAsText(file);
+          };
+
+          const saveConfiguration = () => {
+            const config = {
+              version: '1.0',
+              timestamp: new Date().toISOString(),
+              userQuestion,
+              dataSources: dataSources.map(ds => ({
+                label: ds.label,
+                content: ds.content,
+                subscribeTopic: ds.subscribeTopic || ''
+              })),
+              agents: agents.map(a => ({
+                title: a.title,
+                prompt: a.prompt,
+                model: a.model,
+                subscribeTopic: a.subscribeTopic,
+                publishTopic: a.publishTopic,
+                showResult: a.showResult
+              }))
+            };
+
+            // Add results if checkbox is checked
+            if (saveResults) {
+              config.results = {
+                finalResult: finalResult,
+                nerResult: nerResult,
+                executionLog: logs
+              };
+            }
+
+            const blob = new Blob([JSON.stringify(config, null, 2)], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `pubsub-config-${new Date().toISOString().slice(0,10)}.json`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+            
+            addLog('Configuration saved successfully' + (saveResults ? ' (with results)' : ''), 'success');
+          };
+
+          const loadConfiguration = (event) => {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = (e) => {
+              try {
+                const config = JSON.parse(e.target.result);
+                
+                // Validate config structure
+                if (!config.version || !config.dataSources || !config.agents) {
+                  throw new Error('Invalid configuration file');
+                }
+
+                // Load user question
+                setUserQuestion(config.userQuestion || '');
+
+                // Load data sources with new IDs
+                const loadedDataSources = config.dataSources.map(ds => ({
+                  id: Date.now() + Math.random(),
+                  label: ds.label,
+                  content: ds.content,
+                  subscribeTopic: ds.subscribeTopic || ''
+                }));
+                setDataSources(loadedDataSources);
+
+                // Load agents with new IDs
+                const loadedAgents = config.agents.map(a => ({
+                  id: Date.now() + Math.random(),
+                  title: a.title,
+                  prompt: a.prompt,
+                  model: a.model,
+                  subscribeTopic: a.subscribeTopic,
+                  publishTopic: a.publishTopic || '',
+                  showResult: a.showResult
+                }));
+                setAgents(loadedAgents);
+
+                // Load results if they exist
+                if (config.results) {
+                  setFinalResult(config.results.finalResult || '');
+                  setNerResult(config.results.nerResult || '');
+                  setLogs(config.results.executionLog || '');
+                  addLog(`Configuration loaded: ${loadedDataSources.length} data sources, ${loadedAgents.length} agents (with saved results)`, 'success');
+                } else {
+                  setLogs('');
+                  setFinalResult('');
+                  setNerResult('');
+                  addLog(`Configuration loaded: ${loadedDataSources.length} data sources, ${loadedAgents.length} agents`, 'success');
+                }
+                
+              } catch (error) {
+                addLog(`Failed to load configuration: ${error.message}`, 'error');
+              }
+            };
+            reader.readAsText(file);
+            
+            // Reset file input
+            if (fileInputRef.current) {
+              fileInputRef.current.value = '';
+            }
+          };
+
+          const executeSystem = async () => {
+            setIsExecuting(true);
+            setLogs('');
+            setFinalResult('');
+            setNerResult('');
+            
+            addLog('Initializing Pub/Sub Agent System...', 'info');
+            addLog(`Total agents configured: ${agents.length}`, 'info');
+            addLog(`Data sources: ${dataSources.length}`, 'info');
+            if (userQuestion) {
+              addLog(`User Question: ${userQuestion}`, 'info');
+            }
+            
+            try {
+              const response = await fetch('/execute', {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                  data_sources: dataSources.map(ds => ({
+                    label: ds.label,
+                    content: ds.content,
+                    subscribe_topic: ds.subscribeTopic || null
+                  })),
+                  user_question: userQuestion,
+                  agents: agents.map(a => ({
+                    title: a.title,
+                    prompt: a.prompt,
+                    model: a.model,
+                    subscribe_topic: a.subscribeTopic,
+                    publish_topic: a.publishTopic || null,
+                    show_result: a.showResult
+                  }))
+                }),
+              });
+
+              if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+              }
+
+              const reader = response.body.getReader();
+              const decoder = new TextDecoder();
+
+              while (true) {
+                const { done, value } = await reader.read();
+                if (done) break;
+                
+                const chunk = decoder.decode(value);
+                const lines = chunk.split('\n');
+                
+                for (const line of lines) {
+                  if (line.startsWith('data: ')) {
+                    try {
+                      const data = JSON.parse(line.slice(6));
+                      
+                      if (data.type === 'bus_init') {
+                        addLog('Bus initialized', 'bus');
+                      } else if (data.type === 'agent_subscribed') {
+                        addLog(`Agent "${data.agent}" subscribed to topic "${data.topic}"`, 'bus');
+                      } else if (data.type === 'datasource_subscribed') {
+                        addLog(`Data source "${data.datasource}" subscribed to topic "${data.topic}"`, 'bus');
+                      } else if (data.type === 'datasource_updated') {
+                        addLog(`Data source "${data.datasource}" updated with message from "${data.topic}"`, 'bus');
+                        // Update the data source in state
+                        setDataSources(prev => prev.map(ds => 
+                          ds.label === data.datasource ? { ...ds, content: data.content } : ds
+                        ));
+                      } else if (data.type === 'message_published') {
+                        addLog(`Published to "${data.topic}": ${data.content.substring(0, 100)}${data.content.length > 100 ? '...' : ''}`, 'bus');
+                      } else if (data.type === 'agent_triggered') {
+                        addLog(`Agent "${data.agent}" triggered by topic "${data.topic}"`, 'agent');
+                      } else if (data.type === 'agent_processing') {
+                        addLog(`Agent "${data.agent}" processing...`, 'agent');
+                      } else if (data.type === 'agent_input') {
+                        addLog(`Input: ${data.content}`, 'info');
+                      } else if (data.type === 'agent_output') {
+                        addLog(`Output: ${data.content.substring(0, 200)}${data.content.length > 200 ? '...' : ''}`, 'info');
+                      } else if (data.type === 'sql_result') {
+                        addLog(`SQL Query executed: ${data.rows} rows returned`, 'success');
+                      } else if (data.type === 'agent_completed') {
+                        addLog(`Agent "${data.agent}" completed`, 'success');
+                      } else if (data.type === 'show_result') {
+                        setFinalResult(prev => {
+                          const separator = prev ? '\n\n--- ' + data.agent + ' ---\n\n' : '--- ' + data.agent + ' ---\n\n';
+                          return prev + separator + data.content;
+                        });
+                      } else if (data.type === 'ner_result') {
+                        setNerResult(prev => {
+                          const separator = prev ? '\n\n--- ' + data.agent + ' ---\n\n' : '--- ' + data.agent + ' ---\n\n';
+                          return prev + separator + data.formatted_text;
+                        });
+                      } else if (data.type === 'no_subscribers') {
+                        addLog(`No subscribers for topic "${data.topic}"`, 'error');
+                      } else if (data.type === 'execution_complete') {
+                        addLog('\n=== EXECUTION COMPLETE ===', 'success');
+                      } else if (data.type === 'error') {
+                        addLog(`Error: ${data.message}`, 'error');
+                      }
+                    } catch (e) {
+                      // Skip malformed JSON
+                    }
+                  }
+                }
+              }
+              
+            } catch (error) {
+              addLog(`Error: ${error.message}`, 'error');
+            } finally {
+              setIsExecuting(false);
+            }
+          };
+
+          return (
+            <div className="min-h-screen bg-gradient-to-br from-purple-50 to-pink-100 p-6">
+              <div className="max-w-7xl mx-auto">
+                {/* Header */}
+                <div className="bg-white rounded-lg shadow-xl p-6 mb-6">
+                  <div className="flex items-center justify-between mb-4">
+                    <div className="flex items-center gap-3">
+                      <svg className="w-10 h-10 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                      </svg>
+                      <h1 className="text-3xl font-bold text-gray-800">Pub/Sub Multi-Agent System</h1>
+                    </div>
+                    
+                    {/* Save/Load Buttons */}
+                    <div className="flex gap-2 items-center">
+                      <div className="flex items-center gap-2 mr-2">
+                        <input
+                          type="checkbox"
+                          id="saveResults"
+                          checked={saveResults}
+                          onChange={(e) => setSaveResults(e.target.checked)}
+                          className="w-4 h-4 text-green-600 focus:ring-green-500 border-gray-300 rounded"
+                        />
+                        <label htmlFor="saveResults" className="text-sm font-medium text-gray-700">
+                          Save results
+                        </label>
+                      </div>
+                      <button
+                        onClick={saveConfiguration}
+                        disabled={agents.length === 0 && dataSources.length === 0}
+                        className="bg-green-600 hover:bg-green-700 disabled:bg-gray-400 text-white px-4 py-2 rounded-lg flex items-center gap-2 transition-colors text-sm"
+                      >
+                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-3m-1 4l-3 3m0 0l-3-3m3 3V4" />
+                        </svg>
+                        Save Config
+                      </button>
+                      <label className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg flex items-center gap-2 transition-colors cursor-pointer text-sm">
+                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12" />
+                        </svg>
+                        Load Config
+                        <input
+                          ref={fileInputRef}
+                          type="file"
+                          accept=".json"
+                          onChange={loadConfiguration}
+                          className="hidden"
+                        />
+                      </label>
+                    </div>
+                  </div>
+                  <p className="text-gray-600">Orchestrate agents using publish/subscribe architecture</p>
+                </div>
+
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                  {/* Left Column - Configuration */}
+                  <div className="space-y-4">
+                    {/* User Question */}
+                    <div className="bg-white rounded-lg shadow p-4">
+                      <label className="block text-sm font-semibold text-gray-700 mb-2">
+                        💬 User Question
+                      </label>
+                      <textarea
+                        value={userQuestion}
+                        onChange={(e) => setUserQuestion(e.target.value)}
+                        className="w-full h-24 p-3 border border-gray-300 rounded-lg text-sm focus:ring-2 focus:ring-purple-500 focus:border-transparent"
+                        placeholder="Enter your question (available as {question} in prompts - case insensitive)..."
+                      />
+                    </div>
+
+                    {/* Data Sources */}
+                    <div className="bg-white rounded-lg shadow p-4">
+                      <div className="flex justify-between items-center mb-4">
+                        <h2 className="text-lg font-semibold text-gray-700">Data Sources ({dataSources.length})</h2>
+                        <button
+                          onClick={addDataSource}
+                          className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg flex items-center gap-2 transition-colors text-sm"
+                        >
+                          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                          </svg>
+                          Add Data Source
+                        </button>
+                      </div>
+
+                      <div className="space-y-3 max-h-96 overflow-y-auto">
+                        {dataSources.length === 0 ? (
+                          <p className="text-gray-500 text-center py-8">No data sources configured. Click "Add Data Source" to start.</p>
+                        ) : (
+                          dataSources.map((ds) => (
+                            <div key={ds.id} className="border border-gray-200 rounded-lg p-4 space-y-3 bg-blue-50">
+                              <div className="flex justify-between items-start">
+                                <input
+                                  type="text"
+                                  value={ds.label}
+                                  onChange={(e) => updateDataSource(ds.id, 'label', e.target.value)}
+                                  className="text-lg font-semibold border-b-2 border-transparent hover:border-blue-300 focus:border-blue-500 outline-none bg-transparent"
+                                  placeholder="Data Source Label"
+                                />
+                                <button
+                                  onClick={() => removeDataSource(ds.id)}
+                                  className="text-red-500 hover:text-red-700"
+                                >
+                                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+                                  </svg>
+                                </button>
+                              </div>
+                              
+                              <div>
+                                <label className="block text-xs font-medium text-gray-600 mb-1">Content</label>
+                                <textarea
+                                  value={ds.content}
+                                  onChange={(e) => updateDataSource(ds.id, 'content', e.target.value)}
+                                  className="w-full h-24 p-2 border border-gray-300 rounded text-sm font-mono focus:ring-2 focus:ring-blue-500"
+                                  placeholder="Enter content, upload file, or receive from bus..."
+                                />
+                              </div>
+
+                              <div>
+                                <label className="block text-xs font-medium text-gray-600 mb-1">Subscribe Topic (optional, case insensitive)</label>
+                                <input
+                                  type="text"
+                                  value={ds.subscribeTopic}
+                                  onChange={(e) => updateDataSource(ds.id, 'subscribeTopic', e.target.value)}
+                                  className="w-full p-2 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-blue-500"
+                                  placeholder="e.g., PROCESSED_DATA - updates content from bus"
+                                />
+                              </div>
+
+                              <div>
+                                <label className="block text-xs font-medium text-gray-600 mb-1">Upload File (optional)</label>
+                                <input
+                                  type="file"
+                                  accept=".txt,.csv"
+                                  onChange={(e) => handleFileUpload(ds.id, e)}
+                                  className="w-full text-xs file:mr-4 file:py-2 file:px-4 file:rounded file:border-0 file:text-sm file:font-semibold file:bg-blue-50 file:text-blue-700 hover:file:bg-blue-100"
+                                />
+                              </div>
+                            </div>
+                          ))
+                        )}
+                      </div>
+                    </div>
+
+                    {/* Agents */}
+                    <div className="bg-white rounded-lg shadow p-4">
+                      <div className="flex justify-between items-center mb-4">
+                        <h2 className="text-lg font-semibold text-gray-700">Agents ({agents.length})</h2>
+                        <button
+                          onClick={addAgent}
+                          className="bg-purple-600 hover:bg-purple-700 text-white px-4 py-2 rounded-lg flex items-center gap-2 transition-colors"
+                        >
+                          <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                          </svg>
+                          Add Agent
+                        </button>
+                      </div>
+
+                      <div className="space-y-4 max-h-[600px] overflow-y-auto">
+                        {agents.length === 0 ? (
+                          <p className="text-gray-500 text-center py-8">No agents configured. Click "Add Agent" to start.</p>
+                        ) : (
+                          agents.map((agent) => (
+                            <div key={agent.id} className="border border-gray-200 rounded-lg p-4 space-y-3 bg-gray-50">
+                              <div className="flex justify-between items-start">
+                                <input
+                                  type="text"
+                                  value={agent.title}
+                                  onChange={(e) => updateAgent(agent.id, 'title', e.target.value)}
+                                  className="text-lg font-semibold border-b-2 border-transparent hover:border-purple-300 focus:border-purple-500 outline-none bg-transparent"
+                                  placeholder="Agent Title"
+                                />
+                                <button
+                                  onClick={() => removeAgent(agent.id)}
+                                  className="text-red-500 hover:text-red-700"
+                                >
+                                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+                                  </svg>
+                                </button>
+                              </div>
+
+                              <div>
+                                <label className="block text-xs font-medium text-gray-600 mb-1">Prompt Template</label>
+                                <textarea
+                                  value={agent.prompt}
+                                  onChange={(e) => updateAgent(agent.id, 'prompt', e.target.value)}
+                                  className="w-full h-24 p-2 border border-gray-300 rounded text-sm font-mono focus:ring-2 focus:ring-purple-500"
+                                  placeholder="Use {question}, {input}, and data source labels (case insensitive)"
+                                />
+                              </div>
+
+                              <div>
+                                <label className="block text-xs font-medium text-gray-600 mb-1">Model</label>
+                                <select
+                                  value={agent.model}
+                                  onChange={(e) => updateAgent(agent.id, 'model', e.target.value)}
+                                  className="w-full p-2 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-purple-500"
+                                >
+                                  {models.map(model => (
+                                    <option key={model} value={model}>{model}</option>
+                                  ))}
+                                </select>
+                              </div>
+
+                              <div className="grid grid-cols-2 gap-2">
+                                <div>
+                                  <label className="block text-xs font-medium text-gray-600 mb-1">Subscribe Topic (case insensitive)</label>
+                                  <input
+                                    type="text"
+                                    value={agent.subscribeTopic}
+                                    onChange={(e) => updateAgent(agent.id, 'subscribeTopic', e.target.value)}
+                                    className="w-full p-2 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-purple-500"
+                                    placeholder="e.g., START"
+                                  />
+                                </div>
+                                <div>
+                                  <label className="block text-xs font-medium text-gray-600 mb-1">Publish Topic (optional, case insensitive)</label>
+                                  <input
+                                    type="text"
+                                    value={agent.publishTopic}
+                                    onChange={(e) => updateAgent(agent.id, 'publishTopic', e.target.value)}
+                                    className="w-full p-2 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-purple-500"
+                                    placeholder="Leave empty to not publish"
+                                  />
+                                </div>
+                              </div>
+
+                              <div className="flex items-center gap-2">
+                                <input
+                                  type="checkbox"
+                                  id={`showResult-${agent.id}`}
+                                  checked={agent.showResult}
+                                  onChange={(e) => updateAgent(agent.id, 'showResult', e.target.checked)}
+                                  className="w-4 h-4 text-purple-600 focus:ring-purple-500 border-gray-300 rounded"
+                                />
+                                <label htmlFor={`showResult-${agent.id}`} className="text-sm font-medium text-gray-700">
+                                  Show result in Final Result box
+                                </label>
+                              </div>
+                            </div>
+                          ))
+                        )}
+                      </div>
+                    </div>
+
+                    {/* Execute Button */}
+                    <button
+                      onClick={executeSystem}
+                      disabled={isExecuting || agents.length === 0}
+                      className="w-full bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 disabled:from-gray-400 disabled:to-gray-400 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition-all duration-200 flex items-center justify-center gap-2"
+                    >
+                      {isExecuting ? (
+                        <>
+                          <svg className="w-5 h-5 animate-spin" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                            <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                          </svg>
+                          Executing...
+                        </>
+                      ) : (
+                        <>
+                          <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                          </svg>
+                          Execute Pipeline
+                        </>
+                      )}
+                    </button>
+                  </div>
+
+                  {/* Right Column - Logs and Results */}
+                  <div className="space-y-4">
+                    {/* NER Result */}
+                    <div className="bg-white rounded-lg shadow p-4">
+                      <label className="block text-sm font-semibold text-gray-700 mb-2">
+                        🏷️ NER Result
+                      </label>
+                      <div
+                        className="w-full h-48 p-3 border border-gray-300 rounded-lg text-sm bg-yellow-50 overflow-auto whitespace-pre-wrap font-mono"
+                      >
+                        {nerResult || "Named Entity Recognition results will appear here..."}
+                      </div>
+                    </div>
+
+                    {/* Final Result */}
+                    <div className="bg-white rounded-lg shadow p-4">
+                      <label className="block text-sm font-semibold text-gray-700 mb-2">
+                        ✨ Final Result
+                      </label>
+                      <textarea
+                        value={finalResult}
+                        readOnly
+                        className="w-full h-48 p-3 border border-gray-300 rounded-lg text-sm bg-green-50 focus:outline-none overflow-auto"
+                        placeholder="Results from agents with 'Show result' checked will appear here..."
+                      />
+                    </div>
+
+                    {/* Execution Log */}
+                    <div className="bg-white rounded-lg shadow p-4">
+                      <label className="block text-sm font-semibold text-gray-700 mb-2">
+                        📋 Execution Log
+                      </label>
+                      <textarea
+                        value={logs}
+                        readOnly
+                        className="w-full h-[calc(100vh-800px)] p-3 border border-gray-300 rounded-lg font-mono text-xs bg-gray-50 focus:outline-none overflow-auto"
+                        placeholder="Execution logs will appear here when you run the pipeline..."
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          );
+        };
+
+        ReactDOM.render(<PubSubAgentSystem />, document.getElementById('root'));
+    </script>
+</body>
+</html>
