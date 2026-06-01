@@ -31,7 +31,8 @@
             "MedAIBase/MedGemma1.5:4b",
             "deepseek-coder:1.3b",
             "samrawal/bert-base-uncased_clinical-ner",
-            "OpenMed/OpenMed-NER-AnatomyDetect-BioPatient-108M"
+            "OpenMed/OpenMed-NER-AnatomyDetect-BioPatient-108M",
+            "SQL"
           ];
 
           const addLog = (message, type = 'info') => {
@@ -67,7 +68,14 @@
             const newDataSource = {
               id: Date.now(),
               label: `Data${dataSources.length + 1}`,
-              content: ''
+              type: 'passive',
+              content: '',
+              subscribeTopic: '',
+              appendContent: false,
+              splitLastLine: false,
+              firstTopic: '',
+              nextTopic: '',
+              publishTopic: ''
             };
             setDataSources([...dataSources, newDataSource]);
           };
@@ -108,7 +116,14 @@
               userQuestion,
               dataSources: dataSources.map(ds => ({
                 label: ds.label,
-                content: ds.content
+                type: ds.type || 'passive',
+                content: ds.content,
+                subscribeTopic: ds.subscribeTopic || '',
+                appendContent: ds.appendContent || false,
+                splitLastLine: ds.splitLastLine || false,
+                firstTopic: ds.firstTopic || '',
+                nextTopic: ds.nextTopic || '',
+                publishTopic: ds.publishTopic || ''
               })),
               agents: agents.map(a => ({
                 title: a.title,
@@ -163,7 +178,14 @@
                 const loadedDataSources = config.dataSources.map(ds => ({
                   id: Date.now() + Math.random(),
                   label: ds.label,
-                  content: ds.content
+                  type: ds.type || 'passive',
+                  content: ds.content,
+                  subscribeTopic: ds.subscribeTopic || '',
+                  appendContent: ds.appendContent || false,
+                  splitLastLine: ds.splitLastLine || false,
+                  firstTopic: ds.firstTopic || '',
+                  nextTopic: ds.nextTopic || '',
+                  publishTopic: ds.publishTopic || ''
                 }));
                 setDataSources(loadedDataSources);
 
@@ -226,7 +248,14 @@
                 body: JSON.stringify({
                   data_sources: dataSources.map(ds => ({
                     label: ds.label,
-                    content: ds.content
+                    type: ds.type || 'passive',
+                    content: ds.content,
+                    subscribe_topic: ds.subscribeTopic || null,
+                    append_content: ds.appendContent || false,
+                    split_last_line: ds.splitLastLine || false,
+                    first_topic: ds.firstTopic || null,
+                    next_topic: ds.nextTopic || null,
+                    publish_topic: ds.publishTopic || null
                   })),
                   user_question: userQuestion,
                   agents: agents.map(a => ({
@@ -263,6 +292,18 @@
                         addLog('Bus initialized', 'bus');
                       } else if (data.type === 'agent_subscribed') {
                         addLog(`Agent "${data.agent}" subscribed to topic "${data.topic}"`, 'bus');
+                      } else if (data.type === 'datasource_subscribed') {
+                        addLog(`Data source "${data.datasource}" subscribed to topic "${data.topic}"`, 'bus');
+                      } else if (data.type === 'datasource_updated') {
+                        addLog(`Data source "${data.datasource}" ${data.appended ? 'appended' : 'updated'} ${data.split_last_line ? 'last line from' : 'with message from'} "${data.topic}"`, 'bus');
+                        // Update the data source in state
+                        setDataSources(prev => prev.map(ds => 
+                          ds.label === data.datasource ? { ...ds, content: data.content } : ds
+                        ));
+                      } else if (data.type === 'datasource_dispatched') {
+                        addLog(`Data source "${data.datasource}" dispatched row ${data.row} to "${data.publish_topic}"`, 'bus');
+                      } else if (data.type === 'datasource_exhausted') {
+                        addLog(`Data source "${data.datasource}" has no more rows for "${data.topic}"`, 'bus');
                       } else if (data.type === 'message_published') {
                         addLog(`Published to "${data.topic}": ${data.content.substring(0, 100)}${data.content.length > 100 ? '...' : ''}`, 'bus');
                       } else if (data.type === 'agent_triggered') {
@@ -272,7 +313,9 @@
                       } else if (data.type === 'agent_input') {
                         addLog(`Input: ${data.content}`, 'info');
                       } else if (data.type === 'agent_output') {
-                        addLog(`Output: ${data.content}`, 'info');
+                        addLog(`Output: ${data.content.substring(0, 200)}${data.content.length > 200 ? '...' : ''}`, 'info');
+                      } else if (data.type === 'sql_result') {
+                        addLog(`SQL Query executed: ${data.rows} rows returned`, 'success');
                       } else if (data.type === 'agent_completed') {
                         addLog(`Agent "${data.agent}" completed`, 'success');
                       } else if (data.type === 'show_result') {
@@ -417,14 +460,98 @@
                               </div>
                               
                               <div>
+                                <label className="block text-xs font-medium text-gray-600 mb-1">Type</label>
+                                <select
+                                  value={ds.type || 'passive'}
+                                  onChange={(e) => updateDataSource(ds.id, 'type', e.target.value)}
+                                  className="w-full p-2 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-blue-500"
+                                >
+                                  <option value="passive">Passive</option>
+                                  <option value="active">Active CSV Dispatcher</option>
+                                </select>
+                              </div>
+
+                              <div>
                                 <label className="block text-xs font-medium text-gray-600 mb-1">Content</label>
                                 <textarea
                                   value={ds.content}
                                   onChange={(e) => updateDataSource(ds.id, 'content', e.target.value)}
                                   className="w-full h-24 p-2 border border-gray-300 rounded text-sm font-mono focus:ring-2 focus:ring-blue-500"
-                                  placeholder="Enter content or upload file below..."
+                                  placeholder={(ds.type || 'passive') === 'active' ? "field1, field2\nvalue1a,value2a\nvalue1b,value2b" : "Enter content, upload file, or receive from bus..."}
                                 />
                               </div>
+
+                              {(ds.type || 'passive') === 'active' ? (
+                                <div className="grid grid-cols-1 sm:grid-cols-3 gap-2">
+                                  <div>
+                                    <label className="block text-xs font-medium text-gray-600 mb-1">First Topic</label>
+                                    <input
+                                      type="text"
+                                      value={ds.firstTopic || ''}
+                                      onChange={(e) => updateDataSource(ds.id, 'firstTopic', e.target.value)}
+                                      className="w-full p-2 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-blue-500"
+                                      placeholder="e.g., FIRST_ROW"
+                                    />
+                                  </div>
+                                  <div>
+                                    <label className="block text-xs font-medium text-gray-600 mb-1">Next Topic</label>
+                                    <input
+                                      type="text"
+                                      value={ds.nextTopic || ''}
+                                      onChange={(e) => updateDataSource(ds.id, 'nextTopic', e.target.value)}
+                                      className="w-full p-2 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-blue-500"
+                                      placeholder="e.g., NEXT_ROW"
+                                    />
+                                  </div>
+                                  <div>
+                                    <label className="block text-xs font-medium text-gray-600 mb-1">Publish Topic</label>
+                                    <input
+                                      type="text"
+                                      value={ds.publishTopic || ''}
+                                      onChange={(e) => updateDataSource(ds.id, 'publishTopic', e.target.value)}
+                                      className="w-full p-2 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-blue-500"
+                                      placeholder="e.g., CSV_ROW"
+                                    />
+                                  </div>
+                                </div>
+                              ) : (
+                                <div className="space-y-2">
+                                  <div>
+                                    <label className="block text-xs font-medium text-gray-600 mb-1">Subscribe Topic (optional, case insensitive)</label>
+                                    <input
+                                      type="text"
+                                      value={ds.subscribeTopic}
+                                      onChange={(e) => updateDataSource(ds.id, 'subscribeTopic', e.target.value)}
+                                      className="w-full p-2 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-blue-500"
+                                      placeholder="e.g., PROCESSED_DATA - updates content from bus"
+                                    />
+                                  </div>
+                                  <div className="flex items-center gap-2">
+                                    <input
+                                      type="checkbox"
+                                      id={`appendContent-${ds.id}`}
+                                      checked={ds.appendContent || false}
+                                      onChange={(e) => updateDataSource(ds.id, 'appendContent', e.target.checked)}
+                                      className="w-4 h-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
+                                    />
+                                    <label htmlFor={`appendContent-${ds.id}`} className="text-sm font-medium text-gray-700">
+                                      Append Content
+                                    </label>
+                                  </div>
+                                  <div className="flex items-center gap-2">
+                                    <input
+                                      type="checkbox"
+                                      id={`splitLastLine-${ds.id}`}
+                                      checked={ds.splitLastLine || false}
+                                      onChange={(e) => updateDataSource(ds.id, 'splitLastLine', e.target.checked)}
+                                      className="w-4 h-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
+                                    />
+                                    <label htmlFor={`splitLastLine-${ds.id}`} className="text-sm font-medium text-gray-700">
+                                      Split Last Line
+                                    </label>
+                                  </div>
+                                </div>
+                              )}
 
                               <div>
                                 <label className="block text-xs font-medium text-gray-600 mb-1">Upload File (optional)</label>
