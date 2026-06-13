@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-06-11T13:46:55.469Z",
+  "views": [
+    {
+      "type": "final"
+    },
+    {
+      "type": "logs"
+    }
+  ],
+  "finalRenderMode": "raw",
+  "dataSources": [],
+  "agents": [
+    {
+      "title": "Agent 1",
+      "prompt": "",
+      "factsRules": "bacteria(v_cholerae).\nbacteria(e_coli).\nbacteria(b_anthracis).\nbacteria(c_difficile).\n\ngram_positive(b_anthracis).\ngram_positive(c_difficile).\n\ngram_negative(B) :- bacteria(B), \\+ gram_positive(B).",
+      "query": "gram_negative(X).",
+      "model": "PROLOG",
+      "subscribeTopic": "START",
+      "publishTopic": "",
+      "showResult": true
+    }
+  ],
+  "results": {
+    "finalResult": "--- Agent 1 ---\n\n{\n  \"solutions\": [\n    {\n      \"X\": \"v_cholerae\"\n    },\n    {\n      \"X\": \"e_coli\"\n    }\n  ],\n  \"solution_count\": 2\n}",
+    "nerResult": "",
+    "executionLog": "[10:46:30 AM] ℹ️ Initializing Pub/Sub Agent System...\n[10:46:30 AM] ℹ️ Total agents configured: 1\n[10:46:30 AM] ℹ️ Data sources: 0\n[10:46:30 AM] 📡 Bus initialized\n[10:46:30 AM] 📡 Agent \"Agent 1\" subscribed to topic \"START\"\n[10:46:30 AM] 📡 Published to \"START\": System initialized\n[10:46:30 AM] 🤖 Agent \"Agent 1\" triggered by topic \"start\"\n[10:46:30 AM] 🤖 Agent \"Agent 1\" processing...\n[10:46:30 AM] ℹ️ Input: System initialized\n[10:46:30 AM] ℹ️ Output: {\n  \"solutions\": [\n    {\n      \"X\": \"v_cholerae\"\n    },\n    {\n      \"X\": \"e_coli\"\n    }\n  ],\n  \"solution_count\": 2\n}\n[10:46:30 AM] ✅ Prolog query executed: 2 solutions returned\n[10:46:30 AM] ✅ Agent \"Agent 1\" completed\n[10:46:30 AM] ✅ \n=== EXECUTION COMPLETE ===\n"
+  }
+}
