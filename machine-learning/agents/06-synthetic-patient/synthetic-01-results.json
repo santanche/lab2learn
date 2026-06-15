@@ -1,0 +1,47 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-06-15T10:13:24.980Z",
+  "views": [
+    {
+      "type": "final",
+      "visible": true
+    },
+    {
+      "type": "logs",
+      "visible": true
+    }
+  ],
+  "finalRenderMode": "markdown",
+  "dataSources": [
+    {
+      "label": "Parameters",
+      "type": "passive",
+      "content": "* age: 66\n* total cholesterol: 176\n* HDL: 64\n* SBP: 200\n* EGFR: 43\n* diabetes: yes\n* smoking: yes\n* blood pressure treat: yes\n* statins: no",
+      "subscribeTopic": "",
+      "appendContent": false,
+      "splitLastLine": false,
+      "firstTopic": "",
+      "nextTopic": "",
+      "publishTopic": "",
+      "visible": true
+    }
+  ],
+  "agents": [
+    {
+      "title": "Agent 1",
+      "prompt": "{Question}\nUse the following parameters:\n{Parameters}",
+      "factsRules": "",
+      "query": "",
+      "model": "MedAIBase/MedGemma1.5:4b",
+      "subscribeTopic": "START",
+      "publishTopic": "",
+      "showResult": true,
+      "visible": true
+    }
+  ],
+  "results": {
+    "finalResult": "--- Agent 1 ---\n\n## Clinical Case Vignette: Mr. David Chen\n\n**Patient:** Mr. David Chen, 66-year-old male\n\n**Presenting Complaint:** Mr. Chen presents to the emergency department with acute onset of substernal chest pain that began 30 minutes ago. The pain is described as a pressure-like sensation, radiating to his left arm and jaw, and is accompanied by shortness of breath and diaphoresis. He reports a history of hypertension and diabetes mellitus type 2. He is a current smoker.\n\n**History of Present Illness:** Mr. Chen denies any recent strenuous activity or significant emotional stress preceding the onset of the pain. He reports a history of similar, but less severe, episodes of chest discomfort over the past year, which he attributed to indigestion. He denies any palpitations, syncope, or recent changes in his medication regimen.\n\n**Past Medical History:**\n* Hypertension (diagnosed 10 years ago)\n* Type 2 Diabetes Mellitus (diagnosed 5 years ago)\n* Hyperlipidemia (diagnosed 3 years ago)\n* Chronic Obstructive Pulmonary Disease (COPD) (diagnosed 2 years ago)\n* Coronary Artery Disease (CAD) (suspected based on previous episodes)\n\n**Medications:**\n* Lisinopril 20 mg daily (for hypertension)\n* Metformin 1000 mg twice daily (for diabetes)\n* Albuterol inhaler as needed (for COPD)\n* Aspirin 81 mg daily (for cardiovascular risk reduction)\n\n**Social History:**\n* Smoker: 1 pack per day for 40 years (quit 5 years ago)\n* Alcohol: Moderate consumption (1-2 drinks per week)\n* Occupation: Retired accountant\n\n**Family History:**\n* Father died of myocardial infarction at age 60.\n* Mother had hypertension.\n\n**Physical Examination:**\n* Vitals: BP 200/110 mmHg, HR 110 bpm, RR 22 breaths/min, Temp 37.1°C, SpO2 96% on room air.\n* General: Alert, appears distressed.\n* Cardiovascular: Tachycardic, regular rhythm. S1 and S2 are normal. No murmurs, rubs, or gallops.\n* Respiratory: Lungs are clear to auscultation bilaterally.\n* Extremities: No peripheral edema.\n* Neurological: No focal deficits.\n\n**Laboratory Results:**\n* **Total Cholesterol:** 176 mg/dL (Normal: <200 mg/dL)\n*   **HDL:** 64 mg/dL (Normal: >40 mg/dL for men)\n*   **LDL:** (Calculated) 110 mg/dL (Optimal: <100 mg/dL, Near optimal: 100-129 mg/dL, Borderline high: 130-159 mg/dL, High: 160-189 mg/dL, Very high: ≥190 mg/dL)\n*   **Triglycerides:** 180 mg/dL (Normal: <150 mg/dL)\n*   **Blood Urea Nitrogen (BUN):** 25 mg/dL (Normal: 7-20 mg/dL)\n*   **Creatinine:** 1.3 mg/dL (Normal: 0.7-1.3 mg/dL)\n*   **Estimated Glomerular Filtration Rate (eGFR):** 43 mL/min/1.73 m² (Indicates moderate chronic kidney disease)\n*   **Sodium:** 138 mEq/L\n*   **Potassium:** 4.2 mEq/L\n*   **Glucose:** 185 mg/dL (High)\n*   **HbA1c:** 7.8% (Indicates poor long-term glycemic control)\n*   **Troponin I:** 1.8 ng/mL (Elevated, indicates myocardial injury)\n\n**Assessment:**\nThe patient presents with classic symptoms of acute coronary syndrome (ACS), likely non-ST-elevation myocardial infarction (NSTEMI) given the elevated troponin. He has multiple significant risk factors for cardiovascular disease, including age, male sex, history of hypertension, diabetes mellitus, hyperlipidemia, smoking history, and family history of premature CAD. His current blood pressure is significantly elevated (200/110 mmHg), and his eGFR indicates moderate chronic kidney disease. He is currently not on a statin therapy.\n\n**Plan:**\n1.  **Immediate Management:**\n    *   Place the patient in a calm environment.\n    *   Administer oxygen to maintain SpO2 ≥ 94%.\n    *   Establish IV access.\n    *   Administer aspirin 324 mg chewed.\n    *   Administer a P2Y12 inhibitor (e.g., clopidogrel 300 mg loading dose or ticagrelor 180 mg loading dose).\n    *   Administer a nitroglycerin infusion (titrated to achieve BP < 180/105 mmHg and HR < 100 bpm, avoiding use in right ventricular infarction or severe hypotension).\n    *   Administer a beta-blocker (e.g., metoprolol) cautiously, given his tachycardia and potential for heart failure.\n    *   Administer a statin (e.g., atorvastatin 80 mg or rosuvastatin 20-40 mg) for secondary prevention.\n    *   Administer anticoagulation (e.g., heparin or enoxaparin).\n    *   Initiate dual antiplatelet therapy (aspirin + P2Y12 inhibitor).\n    *   Consider a morphine sulfate infusion for pain control.\n    *   Monitor ECG continuously.\n    *   Monitor vital signs and labs frequently.\n    *   Consider echocardiogram to assess for wall motion abnormalities and ejection fraction.\n    *   Consider coronary angiography with possible PCI if indicated.\n\n2.  **Long-Term Management:**\n    *   Optimize management of hypertension (target BP < 130/80 mmHg, considering CKD).\n    *   Optimize management of diabetes (target HbA1c < 7.0%).\n    *   Initiate or intensify statin therapy for secondary prevention (high-intensity statin recommended).\n    *   Lifestyle modifications: smoking cessation counseling, dietary changes, regular exercise.\n    *   Consider implantable loop recorder if symptoms persist despite optimal medical therapy.\n    *   Regular follow-up with cardiology.\n\n**Learning Objectives:**\n*   Recognize the clinical presentation of acute coronary syndrome (ACS).\n*   Identify risk factors for cardiovascular disease in this patient.\n*   Interpret laboratory results, including troponin levels and eGFR.\n*   Understand the initial management steps for NSTEMI.\n*   Recognize the importance of secondary prevention strategies, including statin therapy.\n*   Consider the impact of comorbidities (hypertension, diabetes, CKD) on management decisions.\n*   Understand the role of medication adherence and lifestyle modifications.\n\nThis case vignette provides a comprehensive overview of a patient presenting with ACS, highlighting the interplay between symptoms, risk factors, comorbidities, and laboratory findings. It allows for discussion of diagnostic considerations, initial management strategies, and long-term secondary prevention.",
+    "nerResult": "",
+    "executionLog": "[11:26:56 AM] ℹ️ Initializing Pub/Sub Agent System...\n[11:26:56 AM] ℹ️ Total agents configured: 1\n[11:26:56 AM] ℹ️ Data sources: 1\n[11:26:56 AM] ℹ️ User Question: Create an clinical case vignette for student training with a patient of high risk of a heart disease that is felling chest pain.\n[11:37:16 AM] 📡 Bus initialized\n[11:37:16 AM] 📡 Agent \"Agent 1\" subscribed to topic \"START\"\n[11:37:16 AM] 📡 Published to \"START\": Create an clinical case vignette for student training with a patient of high risk of a heart disease...\n[11:37:16 AM] 🤖 Agent \"Agent 1\" triggered by topic \"start\"\n[11:37:16 AM] 🤖 Agent \"Agent 1\" processing...\n[11:37:16 AM] ℹ️ Input: Create an clinical case vignette for student training with a patient of high risk of a heart disease that is felling chest pain.\n[11:37:16 AM] ℹ️ Output: ## Clinical Case Vignette: Mr. David Chen\n\n**Patient:** Mr. David Chen, 66-year-old male\n\n**Presenting Complaint:** Mr. Chen presents to the emergency department with acute onset of substernal chest p...\n[11:37:16 AM] ✅ Agent \"Agent 1\" completed\n[11:37:16 AM] ✅ \n=== EXECUTION COMPLETE ===\n[7:11:45 AM] ✅ Configuration loaded: 1 data sources, 1 agents (with saved results)\n"
+  }
+}

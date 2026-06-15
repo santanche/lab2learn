@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-06-11T14:31:40.864Z",
+  "views": [
+    {
+      "type": "final",
+      "visible": true
+    },
+    {
+      "type": "logs",
+      "visible": true
+    }
+  ],
+  "finalRenderMode": "raw",
+  "dataSources": [
+    {
+      "label": "Parameters",
+      "type": "passive",
+      "content": "* age: 66\n* total cholesterol: 176\n* HDL: 64\n* SBP: 200\n* EGFR: 43\n* diabetes: yes\n* smoking: yes\n* blood pressure treat: yes\n* statins: no",
+      "subscribeTopic": "",
+      "appendContent": false,
+      "splitLastLine": false,
+      "firstTopic": "",
+      "nextTopic": "",
+      "publishTopic": "",
+      "visible": true
+    }
+  ],
+  "agents": [
+    {
+      "title": "Agent 1",
+      "prompt": "Create an clinical case vignette for student training with a patient of high risk of a heart disease that is felling chest pain. Use the following parameters:\n{Parameters}",
+      "factsRules": "",
+      "query": "",
+      "model": "MedAIBase/MedGemma1.5:4b",
+      "subscribeTopic": "START",
+      "publishTopic": "",
+      "showResult": true,
+      "visible": true
+    }
+  ]
+}

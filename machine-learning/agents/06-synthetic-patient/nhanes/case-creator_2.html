@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AHA PREVENT - Fuzzified Virtual Patient Simulator</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <style>
+        :root {
+            --bg: #f8fafc; --panel: #ffffff; --border: #cbd5e1;
+            --text: #0f172a; --primary: #2563eb; --danger: #dc2626; --success: #16a34a;
+        }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: var(--bg); margin: 0; display: flex; flex-direction: column; height: 100vh; overflow: hidden; color: var(--text); }
+        
+        /* Layout Sections */
+        .top-nav { background: #1e293b; color: white; padding: 12px 20px; display: flex; justify-content: space-between; align-items: center; flex-shrink: 0; }
+        .query-area { background: var(--panel); padding: 15px 20px; border-bottom: 2px solid var(--border); flex-shrink: 0; display: flex; justify-content: space-between; align-items: center; }
+        .table-area { flex: 1; min-height: 150px; overflow-y: auto; background: var(--panel); border-bottom: 3px solid #000; }
+        .explorer-area { height: 480px; display: flex; background: #f1f5f9; flex-shrink: 0; }
+
+        /* Controls */
+        select, button, input[type="file"] { padding: 6px 12px; border-radius: 4px; border: 1px solid #94a3b8; font-size: 0.85rem; }
+        .btn-primary { background: var(--primary); color: white; border: none; cursor: pointer; font-weight: bold; }
+        .btn-synth { background: #8b5cf6; color: white; border: none; cursor: pointer; font-weight: bold; }
+        .btn-csv { background: #10b981; color: white; border: none; cursor: pointer; font-weight: bold; }
+        .badge { background: #334155; color: white; padding: 4px 10px; border-radius: 12px; font-size: 0.75rem; margin-left: 5px; }
+
+        /* Table */
+        table { width: 100%; border-collapse: collapse; font-size: 0.8rem; text-align: center; }
+        th { position: sticky; top: 0; background: #e2e8f0; border-bottom: 2px solid #94a3b8; padding: 10px; }
+        td { padding: 8px; border-bottom: 1px solid var(--border); }
+        tr:hover { background: #f1f5f9; cursor: pointer; }
+        .selected-row { background: #dbeafe !important; font-weight: bold; border-left: 4px solid var(--primary); }
+
+        /* Explorer Panels */
+        .sidebar { width: 320px; padding: 20px; background: white; border-right: 1px solid var(--border); overflow-y: auto; }
+        .main-view { flex: 1; padding: 20px; overflow-y: auto; background: white; }
+        
+        .section-title { font-size: 0.75rem; font-weight: bold; color: #64748b; text-transform: uppercase; margin: 15px 0 10px 0; border-bottom: 1px solid #e2e8f0; padding-bottom: 4px; }
+        .control-group { margin-bottom: 12px; }
+        .control-group label { display: flex; justify-content: space-between; font-size: 0.85rem; font-weight: 600; margin-bottom: 4px; }
+        input[type=range] { width: 100%; accent-color: var(--primary); }
+
+        .result-card { display: flex; align-items: center; justify-content: space-around; background: #f8fafc; padding: 15px; border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 20px; }
+        .score-val { font-size: 2.5rem; font-weight: 900; color: var(--danger); }
+        
+        .binary-box { padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 0.75rem; color: white; display: inline-block; border: 1px solid #000; }
+        .box-yes { background: #fee2e2; color: #dc2626; }
+        .box-no { background: #f1f5f9; color: #64748b; }
+        
+        .impact-bar-bg { position: relative; width: 100px; height: 24px; background: #f1f5f9; margin: 0 auto; border-radius: 12px; overflow: hidden; border: 1px solid #cbd5e1; }
+        .impact-bar-fill { position: absolute; top: 0; left: 0; height: 100%; z-index: 0; }
+        .impact-text { position: relative; z-index: 1; line-height: 24px; font-weight: bold; font-size: 0.7rem; color: #000; }
+    </style>
+</head>
+<body>
+
+    <nav class="top-nav">
+        <div style="font-size: 1.2rem; font-weight: bold;">AHA PREVENT - Fuzzified Virtual Patient Simulator</div>
+        <div>
+            <span style="font-size: 0.8rem; margin-right: 10px;">Load NHANES Processed Data:</span>
+            <input type="file" id="csv_file" accept=".csv">
+        </div>
+    </nav>
+
+    <div class="query-area">
+        <div style="display: flex; gap: 10px; align-items: center;">
+            <strong>Semantic Filters (α ≥ 0.5):</strong>
+            <select id="f_var">
+                <option value="age">Age</option><option value="sbp">SBP</option>
+                <option value="egfr">eGFR</option><option value="hdl">HDL</option>
+                <option value="nohdl">No-HDL</option><option value="risk">Risk</option>
+            </select>
+            <span>is</span>
+            <select id="f_term"></select>
+            <button class="btn-primary" onclick="addFilter()">+ Add Filter</button>
+            <button onclick="clearFilters()" style="background: white; color: black;">Reset</button>
+            <div id="active_filters" style="display:flex; gap:5px; margin-left:15px;"></div>
+        </div>
+        <div style="display: flex; gap: 10px;">
+            <input type="number" id="synth_count" value="10" style="width: 60px;">
+            <button class="btn-synth" onclick="generateSynthetic()">🎲 Gen Synthetic Cohort</button>
+            <button class="btn-csv" onclick="exportToCSV()">💾 Export CSV</button>
+        </div>
+    </div>
+
+    <div class="table-area">
+        <table id="results_table">
+            <thead>
+                <tr>
+                    <th>ID</th><th>Age</th><th>SBP</th><th>eGFR</th><th>HDL</th><th>No-HDL</th>
+                    <th>DM</th><th>Smoke</th><th>BP Rx</th><th>Statin</th><th>PREVENT Risk</th>
+                </tr>
+            </thead>
+            <tbody id="results_body">
+                <tr><td colspan="11" style="padding: 30px; color: #64748b;">Please load the CSV dataset or Generate a Synthetic Patient to begin.</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="explorer-area" id="explorer_panel">
+        <div class="sidebar">
+            <h3 style="margin:0 0 5px 0;">Patient Explorer</h3>
+            <div id="selected_id_lbl" style="font-size:0.8rem; font-weight: bold; color: var(--primary);">ID: None Selected</div>
+            
+            <div class="section-title">Biometrics (Continuous)</div>
+            <div class="control-group"><label>Age: <span id="age_v">--</span></label><input type="range" id="age" min="30" max="85" step="any"></div>
+            <div class="control-group"><label>Total Chol (mg/dL): <span id="tc_v">--</span></label><input type="range" id="tc" min="100" max="400" step="any"></div>
+            <div class="control-group"><label>HDL (mg/dL): <span id="hdl_v">--</span></label><input type="range" id="hdl" min="20" max="150" step="any"></div>
+            <div class="control-group"><label>SBP (mmHg): <span id="sbp_v">--</span></label><input type="range" id="sbp" min="80" max="250" step="any"></div>
+            <div class="control-group"><label>eGFR (ml/min): <span id="egfr_v">--</span></label><input type="range" id="egfr" min="15" max="150" step="any"></div>
+
+            <div class="section-title">Clinical Flags (Binary)</div>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; font-size: 0.85rem;">
+                <label><input type="checkbox" id="dm"> Diabetes</label>
+                <label><input type="checkbox" id="smoking"> Smoking</label>
+                <label><input type="checkbox" id="bp_treat"> BP Treat</label>
+                <label><input type="checkbox" id="statin"> Statins</label>
+            </div>
+        </div>
+
+        <div class="main-view">
+            <div class="result-card">
+                <div style="text-align:center; border-right:2px solid #e2e8f0; padding-right:30px;">
+                    <div style="font-size:0.75rem; font-weight:bold; color:#64748b;">10-YEAR CVD RISK</div>
+                    <div class="score-val" id="risk_display">0.00%</div>
+                </div>
+                <div style="flex-grow: 1; margin-left: 30px;">
+                    <div style="font-size:0.75rem; font-weight:bold; color:#64748b; margin-bottom: 5px;">SEMANTIC RISK DISTRIBUTION</div>
+                    <canvas id="canvas_risk" width="400" height="45" style="background: white; border: 1px solid #cbd5e1; border-radius: 4px;"></canvas>
+                    <div id="risk_labels" style="display:flex; gap:10px; margin-top:5px; justify-content: center;"></div>
+                </div>
+            </div>
+
+            <table style="width:100%; font-size:0.8rem;">
+                <thead>
+                    <tr><th>Parameter</th><th>Crisp Value</th><th>Distribution / State</th><th>Active Semantic Memberships</th><th>Relative Impact</th><th>Log-Odds</th></tr>
+                </thead>
+                <tbody id="impact_body"></tbody>
+            </table>
+        </div>
+    </div>
+
+<script>
+    // --- FUZZY MATH ENGINE ---
+    const zmf = (x, a, b) => x <= a ? 1 : x >= b ? 0 : x <= (a+b)/2 ? 1 - 2*((x-a)/(b-a))**2 : 2*((x-b)/(b-a))**2;
+    const smf = (x, a, b) => x <= a ? 0 : x >= b ? 1 : x <= (a+b)/2 ? 2*((x-a)/(b-a))**2 : 1 - 2*((x-b)/(b-a))**2;
+    const gbell = (x, a, b, c) => 1 / (1 + Math.abs((x-c)/a)**(2*b));
+
+    const defs = {
+        age: { min:30, max:80, sets:[{n:"Young", c:"#3b82f6", f:x=>zmf(x,30,55)}, {n:"Senior", c:"#22c55e", f:x=>gbell(x,10,4,55)}, {n:"Old", c:"#dc2626", f:x=>smf(x,55,80)}]},
+        sbp: { min:90, max:200, sets:[{n:"Opt", c:"#3b82f6", f:x=>zmf(x,90,115)}, {n:"Norm", c:"#22c55e", f:x=>gbell(x,10,3,110)}, {n:"High", c:"#dc2626", f:x=>smf(x,105,135)}]},
+        egfr: { min:15, max:120, sets:[{n:"Fail", c:"#dc2626", f:x=>zmf(x,30,75)}, {n:"Decr", c:"#f59e0b", f:x=>gbell(x,15,3,65)}, {n:"Safe", c:"#22c55e", f:x=>smf(x,55,100)}]},
+        no_hdl: { min:2.8, max:5.7, sets:[{n:"Opt", c:"#3b82f6", f:x=>zmf(x,2.8,3.5)}, {n:"Norm", c:"#22c55e", f:x=>gbell(x,0.35,4,3.5)}, {n:"High", c:"#dc2626", f:x=>smf(x,3.5,5.7)}]},
+        hdl: { min:0.5, max:2.6, sets:[{n:"Low", c:"#dc2626", f:x=>zmf(x,0.5,1.3)}, {n:"Norm", c:"#22c55e", f:x=>gbell(x,0.3,4,1.3)}, {n:"High", c:"#3b82f6", f:x=>smf(x,1.3,2.6)}]},
+        risk: { min:0, max:40, sets:[{n:"Low", c:"#3b82f6", f:x=>zmf(x,0,10)}, {n:"Med", c:"#f59e0b", f:x=>gbell(x,7.5,3,12.5)}, {n:"High", c:"#dc2626", f:x=>smf(x,15,30)}]}
+    };
+
+    let allData = [];
+    let currentFilters = [];
+
+    // --- QUERY BUILDER LOGIC ---
+    const terms = { age:['young','senior','old'], sbp:['optimal','normal','high'], egfr:['failure','decreased','healthy'], hdl:['low','normal','high'], nohdl:['optimal','normal','high'], risk:['low','medium','high'] };
+    document.getElementById('f_var').addEventListener('change', function() {
+        document.getElementById('f_term').innerHTML = terms[this.value].map(t => `<option value="${t}">${t.toUpperCase()}</option>`).join('');
+    });
+    document.getElementById('f_var').dispatchEvent(new Event('change'));
+
+    document.getElementById('csv_file').addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if(!file) return;
+        Papa.parse(file, { 
+            header: true, dynamicTyping: true, skipEmptyLines: 'greedy', 
+            complete: function(r) { allData = r.data; applyFilters(); }
+        });
+    });
+
+    function addFilter() { currentFilters.push({ var: document.getElementById('f_var').value, term: document.getElementById('f_term').value }); renderFilters(); applyFilters(); }
+    function clearFilters() { currentFilters = []; renderFilters(); applyFilters(); }
+    function renderFilters() { document.getElementById('active_filters').innerHTML = currentFilters.map((f,i) => `<span class="badge">${f.var}:${f.term} <b onclick="removeFilter(${i})" style="cursor:pointer">×</b></span>`).join(''); }
+    function removeFilter(i) { currentFilters.splice(i,1); renderFilters(); applyFilters(); }
+
+    function applyFilters() {
+        if(allData.length === 0) return;
+        const filtered = allData.filter(row => currentFilters.every(f => {
+            const key = f.var === 'nohdl' ? `nohdl_${f.term}` : f.var === 'risk' ? `risk_${f.term}` : `${f.var}_${f.term}`;
+            return (row[key] || 0) >= 0.5; 
+        }));
+        renderTable(filtered);
+    }
+
+    function renderTable(data) {
+        const tb = document.getElementById('results_body');
+        if(!data || data.length === 0) { tb.innerHTML = '<tr><td colspan="11">No patients match the criteria.</td></tr>'; return; }
+        
+        let html = '';
+        data.forEach(r => {
+            try {
+                if(!r.ID) return; 
+                html += `
+                <tr onclick="loadIntoExplorer('${r.ID}')">
+                    <td style="font-weight:bold;">${r.ID}</td>
+                    <td>${Number(r.age||0).toFixed(0)}</td><td>${Number(r.sbp||0).toFixed(0)}</td><td>${Number(r.egfr||0).toFixed(1)}</td>
+                    <td>${Number(r.hdl||0).toFixed(1)}</td><td>${Number((r.tc||0) - (r.hdl||0)).toFixed(1)}</td>
+                    <td>${r.dm ? 'Y' : 'N'}</td><td>${r.smoking ? 'Y' : 'N'}</td>
+                    <td>${r.bp_treat ? 'Y' : 'N'}</td><td>${r.statin_use ? 'Y' : 'N'}</td>
+                    <td style="color:var(--danger); font-weight:bold;">${Number(r.risk||0).toFixed(2)}%</td>
+                </tr>`;
+            } catch(err) { console.error(err); }
+        });
+        tb.innerHTML = html;
+    }
+
+    // --- MODULE 2: SYNTHETIC PATIENT GENERATOR ---
+    function generateSynthetic() {
+        const rand = (min, max) => min + Math.random() * (max - min);
+        const count = parseInt(document.getElementById('synth_count').value) || 10;
+        
+        for(let i = 0; i < count; i++) {
+            let s = { ID: "SYNT-" + Math.floor(Math.random()*99999), age: rand(35, 75), sbp: rand(100, 160), egfr: rand(45, 100), hdl: rand(35, 70) };
+            
+            currentFilters.forEach(f => {
+                if(f.var === 'age') { s.age = f.term==='young'?rand(30,45) : f.term==='senior'?rand(45,65) : rand(65,80); }
+                if(f.var === 'sbp') { s.sbp = f.term==='optimal'?rand(90,110) : f.term==='high'?rand(130,190) : rand(110,130); }
+                if(f.var === 'egfr') { s.egfr = f.term==='failure'?rand(15,45) : f.term==='healthy'?rand(75,120) : rand(45,75); }
+            });
+            
+            s.tc = s.hdl + rand(80, 180);
+            s.dm = Math.random() > 0.8 ? 1 : 0;
+            s.smoking = Math.random() > 0.85 ? 1 : 0;
+            s.bp_treat = s.sbp > 135 ? 1 : 0;
+            s.statin_use = Math.random() > 0.7 ? 1 : 0;
+            s.risk = 0;
+            
+            s.age_young = defs.age.sets[0].f(s.age); s.age_senior = defs.age.sets[1].f(s.age); s.age_old = defs.age.sets[2].f(s.age);
+            s.sbp_optimal = defs.sbp.sets[0].f(s.sbp); s.sbp_normal = defs.sbp.sets[1].f(s.sbp); s.sbp_high = defs.sbp.sets[2].f(s.sbp);
+
+            // Re-calculate the actual PREVENT risk for the synthetic patient so it exports correctly
+            const age_t = (s.age - 55)/10;
+            const no_hdl_m = (s.tc - s.hdl)/38.67;
+            const hdl_m = s.hdl/38.67;
+            let l = -3.307728 
+                + (0.7939329 * age_t)
+                + ((0.0305239 * (no_hdl_m - 3.5)) - (0.0819715 * age_t * (no_hdl_m - 3.5)))
+                + ((-0.1606857 * ((hdl_m - 1.3)/0.3)) + (0.0306769 * age_t * ((hdl_m - 1.3)/0.3)))
+                + ((-0.2394003 * (Math.min(s.sbp,110)-110)/20) + (0.360078 * (Math.max(s.sbp,110)-130)/20) - (0.0946348 * age_t * (Math.max(s.sbp,110)-130)/20))
+                + ((0.8667604 * s.dm) - (0.27057 * age_t * s.dm))
+                + ((0.5360739 * s.smoking) - (0.078715 * age_t * s.smoking))
+                + ((0.6045917 * (Math.min(s.egfr,60)-60)/-15) + (0.0433769 * (Math.max(s.egfr,60)-90)/-15) - (0.1637806 * age_t * (Math.min(s.egfr,60)-60)/-15))
+                + ((0.3151672 * s.bp_treat) - (0.0663612 * s.bp_treat * (Math.max(s.sbp,110)-130)/20))
+                + ((-0.1477655 * s.statin_use) + (0.1197879 * s.statin_use * (no_hdl_m - 3.5)));
+            
+            s.risk = 100 * Math.exp(l)/(1+Math.exp(l));
+
+            allData.unshift(s);
+        }
+        applyFilters(); 
+        loadIntoExplorer(allData[0].ID);
+    }
+
+    // --- EXPLORER LOGIC & PRECISE MATH ---
+    function loadIntoExplorer(id) {
+        const p = allData.find(x => String(x.ID) === String(id));
+        if(!p) return;
+        document.getElementById('selected_id_lbl').innerText = `ID: ${p.ID}`;
+        
+        document.getElementById('age').value = p.age;
+        document.getElementById('tc').value = p.tc;
+        document.getElementById('hdl').value = p.hdl;
+        document.getElementById('sbp').value = p.sbp;
+        document.getElementById('egfr').value = p.egfr;
+        
+        document.getElementById('dm').checked = (p.dm == 1);
+        document.getElementById('smoking').checked = (p.smoking == 1);
+        document.getElementById('bp_treat').checked = (p.bp_treat == 1);
+        document.getElementById('statin').checked = (p.statin_use == 1);
+        
+        updateExplorer();
+        
+        document.querySelectorAll('tr').forEach(tr => tr.classList.remove('selected-row'));
+        const rows = document.querySelectorAll('#results_body tr');
+        for(let r of rows) { if(r.cells[0].innerText === String(id)) r.classList.add('selected-row'); }
+    }
+
+    function drawChart(canvasId, key, val) {
+        const c = document.getElementById(canvasId); if(!c) return;
+        const ctx = c.getContext('2d'); const d = defs[key];
+        ctx.clearRect(0,0,c.width,c.height);
+        d.sets.forEach(s => {
+            ctx.beginPath(); ctx.strokeStyle = s.c; ctx.lineWidth = 1.5;
+            for(let i=0; i<=c.width; i++) {
+                let x = d.min + (i/c.width)*(d.max-d.min);
+                let y = c.height - s.f(x)*(c.height-2);
+                i===0 ? ctx.moveTo(i,y) : ctx.lineTo(i,y);
+            }
+            ctx.stroke();
+        });
+        let px = ((val-d.min)/(d.max-d.min))*c.width;
+        ctx.setLineDash([3,3]); ctx.strokeStyle="rgba(0,0,0,0.8)"; ctx.beginPath(); ctx.moveTo(px,0); ctx.lineTo(px,c.height); ctx.stroke(); ctx.setLineDash([]);
+    }
+
+    function updateExplorer() {
+        if(document.getElementById('selected_id_lbl').innerText === "ID: None Selected") return;
+
+        const getV = id => document.getElementById(id).type === 'checkbox' ? (document.getElementById(id).checked?1:0) : parseFloat(document.getElementById(id).value);
+        const inputs = { age:getV('age'), tc:getV('tc'), hdl:getV('hdl'), sbp:getV('sbp'), egfr:getV('egfr'), dm:getV('dm'), smoking:getV('smoking'), bp_treat:getV('bp_treat'), statin:getV('statin') };
+        
+        ['age', 'sbp'].forEach(k => document.getElementById(k+'_v').innerText = Number(inputs[k]).toFixed(0));
+        ['tc', 'hdl', 'egfr'].forEach(k => document.getElementById(k+'_v').innerText = Number(inputs[k]).toFixed(2));
+
+        const age_t = (inputs.age - 55)/10;
+        const no_hdl_m = (inputs.tc - inputs.hdl)/38.67;
+        const hdl_m = inputs.hdl/38.67;
+
+        let termsVal = {
+            age: 0.7939329 * age_t,
+            no_hdl: (0.0305239 * (no_hdl_m - 3.5)) - (0.0819715 * age_t * (no_hdl_m - 3.5)),
+            hdl: (-0.1606857 * ((hdl_m - 1.3)/0.3)) + (0.0306769 * age_t * ((hdl_m - 1.3)/0.3)),
+            sbp: (-0.2394003 * (Math.min(inputs.sbp,110)-110)/20) + (0.360078 * (Math.max(inputs.sbp,110)-130)/20) - (0.0946348 * age_t * (Math.max(inputs.sbp,110)-130)/20),
+            dm: (0.8667604 * inputs.dm) - (0.27057 * age_t * inputs.dm),
+            smoking: (0.5360739 * inputs.smoking) - (0.078715 * age_t * inputs.smoking),
+            egfr: (0.6045917 * (Math.min(inputs.egfr,60)-60)/-15) + (0.0433769 * (Math.max(inputs.egfr,60)-90)/-15) - (0.1637806 * age_t * (Math.min(inputs.egfr,60)-60)/-15),
+            bp_rx: (0.3151672 * inputs.bp_treat) - (0.0663612 * inputs.bp_treat * (Math.max(inputs.sbp,110)-130)/20),
+            statin_rx: (-0.1477655 * inputs.statin) + (0.1197879 * inputs.statin * (no_hdl_m - 3.5))
+        };
+
+        let l = -3.307728; 
+        for(let k in termsVal) l += termsVal[k];
+        let risk = 100 * Math.exp(l)/(1+Math.exp(l));
+        
+        document.getElementById('risk_display').innerText = risk.toFixed(2) + '%';
+        drawChart('canvas_risk', 'risk', risk);
+        
+        let risk_lbls = ""; defs.risk.sets.forEach(s => { let m = s.f(risk); if(m>0.01) risk_lbls+=`<span style="color:${s.c}; font-size:0.75rem; font-weight:bold; border:1px solid ${s.c}; padding: 2px 6px; border-radius:4px;">${s.n}: ${m.toFixed(2)}</span>`; });
+        document.getElementById('risk_labels').innerHTML = risk_lbls;
+
+        const absSum = Object.values(termsVal).reduce((a,b)=>a+Math.abs(b), 0);
+        const mapVals = { age:inputs.age, sbp:inputs.sbp, egfr:inputs.egfr, hdl:hdl_m, no_hdl:no_hdl_m, dm:inputs.dm, smoking:inputs.smoking, bp_rx:inputs.bp_treat, statin_rx:inputs.statin };
+        
+        let tbody = "";
+        Object.entries(termsVal).sort((a,b)=>Math.abs(b[1])-Math.abs(a[1])).forEach(([k,v])=>{
+            let infl = (Math.abs(v)/absSum*100).toFixed(1);
+            let visual = defs[k] ? `<canvas id="c_${k}" width="120" height="30" style="background:#fff; border:1px solid #cbd5e1;"></canvas>` : `<div class="binary-box ${mapVals[k]?'box-yes':'box-no'}">${mapVals[k]?'YES':'NO'}</div>`;
+            let mText = ""; if(defs[k]) defs[k].sets.forEach(s => { let m = s.f(mapVals[k]); if(m>0.05) mText+=`<div style="color:${s.c}; font-weight:bold;">${s.n}: ${m.toFixed(2)}</div>`; });
+
+            let crispDisplay = '-';
+            if (mapVals[k] !== undefined) {
+                if (k === 'hdl' || k === 'no_hdl') crispDisplay = mapVals[k].toFixed(2) + ' mmol';
+                else if (k === 'egfr') crispDisplay = mapVals[k].toFixed(2);
+                else if (k === 'dm' || k === 'smoking' || k === 'bp_rx' || k === 'statin_rx') crispDisplay = mapVals[k] ? 'YES' : 'NO';
+                else crispDisplay = mapVals[k].toFixed(0);
+            }
+
+            tbody += `<tr>
+                <td style="text-transform:uppercase; font-weight:bold;">${k.replace('_',' ')}</td>
+                <td>${crispDisplay}</td>
+                <td>${visual}</td><td style="font-size:0.7rem; text-align:left; padding-left:20px;">${mText||(mapVals[k]?'<div style="color:#dc2626; font-weight:bold">YES: 1.00</div>':'<div style="color:#64748b; font-weight:bold">NO: 1.00</div>')}</td>
+                <td><div class="impact-bar-bg"><div class="impact-bar-fill" style="width:${infl}%; background:${v>0?'rgba(220,38,38,0.2)':'rgba(22,163,74,0.2)'}"></div><span class="impact-text">${infl}%</span></div></td>
+                <td style="color:${v>0?'var(--danger)':'var(--success)'}; font-weight:bold;">${v>0?'+':''}${v.toFixed(3)}</td>
+            </tr>`;
+        });
+        document.getElementById('impact_body').innerHTML = tbody;
+        Object.keys(defs).forEach(k => { if(mapVals[k] !== undefined) drawChart('c_'+k, k, mapVals[k]); });
+    }
+
+    // --- CSV EXPORTER ---
+    function exportToCSV() {
+        if (!allData || allData.length === 0) {
+            alert("No data available to export. Please load the dataset or generate synthetic patients first.");
+            return;
+        }
+
+        const csv = Papa.unparse(allData);
+        const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement("a");
+        link.setAttribute("href", url);
+        link.setAttribute("download", "prevent_patients_export.csv");
+        link.style.visibility = 'hidden';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+
+    document.querySelectorAll('input').forEach(i => i.addEventListener('input', updateExplorer));
+</script>
+</body>
+</html>
