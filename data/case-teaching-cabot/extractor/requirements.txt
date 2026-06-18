@@ -1,0 +1,5 @@
+django>=4.2
+ocrmypdf>=16
+PyMuPDF>=1.24
+symspellpy>=6.7
+markitdown[pdf]>=0.1
