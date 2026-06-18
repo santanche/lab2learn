@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PDF Scribe — OCR Converter</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&family=JetBrains+Mono:wght@400;500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --c-bg:            #f5f2ec;
+    --c-surface:       #fffef9;
+    --c-border:        rgba(60,50,30,0.12);
+    --c-border-strong: rgba(60,50,30,0.22);
+    --c-text:          #1a1610;
+    --c-muted:         #6b6050;
+    --c-accent:        #7a3e1a;
+    --c-accent-light:  #f0e8de;
+    --c-ok:            #2e6b3a;
+    --c-ok-bg:         #e8f5eb;
+    --c-err:           #8b1a1a;
+    --c-err-bg:        #fdecea;
+    --font-ui:         'Outfit', sans-serif;
+    --font-doc:        'Lora', serif;
+    --font-mono:       'JetBrains Mono', monospace;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --c-bg:            #1a1810;
+      --c-surface:       #211f17;
+      --c-border:        rgba(200,180,140,0.12);
+      --c-border-strong: rgba(200,180,140,0.22);
+      --c-text:          #ede8dc;
+      --c-muted:         #9a8e78;
+      --c-accent:        #d08050;
+      --c-accent-light:  #2a1e14;
+      --c-ok:            #68c07a;
+      --c-ok-bg:         #132018;
+      --c-err:           #e07070;
+      --c-err-bg:        #201010;
+    }
+  }
+
+  html, body { height: 100%; font-family: var(--font-ui); background: var(--c-bg); color: var(--c-text); overflow: hidden; }
+
+  /* ── Layout ── */
+  #app {
+    display: grid;
+    grid-template-columns: 220px 1fr 270px;
+    grid-template-rows: 52px 1fr;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+  /* ── Top bar ── */
+  #topbar {
+    grid-column: 1 / -1;
+    background: var(--c-surface);
+    border-bottom: 0.5px solid var(--c-border-strong);
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 0 20px;
+  }
+  #topbar-logo {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--c-accent);
+    letter-spacing: 0.03em;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    flex-shrink: 0;
+  }
+  #topbar-logo i { font-size: 18px; }
+  #topbar-filename {
+    font-size: 12.5px;
+    color: var(--c-muted);
+    font-family: var(--font-mono);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 300px;
+  }
+  .topbar-spacer { flex: 1; }
+  .topbar-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    border: none;
+    border-radius: 6px;
+    font-size: 13px;
+    font-family: var(--font-ui);
+    font-weight: 500;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: opacity 0.15s;
+  }
+  .topbar-btn:hover { opacity: 0.82; }
+  .btn-primary { background: var(--c-accent); color: #fff; }
+  .btn-ghost   { background: var(--c-accent-light); color: var(--c-accent); }
+  .hidden { display: none !important; }
+
+  /* ── Left panel ── */
+  #nav-left {
+    background: var(--c-surface);
+    border-right: 0.5px solid var(--c-border);
+    overflow-y: auto;
+    padding: 14px 0 20px;
+  }
+  #nav-left h2 {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--c-muted);
+    padding: 0 16px 10px;
+  }
+
+  /* Step list (converting state) */
+  .step-list { padding: 4px 0; }
+  .step-item {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    padding: 7px 16px;
+    font-size: 12.5px;
+    color: var(--c-muted);
+    line-height: 1.3;
+  }
+  .step-item.active { color: var(--c-text); font-weight: 500; }
+  .step-item.done   { color: var(--c-ok); }
+  .step-icon { font-size: 15px; flex-shrink: 0; }
+  .step-item.pending .step-icon { color: var(--c-border-strong); }
+  .step-item.active  .step-icon { color: var(--c-accent); }
+  .step-item.done    .step-icon { color: var(--c-ok); }
+
+  /* Page list (done state) */
+  .page-item {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: none;
+    border: none;
+    border-left: 2px solid transparent;
+    font-family: var(--font-ui);
+    font-size: 13px;
+    color: var(--c-text);
+    padding: 5px 14px;
+    cursor: pointer;
+    transition: background 0.1s, color 0.1s, border-color 0.1s;
+  }
+  .page-item:hover  { background: var(--c-accent-light); color: var(--c-accent); border-left-color: var(--c-accent); }
+  .page-item.active { background: var(--c-accent-light); color: var(--c-accent); border-left-color: var(--c-accent); font-weight: 500; }
+  .page-num-chip {
+    display: inline-block;
+    font-family: var(--font-mono);
+    font-size: 10px;
+    background: var(--c-border);
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-right: 5px;
+    opacity: 0.7;
+  }
+
+  /* ── Center document area ── */
+  #doc-area {
+    overflow-y: auto;
+    background: var(--c-bg);
+    position: relative;
+  }
+  #doc-area.drag-over { outline: 3px dashed var(--c-accent); outline-offset: -6px; }
+
+  /* Upload zone (idle) */
+  #upload-zone {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 14px;
+    cursor: pointer;
+  }
+  #upload-zone input[type=file] { display: none; }
+  .upload-icon { font-size: 58px; color: var(--c-border-strong); transition: color 0.2s; }
+  #upload-zone:hover .upload-icon,
+  #doc-area.drag-over .upload-icon { color: var(--c-accent); }
+  .upload-title { font-size: 16px; color: var(--c-muted); font-weight: 400; }
+  .upload-hint  { font-size: 12px; color: var(--c-muted); opacity: 0.6; font-family: var(--font-mono); }
+  .upload-pick-btn {
+    padding: 8px 20px;
+    background: var(--c-accent);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-family: var(--font-ui);
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    transition: opacity 0.15s;
+    pointer-events: auto;
+  }
+  .upload-pick-btn:hover { opacity: 0.82; }
+
+  /* Progress (converting) */
+  #progress-zone {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+  }
+  .progress-spinner {
+    width: 44px; height: 44px;
+    border: 3px solid var(--c-border-strong);
+    border-top-color: var(--c-accent);
+    border-radius: 50%;
+    animation: spin 0.9s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .progress-step  { font-size: 14px; color: var(--c-text); font-weight: 400; max-width: 340px; text-align: center; }
+  .progress-timer { font-size: 12px; color: var(--c-muted); font-family: var(--font-mono); }
+  .progress-hint  { font-size: 12px; color: var(--c-muted); opacity: 0.65; }
+
+  /* Error zone */
+  #error-zone {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+  }
+  .error-icon  { font-size: 52px; color: var(--c-err); }
+  .error-msg   { font-size: 14px; color: var(--c-err); max-width: 380px; text-align: center; }
+  .error-retry {
+    padding: 7px 18px;
+    background: var(--c-err-bg);
+    color: var(--c-err);
+    border: 1px solid var(--c-err);
+    border-radius: 6px;
+    font-family: var(--font-ui);
+    font-size: 13px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+  .error-retry:hover { opacity: 0.78; }
+
+  /* Document content */
+  #doc-content {
+    padding: 44px 52px;
+    max-width: 720px;
+    margin: 0 auto;
+    font-family: var(--font-doc);
+    font-size: 17px;
+    line-height: 1.82;
+    color: var(--c-text);
+  }
+
+  .doc-page { margin-bottom: 2em; }
+  .page-marker {
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    color: var(--c-muted);
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    opacity: 0.55;
+    margin-bottom: 1.2em;
+    padding-bottom: 0.5em;
+    border-bottom: 0.5px solid var(--c-border);
+    scroll-margin-top: 80px;
+  }
+  .doc-page p { margin: 0.7em 0; }
+
+  /* ── Right panel ── */
+  #nav-right {
+    background: var(--c-surface);
+    border-left: 0.5px solid var(--c-border);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  /* Tabs */
+  #right-tabs {
+    display: flex;
+    border-bottom: 0.5px solid var(--c-border);
+    flex-shrink: 0;
+  }
+  .tab-btn {
+    flex: 1;
+    padding: 11px 4px;
+    border: none;
+    background: none;
+    font-family: var(--font-ui);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: var(--c-muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: color 0.15s, border-color 0.15s;
+  }
+  .tab-btn:hover  { color: var(--c-text); }
+  .tab-btn.active { color: var(--c-accent); border-bottom-color: var(--c-accent); }
+  .tab-panel        { display: none; flex: 1; overflow-y: auto; padding: 10px 0 20px; }
+  .tab-panel.active { display: block; }
+
+  /* Stats rows */
+  .stat-group { padding: 10px 14px 4px; }
+  .stat-group-label {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--c-muted);
+    padding-bottom: 6px;
+  }
+  .stat-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 5px 0;
+    font-size: 13px;
+    border-bottom: 0.5px solid var(--c-border);
+  }
+  .stat-row:last-child { border-bottom: none; }
+  .stat-label { color: var(--c-muted); }
+  .stat-value { font-family: var(--font-mono); font-size: 12.5px; color: var(--c-text); }
+  .stat-value.ok  { color: var(--c-ok); }
+  .stat-value.na  { color: var(--c-muted); opacity: 0.6; font-style: italic; }
+
+  /* Pipeline steps */
+  .pipeline-step {
+    display: flex;
+    align-items: flex-start;
+    gap: 9px;
+    padding: 8px 14px;
+    border-bottom: 0.5px solid var(--c-border);
+    font-size: 12.5px;
+    line-height: 1.4;
+  }
+  .pipeline-step:last-child { border-bottom: none; }
+  .pipeline-step i { font-size: 15px; color: var(--c-accent); flex-shrink: 0; margin-top: 1px; }
+  .pipeline-step-body { flex: 1; }
+  .pipeline-step-title { font-weight: 500; color: var(--c-text); }
+  .pipeline-step-desc  { font-size: 11.5px; color: var(--c-muted); margin-top: 2px; }
+
+  /* Idle right panel */
+  .how-it-works { padding: 14px; }
+  .how-it-works h3 { font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--c-muted); margin-bottom: 12px; }
+  .how-step {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 14px;
+    font-size: 13px;
+    line-height: 1.4;
+  }
+  .how-step-num {
+    width: 20px; height: 20px;
+    background: var(--c-accent-light);
+    color: var(--c-accent);
+    border-radius: 50%;
+    font-size: 11px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .how-step-text { color: var(--c-muted); }
+  .how-step-text strong { color: var(--c-text); display: block; font-weight: 500; margin-bottom: 1px; }
+
+  /* Download area */
+  .dl-area { padding: 14px; }
+  .dl-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 10px;
+    background: var(--c-accent);
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    font-family: var(--font-ui);
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: opacity 0.15s;
+  }
+  .dl-btn:hover { opacity: 0.82; }
+  .dl-note { font-size: 11.5px; color: var(--c-muted); line-height: 1.5; }
+
+  ::-webkit-scrollbar { width: 5px; height: 5px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--c-border-strong); border-radius: 3px; }
+</style>
+</head>
+<body>
+<div id="app">
+
+  <!-- Top bar -->
+  <header id="topbar">
+    <div id="topbar-logo">
+      <i class="ti ti-scroll" aria-hidden="true"></i>
+      PDF Scribe
+    </div>
+    <span id="topbar-filename" class="hidden"></span>
+    <div class="topbar-spacer"></div>
+    <button id="btn-new" class="topbar-btn btn-ghost hidden" onclick="resetToIdle()">
+      <i class="ti ti-plus"></i> New file
+    </button>
+    <button id="btn-download" class="topbar-btn btn-primary hidden" onclick="downloadText()">
+      <i class="ti ti-download"></i> Download .txt
+    </button>
+  </header>
+
+  <!-- Left panel -->
+  <nav id="nav-left" aria-label="Navigation">
+    <h2 id="nav-left-title">Contents</h2>
+    <div id="nav-left-body">
+      <!-- idle: empty; converting: steps; done: page list -->
+      <div id="step-list" class="step-list hidden">
+        <div class="step-item pending" id="step-upload">
+          <i class="ti ti-cloud-upload step-icon"></i><span>Upload PDF</span>
+        </div>
+        <div class="step-item pending" id="step-ocr">
+          <i class="ti ti-eye step-icon"></i><span>Run OCR</span>
+        </div>
+        <div class="step-item pending" id="step-extract">
+          <i class="ti ti-file-text step-icon"></i><span>Extract text</span>
+        </div>
+        <div class="step-item pending" id="step-postprocess">
+          <i class="ti ti-wand step-icon"></i><span>Post-process</span>
+        </div>
+      </div>
+      <div id="page-list"></div>
+    </div>
+  </nav>
+
+  <!-- Center -->
+  <main id="doc-area" aria-label="Document">
+
+    <!-- Idle: upload zone -->
+    <div id="upload-zone">
+      <input type="file" id="file-input" accept=".pdf,application/pdf">
+      <i class="ti ti-file-upload upload-icon"></i>
+      <p class="upload-title">Drop a PDF here</p>
+      <p class="upload-hint">or click to select from disk</p>
+      <button class="upload-pick-btn" onclick="document.getElementById('file-input').click()">
+        <i class="ti ti-upload"></i> Select PDF
+      </button>
+    </div>
+
+    <!-- Converting: progress -->
+    <div id="progress-zone" class="hidden">
+      <div class="progress-spinner"></div>
+      <p class="progress-step" id="progress-msg">Starting…</p>
+      <p class="progress-timer" id="progress-timer">0s</p>
+      <p class="progress-hint">OCR on old scans can take 1–5 minutes</p>
+    </div>
+
+    <!-- Error -->
+    <div id="error-zone" class="hidden">
+      <i class="ti ti-alert-circle error-icon"></i>
+      <p class="error-msg" id="error-msg">An error occurred.</p>
+      <button class="error-retry" onclick="resetToIdle()">Try again</button>
+    </div>
+
+    <!-- Document content (done) -->
+    <div id="doc-content" class="hidden"></div>
+
+  </main>
+
+  <!-- Right panel -->
+  <aside id="nav-right" aria-label="Details">
+
+    <!-- Idle: how it works -->
+    <div id="right-idle">
+      <div class="how-it-works">
+        <h3>How it works</h3>
+        <div class="how-step">
+          <div class="how-step-num">1</div>
+          <div class="how-step-text"><strong>OCR</strong>OCRmyPDF + Tesseract adds a hidden text layer to the scanned pages, correcting skew and rotation.</div>
+        </div>
+        <div class="how-step">
+          <div class="how-step-num">2</div>
+          <div class="how-step-text"><strong>Extract</strong>PyMuPDF reads the text layer and outputs one block per page.</div>
+        </div>
+        <div class="how-step">
+          <div class="how-step-num">3</div>
+          <div class="how-step-text"><strong>Post-process</strong>Hyphenated line-breaks are joined, noise lines removed, whitespace normalised, and optionally spell-corrected.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Done: tabs -->
+    <div id="right-done" class="hidden" style="display:flex;flex-direction:column;height:100%;overflow:hidden;">
+      <div id="right-tabs" role="tablist">
+        <button class="tab-btn active" role="tab" id="tab-stats"    onclick="switchTab('stats')">Stats</button>
+        <button class="tab-btn"        role="tab" id="tab-pipeline" onclick="switchTab('pipeline')">Pipeline</button>
+        <button class="tab-btn"        role="tab" id="tab-export"   onclick="switchTab('export')">Export</button>
+      </div>
+      <div class="tab-panel active" role="tabpanel" id="panel-stats"></div>
+      <div class="tab-panel"        role="tabpanel" id="panel-pipeline"></div>
+      <div class="tab-panel"        role="tabpanel" id="panel-export"></div>
+    </div>
+
+  </aside>
+
+</div>
+
+<script>
+/* ================================================================
+   STATE
+   ================================================================ */
+let currentJobId   = null;
+let pollInterval   = null;
+let timerInterval  = null;
+let convStartTime  = null;
+let currentText    = '';
+let currentPages   = [];
+let scrollListener = null;
+
+const STEPS = {
+  upload:      'step-upload',
+  ocr:         'step-ocr',
+  extract:     'step-extract',
+  postprocess: 'step-postprocess',
+};
+
+/* ================================================================
+   DRAG & DROP + FILE INPUT
+   ================================================================ */
+document.getElementById('file-input').addEventListener('change', function(e) {
+  const f = e.target.files[0];
+  if (f) handleFile(f);
+  e.target.value = '';
+});
+
+const docArea = document.getElementById('doc-area');
+
+docArea.addEventListener('dragover', function(e) {
+  e.preventDefault();
+  e.dataTransfer.dropEffect = 'copy';
+  docArea.classList.add('drag-over');
+});
+docArea.addEventListener('dragleave', function(e) {
+  if (!docArea.contains(e.relatedTarget)) docArea.classList.remove('drag-over');
+});
+docArea.addEventListener('drop', function(e) {
+  e.preventDefault();
+  docArea.classList.remove('drag-over');
+  const f = e.dataTransfer.files[0];
+  if (f) handleFile(f);
+});
+
+/* Allow clicking the idle upload zone to open file picker */
+document.getElementById('upload-zone').addEventListener('click', function(e) {
+  if (e.target.closest('button')) return;
+  document.getElementById('file-input').click();
+});
+
+/* ================================================================
+   CONVERSION FLOW
+   ================================================================ */
+function handleFile(file) {
+  if (!file.name.toLowerCase().endsWith('.pdf') && file.type !== 'application/pdf') {
+    showError('Please select a PDF file.');
+    return;
+  }
+
+  resetPolling();
+  setState('converting');
+  setFilename(file.name);
+  setStepActive('upload');
+
+  const formData = new FormData();
+  formData.append('pdf', file);
+
+  convStartTime = Date.now();
+  startTimer();
+
+  fetch('/upload/', { method: 'POST', body: formData })
+    .then(r => r.json())
+    .then(data => {
+      if (data.error) { showError(data.error); return; }
+      setStepDone('upload');
+      setStepActive('ocr');
+      currentJobId = data.job_id;
+      startPolling();
+    })
+    .catch(err => showError(err.message));
+}
+
+function startPolling() {
+  pollInterval = setInterval(pollStatus, 2500);
+}
+
+function resetPolling() {
+  if (pollInterval) { clearInterval(pollInterval); pollInterval = null; }
+  if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
+}
+
+function pollStatus() {
+  if (!currentJobId) return;
+  fetch('/status/' + currentJobId + '/')
+    .then(r => r.json())
+    .then(data => {
+      updateProgressFromStatus(data);
+      if (data.status === 'done') {
+        resetPolling();
+        loadResult();
+      } else if (data.status === 'error') {
+        resetPolling();
+        showError(data.error || 'Unknown error during conversion.');
+      }
+    })
+    .catch(() => {});
+}
+
+function updateProgressFromStatus(data) {
+  const msg = data.progress || '';
+  document.getElementById('progress-msg').textContent = msg;
+
+  const lower = msg.toLowerCase();
+  if (lower.includes('ocr'))         { setStepActive('ocr'); }
+  if (lower.includes('extract'))     { setStepDone('ocr'); setStepActive('extract'); }
+  if (lower.includes('post'))        { setStepDone('extract'); setStepActive('postprocess'); }
+  if (lower.includes('done'))        { setStepDone('postprocess'); }
+}
+
+function loadResult() {
+  fetch('/result/' + currentJobId + '/')
+    .then(r => r.json())
+    .then(data => {
+      currentText = data.text;
+      renderDocument(data.text, data.filename, data.stats);
+      setState('done');
+      buildRightPanel(data.filename, data.stats);
+    })
+    .catch(err => showError(err.message));
+}
+
+/* ================================================================
+   DOCUMENT RENDERING
+   ================================================================ */
+function renderDocument(text, filename, stats) {
+  const lines = text.split('\n');
+  currentPages = [];
+  let current = null;
+
+  for (const line of lines) {
+    const m = line.match(/^---\s*PAGE\s+(\d+)\s*---\s*$/);
+    if (m) {
+      if (current) currentPages.push(current);
+      current = { num: parseInt(m[1], 10), lines: [] };
+    } else if (current) {
+      current.lines.push(line);
+    }
+  }
+  if (current) currentPages.push(current);
+
+  let html = '';
+  for (const page of currentPages) {
+    const body = page.lines.join('\n').trim();
+    if (!body) continue;
+    html += '<section class="doc-page" id="page-' + page.num + '">'
+          + '<div class="page-marker">Page ' + page.num + '</div>';
+    const paras = body.split(/\n\n+/);
+    for (const para of paras) {
+      const t = para.trim();
+      if (t) html += '<p>' + escHtml(t).replace(/\n/g, ' ') + '</p>';
+    }
+    html += '</section>';
+  }
+
+  const docContent = document.getElementById('doc-content');
+  docContent.innerHTML = html || '<p style="color:var(--c-muted);font-style:italic">No text extracted.</p>';
+
+  buildPageList(currentPages);
+}
+
+/* ================================================================
+   LEFT PANEL — PAGE LIST
+   ================================================================ */
+function buildPageList(pages) {
+  const list = document.getElementById('page-list');
+  list.innerHTML = pages
+    .filter(p => p.lines.join('').trim())
+    .map(p =>
+      '<button class="page-item" id="pnav-' + p.num + '" onclick="jumpToPage(' + p.num + ')">'
+      + '<span class="page-num-chip">' + p.num + '</span>'
+      + firstWords(p.lines.join(' ').trim(), 5)
+      + '</button>'
+    ).join('');
+
+  // Intersection observer to track active page
+  const da = document.getElementById('doc-area');
+  if (scrollListener) da.removeEventListener('scroll', scrollListener);
+  scrollListener = function() { updateActivePage(); };
+  da.addEventListener('scroll', scrollListener, { passive: true });
+}
+
+function firstWords(str, n) {
+  return escHtml(str.split(/\s+/).slice(0, n).join(' ')) + '…';
+}
+
+function updateActivePage() {
+  const da = document.getElementById('doc-area');
+  const scrollTop = da.scrollTop + 90;
+  let activeNum = null;
+  for (const page of currentPages) {
+    const el = document.getElementById('page-' + page.num);
+    if (el && el.offsetTop <= scrollTop) activeNum = page.num;
+  }
+  document.querySelectorAll('.page-item').forEach(b => {
+    const num = parseInt(b.id.replace('pnav-', ''), 10);
+    b.classList.toggle('active', num === activeNum);
+  });
+}
+
+function jumpToPage(num) {
+  const el = document.getElementById('page-' + num);
+  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+/* ================================================================
+   RIGHT PANEL
+   ================================================================ */
+function buildRightPanel(filename, stats) {
+  buildStatsPanel(filename, stats);
+  buildPipelinePanel(stats);
+  buildExportPanel();
+}
+
+function buildStatsPanel(filename, stats) {
+  const elapsed = convStartTime ? ((Date.now() - convStartTime) / 1000).toFixed(1) + 's' : '—';
+  document.getElementById('panel-stats').innerHTML =
+    '<div class="stat-group">'
+    + '<div class="stat-group-label">Document</div>'
+    + statRow('File', filename)
+    + statRow('Pages', stats.pages || '—')
+    + statRow('Words (approx.)', (stats.words || 0).toLocaleString())
+    + statRow('Conversion time', elapsed)
+    + '</div>'
+    + '<div class="stat-group">'
+    + '<div class="stat-group-label">Post-processing</div>'
+    + statRow('Hyphen joins', stats.hyphen_joins || 0)
+    + statRow('Noise lines removed', stats.noise_lines_removed || 0)
+    + statRow('Spell corrections',
+        stats.spellcheck_available
+          ? (stats.spell_corrections || 0)
+          : '<span class="na">symspellpy not installed</span>')
+    + '</div>';
+}
+
+function statRow(label, value) {
+  return '<div class="stat-row"><span class="stat-label">' + escHtml(String(label))
+       + '</span><span class="stat-value">' + String(value) + '</span></div>';
+}
+
+function buildPipelinePanel(stats) {
+  const steps = [
+    { icon: 'ti-eye',       title: 'OCRmyPDF + Tesseract',    desc: 'Deskew, rotate, force-OCR every page with language model eng' },
+    { icon: 'ti-file-text', title: 'PyMuPDF extraction',       desc: 'Read the embedded text layer page-by-page' },
+    { icon: 'ti-link',      title: 'Hyphen join',              desc: (stats.hyphen_joins || 0) + ' line-break hyphens resolved' },
+    { icon: 'ti-filter',    title: 'Noise removal',            desc: (stats.noise_lines_removed || 0) + ' short low-alpha lines removed' },
+    { icon: 'ti-space',     title: 'Whitespace normalisation', desc: 'Collapsed multi-space runs and excess blank lines' },
+    { icon: 'ti-wand',      title: 'Spell correction',        desc: stats.spellcheck_available
+        ? (stats.spell_corrections || 0) + ' corrections (edit distance 1)'
+        : 'Skipped — install symspellpy to enable' },
+  ];
+  document.getElementById('panel-pipeline').innerHTML = steps.map(s =>
+    '<div class="pipeline-step">'
+    + '<i class="ti ' + s.icon + '"></i>'
+    + '<div class="pipeline-step-body">'
+    + '<div class="pipeline-step-title">' + escHtml(s.title) + '</div>'
+    + '<div class="pipeline-step-desc">'  + escHtml(s.desc)  + '</div>'
+    + '</div></div>'
+  ).join('');
+}
+
+function buildExportPanel() {
+  document.getElementById('panel-export').innerHTML =
+    '<div class="dl-area">'
+    + '<button class="dl-btn" onclick="downloadText()"><i class="ti ti-download"></i> Download as .txt</button>'
+    + '<p class="dl-note">The plain-text file includes page markers (<code>--- PAGE N ---</code>) for easy navigation and chunking in RAG pipelines.</p>'
+    + '</div>';
+}
+
+/* ================================================================
+   UI STATE MACHINE
+   ================================================================ */
+function setState(state) {
+  const show = id => document.getElementById(id).classList.remove('hidden');
+  const hide = id => document.getElementById(id).classList.add('hidden');
+
+  // Center zones
+  hide('upload-zone'); hide('progress-zone'); hide('error-zone'); hide('doc-content');
+  // Left panel
+  hide('step-list');
+  // Right panel
+  hide('right-idle');
+  const rightDone = document.getElementById('right-done');
+  rightDone.style.display = 'none';
+  // Top bar buttons
+  hide('btn-new'); hide('btn-download');
+
+  document.getElementById('nav-left-title').textContent = 'Contents';
+
+  if (state === 'idle') {
+    show('upload-zone');
+    show('right-idle');
+    document.getElementById('page-list').innerHTML = '';
+  } else if (state === 'converting') {
+    show('progress-zone');
+    show('step-list');
+    document.getElementById('nav-left-title').textContent = 'Steps';
+    document.getElementById('right-idle').style.display = 'none';
+    document.getElementById('right-idle').classList.remove('hidden');
+    show('right-idle');
+  } else if (state === 'done') {
+    show('doc-content');
+    document.getElementById('nav-left-title').textContent = 'Pages';
+    rightDone.style.display = 'flex';
+    show('btn-new');
+    show('btn-download');
+    if (timerInterval) { clearInterval(timerInterval); timerInterval = null; }
+  } else if (state === 'error') {
+    show('error-zone');
+    show('right-idle');
+  }
+}
+
+function setFilename(name) {
+  const el = document.getElementById('topbar-filename');
+  el.textContent = name;
+  el.classList.remove('hidden');
+}
+
+function showError(msg) {
+  resetPolling();
+  document.getElementById('error-msg').textContent = msg;
+  setState('error');
+}
+
+function resetToIdle() {
+  resetPolling();
+  currentJobId  = null;
+  currentText   = '';
+  currentPages  = [];
+  convStartTime = null;
+  document.getElementById('topbar-filename').classList.add('hidden');
+  document.getElementById('doc-content').innerHTML = '';
+  document.getElementById('page-list').innerHTML = '';
+  resetSteps();
+  setState('idle');
+}
+
+/* ================================================================
+   STEP INDICATORS
+   ================================================================ */
+function resetSteps() {
+  Object.values(STEPS).forEach(id => {
+    const el = document.getElementById(id);
+    el.className = 'step-item pending';
+    const icon = el.querySelector('.step-icon');
+    if (icon) icon.className = 'ti ti-circle step-icon';
+  });
+  // Restore original icons
+  const icons = {
+    'step-upload':      'ti-cloud-upload',
+    'step-ocr':         'ti-eye',
+    'step-extract':     'ti-file-text',
+    'step-postprocess': 'ti-wand',
+  };
+  Object.entries(icons).forEach(([id, cls]) => {
+    const el = document.getElementById(id);
+    if (el) {
+      const icon = el.querySelector('i');
+      if (icon) icon.className = 'ti ' + cls + ' step-icon';
+    }
+  });
+}
+
+function setStepActive(key) {
+  const el = document.getElementById(STEPS[key]);
+  if (el) el.className = 'step-item active';
+}
+
+function setStepDone(key) {
+  const el = document.getElementById(STEPS[key]);
+  if (el) {
+    el.className = 'step-item done';
+    const icon = el.querySelector('i');
+    if (icon) icon.className = 'ti ti-check step-icon';
+  }
+}
+
+/* ================================================================
+   TIMER
+   ================================================================ */
+function startTimer() {
+  const el = document.getElementById('progress-timer');
+  timerInterval = setInterval(function() {
+    if (!convStartTime) return;
+    const s = Math.round((Date.now() - convStartTime) / 1000);
+    el.textContent = s >= 60
+      ? Math.floor(s / 60) + 'm ' + (s % 60) + 's'
+      : s + 's';
+  }, 1000);
+}
+
+/* ================================================================
+   TABS
+   ================================================================ */
+function switchTab(name) {
+  ['stats', 'pipeline', 'export'].forEach(t => {
+    document.getElementById('tab-'   + t).classList.toggle('active', t === name);
+    document.getElementById('panel-' + t).classList.toggle('active', t === name);
+  });
+}
+
+/* ================================================================
+   DOWNLOAD
+   ================================================================ */
+function downloadText() {
+  if (!currentText) return;
+  const blob = new Blob([currentText], { type: 'text/plain;charset=utf-8' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  const name = (document.getElementById('topbar-filename').textContent || 'document')
+                 .replace(/\.pdf$/i, '') + '.txt';
+  a.href     = url;
+  a.download = name;
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+/* ================================================================
+   UTILITY
+   ================================================================ */
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+</script>
+</body>
+</html>
