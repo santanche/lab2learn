@@ -1,0 +1,19 @@
+{
+  "filename": "case_teaching_in_medicine_1906.pdf",
+  "format": "markdown",
+  "converted_at": "2026-06-19T00:56:38.742Z",
+  "pipeline": {
+    "format": "markdown",
+    "ocr": "ocrmypdf",
+    "extraction": "pymupdf_heuristic"
+  },
+  "stats": {
+    "hyphen_joins": 427,
+    "noise_lines_removed": 161,
+    "spell_corrections": 561,
+    "spellcheck_available": true,
+    "headings_detected": 80,
+    "pages": 222,
+    "words": 47432
+  }
+}

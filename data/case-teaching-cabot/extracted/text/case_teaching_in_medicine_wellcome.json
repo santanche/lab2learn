@@ -1,0 +1,18 @@
+{
+  "filename": "case_teaching_in_medicine_wellcome.pdf",
+  "format": "text",
+  "converted_at": "2026-06-19T01:07:16.975Z",
+  "pipeline": {
+    "format": "text",
+    "ocr": "ocrmypdf",
+    "extraction": "pymupdf"
+  },
+  "stats": {
+    "hyphen_joins": 387,
+    "noise_lines_removed": 74,
+    "spell_corrections": 693,
+    "spellcheck_available": true,
+    "pages": 233,
+    "words": 45365
+  }
+}
