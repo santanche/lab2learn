@@ -1,0 +1,21 @@
+services:
+  lab2learn-dbms:
+    image: postgres
+    container_name: lab2learn-dbms
+    volumes:
+      - lab2learn-db:/var/lib/postgresql/data
+    restart: on-failure:5
+    shm_size: 128mb
+    environment:
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+
+volumes:
+  lab2learn-db:
+    driver: "local"
+    driver_opts:
+      type: "none"
+      device: "/home/user/data/pgsql/lab2learn-db"
+      o: "bind" 
+
